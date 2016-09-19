@@ -68,6 +68,12 @@ tagItem_ChestN01=天神寶藏
 
 tagItem_ChestStart=陣亡戰士
 
+#Arenas
+tagSurvivalArena_01=Crucible of the Dead
+tagSurvivalArena_02=Crucible of the Deeps
+tagSurvivalArena_03=Crucible of the Sands
+tagSurvivalArena_04=Crucible of the Grove
+
 #NPCs
 tagNPC_Event_01=洛卡爾，煉獄之主
 tagNPC_DefenseSite_01=防禦塔建造處
