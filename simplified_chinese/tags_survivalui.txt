@@ -1,0 +1,105 @@
+﻿#Survival Mode Tags 生存模式标签
+
+#Main
+tagSurvivalMode_Desc=进入炼狱，这地方是以力量和勇气面对无情怪物浪潮的试验场。幸存者将获得奖励与丰富的宝藏。
+tagSurvivalDeath=你已阵亡，但仍然可以通过这个波次观战你的盟友。如果他们成功，你将在此波结束后复活。
+tagSurvivalLastDeath=你方有人阵亡。
+
+#Achievements
+achGroupSurvival=炼狱
+
+achS001Title=炼狱之勇士
+achS001Desc=完成炼狱于修习者难度。
+
+achS002Title=炼狱之征服者
+achS002Desc=完成炼狱于挑战者难度。
+
+achS003Title=炼狱之王者
+achS003Desc=完成炼狱于角斗士难度。
+
+achS004Title=超过 90 万！
+achS004Desc=拿到至少 90 万炼狱积分。
+
+achS005Title=攀登阶梯
+achS005Desc=拿到至少 500 万炼狱积分。
+
+achS006Title=至高得分
+achS006Desc=拿到至少 1000 万炼狱积分。
+
+achS007Title=势不可挡的炼狱之王
+achS007Desc=完成炼狱于角斗士难度的第 6 个重生点存活。
+
+achS008Title=防御态势
+achS008Desc=建造 1 个防御塔。
+
+achS009Title=防御超载
+achS009Desc=建造 50 个防御塔。（累计）
+
+achS010Title=天界接触
+achS010Desc=触发 1 次天界赐福。
+
+achS011Title=天界指引
+achS011Desc=触发 25 次天界赐福。（累计）
+
+achS012Title=天界干预
+achS012Desc=触发全部 4 种天界赐福于单场炼狱。
+
+
+#Mutators
+
+tagNewMutator=新变异触发
+tagNewMutators=新变异触发
+tagMutatorGained={%s0} 已获得 {^r}{%s1} 变异
+tagMutatorPlayers=玩家
+tagMutatorMonsters=怪物
+
+# Survival HUD Rollovers
+
+tagHUDScore01=积分
+tagHUDScore01Info=你在炼狱中获得的分数；基于你通过的波数，击败的敌人，游戏难度和积分倍数。
+
+tagHUDMultiplier01=积分倍数
+tagHUDMultiplier01Info=你 所 获 得 的 分 数 倍 率 是 基 于 你 在 加成时间内通过的波数。如果一次未能在加成时间内通过就会重置。{^N}^s（琉璃注：最多x10）
+
+tagHUDTribute01=贡品
+tagHUDTribute01Info=你 在 炼 狱 中 获 得 的 贡 品 数 量 。贡品可以使你获得各种神明祝福，建造防御塔和回到各种储存点所使用的货币。{^N}^s同一时间你只能拥有 100 贡品。
+
+tagHUDTimer01=加成计时
+tagHUDTimer01Info=如果在这个时间之内击败本波敌人，分数倍率就会提升。
+
+tagHUDWaveTier01=当前波数
+tagHUDWaveTier01Info=你当前正在与之战斗的怪物波数。
+
+
+
+#Tutorials
+tagTutorialTip62Title=炼狱呼唤...
+tagTutorialTip62TextA=你进入了炼狱，神秘人洛卡尔的狡猾的阴谋。这里，你的战斗智慧将会被一些恐怖黎明的敌人所检验。
+tagTutorialTip62TextB=当你准备好开始时和洛卡尔，炼狱之主交谈。
+tagTutorialTip62SubtitleA=洛卡尔的奴仆
+tagTutorialTip62TextC=在炼狱波数间，你可以和洛卡尔的奴仆们交谈并获得一些基础服务，例如：商店、铁匠和洗点。
+tagTutorialTip62SubtitleB=炼狱贡品
+tagTutorialTip62TextD=贡品是在炼狱中获得的。贡品可以使你获得各种神明祝福，建造防御塔和回到各种储存点所使用的货币。
+tagTutorialTip62SubtitleC=永恒法师
+tagTutorialTip62TextE=特洛丽亚为你提供只能在炼狱中使用独特帮助。与她交谈花费珍贵的贡品来换取神明的祝福或是解锁信仰点数。
+
+tagTutorialTip63Title=炼狱防御
+tagTutorialTip63TextA=你已经建立了一个防御塔。这个建筑能帮助你击败洛卡尔的随从。
+tagTutorialTip63TextB=防御塔不会被攻击也不会被摧毁。
+tagTutorialTip63SubtitleA=升级防御塔
+tagTutorialTip63TextC=防御塔可以升级，增强效果甚至解锁新的能力，但是需要消耗贡品和铁币。每种防御塔可以升级两次。
+
+tagTutorialTip64Title=炼狱完成
+tagTutorialTip64TextA=你已经努力走到了终点，要么陷入残酷的阴谋或是英勇的胜利，但这并不是结束。
+tagTutorialTip64TextB=你现在肯已经进入了藏宝阁并收集基于分数而奖励的战利品。
+tagTutorialTip64SubtitleA=重置炼狱
+tagTutorialTip64TextC=若你想再次尝试，你可以和洛卡尔交谈并从头开始。
+tagTutorialTip64TextD=注意这会清空藏宝阁宝箱内的东西并重置你的防御塔。
+tagTutorialTip64SubtitleB=从储存点开始
+tagTutorialTip64TextE=若你通过了 50 波，你将可以选择花费贡品来从最近的储存点开始，使你停止时的第 20 波前，从最近的整数层开始 (例如第 55 波退出会从滴 30 波开始)。
+tagTutorialTip64TextF=每次你重新开始，消耗的贡品都会增加。你可以重新开始3次。
+tagTutorialTip64TextG=注意这会清空藏宝阁宝箱内的东西并重置你的防御塔。
+
+tagQuickTip62={^z}炼狱在召唤...{^-}{^n}{^n}你觉得什么时候可以开始，就与洛卡尔对话，或者先和其他NPC交谈{^n}{^n}点击这里获得更多关于炼狱的信息。
+tagQuickTip63={^z}炼狱防御塔{^-}{^n}{^n}你建造了炼狱的防御塔。这些建筑可以帮助你对付洛卡尔的随从。每一个可以升级两次。
+tagQuickTip64={^z}炼狱完成{^-}{^n}{^n}当完成了炼狱挑战，你可以进入藏宝阁获得你的战利品。你也可以重新开始，或从你解锁的储存点开始。

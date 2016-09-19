@@ -1,0 +1,4259 @@
+#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
+
+tagItemNameOrder={%_s0}{%_s4}{%_s1}{%_s2}{%_s3}
+tagItemNameAndStack={%s0} ({%d1})
+
+#Weapons 武器
+
+tagWeaponSwordA000=刺刀
+tagWeaponSwordA001=罗马短剑
+tagWeaponSwordA002=剃刀
+tagWeaponSwordA003=短剑
+tagWeaponSwordA004=切肉刀
+tagWeaponSwordA005=长剑
+tagWeaponSwordA006=阔剑
+tagWeaponSwordA007=屠刀
+tagWeaponSwordA008=弯刀
+tagWeaponSwordA009=碎肉刀
+tagWeaponSwordA010=锯齿剑
+tagWeaponSwordA011=骨锯
+tagWeaponSwordA012=征服剑
+tagWeaponSwordA013=马刀
+
+tagWeaponSwordB001=^l萨拉查王者剑
+tagWeaponSwordB001Desc="此剑由冥神授予萨拉查，用来表彰他对冥神坚定不移的追随。"
+tagWeaponSwordB002=^l幽光阔剑
+tagWeaponSwordB003=^l幽光长剑
+tagWeaponSwordB004=^l抛光阔剑
+tagWeaponSwordB005=^l抛光长剑
+tagWeaponSwordB006=^l抛光征服剑
+tagWeaponSwordB007=^l马卡达尔寒光剑
+tagWeaponSwordB008=^l蝎尾狮长剑
+tagWeaponSwordB009=骸骨刻刀
+tagWeaponSwordB010=^l骸骨尖刀
+tagWeaponSwordB011=革翅目尖刀
+tagWeaponSwordB012=^l革翅目切刀
+tagWeaponSwordB013=^l血领主剑
+tagWeaponSwordB013Desc="戴罗尼斯的兵刃，以冥神的血液加持过的武器。"
+
+tagWeaponSwordC001=闪电剑
+tagWeaponSwordC002=狂犬剑
+tagWeaponSwordC002Desc="此剑的剑刃散发着腐化与堕落。"
+tagWeaponSwordC003=预兆砍刀
+tagWeaponSwordC004=疯魔剑
+tagWeaponSwordC004Desc="扭曲的剑刃会使接触到它的人全部发疯。"
+tagWeaponSwordC005=血肉切割刀
+tagWeaponSwordC006=鲜血收割者的弯刀
+tagWeaponSwordC007=决斗者的佩剑
+tagWeaponSwordC007Desc="此剑由历代剑术大师精心校准。"
+tagWeaponSwordC008=法官的裁决剑
+tagWeaponSwordC008Desc="当仅仅贿赂政敌已不足以解决问题的时候，马尔茅斯的大法官会采取另一种解决之道。"
+tagWeaponSwordC009=炽焰剑
+tagWeaponSwordC010=窃魂剑
+tagWeaponSwordC011=霜燃冰剑
+tagWeaponSwordC012=刺脊刻刀
+tagWeaponSwordC013=刺客的涂毒剑
+tagWeaponSwordC013Desc="这把剑嵌入了一小瓶能引起麻痹并最终致死的毒液。"
+tagWeaponSwordC014=盲刺客锯齿剑
+tagWeaponSwordC015=风暴探索者的佩剑
+tagWeaponSwordC016=威利的剃刀
+tagWeaponSwordC016Desc="刀刃怎么砍也不会钝。"
+tagWeaponSwordC017=血誓佩刀
+
+tagWeaponSwordD001=绯红狼牙剑
+tagWeaponSwordD001Desc="这把武器的持有者充满了对鲜血永无止境的饥渴。"
+tagWeaponSwordD002=水晶剑
+tagWeaponSwordD002Desc="一把充满着未开发能量的索拉丁水晶剑。"
+tagWeaponSwordD003=恐怖宿命剑
+tagWeaponSwordD004=扭曲心灵弯刀
+tagWeaponSwordD005=贝若纳斯重铸剑
+tagWeaponSwordD005Desc="这把杀死贝若纳斯的神剑曾经损坏，最终得以重铸。"
+tagWeaponSwordD006=血颂弯刀
+tagWeaponSwordD007=日落
+tagWeaponSwordD007Desc="看着这把剑的人都能感受到自己的死期将至。"
+tagWeaponSwordD008=日出
+tagWeaponSwordD008Desc="只要看到这把武器的人内心就会充满希望。"
+tagWeaponSwordD009=死神标记宽刃刀
+tagWeaponSwordD010=风暴之心短剑
+tagWeaponSwordD010Desc="剑柄上蚀刻着字母: D.T."
+tagWeaponSwordD011=掠夺者的弯刀
+tagWeaponSwordD012=疯狂女王的弯刀
+tagWeaponSwordD012Desc="脱离了她育雏的巢穴，被困在城墙下的革翅目虫女王逐渐变得疯狂。"
+tagWeaponSwordD013=毒刃剃刀
+
+tagWeaponSwordF001=军团的雕纹剑
+tagWeaponSwordF002=神选的佩剑
+tagWeaponSwordF003=恶魔的佩剑
+tagWeaponSwordF004=军团的佩剑
+
+tagWeaponBluntA000=木棒
+tagWeaponBluntA001=球头槌
+tagWeaponBluntA002=钉槌
+tagWeaponBluntA003=凸缘钉头槌
+tagWeaponBluntA004=铁头镐
+tagWeaponBluntA005=晨星槌
+tagWeaponBluntA006=战仪杖
+tagWeaponBluntA007=刃槌
+tagWeaponBluntA008=钉头棒
+tagWeaponBluntA009=战锤
+tagWeaponBluntA010=战槌
+
+tagWeaponBluntB000=火炬
+tagWeaponBluntB001=典狱长的裁决
+tagWeaponBluntB001Desc="不知道有多少无辜的人死于这把武器的摆布。"
+tagWeaponBluntB002=^l典狱长的审判
+tagWeaponBluntB003=巨魔捣骨双手槌
+tagWeaponBluntB004=^l巨魔碎骨双手槌
+tagWeaponBluntB005=幽光晨星槌
+tagWeaponBluntB006=^l幽光钉头棒
+tagWeaponBluntB007=^l基利安碎颅槌
+tagWeaponBluntB008=^l斯金纳火炬
+tagWeaponBluntB008Desc="一位绝望之人的最后一线希望……"
+tagWeaponBluntB009=^l专家刃锤
+tagWeaponBluntB010=^l专家晨星槌
+tagWeaponBluntB011=^l专家凸缘钉头槌
+tagWeaponBluntB012=突变臂膀
+tagWeaponBluntB013=^l突变短棒
+
+tagWeaponBluntC001=虚化之灾槌
+tagWeaponBluntC002=混沌无序槌
+tagWeaponBluntC002Desc="这把神圣的节杖在被冥神鲜血擦拭之后，变成了如今这副扭曲的形状。"
+tagWeaponBluntC003=怨恶之触槌
+tagWeaponBluntC003Desc="一把夺去了无数人生命的邪恶武器。"
+tagWeaponBluntC004=帝国卫兵的战锤
+tagWeaponBluntC005=黒木权杖
+tagWeaponBluntC006=无尽愤怒圣槌
+tagWeaponBluntC007=祝福火炬槌
+tagWeaponBluntC007Desc="曼海尔卫士们手中所持的燃烧战锤。"
+tagWeaponBluntC008=碎魂槌
+tagWeaponBluntC009=抗争槌
+tagWeaponBluntC009Desc="人类适应能力的化身。"
+tagWeaponBluntC010=虚化钢铁仲裁槌
+tagWeaponBluntC011=盲刺客之槌
+tagWeaponBluntC012=碎骨锤
+tagWeaponBluntC013=萨娜·辛的黑手槌
+tagWeaponBluntC014=先祖槌
+tagWeaponBluntC015=战争的叱喝锤
+tagWeaponBluntC016=巴托雷姆之锤
+tagWeaponBluntC016Desc="执政官巴托雷姆的圣槌，曾用来向恶徒身上施加神罚。"
+tagWeaponBluntC017=寒铁救世槌
+
+tagWeaponBluntD001=死亡凶兆锤
+tagWeaponBluntD001Desc="死亡到来的预兆。"
+tagWeaponBluntD002=冬幕信标槌
+tagWeaponBluntD003=苦痛钉头槌
+tagWeaponBluntD004=使者炽焰终结槌
+tagWeaponBluntD005=德里格的瘟疫节杖
+tagWeaponBluntD006=破晓者的刺槌
+tagWeaponBluntD007=毒刃之拳
+tagWeaponBluntD008=战裔槌
+
+tagWeaponBluntF001=恶魔的破碎槌
+tagWeaponBluntF002=军团的战锤
+tagWeaponBluntF003=死灵的势力槌
+tagWeaponBluntF004=罗瓦里的刺槌
+tagWeaponBluntF005=恶魔的棍棒
+
+tagWeaponAxeA000=伐木斧
+tagWeaponAxeA001=锯斧
+tagWeaponAxeA002=手斧
+tagWeaponAxeA003=双刃斧
+tagWeaponAxeA004=切肉斧
+tagWeaponAxeA005=刃斧
+tagWeaponAxeA006=战斧
+tagWeaponAxeA007=新月斧
+tagWeaponAxeA008=重斧
+tagWeaponAxeA009=鈎斧
+
+tagWeaponAxeB001=幽光切肉斧
+tagWeaponAxeB002=^l幽光手斧
+tagWeaponAxeB003=^l竞技场主斧
+tagWeaponAxeB004=切骨斧
+tagWeaponAxeB005=^l骨镰
+tagWeaponAxeB006=^l奥尔曼斧
+
+tagWeaponAxeC001=残忍双刃斧
+tagWeaponAxeC002=收割者的锄头
+tagWeaponAxeC002Desc="一件古老的献祭仪式用具，由一位早已死去之人铸造而成。"
+tagWeaponAxeC003=血宴手斧
+tagWeaponAxeC004=鲜血收割者的切肉斧
+tagWeaponAxeC005=风暴利斧
+tagWeaponAxeC006=克里格砍肉斧
+tagWeaponAxeC006Desc="一把凶残者拥有的凶残武器。"
+tagWeaponAxeC007=巫师双刃斧
+tagWeaponAxeC008=饕餮末日斧
+tagWeaponAxeC009=割喉斧
+tagWeaponAxeC010=无形利斧
+tagWeaponAxeC010Desc="斧刃驾驭着虚化之力。"
+tagWeaponAxeC011=锯齿千人斩
+tagWeaponAxeC011Desc="每个锯齿都代表着一条性命。"
+tagWeaponAxeC012=渎尸斧
+tagWeaponAxeC013=乔纳格'理手斧
+tagWeaponAxeC013Desc="一把由各种人类和动物的骨头组成的萨满斧。"
+tagWeaponAxeC014=阿斯特坎双刃斧
+tagWeaponAxeC015=炼狱爪切割斧
+
+tagWeaponAxeD001=伯尔维治屠宰斧
+tagWeaponAxeD001Desc="恐怖黎明之后，凯恩世界的人类崩溃于疯狂与腐化之下的具体体现。"
+tagWeaponAxeD002=月牙斧
+tagWeaponAxeD002Desc="月之崇拜者的神圣武器，它曾被认为毁于神圣净化之中。"
+tagWeaponAxeD003=凶蛮利斧
+tagWeaponAxeD004=裂地斧
+tagWeaponAxeD004Desc="传说一位凡人拿着这把武器，不顾诸神的乞求而劈开了曼海尔山。因此形成了现在的曼海尔双子山。"
+tagWeaponAxeD005=天谴双刃斧
+tagWeaponAxeD006=死神标记斩首斧
+
+tagWeaponAxeF001=罗瓦里的正义斧
+tagWeaponAxeF002=日阳的双刃斧
+tagWeaponAxeF003=死灵的双月斧
+
+tagWeaponGun1hA001=手持短枪
+tagWeaponGun1hA002=狩猎短枪
+tagWeaponGun1hA003=转管手枪
+tagWeaponGun1hA004=手持火炮
+tagWeaponGun1hA005=左轮手枪
+tagWeaponGun1hA006=六发左轮
+tagWeaponGun1hA007=德林杰手枪
+tagWeaponGun1hA008=连发手枪
+tagWeaponGun1hA009=精准左轮手枪
+tagWeaponGun1hA010=齐射短枪
+
+tagWeaponGun1hB001=^l双管手枪
+tagWeaponGun1hB002=^l手持迫击炮
+tagWeaponGun1hB003=^l霰弹手枪
+tagWeaponGun1hB004=血誓手枪
+tagWeaponGun1hB005=^l血誓连发手枪
+tagWeaponGun1hB006=^l弗朗西斯手枪
+
+tagWeaponGun1hC001=利安德·格林手持火炮
+tagWeaponGun1hC001Desc="从黑水强盗冰冷的死尸手中夺来的武器。"
+tagWeaponGun1hC002=辟邪短枪
+tagWeaponGun1hC002Desc="这把武器被灌注了黑魔法，用来战胜那些滥用奥术能量的邪恶之辈。"
+tagWeaponGun1hC003=奥威尔左轮手枪
+tagWeaponGun1hC003Desc="这位老牧师最出名的可不是跟人和平谈判。"
+tagWeaponGun1hC004=掠夺者的愤怒
+tagWeaponGun1hC005=掠夺者的裁决
+tagWeaponGun1hC006=强击手枪
+tagWeaponGun1hC006B=强击手枪
+tagWeaponGun1hC007=3RD左轮手枪
+tagWeaponGun1hC007Desc="这把枪的枪管上只写着一个词：忠诚。"
+tagWeaponGun1hC008=反叛手枪
+tagWeaponGun1hC009=亡命徒的惩戒手枪
+tagWeaponGun1hC009Desc="代表着一种扭曲的正义。"
+tagWeaponGun1hC010=粘液爆弹枪
+tagWeaponGun1hC011=噬魂手枪
+tagWeaponGun1hC012=播疫转管手枪
+tagWeaponGun1hC013=调停者佩枪
+tagWeaponGun1hC014=极寒手枪
+tagWeaponGun1hC015=伯尔维治维和短枪
+tagWeaponGun1hC015Desc="警长哈蒙·格里菲斯可靠的佩枪。"
+tagWeaponGun1hC016=药剂师的佩枪
+tagWeaponGun1hC017=毁誓者的手枪
+tagWeaponGun1hC018=剥尸手枪
+tagWeaponGun1hC019=焦土手枪
+tagWeaponGun1hC020=霜燃手枪
+
+tagWeaponGun1hD001=恶魔短枪
+tagWeaponGun1hD002=浩劫手枪
+tagWeaponGun1hD003=释罪手枪
+tagWeaponGun1hD003Desc="检察官乔斯恩·法莱尔的投弹枪，曾在净化异端女巫中使用。"
+tagWeaponGun1hD004=诛灭手枪
+tagWeaponGun1hD004Desc="铲除，破坏，湮灭。"
+tagWeaponGun1hD005=奥秘火铳
+tagWeaponGun1hD005Desc="严格按照白银之塔的大法师，阿格维克斯大师的标准打造出来的武器。"
+tagWeaponGun1hD006=行刑者的佩枪
+tagWeaponGun1hD007=屠魔者的夺命枪
+tagWeaponGun1hD008=枪械师齐射
+tagWeaponGun1hD009=枪械师交火
+
+tagWeaponGun1hF001=恶魔的惩戒手枪
+tagWeaponGun1hF002=日阳的左轮手枪
+tagWeaponGun1hF003=死灵的左轮手枪
+tagWeaponGun1hF004=军团的手持火炮
+tagWeaponGun1hF005=死灵的六发左轮
+
+tagWeaponGun2hA001=火枪
+tagWeaponGun2hA002=燧发步枪
+tagWeaponGun2hA003=单发步枪
+tagWeaponGun2hA004=大口径火枪
+tagWeaponGun2hA005=转轮步枪
+tagWeaponGun2hA006=连发步枪
+tagWeaponGun2hA007=狙击枪
+tagWeaponGun2hA008=后膛枪
+tagWeaponGun2hA009=转轮火炮
+tagWeaponGun2hA010=霰弹枪
+tagWeaponGun2hA011=战斗霰弹枪
+
+tagWeaponGun2hB001=^l转拴步枪
+tagWeaponGun2hB002=^l前装枪
+tagWeaponGun2hB003=^l榴弹枪
+tagWeaponGun2hB004=畸形步枪
+tagWeaponGun2hB005=^l畸形狙击枪
+
+tagWeaponGun2hC001=猎人长枪
+tagWeaponGun2hC001B=猎人长枪
+tagWeaponGun2hC002=鹰眼步枪
+tagWeaponGun2hC002B=鹰眼步枪
+tagWeaponGun2hC002Desc="一击必杀。"
+tagWeaponGun2hC003=炼狱霰弹枪
+tagWeaponGun2hC004=恶魔的标志长枪
+tagWeaponGun2hC005=夺命意志长枪
+tagWeaponGun2hC005Desc="每一发子弹都注定会找上它真正的目标，不论是谁挡住了它的去路。"
+tagWeaponGun2hC006=血色神枪
+tagWeaponGun2hC006B=血色神枪
+tagWeaponGun2hC007=盐核爆弹枪
+tagWeaponGun2hC007Desc="一支为了消灭虚灵而组装起来的枪。"
+tagWeaponGun2hC008=愤怒使者长枪
+tagWeaponGun2hC009=霹雳长枪
+tagWeaponGun2hC010=神枪手的博尔特步枪
+tagWeaponGun2hC011=硫磺连发枪
+tagWeaponGun2hC012=怒铁连发枪
+tagWeaponGun2hC013=持火者的连发枪
+
+tagWeaponGun2hD001=撒旦大口径火枪
+tagWeaponGun2hD002=巫异时光长枪
+tagWeaponGun2hD002Desc="巫神的追随者用来保卫其圣殿不被教廷的愤怒所摧毁的武器。"
+tagWeaponGun2hD003=夺命狱火转盘枪
+tagWeaponGun2hD003Desc="枪管向前喷涌着来自七大地狱的愤怒。"
+tagWeaponGun2hD004=灵魂虚化转盘枪
+tagWeaponGun2hD004Desc="用它发射出去的每一枪都会产生虚化之力的波动。"
+tagWeaponGun2hD005=断肠步枪
+tagWeaponGun2hD006=奥祖因的播火枪
+tagWeaponGun2hD007=沃尔顿的步枪
+
+tagWeaponGun2hF001=恶魔的双筒长枪
+tagWeaponGun2hF002=收割者的长枪
+
+tagWeaponCrossbow2hA001=十字弩
+tagWeaponCrossbow2hA002=强弩
+tagWeaponCrossbow2hA003=重弩
+tagWeaponCrossbow2hA004=刺蝎弩
+
+tagWeaponCrossbow2hB001=幽光十字弩
+tagWeaponCrossbow2hB002=^l幽光强弩
+tagWeaponCrossbow2hB003=^l伽弗林弩
+
+tagWeaponCrossbow2hC001=雷霆劲弩
+tagWeaponCrossbow2hC001Desc="一支原型武器。不幸的是，发明者在该武器能够被量产之前已死于非命。"
+tagWeaponCrossbow2hC002=致残弩
+tagWeaponCrossbow2hC003=伯尔维治的诅咒弩
+tagWeaponCrossbow2hC003Desc="一支带来厄运的武器，它能给你讲述无数曾经拥有过它的人的故事。"
+tagWeaponCrossbow2hC004=黒木强弩
+tagWeaponCrossbow2hC004Desc="它由来自黒木庄园之外森林的木材所打造。"
+tagWeaponCrossbow2hC005=冰风弩
+tagWeaponCrossbow2hC006=掷桩弩
+tagWeaponCrossbow2hC007=蛛纲的缠绕弩
+tagWeaponCrossbow2hC007B=蛛纲的缠绕弩
+tagWeaponCrossbow2hC008=拜斯迈厄运乌鸦弩
+tagWeaponCrossbow2hC008Desc="拜斯迈的虔诚追随者所使用的标志性武器。"
+tagWeaponCrossbow2hC009=尤达'伽克斯弩
+tagWeaponCrossbow2hC009Desc="山地野人的武器，工艺粗糙，却好用得令人吃惊。"
+tagWeaponCrossbow2hC010=电花劲弩
+tagWeaponCrossbow2hC011=纳尔的奥术毁灭弩
+tagWeaponCrossbow2hC011Desc="曾身为奥术师的刺客，阿托斯·纳尔偏爱的武器。"
+tagWeaponCrossbow2hC012=瞬息强弩
+
+tagWeaponCrossbow2hD001=银核弩
+tagWeaponCrossbow2hD001Desc="恶魔猎人嗜血的伊迪斯选用了这把武器，昔日冥神的狂热信徒变成了屠魔者。"
+tagWeaponCrossbow2hD002=德里格尖刺弩
+tagWeaponCrossbow2hD002Desc="被灌注以巫神德里格真正的本体之力的武器。"
+tagWeaponCrossbow2hD003=极地冰龙弩
+tagWeaponCrossbow2hD003Desc="源自北地刺骨寒风中的冰霜巨龙。"
+tagWeaponCrossbow2hD004=拉卡'伽克斯弩
+tagWeaponCrossbow2hD005=先驱者永恒弩
+
+tagWeaponCrossbow2hF001=罗瓦里的刺蝎弩
+tagWeaponCrossbow2hF002=神选的爆矢弩
+tagWeaponCrossbow2hF003=罗瓦里的劲弩
+
+tagWeaponMelee2hA001=大刀
+tagWeaponMelee2hA002=砍刀
+tagWeaponMelee2hA003=大剑
+tagWeaponMelee2hA004=焰形剑
+tagWeaponMelee2hA005=巨斧
+tagWeaponMelee2hA006=战斧
+tagWeaponMelee2hA007=长柄镰
+tagWeaponMelee2hA008=战戟
+tagWeaponMelee2hA009=楔头锤
+tagWeaponMelee2hA010=大锤
+tagWeaponMelee2hA011=战锤
+
+tagWeaponMelee2hB001=巨魔敲头锤
+tagWeaponMelee2hB002=巨魔碎颅槌
+tagWeaponMelee2hB003=^l凶蛮巨斧
+tagWeaponMelee2hB004=^l凶蛮砍肉巨斧
+tagWeaponMelee2hB005=^l凶蛮斩首巨斧
+tagWeaponMelee2hB006=^l阿卡莫斯长柄镰
+tagWeaponMelee2hB007=幽光战斧
+tagWeaponMelee2hB008=^l阿卡莫斯砍刀
+tagWeaponMelee2hB009=^l幽光双手战槌
+tagWeaponMelee2hB010=^l执政官烈焰大锤
+tagWeaponMelee2hB011=黑曜石断头巨斧
+tagWeaponMelee2hB012=^l黑曜石战斧
+tagWeaponMelee2hB013=^l赫威尔大刀
+
+tagWeaponMelee2hC001=残暴开膛锯刀
+tagWeaponMelee2hC002=杀戮巨斧
+tagWeaponMelee2hC003=蛇人梦魇大剑
+tagWeaponMelee2hC003Desc="这把武器的名号是靠砍掉了无数颗令人憎恶的头颅得来的。"
+tagWeaponMelee2hC004=鹰隼利爪长柄斧
+tagWeaponMelee2hC005=震颤双手槌
+tagWeaponMelee2hC006=元素大剑
+tagWeaponMelee2hC006B=元素大剑
+tagWeaponMelee2hC006Desc="一件稀有的成品，诞生于奥术锻造工艺的实验中。"
+tagWeaponMelee2hC007=骨片撕裂巨斧
+tagWeaponMelee2hC008=石魔大锤
+tagWeaponMelee2hC009=怨灵巨剑
+tagWeaponMelee2hC010=农庄救星长柄镰
+tagWeaponMelee2hC010B=农庄救星长柄镰
+tagWeaponMelee2hC010Desc="一把历史上法姆斯特德反抗军使用过的著名武器。反抗军最终被帝国的武装力量残忍地镇压。"
+tagWeaponMelee2hC011=阿瓦瑞克训诫槌
+tagWeaponMelee2hC012=棱光剔骨铲
+tagWeaponMelee2hC013=飘叶长柄剑
+tagWeaponMelee2hC013Desc="以失传了几个世纪的古老技艺锻造而成。"
+tagWeaponMelee2hC014=泰内布里斯长柄镰
+tagWeaponMelee2hC014Desc="饮血者泰内布里斯的夺命武器。"
+tagWeaponMelee2hC015=天堂审判烈焰大锤
+tagWeaponMelee2hC015Desc="圣殿骑士布拉泽·伯纳德·梅灵顿的巨锤。"
+tagWeaponMelee2hC016=黎明守卫电光巨斧
+tagWeaponMelee2hC017=野性呼唤者的斩首巨斧
+tagWeaponMelee2hC018=沙'祖尔的熔矿炉
+tagWeaponMelee2hC018B=沙'祖尔的焚烧炉
+tagWeaponMelee2hC018Desc="火焰永远在沙'祖尔的战锤中燃烧着。"
+tagWeaponMelee2hC019=悲怒大剑
+tagWeaponMelee2hC020=巨魔开膛巨斧
+tagWeaponMelee2hC021=莫格卓根护佑利斧
+
+tagWeaponMelee2hD001=训诫石拳双手槌
+tagWeaponMelee2hD002=断头长柄斧
+tagWeaponMelee2hD003=夜影的关爱大剑
+tagWeaponMelee2hD003Desc="刺客大师贝拉诺的非常规武器，没有几个夜刃能像他一样掌握挥舞巨剑的技艺。"
+tagWeaponMelee2hD004=黑曜石主宰大锤
+tagWeaponMelee2hD004Desc="锻造于一座活火山的熔岩深渊之中。"
+tagWeaponMelee2hD005=地狱硫火双手槌
+tagWeaponMelee2hD005Desc="当圣骑士阿里斯特·熔炉受祝福的长矛刺穿一位强大恶魔的心脏时，这把武器诞生了。"
+tagWeaponMelee2hD006=风暴撕裂巨斧
+tagWeaponMelee2hD006Desc="经过无数次闪电风暴的充能，这把武器上的自然之怒已蓄势待发。"
+tagWeaponMelee2hD007=冬王之祸巨剑
+tagWeaponMelee2hD007Desc="圣剑属于霍思纳尔王，北部地区的统治者和白狼之子。"
+tagWeaponMelee2hD008=弧光巨剑
+tagWeaponMelee2hD009=野血破碎双手槌
+tagWeaponMelee2hD010=奥托斯风电巨斧
+tagWeaponMelee2hD011=利维坦冰冻双手槌
+
+tagWeaponMelee2hF001=军团的大剑
+tagWeaponMelee2hF002=日阳的大锤
+tagWeaponMelee2hF003=死灵的长柄镰
+tagWeaponMelee2hF004=神选的双手战槌
+tagWeaponMelee2hF005=月光大锤
+tagWeaponMelee2hF006=神选的破碎双手槌
+
+tagWeaponCaster1hA001=魔杖
+tagWeaponCaster1hA002=权杖
+tagWeaponCaster1hA003=奥术魔杖
+tagWeaponCaster1hA004=奥术权杖
+tagWeaponCaster1hA005=仪式魔杖
+tagWeaponCaster1hA006=仪式权杖
+tagWeaponCaster1hA007=尊崇权杖
+tagWeaponCaster1hA008=祭刀
+tagWeaponCaster1hA009=符文匕首
+tagWeaponCaster1hA010=奥术匕首
+tagWeaponCaster1hA011=魔刃
+tagWeaponCaster1hA012=奥术剑
+tagWeaponCaster1hA013=仪式匕首
+tagWeaponCaster1hA014=仪式剑
+tagWeaponCaster1hA015=尊崇剑
+
+tagWeaponCaster1hB001=^l专家匕首
+tagWeaponCaster1hB002=^l专家魔刃
+tagWeaponCaster1hB003=^l大师魔刃
+tagWeaponCaster1hB004=^l专家魔杖
+tagWeaponCaster1hB005=^l专家权杖
+tagWeaponCaster1hB006=^l大师权杖
+tagWeaponCaster1hB007=^l巫师魔刃
+tagWeaponCaster1hB008=^l骷髅毒刃
+tagWeaponCaster1hB009=^l骨刺
+tagWeaponCaster1hB010=裂隙灾祸利刃
+tagWeaponCaster1hB011=^l裂隙灾祸切刀
+tagWeaponCaster1hB012=血誓魔杖
+tagWeaponCaster1hB013=^l血誓权杖
+tagWeaponCaster1hB014=^l洛克斯梅尔霜刃
+tagWeaponCaster1hB015=^l蛇人毒刃
+
+tagWeaponCaster1hC001=怒火焚身权杖
+tagWeaponCaster1hC002=咒火魔杖
+tagWeaponCaster1hC003=冰心权杖
+tagWeaponCaster1hC004=风暴召唤者的魔刃
+tagWeaponCaster1hC004_Desc="剑刃闪耀着能量，它对能量的渴求永无止境。"
+tagWeaponCaster1hC005=虚空魔刃
+tagWeaponCaster1hC006=血瘟刻刀
+tagWeaponCaster1hC007=灵魂刻刀
+tagWeaponCaster1hC007_Desc="据说这把刀不仅能切割肉体，还能伤及灵魂。"
+tagWeaponCaster1hC008=科托希安权杖
+tagWeaponCaster1hC008_Desc="科托西安的大师们在施展奥术时偏爱使用的武器。"
+tagWeaponCaster1hC009=骤霜权杖
+tagWeaponCaster1hC010=索命权杖
+tagWeaponCaster1hC011=火花之石权杖
+tagWeaponCaster1hC012=烈焰风暴权杖
+tagWeaponCaster1hC013=天极裂刃
+tagWeaponCaster1hC013_Desc="以陨星之核锻造而成。"
+tagWeaponCaster1hC014=内拉瓦污染毒刃
+tagWeaponCaster1hC014_Desc="内拉瓦曾是一位医生，他着迷于治疗一种致命的消耗病。但当他染上这种疾病之后，他那疯狂的追求促使他杀死几十个无辜的人。最后他因为犯下这种罪行而被绞死。"
+tagWeaponCaster1hC015=魔血法刃
+tagWeaponCaster1hC016=织法者短剑
+tagWeaponCaster1hC016_Desc="如同穿针引线一般，它能在现实世界编织出虚化之力。"
+tagWeaponCaster1hC017=荒石召唤权杖
+tagWeaponCaster1hC018=宇宙召唤权杖
+tagWeaponCaster1hC019=风暴罗网权杖
+tagWeaponCaster1hC020=地狱纹章切刀
+tagWeaponCaster1hC021=寒冰降生刃
+tagWeaponCaster1hC022=圣约之不洁血刃
+
+tagWeaponCaster1hD001=纯净之触
+tagWeaponCaster1hD001Desc="古老的传说中有一个披着斗篷的人形生物，他周游世界并净化疾病以及治愈伤痛，从不要求回报和任何形式的感谢。"
+tagWeaponCaster1hD002=黑色天罚权杖
+tagWeaponCaster1hD003=怒火升腾权杖
+tagWeaponCaster1hD004=缚魂权杖
+tagWeaponCaster1hD004Desc="这把邪恶的节杖禁锢着一群游魂。"
+tagWeaponCaster1hD005=奥莱克希拉的冰寒权杖
+tagWeaponCaster1hD006=帕内蒂复制魔杖
+tagWeaponCaster1hD006Desc="曾经属于帕内蒂的器物，他是复制魔法的大师，也是复制飞弹的创始人。"
+tagWeaponCaster1hD007=奥托斯火花权杖
+tagWeaponCaster1hD008=阿斯特坎冰刃
+tagWeaponCaster1hD008Desc="刀刃从空气中窃取着热量，犹如一阵山间的寒风。"
+tagWeaponCaster1hD009=毒液之刃
+tagWeaponCaster1hD010=次元火焰仪式剑
+tagWeaponCaster1hD011=时空风暴短剑
+tagWeaponCaster1hD011Desc="时光交织在这把匕首的边缘。"
+tagWeaponCaster1hD012=德拉卡里斯短剑
+tagWeaponCaster1hD013=冥神齿牙刀
+tagWeaponCaster1hD014=蛇怪妖刀
+tagWeaponCaster1hD015=千里眼法杖
+tagWeaponCaster1hD016=德里格符文毒刃
+tagWeaponCaster1hD017=特洛赞的星辰守护
+tagWeaponCaster1hD018=黑焰之刃
+
+tagWeaponCaster1hF001=军团的唤火短剑
+tagWeaponCaster1hF002=军团的虚化短剑
+tagWeaponCaster1hF003=军团的虚空短剑
+tagWeaponCaster1hF004=罗瓦里的酸触
+tagWeaponCaster1hF005=罗瓦里的寒触
+tagWeaponCaster1hF006=罗瓦里的死触
+tagWeaponCaster1hF007=神选的苍穹分断
+tagWeaponCaster1hF008=神选的唤焰权杖
+tagWeaponCaster1hF009=神选的奥术之耀
+
+
+tagWeaponArcaneA001=粗制法刃
+tagWeaponArcaneA002=木节法刃
+tagWeaponArcaneA003=松木法刃
+tagWeaponArcaneA004=梣木法刃
+tagWeaponArcaneA005=雪松法刃
+tagWeaponArcaneA006=橡木法刃
+tagWeaponArcaneA007=黒木法刃
+
+tagWeaponCrossbow1hA001=手枪弩
+tagWeaponCrossbow1hA002=复合弩
+tagWeaponCrossbow1hA003=滑轮弩
+tagWeaponCrossbow1hA004=连弩
+
+
+#Shields 盾牌
+
+tagShieldA000=木盾
+tagShieldA001=小圆盾
+tagShieldA002=圆盾
+tagShieldA003=长盾
+tagShieldA004=塔盾
+tagShieldA005=防暴盾
+tagShieldA006=战盾
+tagShieldA007=护盾
+tagShieldA008=轻圆盾
+tagShieldA009=步兵盾
+tagShieldA010=鸢盾
+
+tagShieldB001=典狱长的壁垒
+tagShieldB001Desc="用硬化钢和无情的仇恨锻造而成。"
+tagShieldB002=^l典狱长的堡垒
+tagShieldB003=幽光盾
+tagShieldB004=^l幽光战盾
+tagShieldB005=^l军用盾
+tagShieldB006=^l攻城盾
+tagShieldB007=^l君权盾
+tagShieldB008=穴居人骨墙
+tagShieldB009=^l吸血鬼骨墙
+tagShieldB010=黑曜石守护盾
+tagShieldB011=^l黑曜石壁垒
+tagShieldB012=扭曲割肉护盾
+tagShieldB013=^l扭曲割肉壁垒
+tagShieldB014=^l伯纳德圆盾
+
+tagShieldC001=恶魔十字防御盾
+tagShieldC002=噬魂者壁垒
+tagShieldC002Desc="通过死灵仪式铸造而成的盾牌，用来克制邪灵。"
+tagShieldC003=帝国卫兵的护盾
+tagShieldC004=碎焰护盾
+tagShieldC005=魔鬼的狰狞盾
+tagShieldC006=野兽之吼圆盾
+tagShieldC007=黑色军团徽盾
+tagShieldC007Desc="由帝国军队中被称为死神的封臣的黑色军团所持有的盾牌。"
+tagShieldC008=巫妖护盾
+tagShieldC009=黎明碎片壁垒
+tagShieldC009Desc="用最纯净的索拉丁结晶碎片锻造而成的盾牌。"
+tagShieldC010=圣殿骑士的信仰
+tagShieldC011=沉沦护盾
+tagShieldC012=毁誓者的护盾
+tagShieldC013=源质护盾
+tagShieldC013Desc="以奥术锻造而成，用来引导元素的原始力量。"
+tagShieldC014=拉芙娜的护盾
+tagShieldC014Desc="屠杀革翅目虫后得到的层层叠叠的甲壳。"
+tagShieldC015=角斗士圆盾
+tagShieldC016=烈焰护盾
+tagShieldC017=军团先锋盾
+tagShieldC018=追随者的护盾
+
+tagShieldD001=胸骨护盾
+tagShieldD001Desc="用一位不幸农夫的胸腔塑型而成的死灵之盾。"
+tagShieldD002=终结圆盾
+tagShieldD002Desc="在一场对抗冥煞势力的绝望战斗中，由筑路工人所打造的盾牌。"
+tagShieldD003=铁壁长盾
+tagShieldD004=生存意志护盾
+tagShieldD004Desc="曾是君王的盾形徽章，它作为人类不屈意志的典范在虚化之火中重铸为一面盾牌。"
+tagShieldD005=裂天壁垒
+tagShieldD006=突围护盾
+tagShieldD007=佐尔汉的复仇盾
+tagShieldD008=破晓者的使命盾
+tagShieldD009=马尔科夫的壁垒
+
+tagShieldF001=恶魔的守护圆盾
+tagShieldF002=收割者的护盾
+tagShieldF003=神选的火焰护盾
+tagShieldF004=收割者的防御盾
+tagShieldF005=神选的猩红护盾
+
+tagQualityShieldA01=废料
+tagQualityShieldA02=生锈
+tagQualityShieldA03=简易
+tagQualityShieldA04=晦暗
+tagQualityShieldA05=追击
+tagQualityShieldA06=强固
+tagQualityShieldA07=风化
+tagQualityShieldA08=强化
+tagQualityShieldA09=突击
+tagQualityShieldA10=帝国
+tagQualityShieldA11=尊崇
+
+
+#Focus 聚能法器
+
+tagFocusA001=发霉宝典
+tagFocusA002=肉身束缚宝典
+tagFocusA003=符文档案
+tagFocusA004=蒙皮秘籍
+tagFocusA005=魔力宝典
+tagFocusA006=奥术秘典
+tagFocusA013=高阶秘典
+
+tagFocusA007=符文骸骨
+tagFocusA008=恶魔傀儡
+tagFocusA009=蚀刻号角
+tagFocusA010=秘文头骨
+tagFocusA011=原始雕像
+tagFocusA012=怪异雕像
+tagFocusA014=高阶雕像
+
+tagFocusB001=^l扎尔泽兰秘典
+tagFocusB001Desc="这上面写满了各种为神奉献无信仰者的火焰邪术。"
+tagFocusB002=^l罗德拉西斯宝典
+tagFocusB002Desc="这本书中那令人发狂，产生恨意的词句令你感到寒心彻骨。"
+tagFocusB003A=^l雕文档案
+tagFocusB003B=^l奥秘号角
+tagFocusB004A=^l雕文秘籍
+tagFocusB004B=^l奥秘头骨
+tagFocusB005A=^l雕文宝典
+tagFocusB005B=^l奥秘雕像
+tagFocusB006=^l巫师雕像
+tagFocusB007=^l搏动晶片
+tagFocusB008=血誓宝典
+tagFocusB009=^l血誓秘典
+tagFocusB010=格罗布尔剧毒神像
+tagFocusB011=^l格罗布尔剧毒雕像
+tagFocusB011_Desc="格罗布尔古谚：两个缩小的头颅好过一个。"
+tagFocusB012=碎裂雪人号角
+tagFocusB013=^l雪人号角
+tagFocusB014=格罗布尔天极神像
+tagFocusB015=^l格罗布尔天极雕像
+tagFocusB016=格罗布尔石质神像
+tagFocusB017=^l格罗布尔石质雕像
+tagFocusB018=格罗布尔炎岩神像
+tagFocusB019=^l格罗布尔炎岩雕像
+tagFocusB020=格罗布尔亡灵神像
+tagFocusB021=^l格罗布尔亡灵雕像
+tagFocusB022=凝视者电眼
+tagFocusB023=^l监察者法眼
+tagFocusB023_Desc="这枚眼珠仍在你的手中扭动着。"
+tagFocusB024=^l卡沃尓咒骨
+
+tagFocusC001=狂乱秘典
+tagFocusC002=破碎法典
+tagFocusC003=麦文的宝典
+tagFocusC004=异教徒的宝典
+tagFocusC005=畸形雕像
+tagFocusC006=女妖的苦难秘典
+tagFocusC006Desc="这本书中每一页都发出悲惨的哀嚎。"
+tagFocusC007=龙爪
+tagFocusC008=奥格'纳佩什黑魔法书
+tagFocusC008Desc="奥格'纳佩什，被判处死刑的死灵法师，写下了这部黑暗的著作。"
+tagFocusC009=埃德里克的断臂
+tagFocusC010=曼海尔之圣典
+tagFocusC010Desc="曾由曼海尔虔诚的骑士所携带的圣经。"
+tagFocusC011=暗夜法球
+tagFocusC012=圣约之不洁聚能球
+tagFocusC013=毒瘴之宝典
+tagFocusC014=风暴召唤者的傀儡
+tagFocusC015=风暴法器
+tagFocusC016=巫师档案
+tagFocusC017=亡灵领主的宝典
+tagFocusC018=卡里多的秘典
+
+tagFocusD001=魔鬼的解析法器
+tagFocusD002=阿尔达纳的浮华法器
+tagFocusD003=谎言之秘典
+tagFocusD003Desc="由奥术师海丝特·莫恩所记录下来的，巫神索拉尔的违禁文字。"
+tagFocusD004=花名之宝典
+tagFocusD004Desc="这本书写着每个过去与未来的凡人的姓名。"
+tagFocusD005=冥神之血珠
+tagFocusD005Desc="狂热的异教徒佩戴着这枚包含冥神血滴的法珠。"
+tagFocusD006=亡灵之语文集
+tagFocusD006Desc="用于葬礼的诗集和宗教文本汇编而成文集。"
+tagFocusD007=主宰之眼
+tagFocusD008=奥术废弃之宝典
+tagFocusD009=古尔'阿玛什头骨
+tagFocusD009Desc="古尔'阿玛什的头骨，一位强大的神秘术士，由于他的学识而被谴责，最终在一起公开审判中被烧死在柱子上。"
+tagFocusD010=纳尔·阿丁之邪术宝典
+tagFocusD011=永恒风暴秘典
+tagFocusD012=阿格维克斯法典
+tagFocusD012Desc="伟大的秘术师阿格维克斯以向他的法器灌注过量的能量而闻名，但是对权力的渴望使他认为自己就是世界的主宰并走上了一条毁灭之路。阿格维克斯最终在审判官手中迎来了末日，但他的一些法器却遗留了下来。"
+tagFocusD013=祈求者的烈焰法器
+tagFocusD014=伊斯坎德拉的文集
+tagFocusD015=黑焰之球
+tagFocusD016=阿格维克斯法典
+
+tagFocusF001=收割者的宝典
+tagFocusF002=收割者的账簿
+tagFocusF003=日阳的法典
+tagFocusF004=罗瓦里的寒冬法典
+tagFocusF005=罗瓦里的虚空法典
+tagFocusF006=罗瓦里的天极法典
+tagFocusF007=死灵的毁灭
+tagFocusF008=死灵的拥抱
+tagFocusF009=死灵的预言
+tagFocusF010=罗瓦里的织法者秘典
+tagFocusF011=死灵的凝视
+
+#WEAPON_QUALITY 武器品质
+
+TagQualityBrokenWeapon01=破损
+TagQualityBrokenWeapon02=破碎
+TagQualityBrokenWeapon03=弯曲
+TagQualityBrokenArmor01=废弃
+TagQualityBrokenAll01=毁坏
+
+tagQualityWeaponMetal01=废料
+tagQualityWeaponMetal02=生锈
+tagQualityWeaponMetal03=铁制
+tagQualityWeaponMetal04=钢制
+tagQualityWeaponMetal05=灌魔
+tagQualityWeaponMetal06=追击
+tagQualityWeaponMetal07=突击
+tagQualityWeaponMetal08=帝国
+tagQualityWeaponMetal09=尊崇
+
+tagQualityWeaponWood01=碎裂
+tagQualityWeaponWood02=粗糙
+tagQualityWeaponWood03=原始
+tagQualityWeaponWood04=风化
+tagQualityWeaponWood05=坚固
+tagQualityWeaponWood06=抛光
+tagQualityWeaponWood07=灌魔
+tagQualityWeaponWood08=追击
+tagQualityWeaponWood09=突击
+tagQualityWeaponWood10=帝国
+tagQualityWeaponWood11=尊崇
+
+
+#ARMOR_STYLES 护甲类型
+
+tagStyle001=陈旧
+tagStyle002=布制
+tagStyle003=棉制
+tagStyle004=缝合
+tagStyle005=缀鳞
+tagStyle006=镶边
+tagStyle007=雕饰
+tagStyle008=镀金
+
+tagStyle009=碎料
+tagStyle010=革制
+tagStyle011=兽皮
+tagStyle012=毛皮
+tagStyle013=尖刺
+tagStyle014=戍边
+tagStyle015=蛮荒
+tagStyle016=奇袭
+
+tagStyle017=修复
+tagStyle018=废旧
+tagStyle019=蚀刻
+tagStyle020=战用
+tagStyle021=步兵
+tagStyle022=帝国
+
+tagStyle023=废料
+tagStyle024=板条
+tagStyle025=连锁
+tagStyle026=锁链
+tagStyle027=鳞甲
+tagStyle028=铜制
+tagStyle029=钢制
+tagStyle030=板甲
+tagStyle031=板甲
+tagStyle032=野战
+tagStyle033=重型
+tagStyle034=突击
+
+tagStyle035=钉甲
+tagStyle036=机织
+tagStyle037=强化
+tagStyle038=原始
+tagStyle039=见习
+tagStyle040=学徒
+
+tagStyle041=镀金
+tagStyle042=奢华
+
+#ArmorClass 护甲种类
+tagArmorClass01=施法 
+tagArmorClass02=
+tagArmorClass03=重型 
+
+#WeaponClass 武器类
+tagOffHand=副手
+tagShield=盾牌
+
+tagOneHandedSword=单手剑
+tagOneHandedMace=单手锤
+tagOneHandedAxe=单手斧
+tagOneHandedDagger=单手短剑
+tagOneHandedScepter=单手权杖
+tagOneHandedPistol=单手远程
+
+tagTwoHandedSword=双手剑
+tagTwoHandedMace=双手锤
+tagTwoHandedAxe=双手斧
+tagTwoHandedRifle=双手远程
+
+tagSpear=矛
+tagStaff=杖
+
+tagWeaponUnknown=未知
+
+#ArmorSlots
+tagRing=戒指
+tagAmulet=项链
+tagMedal=勋章
+tagBelt=腰带
+tagShoulders=肩甲
+tagHead=头盔
+tagLegs=腿甲
+tagChest=胸甲
+tagFeet=靴鞋
+tagGloves=手甲
+
+#QualityClass 品质种类
+tagMagic=魔法 
+tagRare=稀有 
+tagEpic=史诗 
+tagLegend=传奇 
+
+tagStyleUniqueTier2=强化
+tagStyleUniqueTier3=神秘
+tagStyleFactionTier2=精制
+
+tagSoulbound=^l灵魂绑定
+tagDestroySoulbound=摧毁灵魂绑定的物品？
+
+tagUntradeable=不可交易
+tagDestroyUntradeable=摧毁不可交易的物品？
+
+tagTransmuted=已幻化
+tagTransmuteCapture=[右键点击以灌注]
+tagTransmuteApply=[右键点击以使用]
+tagTransmuteUnusable=[无法使用 - 未满足需求]
+tagTransmuteConfirmation=你确定要幻化这件装备吗？
+tagTransmuteOverwrite=你确定要覆盖已经存在的幻化效果吗？
+tagTransmuteSoulboundConfirmation=你确定要幻化该装备吗？幻化将使物品变为灵魂绑定。
+tagTransmuteSoulboundOverwrite=你确定要覆盖已经存在的幻化效果吗？幻化将使物品变为灵魂绑定。
+tagTransmuteDestroy=你确定要灌注幻化效果吗？这将会摧毁这件装备。
+
+#ArmorHead 头部护甲
+
+tagHeadA001=头盔
+tagHeadA002=无边帽
+tagHeadA003=盔帽
+tagHeadA004=面具
+tagHeadA005=罩帽
+tagHeadA006=轻盔
+tagHeadA007=兜盔
+tagHeadA008=宽檐帽
+tagHeadA009=护面
+tagHeadA010=风帽
+tagHeadA011=兜帽
+tagHeadA012=头环
+tagHeadA013=权冠
+tagHeadA014=宝冠
+
+tagHeadB001=烈火头盔
+tagHeadB002=^l烈火兜盔
+tagHeadB003=升灵头盔
+tagHeadB004=^l升灵兜盔
+tagHeadB005=谋杀者罩帽
+tagHeadB006=^l谋杀者风帽
+tagHeadB007=^l专家兜帽
+tagHeadB008=^l游侠头盔
+tagHeadB009=^l专家权冠
+tagHeadB010=^l游侠兜盔
+tagHeadB011=升灵头环
+tagHeadB012=^l升灵权冠
+tagHeadB013=畸形头盔
+tagHeadB014=^l畸形兜盔
+tagHeadB015=^l幽光王冠
+tagHeadB015Desc="强大的死亡能量使这顶王冠在人世中得以显形。"
+tagHeadB016=^l弥尔顿头盔
+tagHeadB016Desc="头盔每多一道刻痕便代表他又干掉了一个被占据者。"
+
+tagHeadC001=风暴召唤者的头环
+tagHeadC002=狂战士的风帽
+tagHeadC003=幽冥王冠
+tagHeadC003Desc="曾被戴在凯恩世界第一位也是唯一一位奥术师君王塞缪尔·德雷克的头上，当然这是在其被剥夺王位然后被教士以异端的罪名处死之前。"
+tagHeadC004=号令权冠
+tagHeadC005=圣殿骑士的头盔
+tagheadC005Desc="曼海尔的守卫者使用的入门级防具。"
+tagHeadC006=帝国卫兵的头盔
+tagHeadC007=探险者的罩帽
+tagHeadC008=麦文的兜帽
+tagHeadC009=鲜血收割者的风帽
+tagHeadC010=魔眼宽檐帽
+tagHeadC010Desc="一位痴迷于外表与美貌的疯狂女巫戴着这只凝视者的眼睛。"
+tagHeadC011=狂热面具
+tagHeadC012=虚空风暴头环
+tagHeadC013=白银骑士荣耀
+tagHeadC014=恐怖丛林风帽
+tagHeadC014Desc="从一只满身荆棘的古老怪物身上切下来的一部分。"
+tagHeadC015=灵魂编织者权冠
+tagHeadC016=暗影火花兜帽
+tagHeadC017=使者的面具
+tagHeadC018=沉沦面甲
+tagHeadC019=盲刺客风帽
+tagHeadC020=神枪手的瞄准镜
+tagHeadC021=圣约之不洁面甲
+tagHeadC022=典范之风帽
+tagHeadC023=黎明守卫头盔
+tagHeadC024=毒瘴兜帽
+tagHeadC025=硫磺火眼头盔
+tagHeadC026=野性呼唤者的风帽
+tagHeadC027=禁卫军面甲
+tagHeadC028=寒霜碎片王冠
+tagHeadC029=怒火头环
+tagHeadC030=死神之眼面甲
+tagHeadC031=追随者面具
+tagHeadC032=莫格卓根风帽
+tagHeadC033=怪异守护者的兜盔
+tagHeadC033Desc="这头盔模糊你的视觉，仿佛你注视着另一个世界。"
+tagHeadC034=三巫神头盔
+tagHeadC034Desc="附着三种护佑。"
+
+tagHeadD001=绝望护喉风帽
+tagHeadD001Desc="仰望我后很绝望，因为你们的死期已至。"
+tagHeadD002=戈苟斯恐怖面具
+tagHeadD003=秘密耳语者兜帽
+tagheadD003Desc="它在不堪一击的受害者耳中低语着黑暗的秘密。"
+tagHeadD004=深渊面具
+tagheadD004Desc="一面被死神萦绕的面具，授予从死亡中得以解脱的亡者。"
+tagHeadD005=巨蛇头环
+tagHeadD006=炼狱真理面具
+tagHeadD007=正义面甲
+tagHeadD008=野兽召唤师的风帽
+tagHeadD009=先驱者面具
+tagHeadD010=屠魔者的宽檐帽
+tagHeadD011=千里眼的宽檐帽
+tagHeadD012=马尔科夫的面甲
+tagHeadD013=奥祖因的头盔
+tagHeadD014=德里格面甲
+tagHeadD015=死神标记兜帽
+tagHeadD016=伊斯坎德拉的兜帽
+tagHeadD017=奥托斯兜盔
+tagHeadD018=冬王之冠
+tagheadD018Desc="王冠属于霍思纳尔王，北部地区的统治者和白狼之子。"
+tagHeadD019=特洛赞的宽檐帽
+tagHeadD020=沃尔顿的宽檐帽
+tagHeadD021=放逐者的面甲
+tagHeadD022=怪异凝视
+tagHeadD022Desc="这头盔对你发出你无法理解的低沉声音。"
+tagHeadD023=三圣约
+tagHeadD023Desc="以三巫神圣约精髓的赋权来约束他们及他们的追随者避免相互对抗摧毁。"
+tagHeadD024=毒刃兜帽
+tagHeadD025=黑焰面甲
+tagHeadD026=光明卫士的头盔
+tagHeadD027=地狱骑士的面甲
+tagHeadD028=战裔面具
+tagHeadD029=怒血的兜帽
+
+
+tagHeadF001=放逐者的兜帽
+tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
+tagHeadF002=恶魔的无边帽
+tagHeadF003=恶魔的头盔
+tagHeadF004=军团的施法宽檐帽
+tagHeadF005=军团的兜盔
+tagHeadF006=军团的头盔
+tagHeadF007=收割者的头盔
+tagHeadF008=日阳的防御头盔
+tagHeadF009=死灵的面具
+tagHeadF010=死灵的头盔
+tagHeadF011=神选的风帽
+tagHeadF012=神选的头盔
+
+
+#ArmorShoulders 肩部护甲
+
+tagShoulderA001=肩甲
+tagShoulderA002=披肩
+tagShoulderA003=护肩
+tagShoulderA004=肩饰
+tagShoulderA005=肩胄
+tagShoulderA006=肩铠
+
+tagShoulderB001=烈火肩甲
+tagShoulderB002=^l烈火肩胄
+tagShoulderB003=升灵肩甲
+tagShoulderB004=^l升灵肩胄
+tagShoulderB005=凶徒肩甲
+tagShoulderB006=^l凶徒肩饰
+tagShoulderB007=^l艾萨克肩甲
+tagShoulderB008=幽魂披肩
+tagShoulderB009=^l幽魂肩胄
+tagShoulderB010=升灵披肩
+tagShoulderB011=^l升灵肩饰
+tagShoulderB012=畸形肩甲
+tagShoulderB013=^l畸形肩铠
+tagShoulderB014=^l瓦尔达兰披肩
+tagShoulderB015=^l瓦尔达兰护肩
+tagShoulderB016=^l本'扎尔护肩
+tagShoulderB017=^l本'扎尔肩铠
+tagShoulderB018=^l莫斯劳克护肩
+tagShoulderB019=^l莫斯劳克肩铠
+tagShoulderB020=^l铁娘子披肩
+tagShoulderB021=^l铁娘子护肩
+tagShoulderB022=^l赞塔兰披肩
+tagShoulderB023=^l赞塔兰护肩
+tagShoulderB024=^l费比乌斯护肩
+tagShoulderB025=^l费比乌斯肩铠
+
+tagShoulderC001=剃刀背的尖刺披肩
+tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
+tagShoulderC002=星光披肩
+tagShoulderC003=督军的肩甲
+tagShoulderC004=帝国卫兵的肩甲
+tagShoulderC005=掷弹兵护肩
+tagShoulderC005Desc="历经弹片的灼烧与切割，这件护肩却依然保留着大部分防护能力。"
+tagShoulderC006=泪眼披肩
+tagShoulderC006Desc="一支神秘教团的标志性服饰，此教团已在奥术师王塞缪尔·德雷克执政期间被铲除。"
+tagShoulderC007=弹震症肩饰
+tagShoulderC008=盛饰肩铠
+tagShoulderC009=守护者披肩
+tagShoulderC009Desc="巫神拜斯迈赐予其凡人追随者的披肩，由风暴巨鸦的羽毛制成。"
+tagShoulderC010=沉沦肩甲
+tagShoulderC011=神枪手的肩甲
+tagShoulderC012=圣约之不洁肩甲
+tagShoulderC013=典范之护肩
+tagShoulderC014=黎明守卫肩饰
+tagShoulderC015=硫磺肩甲
+tagShoulderC016=禁卫军肩甲
+tagShoulderC017=炼金术士的披肩
+tagShoulderC018=寒鬃披肩
+tagShoulderC019=阿玛拉斯塔肩铠
+tagShoulderC020=持火者的肩铠
+tagShoulderC021=卡里多的披肩
+tagShoulderC030=莫格卓根肩甲
+
+tagShoulderD001=命运编织者的披肩
+tagShoulderD001Desc="命运的股绳，就像无尽的编织，缠绕和磨损着人类流逝的岁月。"
+tagShoulderD002=神铁肩铠
+tagShoulderD002Desc="这种肩铠用来赐给位列顶尖圣殿骑士的信徒们。"
+tagShoulderD003=血怒肩甲
+tagShoulderD004=暗影烈焰披风
+tagShoulderD005=泰坦肩铠
+tagShoulderD005Desc="这件肩铠上的标记好像来自于另一个纪元。"
+tagShoulderD006=霜惧披肩
+tagShoulderD007=巫血披肩
+tagShoulderD008=恶魔血肉披肩
+tagShoulderD009=正义肩甲
+tagShoulderD010=野兽召唤师的护肩
+tagShoulderD011=破晓者的护肩
+tagShoulderD012=野血披肩
+tagShoulderD013=千里眼的披肩
+tagShoulderD014=马尔科夫的肩甲
+tagShoulderD015=奥祖因的护肩
+tagShoulderD016=德里格肩甲
+tagShoulderD017=死神标记护肩
+tagShoulderD018=伊斯坎德拉的肩铠
+tagShoulderD019=奥托斯肩甲
+tagShoulderD020=莫格卓根护肩
+tagShoulderD020Desc="这件披肩由莫格卓根的化身穿着过。"
+tagShoulderD021=特洛赞的护肩
+tagShoulderD022=黑焰披肩
+tagShoulderD023=光明卫士的肩饰
+tagShoulderD024=地狱骑士的肩铠
+tagShoulderD025=阿格维克斯披肩
+tagShoulderD026=战裔肩铠
+tagShoulderD027=怒血的护肩
+
+tagShoulderF001=放逐者的燃烧披肩
+tagShoulderF002=放逐者的寒霜披肩
+tagShoulderF003=放逐者的天极披肩
+tagShoulderF004=放逐者的愤怒披肩
+tagShoulderF005=放逐者的虚空披肩
+tagShoulderF006=放逐者的燃烧肩铠
+tagShoulderF007=放逐者的寒霜肩铠
+tagShoulderF008=放逐者的天极肩铠
+tagShoulderF009=放逐者的愤怒肩铠
+tagShoulderF010=放逐者的虚空肩铠
+tagShoulderF011=恶魔的肩甲
+tagShoulderF012=恶魔的护肩
+tagShoulderF013=罗瓦里的披肩
+tagShoulderF014=罗瓦里的护肩
+tagShoulderF015=军团的披肩
+tagShoulderF016=军团的肩甲
+tagShoulderF017=军团的肩铠
+tagShoulderF018=死灵的披肩
+tagShoulderF019=死灵的肩铠
+tagShoulderF020=神选的披肩
+tagShoulderF021=神选的肩铠
+
+
+#ArmorTorso 胸部护甲
+
+tagTorsoA000=成衣
+tagTorsoA001L=外衣
+tagTorsoA002L=紧身衣
+tagTorsoA003L=胸甲
+tagTorsoA004L=锁子甲
+tagTorsoA005H=护身甲
+tagTorsoA006H=风衣
+tagTorsoA007H=战袍
+tagTorsoA008H=锁链
+tagTorsoA009H=板甲
+tagTorsoA010M=夹克
+tagTorsoA011M=胸甲
+tagTorsoA012M=护胸
+tagTorsoA013M=束身衣
+tagTorsoA014C=外套
+tagTorsoA015C=战衣
+tagTorsoA016C=服饰
+tagTorsoA017C=长袍
+
+tagTorsoB001=谋杀者护身甲
+tagTorsoB002=^l谋杀者胸甲
+tagTorsoB003=^l强化紧身衣
+tagTorsoB004=
+tagTorsoB005=
+tagTorsoB006=幽魂长袍
+tagTorsoB007=^l幽魂战衣
+tagTorsoB008=升灵长袍
+tagTorsoB009=^l升灵战衣
+tagTorsoB010=畸形长袍
+tagTorsoB011=^l畸形战衣
+tagTorsoB012=血誓长袍
+tagTorsoB013=^l血誓战衣
+
+tagTorsoC001=
+tagTorsoC002=暗夜猎人的护胸
+tagTorsoC003=快枪手的皮衣
+tagTorsoC004=马尔度因的外衣
+tagTorsoC005=末日锻造胸甲
+tagTorsoC006=帝国卫兵的胸甲
+tagTorsoC007=探险者的夹克
+tagTorsoC008=鲜血收割者的夹克
+tagTorsoC009=狂热者的外衣
+tagTorsoC010=熔锻护身甲
+tagTorsoC011=剥皮者服饰
+tagTorsoC011Desc="不知道剥了多少受害者的皮才凑成了这件邪恶的衣服。"
+tagTorsoC012=黑曜石板胸甲
+tagTorsoC013=麦格尼森的风衣
+tagTorsoC014=伤逝法衣
+tagTorsoC014Desc="哭泣之眼的成员曾经穿着这种牧师的服饰。"
+tagTorsoC015=蛛丝锁子甲
+tagTorsoC016=邪恶符咒外衣
+tagTorsoC016Desc="只有嗜血的精英信徒才会穿着这种冥煞的服饰。"
+tagTorsoC017=使者的外套
+tagTorsoC018=沉沦护胸
+tagTorsoC019=盲刺客隐形衣
+tagTorsoC020=神枪手的外衣
+tagTorsoC021=黎明守卫板甲
+tagTorsoC022=佐尔汉的战甲
+tagTorsoC022Desc="著名的战斗大师佐尔汉穿过的战甲。"
+tagTorsoC023=毒瘴长袍
+tagTorsoC024=东方长袍
+tagTorsoC025=野性呼唤者的外衣
+tagTorsoC026=野性咆哮外衣
+tagTorsoC027=禁卫军护胸
+tagTorsoC028=虚空熔铸战甲
+tagTorsoC029=持火者的胸甲
+tagTorsoC030=卡里多的战衣
+tagTorsoC031=追随者护胸
+tagTorsoC032=莫格卓根外衣
+
+tagTorsoD001=恶魔之鳞风衣
+tagTorsoD002=恶魔的囚笼锁子甲
+tagTorsoD003=幻象裹尸布
+tagTorsoD003Desc="这件奇怪的衣服随着光线的明灭在穿戴者周围制造出迷人心智的幻象。"
+tagTorsoD004=伟大守护者战衣
+tagTorsoD004Desc="德里格的高阶祭司穿着的衣物，充满了巫神在人世间残存的守护之力。"
+tagTorsoD005=阿兹拉格恐惧铠甲
+tagTorsoD005Desc="阿兹拉格曾是位凶暴之人，他麾下的骑士因他卑劣却毫无疑问有效的战术对他感到恐惧不已。"
+tagTorsoD006=卡弗兰的护胸
+tagTorsoD006Desc="卡弗兰是一位以异常精准地投掷飞刀而闻名的传奇夜刃大师，即便是当他的腰带上看起来并没有刀片的时候，他依然能有所行动。"
+tagTorsoD007=野兽召唤师华服
+tagTorsoD008=神铁锁子甲
+tagTorsoD008Desc="授予那些在履行职责成为典范的圣殿骑士精英们的护甲。"
+tagTorsoD009=正义护胸
+tagTorsoD010=野兽召唤师的外衣
+tagTorsoD011=屠魔者的外套
+tagTorsoD012=千里眼的长袍
+tagTorsoD013=马尔科夫的战甲
+tagTorsoD014=奥祖因的护胸
+tagTorsoD015=德里格战衣
+tagTorsoD016=死神标记战衣
+tagTorsoD017=伊斯坎德拉的法衣
+tagTorsoD018=奥托斯胸甲
+tagTorsoD019=畏寒胸甲
+tagTorsoD020=特洛赞的战衣
+tagTorsoD021=沃尔顿的胸甲
+tagTorsoD022=毒刃隐形胸甲
+tagTorsoD023=光明卫士的板甲
+tagTorsoD024=地狱骑士的胸甲
+tagTorsoD025=阿格维克斯战衣
+tagTorsoD026=战裔护胸
+tagTorsoD027=怒血的外衣
+
+tagTorsoF001=放逐者的燃烧战衣
+tagTorsoF002=放逐者的严寒战衣
+tagTorsoF003=放逐者的天极战衣
+tagTorsoF004=放逐者的愤怒战衣
+tagTorsoF005=放逐者的虚空战衣
+tagTorsoF006=放逐者的燃烧胸甲
+tagTorsoF007=放逐者的严寒胸甲
+tagTorsoF008=放逐者的天极胸甲
+tagTorsoF009=放逐者的愤怒胸甲
+tagTorsoF010=放逐者的虚空胸甲
+tagTorsoF011=恶魔的胸甲
+tagTorsoF012=恶魔的护胸
+tagTorsoF013=军团的战衣
+tagTorsoF014=军团的胸甲
+tagTorsoF015=军团的护胸
+tagTorsoF016=死灵的战衣
+tagTorsoF017=死灵的胸甲
+tagTorsoF018=神选的战衣
+tagTorsoF019=神选的护胸
+tagTorsoF020=罗瓦里的战衣
+tagTorsoF021=罗瓦里的胸甲
+
+tagTorsoM001=破烂外套
+tagTorsoM002=染血外套
+tagTorsoM003=染血长袍
+
+
+#ArmorWaist 腰部护甲
+
+tagWaistA001=布制腰带
+tagWaistA002=编织束带
+tagWaistA003=兽皮腰带
+tagWaistA004=皮革腰带
+tagWaistA005=链甲腰带
+tagWaistA006=步兵护腰
+tagWaistA007=板甲束腰
+tagWaistA008=突击护腰
+tagWaistA009=帝国腰带
+tagWaistA010=尊崇腰带
+
+tagWaistB001=^l赏金猎人腰带
+tagWaistB002=^l冲击波护腰
+tagWaistB003=^l征战者腰带
+tagWaistB004=^l火焰腰索
+tagWaistB005=^l寒霜卫士束腰
+tagWaistB006=^l灵骨护腰
+
+tagWaistC001=奥德纳的平衡
+tagWaistC002=弗莱兹克的实用腰包
+tagWaistC002Desc="在彻底无力抵抗死尸之前，这件装备对弗莱兹克来说奇迹般地好用。"
+tagWaistC003=炼金术士的腰带
+tagWaistC004=掠夺者的弹药带
+tagWaistC005=酋长的荣耀腰带
+tagWaistC006=猎头者的战利品
+tagWaistC007=侍僧的束带
+tagWaistC008=冥煞丝线腰带
+tagWaistC009=浴血腰链
+tagWaistC009Desc="永远滴着鲜血的腰带。"
+tagWaistC010=先祖束腰
+tagWaistC011=苦痛腰链
+tagWaistC011Desc="穿上这件腰链能获得一股邪力，但同时也要付出血的代价。"
+tagWaistC012=战争束腰
+tagWaistC013=神枪手的弹药带
+tagWaistC014=齐天腰带
+tagWaistC015=暗影行者的腰带
+tagWaistC016=火灾束腰
+tagWaistC017=军团士兵的凯旋腰带
+tagWaistC018=风暴碰触腰链
+tagWaistC019=石肤束腰
+tagWaistC020=缚灵者的腰链
+tagWaistC021=光耀丝线腰带
+tagWaistC022=恐惧编织束腰
+tagWaistC023=均衡腰带
+tagWaistC024=持火者的腰带
+
+tagWaistD001=雾裔沼泽荆棘腰带
+tagWaistD002=断刃腰带
+tagWaistD003=骸骨束腰
+tagWaistD004=虚无法师的束带
+tagWaistD005=猎刀腰带
+tagWaistD005Desc="曾有一个杀人狂因为相信穿戴受害者的内脏能够守护自己而穿着它。"
+tagWaistD006=工匠的巧思腰带
+tagWaistD006Desc="用大众所知的工具，以某种方式锻造出了这条腰带。"
+tagWaistD007=血领主腰带
+tagWaistD008=落锤腰带
+tagWaistD009=奥莱隆重铸束腰
+tagWaistD010=奥祖因的护腰
+tagWaistD011=不朽贤者腰带
+tagWaistD012=窃梦束腰
+tagWaistD013=破法者护腰
+tagWaistD013Desc="破法者军团曾穿戴的腰带，他们是从曼海尔的圣殿骑士中挑选出来的战士。"
+tagWaistD014=幻影丝线束腰
+tagWaistD014Desc="借助不可名状的死灵法术，将受诅咒的灵魂纺成了线，从而编制成为这件束腰。"
+tagWaistD015=野血束腰
+tagWaistD016=地狱骑士的束腰
+
+tagWaistF001=恶魔的束带
+tagWaistF002=恶魔的护腰
+tagWaistF003=恶魔的束腰
+tagWaistF004=罗瓦里的束带
+tagWaistF005=罗瓦里的护腰
+tagWaistF006=罗瓦里的束腰
+tagWaistF007=日阳的腰带
+tagWaistF008=日阳的护腰
+tagWaistF009=日阳的束腰
+tagWaistF010=军团的腰带
+tagWaistF011=军团的护腰
+tagWaistF012=军团的束腰
+tagWaistF013=死灵的束带
+tagWaistF014=死灵的护腰
+tagWaistF015=死灵的束腰
+tagWaistF016=神选的束带
+tagWaistF017=神选的护腰
+tagWaistF018=神选的束腰
+
+#ArmorHands 手部护甲
+
+tagHandsA001=手套
+tagHandsA002=护腕
+tagHandsA003=手甲
+tagHandsA004=抓握护手
+tagHandsA005=护手
+
+tagHandsB001=^l专家手甲
+tagHandsB002=^l护卫手甲
+tagHandsB003=^l专家护手
+tagHandsB004=^l护卫护手
+
+tagHandsC001=暗影的护手
+tagHandsC002=狂战士的手甲
+tagHandsC003=剑舞者的护手
+tagHandsC004=法师的护手
+tagHandsC005=掠夺者的手套
+tagHandsC006=灵魂触手
+tagHandsC007=雕刻护腕
+tagHandsC008=斗士的手套
+tagHandsC009=符文护腕
+tagHandsC009Desc="在钢铁上雕刻出象征不朽的符文。"
+tagHandsC010=黑铁手甲
+tagHandsC011=丝触裹手
+tagHandsC011Desc="潜入暗影，暗黑中的你将所向披靡。"
+tagHandsC012=使者的手套
+tagHandsC013=药剂师的触手
+tagHandsC014=沉沦手甲
+tagHandsC015=黎明守卫手甲
+tagHandsC016=余烬触手
+tagHandsC017=速攻手套
+tagHandsC018=东方手套
+tagHandsC019=风暴碰触护腕
+tagHandsC020=黑曜石护手
+tagHandsC021=末日触手
+tagHandsC022=惧霜护手
+
+tagHandsD001=奔放强权护手
+tagHandsD001Desc="用奥莱隆本体的凶暴之力赐福过的手套。"
+tagHandsD002=永生林地触手
+tagHandsD003=虚空钢铁手甲
+tagHandsD003Desc="用冥煞先锋阴燃的尸体锻造而成的手套。"
+tagHandsD004=死灵法师的护手
+tagHandsD004Desc="死灵法师施法时使用的手套，上面依然存在着恐怖的魔力。"
+tagHandsD005=龙骨护手
+tagHandsD006=埃斯考恩触手
+tagHandsD007=毒蛇之牙手套
+tagHandsD008=虚化触手
+tagHandsD009=巨像护手
+tagHandsD010=正义臂甲
+tagHandsD011=先驱者的护手
+tagHandsD012=光明卫士的手甲
+
+tagHandsF001=罗瓦里的护手
+tagHandsF002=罗瓦里的护手
+tagHandsF003=收割者的护手
+tagHandsF004=收割者的护手
+
+
+#ArmorLegs 腿部护甲
+
+tagLegsA001=束裤
+tagLegsA002=长裤
+tagLegsA003=裹腿
+tagLegsA004=马裤
+tagLegsA005=腿甲
+tagLegsA006=护腿
+
+tagLegsB001=德里格-教派护腿
+tagLegsB002=索拉尔-教派护腿
+tagLegsB003=拜斯迈-教派护腿
+
+tagLegsC001=雾行长裤
+tagLegsC002=隐士的护腿
+tagLegsC003=沼泽居民的护腿
+tagLegsC004=探险者的长裤
+tagLegsC005=污渍长裤
+tagLegsC005Desc="裤子的上个主人似乎在臀部对应的地方留下了些小惊喜。"
+tagLegsC006=蛇人之鳞裹腿
+tagLegsC007=圣殿骑士的腿甲
+tagLegsC008=勇猛腿甲
+tagLegsC009=食肉者裹腿
+tagLegsC009Desc="有些东西的本来面目还是呆在编年史里面比较好。"
+tagLegsC010=晦暗皮革长裤
+tagLegsC011=笨重护腿
+tagLegsC012=东方护腿
+tagLegsC013=刀锋守卫护腿
+tagLegsC014=裂隙魔犬裹腿
+tagLegsC015=法咒编织裹腿
+
+tagLegsD001=恶魔之骨长裤
+tagLegsD001Desc="制作这件腿甲最困难地方在于收集必需的材料。"
+tagLegsD002=骨织长裤
+tagLegsD003=死亡低语长裤
+tagLegsD004=地狱熔铸长裤
+tagLegsD004Desc="它在地狱犬的烈焰吐息中被锻造而成。"
+tagLegsD005=织法者的护腿
+tagLegsD005Desc="大量的咒语与颇具威力的真言如丝线般织成了这件护腿。"
+tagLegsD006=幽魂降生护腿
+tagLegsD007=奥术和谐护腿
+tagLegsD008=刺皮护腿
+tagLegsD009=尼达拉的护腿
+tagLegsD010=宁心护腿
+tagLegsD011=巴尔巴罗斯腿甲
+tagLegsD011Desc="巴尔巴罗斯是一名战死在沙场上的黑色军团传奇斗士，他周围纵横交错地倒着数十具敌人和马匹的尸体。"
+tagLegsD012=风暴牢笼护腿
+tagLegsD013=俏丽夏日长裤
+tagLegsD013Desc="其实，它很一般。"
+tagLegsD014=野性剪毛护腿
+
+
+#ArmorFeet 足部护甲
+
+tagFeetA001=裹足
+tagFeetA002=靴
+tagFeetA003=护胫
+tagFeetA004=战靴
+tagFeetA005=便鞋
+
+tagFeetB001=^l专家靴
+tagFeetB002=^l护卫靴
+tagFeetB003=^l专家护胫
+tagFeetB004=^l护卫护胫
+
+tagFeetC001=熔岩步行靴
+tagFeetC002=风行护胫
+tagFeetC003=无视疾走靴
+tagFeetC003Desc="这双靴子似乎并非由这个世界的物质所制成。"
+tagFeetC004=巨石裂地靴
+tagFeetC005=探险者的裹足
+tagFeetC006=寻血猎犬护胫
+tagFeetC007=终结行军靴
+tagFeetC007B=终结行军靴
+tagFeetC007Desc="每迈出一步，都有数千士兵死于冥煞之手，这压在脚上如有千钧之重。"
+tagFeetC008=裂隙魔犬皮靴
+tagFeetC008Desc="野兽有百害而无一利，但用来做靴子却很不错。"
+tagFeetC009=无畏裹足
+tagFeetC010=恶徒护胫
+tagFeetC011=盘蛇裹足
+tagFeetC012=亵渎者靴
+tagFeetC012Desc="这双怪异到令人无法理解的靴子，会在走过之后留下一道亵渎神明的痕迹。"
+tagFeetC013=魔法智者靴
+tagFeetC014=法师领主的胫甲
+
+tagFeetD001=傀儡护胫
+tagFeetD002=龙鳞护足
+tagFeetD002Desc="这些鳞片来自于一种灭绝已久的生物。"
+tagFeetD003=毒刺护胫
+tagFeetD003Desc="这些毒刺滴落着来自于几种不同的蜘蛛和毒蛇的毒液。"
+tagFeetD004=虚空行者足垫
+tagFeetD005=碎骨靴
+tagFeetD005Desc="厚重的靴底会在踩碎骨骼时发出令人毛骨悚然的巨大声响。"
+tagFeetD006=幽魂行者靴
+tagFeetD007=切风便靴
+tagFeetD008=风暴泰坦战靴
+tagFeetD009=灰袍法师的裹足
+tagFeetD010=裂地靴
+tagFeetD010Desc="这靴子每次踩踏都会使大地震颤，岩石碎裂。"
+
+tagFeetF001=罗瓦里的裹足
+tagFeetF002=罗瓦里的护胫
+tagFeetF003=军团的护胫
+tagFeetF004=收割者的裹足
+tagFeetF005=收割者的护胫
+
+
+#Rings 戒指
+
+tagRingA001=铜指环
+tagRingA002=银指环
+tagRingA003=金指环
+tagRingA004=白金指环
+tagRingA005=紫晶戒指
+tagRingA006=月石指环
+tagRingA007=猫眼石玺戒
+tagRingA008=绿宝石戒指
+tagRingA009=蓝宝石指环
+tagRingA010=黄宝石玺戒
+tagRingA011=红宝石戒指
+tagRingA012=铭文指环
+tagRingA013=钻石玺戒
+tagRingA014=帝国戒指
+tagRingA015=黑曜石指环
+tagRingA016=帝国玺戒
+
+tagRingB001=^l列丹纪念戒指
+tagRingB001Desc="这枚指环上磨损的刻文写着：爱你的 - 艾米莉亚。"
+tagRingB002=^l克隆利印玺
+tagRingB002Desc="这枚戒指上沾染了受害者的鲜血，当然现在还有他自己的。"
+tagRingB003=^l斯金纳家传戒指
+tagRingB003Desc="它可能是这家人所剩的唯一的财富了。"
+tagRingB004=^l咕噜斯戒指
+tagRingB004Desc="他真的是很喜欢这枚戒指。"
+tagRingB005=^l血誓玺戒
+tagRingB005Desc="在召唤仪式中闪耀着微光的戒指。"
+tagRingB006=^l维洛丝戒指
+tagRingB006Desc="一件粗俗老式的首饰。奇懒的人使用过的东西。"
+
+tagRingC001=骨髓戒指
+tagRingC002=黑曜石印戒
+tagRingC003=博学者的戒指
+tagRingC004=暮光印玺
+tagRingC005=黑卫士印戒
+tagRingC006=星火指环
+tagRingC006Desc="以陨星的余烬铸造而成的戒指。"
+tagRingC007=血之印戒
+tagRingC008=虚化领主的印玺
+tagRingC008Desc="通常被虚灵占居的贵族会戴着这种戒指。"
+tagRingC009=永恒印玺
+tagRingC010=抹杀指环
+tagRingC011=游魂指环
+tagRingC012=药剂师的感知印玺
+tagRingC013=皇家王冠印戒
+tagRingC014=皇家王冠宝戒
+tagRingC015=无畏戒指
+tagRingC016=无畏印玺
+tagRingC017=杀戮 - 右手戒
+tagRingC018=杀戮 - 左手戒
+tagRingC019A=阿卡莫斯的恐惧
+tagRingC019B=阿卡莫斯的痛苦
+tagRingC019Desc="死亡……"
+tagRingC020A=阿卡莫斯的苦痛
+tagRingC020B=阿卡莫斯的折磨
+tagRingC020Desc="痛苦……"
+tagRingC021=黑冰印戒
+tagRingC022=邪意印戒
+tagRingC023=寒意汹涌戒指
+tagRingC023Desc="哪怕只是轻微的接触戒指上的蓝宝石也会被吸走热量。"
+tagRingC024=永世腐朽印戒
+tagRingC025=烈焰地狱印戒
+tagRingC026=哨兵的印戒
+tagRingC027=跃动宝石印戒
+tagRingC028=荆棘指环
+tagRingC029=生命绽放指环
+tagRingC030=巨人印玺
+tagRingC031=堕落印戒
+tagRingC032=诅咒纹章
+tagRingC033=突变印戒
+tagRingC033Desc="这宝石不断地发生变化并在你眼前呈现多变的造型。"
+tagRingC034=阿玛拉斯塔纹章
+tagRingC035=野契翡翠印戒
+tagRingC036=虚化风暴指环
+tagRingC037=虚化风暴印章
+tagRingC038=元素平衡红宝石
+tagRingC039=元素平衡蓝宝石
+
+tagRingD001=堕落纹章
+tagRingD002=凯法'佐斯的雕文印玺
+tagRingD002Desc="由伟大的冥神先锋凯法·佐斯署名，赐予其最忠诚的追随者们。"
+tagRingD003=生命之源印玺
+tagRingD004=时光洪流
+tagRingD005=虚灵尖啸印玺
+tagRingD005Desc="对痛苦不堪的占据过程的一种嘲笑。"
+tagRingD006=熵环
+tagRingD007=暗黑女王印戒
+tagRingD007Desc="无情刺客黑女王的印玺，她总是先用蜘蛛的毒液麻痹敌人，然后再把他们解决掉。"
+tagRingD008=无尽噬魂印戒
+tagRingD009=贝尔戈蒂安的印玺
+tagRingD010=奥布莱特的印戒
+tagRingD010Desc="大师奥布莱特，虚化射线的创造者，不仅是他掌握神秘法术的名望，也是因为他能通神；事实上，他因此惹上很多法律方面的麻烦，并将终止他的施展，如果没有吉尔达姆奥秘的介入。"
+tagRingD011=执法官的仁慈之掌
+tagRingD012=执法官的复仇之拳
+tagRingD013=祈求者的燃烧指环
+tagRingD014=祈求者的电击指环
+
+tagRingF001=恶魔的战争印戒
+tagRingF002=恶魔的愤怒印戒
+tagRingF003=罗瓦里的愤怒印戒
+tagRingF004=罗瓦里的虚空印戒
+tagRingF005=军团的战争印戒
+tagRingF006=军团的召唤印戒
+tagRingF007=收割者的剧毒印戒
+tagRingF008=收割者的刀锋印戒
+tagRingF009=死灵的寒霜印戒
+tagRingF010=死灵的生命印戒
+tagRingF011=神选的火焰印戒
+tagRingF012=神选的风暴印戒
+
+
+#Necklaces 项链
+
+tagNecklaceA00=盐袋
+tagNecklaceA00Desc="一大袋盐，看似可以辟邪。"
+
+tagNecklaceA001=利爪灵符
+tagNecklaceA002=银制项链
+tagNecklaceA003=头骨灵符
+tagNecklaceA004=白金项链
+tagNecklaceA005=骨制咒符
+tagNecklaceA006=月石项链
+tagNecklaceA007=猫眼石吊坠
+tagNecklaceA008=绿宝石吊坠
+tagNecklaceA009=蓝宝石吊坠
+tagNecklaceA010=黄宝石吊坠
+tagNecklaceA011=红宝石吊坠
+tagNecklaceA012=铭文项链
+tagNecklaceA013=钻石吊坠
+tagNecklaceA014=帝国项链
+tagNecklaceA015=黑曜石吊坠
+tagNecklaceA016=帝国坠饰
+
+tagNecklaceB001=^l腐臭项链
+tagNecklaceB001Desc="这枚头骨外包着一层腐臭的黏液。"
+tagNecklaceB002=^l死亡守望者坠饰
+tagNecklaceB003=^l埃伦娜项链
+tagNecklaceB003Desc="曾属于第一只蛇人埃伦娜的战利品。"
+
+tagNecklaceC001=法眼坠饰
+tagNecklaceC001Desc="一支眼球在宝石内前前后后飞快地移动着。"
+tagNecklaceC002=阿拉泽拉的红宝石吊坠
+tagNecklaceC003=血月吊坠
+tagNecklaceC004=恶魔的项链
+tagNecklaceC004Desc="一只分叉的舌头，诉说着谎言与欺骗。"
+tagNecklaceC005=麦文的透镜坠饰
+tagNecklaceC006=扭曲碎片吊坠
+tagNecklaceC006Desc="这枚碎片似乎能够扭曲现实。"
+tagNecklaceC007=战神的骄傲坠饰
+tagNecklaceC008=灵魂石项链
+tagNecklaceC009=漩涡石项链
+tagNecklaceC010=死亡守卫坠饰
+tagNecklaceC010Desc="曾用来抵御恶灵的护身符。"
+tagNecklaceC011=贝若纳斯精华坠饰
+tagNecklaceC011Desc="这里面困着巨兽贝若纳斯残余的精魂。"
+tagNecklaceC012=纽拉姆'辛灾祸坠饰
+tagNecklaceC013=天狼石吊坠
+tagNecklaceC014=安德卓纳斯贪婪坠饰
+tagNecklaceC014Desc="税务大臣安德卓纳斯·菲里安拿着这块完美无瑕的绿宝石招摇过市，当然这是在他被人在背后捅了一刀之前。"
+tagNecklaceC015=使者的坠饰
+tagNecklaceC016=盲刺客之眼坠饰
+tagNecklaceC017=皇家王冠坠饰
+tagNecklaceC018=无畏坠饰
+tagNecklaceC019=强欲坠饰
+tagNecklaceC019Desc="只要瞥上一眼，你就会产生想将这枚宝石据为己有的强烈欲望。"
+tagNecklaceC020=风暴召唤者的宝石项链
+tagNecklaceC021=荒芜碎片项链
+tagNecklaceC022=持盾侍女的项链
+tagNecklaceC023=冰心坠饰
+tagNecklaceC024=焦土坠饰
+tagNecklaceC025=瘟疫法师的项链
+tagNecklaceC026=天蓝碎片坠饰
+tagNecklaceC027=刃卫的勇气坠饰
+tagNecklaceC028=曼海尔碎片吊坠
+tagNecklaceC029=荆棘项链
+tagNecklaceC030=蝗虫宝石吊坠
+tagNecklaceC031=先祖恩惠吊坠
+tagNecklaceC032=令牌碎片吊坠
+tagNecklaceC033=灵魂吊坠
+tagNecklaceC034=毒刃项链
+tagNecklaceC035=奥术日蚀项链
+tagNecklaceC036=正义火焰坠饰
+tagNecklaceC037=寒冰陷阱坠饰
+tagNecklaceC038=卡里多的碎片坠饰
+tagNecklaceC039=莫格卓根翡翠链
+tagNecklaceC040=虚化风暴项链
+tagNecklaceC041=蝎尾狮琉璃坠饰
+
+tagNecklaceD001=拜斯迈意志坠饰
+tagNecklaceD002=死亡线程吊坠
+tagNecklaceD003=慈悲化身吊坠
+tagNecklaceD003Desc="它是人类神圣的七德之首。"
+tagNecklaceD004=统治者王权宝石吊坠
+tagNecklaceD005=贝若纳斯绝世眼
+tagNecklaceD005Desc="巨兽贝若纳斯的不朽的眼睛。"
+tagNecklaceD006=星怒绿宝石吊坠
+tagNecklaceD007=恐怖黎明精华坠饰
+tagNecklaceD007Desc="此物可证明恐怖黎明开始时带来的磨难与死亡。"
+tagNecklaceD008=死缚紫晶石吊坠
+tagNecklaceD009=哈拉科神石吊坠
+tagNecklaceD009Desc="这是奥术师日内瓦·哈拉科的聚能宝石。她离开教团并背弃教义，成为了一名曼海尔的圣殿骑士。"
+tagNecklaceD010=末日使者吊坠
+tagNecklaceD011=使者启示录坠饰
+tagNecklaceD011Desc="传说是它在恐怖黎明开始时撕裂出第一道裂隙之门。"
+tagNecklaceD012=德里格瘟疫坠饰
+tagNecklaceD012Desc="承载着巫神德里格的七种天灾。"
+tagNecklaceD013=暗夜的抱拥坠饰
+tagNecklaceD014=凯恩的复仇吊坠
+tagNecklaceD015=破晓者的信标吊坠
+tagNecklaceD016=屠魔者的守御吊坠
+tagNecklaceD017=祈求者的碎片吊坠
+tagNecklaceD018=德里格黑宝石吊坠
+tagNecklaceD019=伊斯坎德拉的聚能钻石吊坠
+tagNecklaceD020=奥托斯宝石吊坠
+tagNecklaceD021=马尔科夫的辨析坠饰
+tagNecklaceD022=奥祖因之心吊坠
+tagNecklaceD023=山脉之心吊坠
+tagNecklaceD024=沃尔顿的恩赐吊坠
+tagNecklaceD025=阿格维克斯奥术碎片坠饰
+tagNecklaceD026=怒血的吊坠
+
+tagNecklaceF001=罗瓦里的守护石吊坠
+tagNecklaceF002=罗瓦里的怨恨坠饰
+tagNecklaceF003=罗瓦里的生命召唤坠饰
+tagNecklaceF004=日阳的引导石吊坠
+tagNecklaceF005=收割者的宝石吊坠
+tagNecklaceF006=雷霆宝石吊坠
+tagNecklaceF007=死神之握坠饰
+tagNecklaceF008=无尽愤怒坠饰
+tagNecklaceF009=虚空召唤者坠饰
+
+
+#Medals 勋章
+
+tagMedalA001=绶带
+tagMedalA002=徽章
+tagMedalA003=勋章
+tagMedalA004=盾徽
+tagMedalA005=星章
+tagMedalA006=帝国盾徽
+tagMedalA007=帝国星章
+
+tagMedalB001=^l游骑兵绶带
+tagMedalB002=^l游骑兵徽章
+tagMedalB003=^l伊克里克斯鳞片
+tagMedalB004=^l凯蒙徽章
+tagMedalB005=^l血誓徽章
+
+tagMedalC001=野兽屠杀者的徽章
+tagMedalC002=坚韧盾徽
+tagMedalC003=正义勋章
+tagMedalC004=鲜血收割者的徽章
+tagMedalC005=猩红心型徽章
+tagMedalC006=战地医生的徽章
+tagMedalC006Desc="奖励给久经沙场的战地医疗兵的徽章，他们在胶着的战事中英勇无畏，救死扶伤。"
+tagMedalC007=圣殿骑士徽章
+tagMedalC008=奥秘星章
+tagMedalC009=先锋星章
+tagMedalC010=猩红联队徽章
+tagMedalC010Desc="一支冷血无情的雇佣军团猩红联队的徽章。"
+tagMedalC011=药剂师的徽章
+tagMedalC012=圣约之不洁符印
+tagMedalC013=无畏勋章
+tagMedalC014=巫师的徽章
+tagMedalC015=异教徒的徽章
+tagMedalC016=风暴徽章
+tagMedalC017=伪神徽章
+tagMedalC018=格特沃姆的血印章
+tagMedalC018Desc="浸透着他手中受害者的鲜血。"
+tagMedalC019=莫格卓根徽章
+tagMedalC020=幻象师的徽章
+tagMedalC021=欺诈黑星章
+tagMedalC022=仙女徽章
+tagMedalC023=寒天星章
+tagMedalC024=火山星章
+tagMedalC025=猛决盾徽
+tagMedalC026=追随者崇敬星章
+
+tagMedalD001=变节者徽章
+tagMedalD001Desc="它曾是强加给异教徒的徽章，但后来巫神的追随者们以之为傲。"
+tagMedalD002=精通星章
+tagMedalD003=烈火徽章
+tagMedalD004=熊王徽章
+tagMedalD004Desc="乌萨尔·本尼迪克特四世的魔印，人称熊族之王。"
+tagMedalD005=冥血徽章
+tagMedalD006=冰原狼盾徽
+tagMedalD006Desc="巨型白狼图案的盾徽，冰原狼是北部荒野的守护者。"
+tagMedalD007=永誓徽章
+tagMedalD008=马尔科夫的谋略
+tagMedalD008Desc="以著名的战术家马尔科夫的名字命名的勋章，奖励给最为功勋卓著的将军。"
+tagMedalD009=黑梦徽章
+tagMedalD010=诅咒徽章
+tagMedalD011=神灵徽章
+tagMedalD012=野兽召唤师的护符
+
+tagMedalF001=恶魔的火焰徽章
+tagMedalF002=恶魔的寒霜徽章
+tagMedalF003=恶魔的剧毒徽章
+tagMedalF004=军团的织法徽章
+tagMedalF005=军团的虚空徽章
+tagMedalF006=军团的刀锋徽章
+tagMedalF007=神选的战斗徽章
+tagMedalF008=神选的雷霆徽章
+tagMedalF009=神选的亵渎徽章
+tagMedalF009Desc="尽管受到了敌人力量的污染，这枚勋章仍可用作正途。"
+
+
+#Blueprints 图纸
+tagTestBlueprint=设计图：未命名物品
+tagTestBlueprintDescription="写一段相符的注解文本，是件了不起的事情。"
+
+tagBlueprint_RelicB001=设计图：^c灾虐
+tagBlueprint_RelicB002=设计图：^c毁灭
+tagBlueprint_RelicB003=设计图：^c均衡
+tagBlueprint_RelicB004=设计图：^c冰川
+tagBlueprint_RelicB005=设计图：^c暴风
+tagBlueprint_RelicB006=设计图：^c炼狱
+tagBlueprint_RelicB007=设计图：^c腐化
+tagBlueprint_RelicB008=设计图：^c庇护
+tagBlueprint_RelicB009=设计图：^c诡诈
+tagBlueprint_RelicB010=设计图：^c狂暴
+tagBlueprint_RelicB011=设计图：^c雾裔护符
+tagBlueprint_RelicB012=设计图：^c佩刀者的护符
+tagBlueprint_RelicB013=设计图：^c快枪手的护符
+tagBlueprint_RelicC001=设计图：^c仲裁
+tagBlueprint_RelicC002=设计图：^c堡垒
+tagBlueprint_RelicC003=设计图：^c屠杀
+tagBlueprint_RelicC004=设计图：^c主宰
+tagBlueprint_RelicC005=设计图：^c恐惧
+tagBlueprint_RelicC006=设计图：^c折磨
+tagBlueprint_RelicC007=设计图：^c噬魂
+tagBlueprint_RelicC008=设计图：^c爆炎
+tagBlueprint_RelicC009=设计图：^c野性
+tagBlueprint_RelicC010=设计图：^c死寒
+tagBlueprint_RelicC011=设计图：^c牺牲
+tagBlueprint_RelicC012=设计图：^c热诚
+tagBlueprint_RelicC013=设计图：^c荒芜
+tagBlueprint_RelicC014=设计图：^c枯萎
+tagBlueprint_RelicC015=设计图：^c先祖
+tagBlueprint_RelicC016=设计图：^c剑舞者的护符
+tagBlueprint_RelicC017=设计图：^c掠夺者的护符
+tagBlueprint_RelicD001=设计图：^c守护
+tagBlueprint_RelicD002=设计图：^c诅咒
+tagBlueprint_RelicD003=设计图：^c复仇
+tagBlueprint_RelicD004=设计图：^c壁垒
+tagBlueprint_RelicD005=设计图：^c风暴之眼
+tagBlueprint_RelicD006=设计图：^c清算
+tagBlueprint_RelicD007=设计图：^c天灾
+tagBlueprint_RelicD008=设计图：^c奥祖因的烈焰
+tagBlueprint_RelicD009=设计图：^c坏死
+tagBlueprint_RelicD010=设计图：^c阿格维克斯的恶怨
+tagBlueprint_RelicD011=设计图：^c湮灭
+tagBlueprint_RelicD012=设计图：^c贝尔戈蒂安的杀戮
+tagBlueprint_RelicD013=设计图：^c灭绝
+tagBlueprint_RelicD014=设计图：^c盾击
+tagBlueprint_RelicD015=设计图：^c原始本能
+tagBlueprint_RelicD016=设计图：^c索拉尔的屠戮
+tagBlueprint_RelicD017=设计图：^c德里格的灾祸
+tagBlueprint_RelicD018=设计图：^c拜斯迈的主宰
+tagBlueprint_RelicD019=设计图：^c奥莱隆的愤怒
+tagBlueprint_RelicD020=设计图：^c曼海尔的壁垒
+tagBlueprint_RelicD021=设计图：^c伊斯坎德拉的均衡
+tagBlueprint_RelicD022=设计图：^c剑圣的护符
+tagBlueprint_RelicD023=设计图：^c盗贼的护符
+
+tagBlueprint_ComponentA01=设计图：虚化之魂
+tagBlueprint_ComponentA02=设计图：防弹甲片
+tagBlueprint_ComponentA03=设计图：赐福钢铁
+tagBlueprint_ComponentA04=设计图：聚焦棱镜
+tagBlueprint_ComponentA05=设计图：坚韧兽皮
+tagBlueprint_ComponentA06=设计图：躁动遗骸
+tagBlueprint_ComponentA07=设计图：腐坏之心
+tagBlueprint_ComponentA08=设计图：符文之石
+tagBlueprint_ComponentA09=设计图：神圣之骨
+tagBlueprint_ComponentA10=设计图：尖刺外壳
+tagBlueprint_ComponentA11=设计图：复仇之魂
+tagBlueprint_ComponentA12=设计图：守护之石
+tagBlueprint_ComponentA13=设计图：丝绸残片
+tagBlueprint_ComponentA14=设计图：鳞状兽皮
+tagBlueprint_ComponentA15=设计图：纯净之盐
+tagBlueprint_ComponentA16=设计图：中空之牙
+tagBlueprint_ComponentA17=设计图：灌魔银粉
+tagBlueprint_ComponentA18=设计图：赐福磨石
+tagBlueprint_ComponentA19=设计图：黑色油脂
+tagBlueprint_ComponentC01=设计图：^k奥莱隆的血
+tagBlueprint_ComponentC02=设计图：^k贝若纳斯碎片
+tagBlueprint_ComponentC03=设计图：^k奥术火花
+tagBlueprint_ComponentC04=设计图：^k棱光钻石
+tagBlueprint_ComponentC05=设计图：^k附魂钢铁
+tagBlueprint_ComponentC06=设计图：^k莫格卓根印记
+tagBlueprint_ComponentC07=设计图：^k银核弹药
+tagBlueprint_ComponentC08=设计图：^k血腥磨石
+
+
+tagBlueprint_WaistB001=设计图：^l赏金猎人腰带
+tagBlueprint_WaistB002=设计图：^l冲击波护腰
+tagBlueprint_WaistB003=设计图：^l征战者腰带
+tagBlueprint_WaistB004=设计图：^l火焰腰索
+tagBlueprint_WaistB005=设计图：^l寒霜卫士束腰
+tagBlueprint_WaistB006=设计图：^l灵骨护腰
+
+tagBlueprint_WeaponB001=设计图：^l军用盾
+tagBlueprint_WeaponB002=设计图：^l攻城盾
+tagBlueprint_WeaponB003=设计图：^l君权盾
+tagBlueprint_WeaponB004=设计图：^l转拴步枪
+tagBlueprint_WeaponB005=设计图：^l前装枪
+tagBlueprint_WeaponB006=设计图：^l榴弹枪
+tagBlueprint_WeaponB007=设计图：^l抛光宽剑
+tagBlueprint_WeaponB008=设计图：^l抛光长剑
+tagBlueprint_WeaponB009=设计图：^l抛光征服剑
+tagBlueprint_WeaponB010=设计图：^l凶蛮巨斧
+tagBlueprint_WeaponB011=设计图：^l凶蛮砍肉巨斧
+tagBlueprint_WeaponB012=设计图：^l凶蛮斩首巨斧
+tagBlueprint_WeaponB013=设计图：^l雕文档案
+tagBlueprint_WeaponB014=设计图：^l雕文秘籍
+tagBlueprint_WeaponB015=设计图：^l雕文宝典
+tagBlueprint_WeaponB016=设计图：^l奥秘号角
+tagBlueprint_WeaponB017=设计图：^l奥秘头骨
+tagBlueprint_WeaponB018=设计图：^l奥秘雕像
+tagBlueprint_WeaponB019=设计图：^l双管手枪
+tagBlueprint_WeaponB020=设计图：^l手持迫击炮
+tagBlueprint_WeaponB021=设计图：^l霰弹手枪
+tagBlueprint_WeaponB022=设计图：^l专家刃锤
+tagBlueprint_WeaponB023=设计图：^l专家晨星槌
+tagBlueprint_WeaponB024=设计图：^l专家凸缘钉头槌
+tagBlueprint_WeaponB025=设计图：^l专家匕首
+tagBlueprint_WeaponB026=设计图：^l专家魔刃
+tagBlueprint_WeaponB027=设计图：^l大师魔刃
+tagBlueprint_WeaponB028=设计图：^l专家魔杖
+tagBlueprint_WeaponB029=设计图：^l专家权杖
+tagBlueprint_WeaponB030=设计图：^l大师权杖
+
+tagBlueprint_WeaponC001=设计图：^b辟邪短枪
+tagBlueprint_WeaponC002=设计图：^b鹰眼步枪
+tagBlueprint_WeaponC003=设计图：^b风暴利斧
+tagBlueprint_WeaponC004=设计图：^b预兆砍刀
+tagBlueprint_WeaponC005=设计图：^b震颤双手槌
+tagBlueprint_WeaponC006=设计图：^b咒火魔杖
+tagBlueprint_WeaponC007=设计图：^b火焰风暴权杖
+tagBlueprint_WeaponC008=设计图：^b尤达'伽克斯弩
+tagBlueprint_WeaponC009=设计图：^b强化 咒火魔杖
+tagBlueprint_WeaponC010=设计图：^b强化 天极裂刃
+tagBlueprint_WeaponC011=设计图：^b强化 畸形雕像
+tagBlueprint_WeaponC012=设计图：^b强化 奥格'纳佩什黑魔法书
+
+tagBlueprint_WeaponD001=设计图：^i奥秘火铳
+tagBlueprint_WeaponD002=设计图：^i拉卡'伽克斯弩
+tagBlueprint_WeaponD003=设计图：^i天谴双刃斧
+tagBlueprint_WeaponD004=设计图：^i使者炽焰终结槌
+tagBlueprint_WeaponD005=设计图：^i贝若纳斯重铸剑
+tagBlueprint_WeaponD006=设计图：^i利维坦冰槌
+tagBlueprint_WeaponD007=设计图：^i奥莱克希拉的冰寒权杖
+tagBlueprint_WeaponD008=设计图：^i蛇怪妖刀
+tagBlueprint_WeaponD009=设计图：^i突围护盾
+tagBlueprint_WeaponD010=设计图：^i主宰之眼
+tagBlueprint_WeaponD011=设计图：^i永恒风暴秘典
+
+tagBlueprint_WeaponF001=设计图：^g恶魔的棍棒
+tagBlueprint_WeaponF002=设计图：^b强化 恶魔十字防御盾
+tagBlueprint_WeaponF003=设计图：^g罗瓦里的织法者秘典
+tagBlueprint_WeaponF004=设计图：^g罗瓦里的劲弩
+tagBlueprint_WeaponF005=设计图：^b强化 预兆砍刀
+tagBlueprint_WeaponF006=设计图：^g月光大锤
+tagBlueprint_WeaponF007=设计图：^g收割者的防御盾
+tagBlueprint_WeaponF008=设计图：^b强化 雷霆劲弩
+tagBlueprint_WeaponF009=设计图：^g军团的佩剑
+tagBlueprint_WeaponF010=设计图：^b强化 黑色军团徽盾
+tagBlueprint_WeaponF011=设计图：^g死灵的六发左轮
+tagBlueprint_WeaponF012=设计图：^g死灵的凝视
+tagBlueprint_WeaponF013=设计图：^b强化 收割者的锄头
+tagBlueprint_WeaponF014=设计图：^g神选的猩红护盾
+tagBlueprint_WeaponF015=设计图：^g神选的破碎双手槌
+tagBlueprint_WeaponF016=设计图：^b强化 奥威尔左轮手枪
+
+
+tagBlueprint_ArmorB001=设计图：^g专家靴
+tagBlueprint_ArmorB002=设计图：^g专家护胫
+tagBlueprint_ArmorB003=设计图：^g护卫靴
+tagBlueprint_ArmorB004=设计图：^g护卫护胫
+tagBlueprint_ArmorB005=设计图：^l专家手甲
+tagBlueprint_ArmorB006=设计图：^l专家护手
+tagBlueprint_ArmorB007=设计图：^l护卫手甲
+tagBlueprint_ArmorB008=设计图：^l护卫护手
+tagBlueprint_ArmorB009=设计图：^g专家兜帽
+tagBlueprint_ArmorB010=设计图：^l专家权冠
+tagBlueprint_ArmorB011=设计图：^l游侠头盔
+tagBlueprint_ArmorB012=设计图：^l游侠兜盔
+
+tagBlueprint_ArmorF001=设计图：^g恶魔的束带
+tagBlueprint_ArmorF002=设计图：^g恶魔的护腰
+tagBlueprint_ArmorF003=设计图：^g恶魔的束腰
+tagBlueprint_ArmorF004=设计图：^g罗瓦里的束带
+tagBlueprint_ArmorF005=设计图：^g罗瓦里的护腰
+tagBlueprint_ArmorF006=设计图：^g罗瓦里的束腰
+tagBlueprint_ArmorF007=设计图：^g日阳的腰带
+tagBlueprint_ArmorF008=设计图：^g日阳的护腰
+tagBlueprint_ArmorF009=设计图：^g日阳的束腰
+tagBlueprint_ArmorF010=设计图：^g军团的腰带
+tagBlueprint_ArmorF011=设计图：^g军团的护腰
+tagBlueprint_ArmorF012=设计图：^g军团的束腰
+tagBlueprint_ArmorF013=设计图：^g死灵的束带
+tagBlueprint_ArmorF014=设计图：^g死灵的护腰
+tagBlueprint_ArmorF015=设计图：^g死灵的束腰
+tagBlueprint_ArmorF016=设计图：^g神选的束带
+tagBlueprint_ArmorF017=设计图：^g神选的护腰
+tagBlueprint_ArmorF018=设计图：^g神选的束腰
+
+tagBlueprint_ArmorC001=设计图：^b帝国卫兵的护盾
+tagBlueprint_ArmorC002=设计图：^b帝国卫兵的胸甲
+tagBlueprint_ArmorC003=设计图：^b探险者的夹克
+tagBlueprint_ArmorC004=设计图：^b探险者的长裤
+tagBlueprint_ArmorC005=设计图：^b盛饰肩铠
+tagBlueprint_ArmorC006=设计图：^b盲刺客风帽
+tagBlueprint_ArmorC007=设计图：^b圣约之不洁面甲
+tagBlueprint_ArmorC008=设计图：^b持火者的夹克
+tagBlueprint_ArmorC009=设计图：^b卡里多的战衣
+tagBlueprint_ArmorC010=设计图：^b追随者面具
+tagBlueprint_ArmorC011=设计图：^b莫格卓根风帽
+
+tagBlueprint_ArmorD001=设计图：^i绝望护喉风帽
+tagBlueprint_ArmorD002=设计图：^i戈苟斯恐怖面具
+tagBlueprint_ArmorD003=设计图：^i秘密耳语者兜帽
+tagBlueprint_ArmorD004=设计图：^i深渊面具
+tagBlueprint_ArmorD005=设计图：^i巨蛇头环
+tagBlueprint_ArmorD006=设计图：^i炼狱真理面具
+tagBlueprint_ArmorD007=设计图：^i正义面甲
+tagBlueprint_ArmorD008=设计图：^i野兽召唤师的风帽
+tagBlueprint_ArmorD009=设计图：^i先驱者面具
+tagBlueprint_ArmorD010=设计图：^i屠魔者的宽檐帽
+tagBlueprint_ArmorD011=设计图：^i千里眼的宽檐帽
+tagBlueprint_ArmorD012=设计图：^i马尔科夫的面甲
+tagBlueprint_ArmorD013=设计图：^i奥祖因的头盔
+tagBlueprint_ArmorD014=设计图：^i德里格面甲
+tagBlueprint_ArmorD015=设计图：^i死神标记兜帽
+tagBlueprint_ArmorD016=设计图：^i伊斯坎德拉的兜帽
+tagBlueprint_ArmorD017=设计图：^i奥托斯兜盔
+tagBlueprint_ArmorD018=设计图：^i冬王之冠
+tagBlueprint_ArmorD019=设计图：^i特洛赞的宽檐帽
+tagBlueprint_ArmorD020=设计图：^i沃尔顿的宽檐帽
+tagBlueprint_ArmorD021=设计图：^i怪异凝视
+tagBlueprint_ArmorD022=设计图：^i三圣约
+tagBlueprint_ArmorD023=设计图：^i毒刃兜帽
+tagBlueprint_ArmorD024=设计图：^i黑焰面甲
+tagBlueprint_ArmorD025=设计图：^i光明卫士的头盔
+tagBlueprint_ArmorD026=设计图：^i地狱骑士的面甲
+tagBlueprint_ArmorD027=设计图：^i战裔面具
+tagBlueprint_ArmorD028=设计图：^i怒血的兜帽
+
+
+tagBlueprint_AccessoryC001=设计图：^b麦文的透镜坠饰
+tagBlueprint_AccessoryC002=设计图：^b漩涡石项链
+tagBlueprint_AccessoryC003=设计图：^b蝎尾狮琉璃坠饰
+tagBlueprint_AccessoryC004=设计图：^b猛决盾徽
+tagBlueprint_AccessoryC005=设计图：^b元素平衡红宝石
+tagBlueprint_AccessoryC006=设计图：^b元素平衡蓝宝石
+tagBlueprint_AccessoryC007=设计图：^b强化 瘟疫法师的项链
+tagBlueprint_AccessoryC008=设计图：^b强化 贝若纳斯精华坠饰
+tagBlueprint_AccessoryC009=设计图：^b强化 风暴徽章
+tagBlueprint_AccessoryC010=设计图：^b光耀丝线腰带
+tagBlueprint_AccessoryC011=设计图：^b均衡腰带
+tagBlueprint_AccessoryC012=设计图：^b强化 冥煞丝线腰带
+
+tagBlueprint_AccessoryD001=设计图：^i星怒绿宝石吊坠
+tagBlueprint_AccessoryD002=设计图：^i恐怖黎明精华坠饰
+tagBlueprint_AccessoryD003=设计图：^i使者启示录坠饰
+tagBlueprint_AccessoryD004=设计图：^i德里格瘟疫坠饰
+tagBlueprint_AccessoryD005=设计图：^i虚无法师的束带
+tagBlueprint_AccessoryD006=设计图：^i工匠的巧思腰带
+tagBlueprint_AccessoryD007=设计图：^i奥莱隆重铸束腰
+tagBlueprint_AccessoryD008=设计图：^i奥祖因的护腰
+tagBlueprint_AccessoryD009=设计图：^i破法者护腰
+tagBlueprint_AccessoryD010=设计图：^i精通星章
+tagBlueprint_AccessoryD011=设计图：^i神灵徽章
+
+tagBlueprint_MiscA01=设计图：^p骸骨钥匙
+tagBlueprint_MiscA01Desc=只有少数被选召的人才知晓打造这把钥匙的远古锻造技法。
+
+tagBlueprint_MaterialA01=设计图：虚化集簇
+
+#Relics 遗物
+
+tagDeviceBonus=完整奖励
+tagDeviceTier01=强化遗物
+tagDeviceTier02=卓越遗物
+tagDeviceTier03=神话遗物
+
+tagRelicB001=灾虐
+tagRelicB001Desc="肆意破坏。"
+tagRelicB002=毁灭
+tagRelicB002Desc="不计后果的毁灭。"
+tagRelicB003=均衡
+tagRelicB003Desc="在不稳定的元素之海中得到平衡。"
+tagRelicB004=冰川
+tagRelicB004Desc="心如铁石，冷若冰霜。"
+tagRelicB005=暴风
+tagRelicB005Desc="安克维亚的天空之神尤尔托斯的狂暴灵魂。"
+tagRelicB006=炼狱
+tagRelicB006Desc="包含着奥祖因的复仇之力。"
+tagRelicB007=腐化
+tagRelicB007Desc="凯恩世界所遭受磨难的证明。"
+tagRelicB008=庇护
+tagRelicB008Desc="努力求生方能活命。"
+tagRelicB009=诡诈
+tagRelicB009Desc="机敏与智慧要强过蛮力和肌肉。"
+tagRelicB010=狂暴
+tagRelicB010Desc="以奥莱隆之名，爆发出无与伦比的战意。"
+tagRelicB011=雾裔护符
+tagRelicB011Desc="此护身符使佩戴它的巨魔们陷入失心的战斗狂暴之中，直到所有敌人都横尸战场，他们才会停下。"
+tagRelicB012=佩刀者的护符
+tagRelicB012Desc="能够同时持握两把近战武器的象征。"
+tagRelicB013=快枪手的护符
+tagRelicB013Desc="能够同时手持两把手枪进行精准射击的象征。"
+tagRelicB014=骸骨护符
+tagRelicB014Desc="这枚骨片上镌刻着象征流浪者精神力量的话语和符号。"
+tagRelicB015=象牙护符
+tagRelicB016=神圣护符
+
+tagRelicC001=仲裁
+tagRelicC001Desc="公平正义，一视同仁且不偏不倚……"
+tagRelicC002=堡垒
+tagRelicC002Desc="坚固的防守，弱者的堡垒。"
+tagRelicC003=屠杀
+tagRelicC003Desc="并非夜刃所有的暗杀任务都能如此干净利落地完成。"
+tagRelicC004=主宰
+tagRelicC004Desc="无可抵御的破坏之力。"
+tagRelicC005=恐惧
+tagRelicC005Desc="来自世界阴暗处的恐怖之影。"
+tagRelicC006=折磨
+tagRelicC006Desc="一件来自安克维亚苦痛阶梯的纪念品，里面充满了无数受害者的痛苦挣扎。"
+tagRelicC007=噬魂
+tagRelicC007Desc="渴望进入人世的不灭魂灵。"
+tagRelicC008=爆炎
+tagRelicC008Desc="奥祖因的烈焰吐息。"
+tagRelicC009=野性
+tagRelicC009Desc="接受野性的呼唤。"
+tagRelicC010=死寒
+tagRelicC010Desc="死亡般的寒冷之触饥渴地萦绕徘徊……"
+tagRelicC011=牺牲
+tagRelicC011Desc="流血牺牲以换得天下太平。"
+tagRelicC012=热诚
+tagRelicC012Desc="发动不顾一切的狂热征战。"
+tagRelicC013=荒芜
+tagRelicC013Desc="所经之处，寸草不生。"
+tagRelicC014=枯萎
+tagRelicC014Desc="德里格的七种天灾之首。"
+tagRelicC015=先祖
+tagRelicC015Desc="与先祖相同的血液之中，流淌着真正的潜力。"
+tagRelicC016=剑舞者的护符
+tagRelicC016Desc="能够同时持握两把近战武器的象征。"
+tagRelicC017=掠夺者的护符
+tagRelicC017Desc="能够同时手持两把手枪进行精准射击的象征。"
+
+tagRelicD001=守护
+tagRelicD001Desc="伊什塔克的指引之光会抚平痛苦，使人重拾信念。"
+tagRelicD002=诅咒
+tagRelicD002Desc="灾祸和疾病都是无可抵御的力量，不管是对残疾人还是战士来说都一样。"
+tagRelicD003=复仇
+tagRelicD003Desc="以月亮为引，暗影为盟，我就是这样的猎手……"
+tagRelicD004=壁垒
+tagRelicD004Desc="化身为攻不破的城堡，目视你的敌人在你那难以逾越的城墙下迎来他们的末日。"
+tagRelicD005=风暴之眼
+tagRelicD005Desc="若要寻求神力，那么绝对要从发生雷暴的天空中寻找。"
+tagRelicD006=清算
+tagRelicD006Desc="受汝一击，千倍奉还。"
+tagRelicD007=天灾
+tagRelicD007Desc="我无惧死神，因为我就是死亡的化身。"
+tagRelicD008=奥祖因的烈焰
+tagRelicD008Desc="以真火洗濯这个世界。"
+tagRelicD009=坏死
+tagRelicD009Desc="到了末日那天，我们将共享同样的命运。"
+tagRelicD010=阿格维克斯的恶怨
+tagRelicD010Desc="虚化的秘密在于将我们的生命全部奉献出去，我无惧于死后的世界。"
+tagRelicD011=湮灭
+tagRelicD011Desc="见识过了最黑暗之处那超乎想象的虚无，因此我再也不敢回顾。"
+tagRelicD012=贝尔戈蒂安的杀戮
+tagRelicD012Desc="我的夜刃兄弟有他们的信条，我也有我的：根本不存在什么无辜者。"
+tagRelicD013=灭绝
+tagRelicD013Desc="天空将被撕裂，火雨将自血红色的天堂降下……"
+tagRelicD014=盾击
+tagRelicD014Desc="没错，你重重地给了我一击，不过只有我才会笑到最后。"
+tagRelicD015=原始本能
+tagRelicD015Desc="前进吧，我的仆从。是时候享用你的盛宴了……"
+tagRelicD016=索拉尔的屠戮
+tagRelicD016Desc="据说没人能驾驭如此强大的力量，所以我将不再为人。"
+tagRelicD017=德里格的灾祸
+tagRelicD017Desc="他们不让你知道的绝密是：生命孱弱无比本是个谬误。"
+tagRelicD018=拜斯迈的主宰
+tagRelicD018Desc="看看他们，这些渺小的玩偶都在我看不见的线绳中亦步亦趋。"
+tagRelicD019=奥莱隆的愤怒
+tagRelicD019Desc="鲜血……痛苦……死亡。还有无法抗拒的隆隆战鼓声。"
+tagRelicD020=曼海尔的壁垒
+tagRelicD020Desc="大地不会忍受什么邪灵或是嗜血的异教徒，奋起抗争保卫她，凯恩世界也将与你同在。"
+tagRelicD021=伊斯坎德拉的均衡
+tagRelicD021Desc="每一个有抱负的人必须学习的第一节课是在我们所有人的原始力量中找到一个平衡。"
+tagRelicD022=剑圣的护符
+tagRelicD022Desc="能够同时持握两把近战武器的象征。"
+tagRelicD023=盗贼的护符
+tagRelicD023Desc="能够同时手持两把手枪进行精准射击的象征。"
+
+#Crafting 锻造
+tagCraftTabArtifactA=遗物
+tagCraftTabArtifactB=护身符、遗物及强大的手工制品。
+tagCraftTabMeleeA=近战武器
+tagCraftTabMeleeB=用来砍杀、击碎类武器，可满足喜欢近身作战的人。
+tagCraftTabRangedA=远程武器
+tagCraftTabRangedB=精选的枪械和弩，以满足喜欢远程作战的人。
+tagCraftTabArmorA=防具及法器
+tagCraftTabArmorB=以各种材料和工艺制作的盾牌、法器和护甲大全。
+tagCraftTabMiscA=饰品及耗材
+tagCraftTabMiscB=混杂的制作技术，有时会超越使用溶炉的锻造。
+
+tagCraftMaterial_RoyalJelly=蜂王浆
+tagCraftMaterial_RoyalJelly_Desc="古安克维亚巨峰浓缩的分泌物，很多人相信它有滋补的功效。"
+tagCraftMaterial_AetherShard=虚化碎片
+tagCraftMaterial_AetherShard_Desc="从虚化结晶上取下的一块巨大的碎片，仍充满着未使用的能量。"
+tagCraftMaterial_AetherCluster=虚化集簇
+tagCraftMaterial_AetherCluster_Desc="一簇浓缩的虚化碎片，喷涌着不稳定的能量。"
+tagCraftMaterial_TaintedBrain=感染大脑
+tagCraftMaterial_TaintedBrain_Desc="扭曲的，伤痕累累的脑组织，被强大的虚灵所控制。"
+tagCraftMaterial_BloodChthon=冥神之血
+tagCraftMaterial_BloodChthon_Desc="虚空之神凝聚的本体。"
+tagCraftMaterial_AncientHeart=远古之心
+tagCraftMaterial_AncientHeart_Desc="它仍在你的袋中以令人惊骇的稳定频率勃动着。"
+tagCraftMaterial_Manticore=蝎尾狮的眼球
+tagCraftMaterial_Mancitore_Desc="强大掠食者的锐眼。"
+tagCraftMaterial_SkeletonKey=骸骨钥匙
+tagCraftMaterial_SkeletonKey_Desc="如果传言是真的，那么这钥匙将能开启几乎任何一扇远古之门。"
+tagCraftMaterial_CultistSeal=冥煞魔印
+tagCraftMaterial_CultistSeal_Desc="冥神的信徒使用这种魔印，来将强大的生物召唤至现实世界。"
+
+tagCraftRandomItemDesc=铁匠能打造一件符合你的等级的附魔装备，该装备至少会是魔法品质的。
+tagCraftComponentDesc=熟练的锻造工艺能出产高品质的材料。
+tagCraftComponentRareDesc=失传已久的卓越锻造技术。
+tagCraftShardBeronathDesc=将钢铁变幻为神兽贝若纳斯的碎片。
+tagCraftRelicDesc=因恐怖黎明而失传的远古锻造技术。
+tagCraftTransmuteDesc=通过炼金术的加热和锻造，稀有材料可以被转化为其他同样罕见的作品。
+tagCraftRandomLegendaryDesc=铁匠把奥术能量注入这些物体来创造具有传奇能力的装备，人物低于50级时将以史诗物品代替。
+tagCraftRandomLegendaryAccessoryDesc=铁匠结合这些设计图中的原始神秘力量打造传奇潜质的物品，低于58级的人物将以史诗物品代替。
+
+tagCraftRandomAxe=附魔斧
+tagCraftRandomBlunt=附魔锤
+tagCraftRandomCrossbow2h=附魔弩
+tagCraftRandomFocus=附魔法器
+tagCraftRandomGun2h=附魔双手枪
+tagCraftRandomShield=附魔盾牌
+tagCraftRandomSword=附魔剑
+tagCraftRandomGun1h=附魔单手枪
+tagCraftRandomAxe2h=附魔双手斧
+tagCraftRandomBlunt2h=附魔双手锤
+tagCraftRandomSword2h=附魔双手剑
+tagCraftRandomCasterWeapon_01=附魔冰霜魔刃
+tagCraftRandomCasterWeapon_02=附魔火焰魔刃
+tagCraftRandomCasterWeapon_03=附魔强酸魔刃
+tagCraftRandomCasterWeapon_04=附魔闪电魔刃
+tagCraftRandomCasterWeapon_05=附魔活力魔刃
+tagCraftRandomCasterWeapon_06=附魔混沌魔刃
+tagCraftRandomCasterWeapon_07=附魔虚化魔刃
+
+tagCraftRandomRing=附魔戒指
+tagCraftRandomNecklace=附魔项链
+tagCraftRandomMedal=附魔勋章
+tagCraftRandomBelt=附魔腰带
+
+tagCraftRandomFeet_Heavy=附魔重型靴鞋
+tagCraftRandomFeet_Light=附魔靴鞋
+tagCraftRandomHands_Heavy=附魔重型手甲
+tagCraftRandomHands_Light=附魔手甲
+tagCraftRandomHead_Caster=附魔施法头盔
+tagCraftRandomHead_Heavy=附魔重型头盔
+tagCraftRandomHead_Light=附魔头盔
+tagCraftRandomLegs_Heavy=附魔重型腿甲
+tagCraftRandomLegs_Light=附魔腿甲
+tagCraftRandomShoulder_Heavy=附魔重型肩甲
+tagCraftRandomShoulder_Light=附魔肩甲
+tagCraftRandomTorso_Caster=附魔施法胸甲
+tagCraftRandomTorso_Heavy=附魔重型胸甲
+tagCraftRandomTorso_Light=附魔胸甲
+
+tagCraftRandomLegendary_Armor=传奇护甲
+tagCraftRandomLegendary_Accessory=传奇佩饰
+tagCraftRandomLegendary_MeleeWeapon=传奇近战武器
+tagCraftRandomLegendary_RangedWeapon=传奇远程武器
+tagCraftRandomLegendary_CasterWeapon=传奇施法武器
+
+
+tagSuppliesIncomplete=部分锻造材料
+tagSuppliesComplete=锻造材料
+tagSuppliesNumber={%s0 - %d1 / %d2}
+tagSuppliesBonus=
+tagSuppliesHelp=[锻造材料用于设计图的打造]
+tagSuppliesError=
+
+
+#Consumables 消耗品
+
+tagScrollDirections=[右击以使用]
+tagUseDirections=[右击以使用]
+
+tagConsumableRoyalJellyBalmBlueprint=药剂配方：^r蜂王浆霜膏
+tagConsumableRoyalJellyBalmBlueprintDesc="流浪者的制药秘诀。"
+tagConsumableBlueprintA01=药剂配方：^r火焰吞饮药膏
+tagConsumableBlueprintA02=药剂配方：^r寒霜护体药膏
+tagConsumableBlueprintA03=药剂配方：^r风暴之拥药膏
+tagConsumableBlueprintA04=药剂配方：^r抗毒药膏
+tagConsumableBlueprintA05=药剂配方：^r血系药膏
+tagConsumableBlueprintA06=药剂配方：^r灵魂之祸药膏
+tagConsumableBlueprintA07=药剂配方：^r死亡之语药膏
+tagConsumableBlueprintA08=药剂配方：^r白霜药膏
+tagConsumableBlueprintA09=药剂配方：^r噬命之油
+tagConsumableBlueprintA10=药剂配方：^r毒牙之油
+tagConsumableBlueprintA11=药剂配方：^r血牙之油
+tagConsumableBlueprintA12=药剂配方：^r奥秘之油
+tagConsumableBlueprintA13=药剂配方：^r先祖药剂
+tagConsumableBlueprintA13Desc="一项涉足禁术的失传技艺。"
+tagConsumableBlueprintA14=药剂配方：^r虚灵药剂
+tagConsumableBlueprintA14Desc="吉尔达姆秘学社提炼的药剂，用来撇除心中一切杂念。"
+tagConsumableBlueprintA15=药剂配方：^r虚空药剂
+tagConsumableBlueprintA15Desc="一种冥神的信徒们常常使用的药剂，使用后能更接近他们的神祇。"
+tagConsumableBlueprintA16=药剂配方：^r追猎药剂
+tagConsumableBlueprintA16Desc="猎人使用的一种合剂，能更好地追踪猎物。"
+tagConsumableBlueprintA17=药剂配方：^r浓缩蜂王浆
+tagConsumableBlueprintA18=药剂配方：^r蜂王浆精华
+tagConsumableBlueprintA19=药剂配方：^r蜂王浆油膏
+tagConsumableBlueprintA19Desc="流浪者的制药秘诀。"
+tagConsumableBlueprintA20=药剂配方：^r蜂王浆药膏
+tagConsumableBlueprintA20Desc="流浪者的制药秘诀。"
+
+tagConsumable_RoyalJellyBalm=蜂王浆霜膏
+tagConsumable_RoyalJellyBalmDesc="沁人心脾的药膏，以浓缩的蜂王浆制成。"
+tagConsumableA01=火焰吞饮药膏
+tagConsumableA01Desc="难闻的混合物，能防止燃烧。"
+tagConsumableA02=寒霜护体药膏
+tagConsumableA02Desc="致密的混合物，拥有一种奇特的温润触感。"
+tagConsumableA03=风暴之拥药膏
+tagConsumableA03Desc="粘稠的混合物，能够偏转闪电之力。"
+tagConsumableA04=抗毒药膏
+tagConsumableA04Desc="闻起来甜甜的混合药剂，能中和掉绝大部分的毒素。"
+tagConsumableA05=血系药膏
+tagConsumableA05Desc="粘稠的混合物，时不时地在黑色与深血红色之间变换着。"
+tagConsumableA06=灵魂之祸药膏
+tagConsumableA06Desc="一种发光的混合物，散发着奇特的暖意。"
+tagConsumableA07=死亡之语药膏
+tagConsumableA07Desc="一种令人感到烦恶的混合物，翻转沸腾着，甚至涂在身上以后依然如此。"
+tagConsumableA08=白霜药膏
+tagConsumableA08Desc="一种油状的混合物，如此的温暖以至于摸上去有些烫手。"
+tagConsumableA09=噬命之油
+tagConsumableA09Desc="一种令人产生烦恶之感的毒剂，旨在吸取目标的生命力。"
+tagConsumableA10=毒牙之油
+tagConsumableA10Desc="混合了几种有毒生物的毒液，再加上少许的蛇人毒液。"
+tagConsumableA11=血牙之油
+tagConsumableA11Desc="一种邪恶的毒剂，能引起目标大量的出血。"
+tagConsumableA12=奥秘之油
+tagConsumableA12Desc="吉尔达姆秘学社使用的混合药剂，旨在增强武器的威力。"
+tagConsumableA13=先祖药剂
+tagConsumableA13Desc="强效的药剂，蕴含着凯恩世界上古魔兽的力量。"
+tagConsumableA14=虚灵药剂
+tagConsumableA14Desc="强效的药剂，蕴含着虚化之力。"
+tagConsumableA15=虚空药剂
+tagConsumableA15Desc="强效的药剂，蕴含着邪恶的血魔法。"
+tagConsumableA16=追猎药剂
+tagConsumableA16Desc="猎人和刺客使用的一种合剂，能更好地追踪猎物。"
+tagConsumableA17=浓缩蜂王浆
+tagConsumableA17Desc="高度浓缩的蜂王浆，能够提神醒脑。"
+tagConsumableA18=蜂王浆精华
+tagConsumableA18Desc="蜂王浆制成的恢复药剂。"
+tagConsumableA19=蜂王浆油膏
+tagConsumableA19Desc="以浓缩的蜂王浆制成的混合物，可以抚平伤痛。"
+tagConsumableA20=蜂王浆药膏
+tagConsumableA20Desc="以浓缩的蜂王浆制成的混合物，可以抚平伤痛。"
+tagConsumableA21=
+tagConsumableA21Desc=
+tagConsumableA22=虚化晶簇
+tagConsumableA22Desc="虚化结晶的大型集簇，散发着奇异的能量。"
+
+tagConsumableF01=石心之油
+tagConsumableF01Desc="一种增强盾牌并减轻其负载的油。"
+tagConsumableF02=蛇人之血药剂
+tagConsumableF02Desc="摔破药瓶，在你周围产生毒云。"
+tagConsumableF03=罗瓦里之油
+tagConsumableF03Desc="来自在古安克维亚游荡的不死生物的毒药。"
+tagConsumableF04=野兽之怒药剂
+tagConsumableF04Desc="摔破药瓶，使你的仆从陷入狂暴。"
+tagConsumableF05=革翅目之油
+tagConsumableF05Desc="一种来自于革翅目虫毒腺的毒药。"
+tagConsumableF06=勇气药剂
+tagConsumableF06Desc="打破药瓶，增强附近所有的盟友。"
+tagConsumableF07=寻心之油
+tagConsumableF07Desc="一种黑色军团刺客所研制的药剂。"
+tagConsumableF08=刀锋守护药剂
+tagConsumableF08Desc="打破药瓶，召唤刀锋漩涡环绕周身。"
+tagConsumableF09=冷血之油
+tagConsumableF09Desc="一种冻结你敌人血液的神秘药剂。"
+tagConsumableF10=寒霜守卫药剂
+tagConsumableF10Desc="打破药瓶，产生一阵冰骨旋风围绕着你。"
+tagConsumableF11=凯蒙的圣油
+tagConsumableF11Desc="由圣父凯蒙亲自施加祝福的神圣之油，点燃你的敌人。"
+tagConsumableF12=凯蒙的愤怒药剂
+tagConsumableF12Desc="打破药瓶，在你周围释放凯蒙的圣怒"
+
+tagConsumable_DevotionReset=净化补药
+tagConsumable_DevotionReset_Desc="清除头脑中的杂念，是一次新的心灵之旅。"
+
+#DLC
+tagDLCA01=幻化: ^w假发
+tagDLCA01Desc="高雅和风尚的定义。"
+tagDLCA02=幻化: ^w侠盗的外套
+tagDLCA02Desc="环游世界的首选穿着。"
+tagDLCA03=幻化: ^y赞助勋章
+tagDLCA03Desc="表彰最忠诚的 (Kickstarter) 伟大众酬活动支持者。"
+tagDLCA04=幻化: ^m勤务勋章
+tagDLCA04Desc="纪念2012年 (Kickstarter) 伟大众筹活动的徽章。"
+tagDLCA05=幻化: ^g老兵勋章
+tagDLCA05Desc="纪念2012年 (Kickstarter) 伟大众筹活动的徽章。"
+tagDLCA06=幻化: ^r士官勋章
+tagDLCA06Desc="纪念2012年 (Kickstarter) 伟大众筹活动的徽章。"
+tagDLCConsumableA01=罐中精灵
+tagDLCConsumableA01Desc="一个人畜无害的精灵，困在了一个罐子里。"
+tagDLCConsumableA01PetSkill01=精灵光环
+tagDLCConsumableA01PetSkill01Desc=精灵以温暖的光芒围绕在你的周围，足以穿透黑暗。
+tagDLCConsumableA02=伯尔维治啤酒
+tagDLCConsumableA02Desc="这酒可不是给软蛋喝的，它可能产生的副作用有：恶心，呕吐，忘了你昨晚在哪儿。"
+
+#ItemNote 阅读记录
+
+tagNoteHelp=[右键点击以阅读]
+tagNoteKnown=[已读过]
+tagNoteExcerpt="{%t}.."
+
+#ItemEnchantment 附魔物品
+
+tagEnchanted=已附魔
+tagEnchantmentName=增幅物
+tagEnchantmentUsable=[右键点击以附魔物品]
+tagEnchantmentUnusable=[无法使用 - 需求未满足]
+tagEnchantmentConfirmation=确定使用这件增幅物？
+tagEnchantmentOverwrite=确定覆盖掉已有的增幅物？
+tagEnchantmentSoulboundConfirmation=确定使用这件增幅物？附魔这件装备会使它变为灵魂绑定。
+tagEnchantmentSoulboundOverwrite=确定覆盖已有的增幅物？附魔这件装备会使它变为灵魂绑定。
+tagEnchantmentSoulboundRemoval=你确定要替换已经存在的增幅物吗？覆盖掉现存的增幅物会移除灵魂绑定状态。
+
+tagEnchantTest=TEST NAME
+tagEnchantTestDesc="测试说明。"^N^w(用于戒指)
+
+tagEnchantA001A=蝎尾狮毒液 I
+tagEnchantA001B=蝎尾狮毒液 II
+tagEnchantA001C=蝎尾狮毒液 III
+tagEnchantA001Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA002A=烈性蝎尾狮毒液 I
+tagEnchantA002B=烈性蝎尾狮毒液 II
+tagEnchantA002C=烈性蝎尾狮毒液 III
+tagEnchantA002Desc="从蝎尾狮身上提取的剧毒，接触即会灼烧皮肤。"^N^w(用于所有双手武器)
+
+tagEnchantA003A=虚空野兽粉末 I
+tagEnchantA003B=虚空野兽粉末 II
+tagEnchantA003C=虚空野兽粉末 III
+tagEnchantA003Desc="从冥煞野兽的干燥残骸上提取的粉末。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA004A=强效虚空野兽粉末 I
+tagEnchantA004B=强效虚空野兽粉末 II
+tagEnchantA004C=强效虚空野兽粉末 III
+tagEnchantA004Desc="从冥煞野兽的干燥残骸上提取的粉末。"^N^w(用于所有双手武器)
+
+tagEnchantA005A=黑铁粉末 I
+tagEnchantA005B=黑铁粉末 II
+tagEnchantA005C=黑铁粉末 III
+tagEnchantA005Desc="只有黑色军团才了解的由钢铁和各种材料混合而成的神秘粉末。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA006A=强效黑铁粉末 I
+tagEnchantA006B=强效黑铁粉末 II
+tagEnchantA006C=强效黑铁粉末 III
+tagEnchantA006Desc="只有黑色军团才了解的由钢铁和各种材料混合而成的神秘粉末。"^N^w(用于所有双手武器)
+
+tagEnchantA007A=虚化尘埃 I
+tagEnchantA007B=虚化尘埃 II
+tagEnchantA007C=虚化尘埃 III
+tagEnchantA007Desc="萃取于虚灵残骸的浓缩盐分"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA008A=强效虚化尘埃 I
+tagEnchantA008B=强效虚化尘埃 II
+tagEnchantA008C=强效虚化尘埃 III
+tagEnchantA008Desc="萃取于虚灵残骸的浓缩盐分"^N^w(用于所有双手武器)
+
+tagEnchantA009A=安克维亚玫瑰粉末 I
+tagEnchantA009B=安克维亚玫瑰粉末 II
+tagEnchantA009C=安克维亚玫瑰粉末 III
+tagEnchantA009Desc="萃取自只生长在古安克维亚巅峰之地的红色花朵粉末。"^N^w(用于戒指和项链)
+
+tagEnchantA010A=腐败花粉 I
+tagEnchantA010B=腐败花粉 II
+tagEnchantA010C=腐败花粉 III
+tagEnchantA010Desc="萃取自一种生长在杀戮和腐败之地的棕灰色花朵的粉末。"^N^w(用于戒指和项链)
+
+tagEnchantA011A=蛇人草粉末 I
+tagEnchantA011B=蛇人草粉末 II
+tagEnchantA011C=蛇人草粉末 III
+tagEnchantA011Desc="提取自生长在沼泽和垃圾堆周围的野草的粉末，散发着腐烂之气。"^N^w(用于戒指和项链)
+
+tagEnchantA012A=风暴之尾蝮蛇毒液 I
+tagEnchantA012B=风暴之尾蝮蛇毒液 II
+tagEnchantA012C=风暴之尾蝮蛇毒液 III
+tagEnchantA012Desc="从一只风暴之尾蝮蛇的毒液小心提取的一种充满火花能量的液体。"^N^w(用于戒指和项链)
+
+tagEnchantA013A=安克维亚骨粉 I
+tagEnchantA013B=安克维亚骨粉 II
+tagEnchantA013C=安克维亚骨粉 III
+tagEnchantA013Desc="来源于被诅咒的安克维亚的骨粉，流浪者先辈们使其能被安全地使用。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA014A=强效安克维亚骨粉 I
+tagEnchantA014B=强效安克维亚骨粉 II
+tagEnchantA014C=强效安克维亚骨粉 III
+tagEnchantA014Desc="来源于被诅咒的安克维亚的骨粉，流浪者先辈们使其能被安全地使用。"^N^w(用于所有双手武器)
+
+tagEnchantA015A=巨魔之疣粉末 I
+tagEnchantA015B=巨魔之疣粉末 II
+tagEnchantA015C=巨魔之疣粉末 III
+tagEnchantA015Desc="取自远古巨魔之疣的粉末。只能戴上手套来取用它。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA016A=强效巨魔之疣粉末 I
+tagEnchantA016B=强效巨魔之疣粉末 II
+tagEnchantA016C=强效巨魔之疣粉末 III
+tagEnchantA016Desc="取自远古巨魔之疣的粉末。只能戴上手套来取用它。"^N^w(用于所有双手武器)
+
+tagEnchantA017A=骨背尖刺 I
+tagEnchantA017B=骨背尖刺 II
+tagEnchantA017C=骨背尖刺 III
+tagEnchantA017Desc="取自于骨背尖刺鼠怪的粗粉。"^N^w(用于戒指和项链)
+
+tagEnchantA018A=蛇人毒液 I
+tagEnchantA018B=蛇人毒液 II
+tagEnchantA018C=蛇人毒液 III
+tagEnchantA018Desc="取自于女性蛇人首领的有毒唾液。"^N^w(用于戒指和项链)
+
+tagEnchantA019A=凝视者之眼 I
+tagEnchantA019B=凝视者之眼 II
+tagEnchantA019C=凝视者之眼 III
+tagEnchantA019Desc="萃取自虚灵凝视者碎裂之眼。"^N^w(用于戒指和项链)
+
+tagEnchantA020A=尸魔触手 I
+tagEnchantA020B=尸魔触手 II
+tagEnchantA020C=尸魔触手 III
+tagEnchantA020Desc="粉末在袋子中不停颤动，好像还活着一样。"^N^w(用于戒指和项链)
+
+tagEnchantA021A=虚空藤曼粉末 I
+tagEnchantA021B=虚空藤曼粉末 II
+tagEnchantA021C=虚空藤曼粉末 III
+tagEnchantA021Desc="萃取自一种在冥界虚空强势散播的蔓藤的粉末。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA022A=强效虚空藤曼粉末 I
+tagEnchantA022B=强效虚空藤曼粉末 II
+tagEnchantA022C=强效虚空藤曼粉末 III
+tagEnchantA022Desc="萃取自一种在冥界虚空强势散播的蔓藤的粉末。"^N^w(用于所有双手武器)
+
+tagEnchantA023A=石牙野猪蹄 I
+tagEnchantA023B=石牙野猪蹄 II
+tagEnchantA023C=石牙野猪蹄 III
+tagEnchantA023Desc="取自破裂的石牙野猪蹄，制作过程包括了用重锤击打多次。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA024A=强效石牙野猪蹄 I
+tagEnchantA024B=强效石牙野猪蹄 II
+tagEnchantA024C=强效石牙野猪蹄 III
+tagEnchantA024Desc="取自破裂的石牙野猪蹄，制作过程包括了用重锤击打多次。"^N^w(用于所有双手武器)
+
+tagEnchantA025A=革翅目甲壳 I
+tagEnchantA025B=革翅目甲壳 II
+tagEnchantA025C=革翅目甲壳 III
+tagEnchantA025Desc="取自革翅目虫甲壳，进行了大量的酸化处理。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA026A=强效革翅目甲壳 I
+tagEnchantA026B=强效革翅目甲壳 II
+tagEnchantA026C=强效革翅目甲壳 III
+tagEnchantA026Desc="取自革翅目虫甲壳，进行了大量的酸化处理。"^N^w(用于所有双手武器)
+
+tagEnchantA027A=唤雨者粉末 I
+tagEnchantA027B=唤雨者粉末 II
+tagEnchantA027C=唤雨者粉末 III
+tagEnchantA027Desc="民间有个关于一种巫术粉末的传说，当村里的萨满用明火将其抛起后，两周内都会持续降雨。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA028A=强效唤雨者粉末 I
+tagEnchantA028B=强效唤雨者粉末 II
+tagEnchantA028C=强效唤雨者粉末 III
+tagEnchantA028Desc="民间有个关于一种巫术粉末的传说，当村里的萨满用明火将其抛起后，两周内都会持续降雨。"^N^w(用于所有双手武器)
+
+tagEnchantA029A=神圣烈焰 I
+tagEnchantA029B=神圣烈焰 II
+tagEnchantA029C=神圣烈焰 III
+tagEnchantA029Desc="凯蒙神选战士在仪式中使用的粉末。当扔在火盆上时，它会爆发出电火花。"^N^w(用于戒指和项链)
+
+tagEnchantA030A=赐福骨灰 I
+tagEnchantA030B=赐福骨灰 II
+tagEnchantA030C=赐福骨灰 III
+tagEnchantA030Desc="取自一位死去的凯蒙神选战士的遗骸。"^N^w(用于戒指和项链)
+
+tagEnchantA031A=献祭纯银 I
+tagEnchantA031B=献祭纯银 II
+tagEnchantA031C=献祭纯银 III
+tagEnchantA031Desc="供奉于神圣火焰之中用来和冥煞战斗的物品。"^N^w(用于戒指和项链)
+
+tagEnchantA032A=仪式用盐 I
+tagEnchantA032B=仪式用盐 II
+tagEnchantA032C=仪式用盐 III
+tagEnchantA032Desc="在妖术仪式中使用的盐，经常洒在仪式圈周围用来避免受到躁动的灵魂的干扰。"^N^w(用于戒指和项链)
+
+tagEnchantA033A=坏死血肉 I
+tagEnchantA033B=坏死血肉 II
+tagEnchantA033C=坏死血肉 III
+tagEnchantA033Desc="取自死亡很久的尸体血肉，用来刺激妖术仪式。"^N^w(用于戒指和项链)
+
+tagEnchantA034A=尘世萦绕 I
+tagEnchantA034B=尘世萦绕 II
+tagEnchantA034C=尘世萦绕 III
+tagEnchantA034Desc="将躁动不安的灵魂用禁术转化为实质形态。"^N^w(用于戒指和项链)
+
+tagEnchantA035A=寒冬花粉 I
+tagEnchantA035B=寒冬花粉 II
+tagEnchantA035C=寒冬花粉 III
+tagEnchantA035Desc="萃取自一种奇怪的淡蓝色花朵，它只在严冬岁月中绽放。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA036A=强效寒冬花粉 I
+tagEnchantA036B=强效寒冬花粉 II
+tagEnchantA036C=强效寒冬花粉 III
+tagEnchantA036Desc="萃取自一种奇怪的淡蓝色花朵，它只在严冬岁月中绽放。"^N^w(用于所有双手武器)
+
+tagEnchantA037A=女巫的粉末 I
+tagEnchantA037B=女巫的粉末 II
+tagEnchantA037C=女巫的粉末 III
+tagEnchantA037Desc="虽然在法律上说是非法的，但很多军团的魔法师都在使用它。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA038A=强效女巫的粉末 I
+tagEnchantA038B=强效女巫的粉末 II
+tagEnchantA038C=强效女巫的粉末 III
+tagEnchantA038Desc="虽然在法律上说是非法的，但很多军团的魔法师都在使用它。"^N^w(用于所有双手武器)
+
+tagEnchantA039A=咒术师的粉末 I
+tagEnchantA039B=咒术师的粉末 II
+tagEnchantA039C=咒术师的粉末 III
+tagEnchantA039Desc="流浪者在各种仪式和冥想会话中使用的粉末。在召唤仪式中有惊人的效果。"^N^w(用于戒指和项链)
+
+tagEnchantA040A=裂隙犬盐 I
+tagEnchantA040B=裂隙犬盐 II
+tagEnchantA040C=裂隙犬盐 III
+tagEnchantA040Desc="萃取自裂隙魔犬首领灼热皮肤的粉末。"^N^w(用于戒指和项链)
+
+tagEnchantA041A=驯兽者的粉末 I
+tagEnchantA041B=驯兽者的粉末 II
+tagEnchantA041C=驯兽者的粉末 III
+tagEnchantA041Desc="霍姆斯特德农民用来驯服野兽的宁神药粉。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantA042A=强效驯兽者的粉末 I
+tagEnchantA042B=强效驯兽者的粉末 II
+tagEnchantA042C=强效驯兽者的粉末 III
+tagEnchantA042Desc="霍姆斯特德农民用来驯服野兽的宁神药粉。"^N^w(用于所有双手武器)
+
+tagEnchantA043A=火焰花粉 I
+tagEnchantA043B=火焰花粉 II
+tagEnchantA043C=火焰花粉 III
+tagEnchantA043Desc="萃取自一种摸起来烫手的花朵，经常在火山附近生长。"^N^w(用于戒指和项链)
+
+tagEnchantA044A=风暴粉末 I
+tagEnchantA044B=风暴粉末 II
+tagEnchantA044C=风暴粉末 III
+tagEnchantA044Desc="一种闪动着闪电打击的原始之力的蓝色粉末。"^N^w(用于戒指和项链)
+
+tagEnchantA045A=束缚尘埃 I
+tagEnchantA045B=束缚尘埃 II
+tagEnchantA045C=束缚尘埃 III
+tagEnchantA045Desc="教团用来束缚不死生物来服从其意志的粉尘。"^N^w(用于戒指和项链)
+
+tagEnchantA046A=冰心粉末 I
+tagEnchantA046B=冰心粉末 II
+tagEnchantA046C=冰心粉末 III
+tagEnchantA046Desc="取自亡灵的粉末。它似乎能从附近的空气中很容易地吸取热量。"^N^w(用于戒指和项链)
+
+tagEnchantB001A=奥格瑞姆的诡诈 I
+tagEnchantB001B=奥格瑞姆的诡诈 II
+tagEnchantB001BC=奥格瑞姆的诡诈 III
+tagEnchantB001Desc="没有人知道帝王的第一把刀剑是如何连结并创造出这种魔法粉末的，但没人质疑它的成果。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB002A=强效奥格瑞姆的诡诈 I
+tagEnchantB002B=强效奥格瑞姆的诡诈 II
+tagEnchantB002BC=强效奥格瑞姆的诡诈 III
+tagEnchantB002Desc="没有人知道帝王的第一把刀剑是如何连结并创造出这种魔法粉末的，但没人质疑它的成果。"^N^w(用于所有双手武器)
+
+tagEnchantB003A=克里德的机敏 I
+tagEnchantB003B=克里德的机敏 II
+tagEnchantB003BC=克里德的机敏 III
+tagEnchantB003Desc="审判者的粉末，只赐予他最信任的盟友，闪耀着秘术火花的能量。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB004A=强效克里德的机敏 I
+tagEnchantB004B=强效克里德的机敏 II
+tagEnchantB004BC=强效克里德的机敏 III
+tagEnchantB004Desc="审判者的粉末，只赐予他最信任的盟友，闪耀着秘术火花的能量。"^N^w(用于所有双手武器)
+
+tagEnchantB005A=奥莱隆的热情 I
+tagEnchantB005B=奥莱隆的热情 II
+tagEnchantB005BC=奥莱隆的热情 III
+tagEnchantB005Desc="一些黑色军团的士兵在冲锋陷阵时高喊着战争之神的名字。这种魔法只赋予了指挥官，被称为向军团的神致敬。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB006A=强效奥莱隆的热情 I
+tagEnchantB006B=强效奥莱隆的热情 II
+tagEnchantB006BC=强效奥莱隆的热情 III
+tagEnchantB006Desc="一些黑色军团的士兵在冲锋陷阵时高喊着战争之神的名字。这种魔法只赋予了指挥官，被称为向军团的神致敬。"^N^w(用于所有双手武器)
+
+tagEnchantB007A=虚化风暴粉末 I
+tagEnchantB007B=虚化风暴粉末 II
+tagEnchantB007BC=虚化风暴粉末 III
+tagEnchantB007Desc="黑色军团的魔法师们认为和敌人战斗的最佳方式是以己之道还施彼身。这种粉末是极少的反被制裁的实验的例子。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB008A=强效虚化风暴粉末 I
+tagEnchantB008B=强效虚化风暴粉末 II
+tagEnchantB008BC=强效虚化风暴粉末 III
+tagEnchantB008Desc="黑色军团的魔法师们认为和敌人战斗的最佳方式是以己之道还施彼身。这种粉末是极少的反被制裁的实验的例子。"^N^w(用于所有双手武器)
+
+tagEnchantB009A=冥神精华 I
+tagEnchantB009B=冥神精华 II
+tagEnchantB009BC=冥神精华 III
+tagEnchantB009Desc="武器涂上了冥煞生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB010A=强效冥神精华 I
+tagEnchantB010B=强效冥神精华 II
+tagEnchantB010BC=强效冥神精华 III
+tagEnchantB010Desc="武器涂上了冥煞生物内脏汁液会变得扭曲并难以辨认，但这正体现了虚空的精髓。"^N^w(用于所有双手武器)
+
+tagEnchantB011A=罗文的智慧 I
+tagEnchantB011B=罗文的智慧 II
+tagEnchantB011BC=罗文的智慧 III
+tagEnchantB011Desc="罗文，安克维亚最后的帝王，也是罗瓦里的创始人，代表了流浪者的智慧。这件魔法物品以此命名来显示对其的尊敬。"^N^w(用于戒指和项链)
+
+tagEnchantB012A=莫格卓根的圣洁 I
+tagEnchantB012B=莫格卓根的圣洁 II
+tagEnchantB012BC=莫格卓根的圣洁 III
+tagEnchantB012Desc="传说在一段时期内，野兽之神莫格卓根，和罗文签订了一个契约，在罗文和他的子民们举起屠刀之前，野兽们不会伤害他们。遗憾的是被虚化的野兽并不受其约束。"^N^w(用于戒指和项链)
+
+tagEnchantB013A=旅行者的恩赐 I
+tagEnchantB013B=旅行者的恩赐 II
+tagEnchantB013BC=旅行者的恩赐 III
+tagEnchantB013Desc="流浪者开始漫长旅程前，长辈们都要准备这项魔法物品来保证旅途安全。"^N^w(用于戒指和项链)
+
+tagEnchantB014A=生命之息 I
+tagEnchantB014B=生命之息 II
+tagEnchantB014BC=生命之息 III
+tagEnchantB014Desc="春天、复生之灵，重获新生的呼吸。"^N^w(用于戒指和项链)
+
+tagEnchantB015A=严冬的寒意 I
+tagEnchantB015B=严冬的寒意 II
+tagEnchantB015BC=严冬的寒意 III
+tagEnchantB015Desc="严冬的真谛，一股改变和清净世界的可怕力量，使一切重新开始。"^N^w(用于戒指和项链)
+
+tagEnchantB016A=罗文的决心 I
+tagEnchantB016B=罗文的决心 II
+tagEnchantB016BC=罗文的决心 III
+tagEnchantB016Desc="罗文，安克维亚最后的帝王，也是罗瓦里的创始人，据说当他在途中听完后放弃了所有的财富。他在困难时期的信念和决心代表了一切，所有流浪者都为之努力。"^w^n(用于戒指和项链)
+
+tagEnchantB017A=幸存者的机敏 I
+tagEnchantB017B=幸存者的机敏 II
+tagEnchantB017BC=幸存者的机敏 III
+tagEnchantB017Desc="由于供应有限，恶魔十字的人们发明了聪明的解决方法来解决一些威胁，包括这些魔法物品。"^N^w(用于戒指和项链)
+
+tagEnchantB018A=幸存者的弹力 I
+tagEnchantB018B=幸存者的弹力 II
+tagEnchantB018BC=幸存者的弹力 III
+tagEnchantB018Desc="当最黑暗的时期来临，人们的求生意志将达到最强。"^N^w(用于戒指和项链)
+
+tagEnchantB019A=幸存者的坚毅 I
+tagEnchantB019B=幸存者的坚毅 II
+tagEnchantB019BC=幸存者的坚毅 III
+tagEnchantB019Desc="随着门阶上的混沌和虚化之力，幸存者们适应了新的威胁。"^N^w(用于戒指和项链)
+
+tagEnchantB020A=凯恩的希望 I
+tagEnchantB020B=凯恩的希望 II
+tagEnchantB020BC=凯恩的希望 III
+tagEnchantB020Desc="正当他们准备防御的时候，幸存者们声称世界将会免受侵略者的迫害。"^N^w(用于戒指和项链)
+
+tagEnchantB021A=元素之歌 I
+tagEnchantB021B=元素之歌 II
+tagEnchantB021BC=元素之歌 III
+tagEnchantB021Desc="萨蒂娜，灵魂向导，他设计了这件包含了冰与火冲突之力的魔法物品。"^N^w(用于戒指和项链)
+
+tagEnchantB022A=维洛丝的叮咬 I
+tagEnchantB022B=维洛丝的叮咬 II
+tagEnchantB022BC=维洛丝的叮咬 III
+tagEnchantB022Desc="传说中的蛇人首领维洛丝，制作了具有超凡毒性的汁液。巴纳巴斯发现了将其转化为粉末的方法，提供给愿意为恶魔十字战斗的人们。"^N^w(用于戒指和项链)
+
+tagEnchantB023A=督军的凝视 I
+tagEnchantB023B=督军的凝视 II
+tagEnchantB023BC=督军的凝视 III
+tagEnchantB023Desc="卡斯帕罗夫对实验有着无尽的耐性，在他试着将虚灵督军的眼睛转换为炸药的时候，偶然的发现了它的特殊用途。"^N^w(用于戒指和项链)
+
+tagEnchantB024A=自然的丰获 I
+tagEnchantB024B=自然的丰获 II
+tagEnchantB024BC=自然的丰获 III
+tagEnchantB024Desc="一些农民希望能得到一次丰收，他们知道怎么用神奇的魔法达到这种效果。当应用到武器上时，这种疯狂的生长力量证实对血肉之躯是一种灾难。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB025A=强效自然的丰获 I
+tagEnchantB025B=强效自然的丰获 II
+tagEnchantB025BC=强效自然的丰获 III
+tagEnchantB025Desc="一些农民希望能得到一次丰收，他们知道怎么用神奇的魔法达到这种效果。当应用到武器上时，这种疯狂的生长力量证实对血肉之躯是一种灾难。"^N^w(用于所有双手武器)
+
+tagEnchantB026A=日阳之辉 I
+tagEnchantB026B=日阳之辉 II
+tagEnchantB026BC=日阳之辉 III
+tagEnchantB026Desc="魔法粉末之中困着太阳的力量。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB027A=强效日阳之辉 I
+tagEnchantB027B=强效日阳之辉 II
+tagEnchantB027BC=强效日阳之辉 III
+tagEnchantB027Desc="魔法粉末之中困着太阳的力量。"^N^w(用于所有双手武器)
+
+tagEnchantB028A=曼海尔的祝福 I
+tagEnchantB028B=曼海尔的祝福 II
+tagEnchantB028BC=曼海尔的祝福 III
+tagEnchantB028Desc="据说被曼海尔祝福过的土地都获得了丰收。当正确使用时，这项祝福可以延伸至工具、房屋以及武器。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB029A=强效曼海尔的祝福 I
+tagEnchantB029B=强效曼海尔的祝福 II
+tagEnchantB029BC=强效曼海尔的祝福 III
+tagEnchantB029Desc="据说被曼海尔祝福过的土地都带来了丰收。当正确使用时，这项祝福可以延伸至工具、房屋以及武器。"^N^w(用于所有双手武器)
+
+tagEnchantB030A=凯蒙的意志 I
+tagEnchantB030B=凯蒙的意志 II
+tagEnchantB030BC=凯蒙的意志 III
+tagEnchantB030Desc="凯蒙，被天神选中的人，被授予了超越名利和意志的超凡地位。"^N^w(用于戒指和项链)
+
+tagEnchantB031A=凯蒙的愤怒 I
+tagEnchantB031B=凯蒙的愤怒 II
+tagEnchantB031BC=凯蒙的愤怒 III
+tagEnchantB031Desc="那些看见凯蒙战斗的人说他对天神们发出了复仇的怒火。"^N^w(用于戒指和项链)
+
+tagEnchantB032A=凯蒙的远见 I
+tagEnchantB032B=凯蒙的远见 II
+tagEnchantB032BC=凯蒙的远见 III
+tagEnchantB032Desc="凯蒙关于凯恩未来的预见使得神选战士们在和凯恩的敌人们战斗时陷入了疯狂。"^N^w(用于戒指和项链)
+
+tagEnchantB033A=尤若布鲁克的话语 I
+tagEnchantB033B=尤若布鲁克的话语 II
+tagEnchantB033BC=尤若布鲁克的话语 III
+tagEnchantB033Desc="在早先的一些训练中，尤若布鲁克大师握着他在尸体上面的手臂，只能说出一个字：起来。"^N^w(用于戒指和项链)
+
+tagEnchantB034A=尤若布鲁克的苦痛 I
+tagEnchantB034B=尤若布鲁克的苦痛 II
+tagEnchantB034BC=尤若布鲁克的苦痛 III
+tagEnchantB034Desc="尤若布鲁克大师在安克维亚人手中承受了难以现象的痛苦。这件可怕的魔法物品试图复制其苦难。"^N^w(用于戒指和项链)
+
+tagEnchantB035A=尤若布鲁克之道 I
+tagEnchantB035B=尤若布鲁克之道 II
+tagEnchantB035BC=尤若布鲁克之道 III
+tagEnchantB035Desc="追随尤若布鲁克的道路即是寻求知识之路，无论路在何方。"^N^w(用于戒指和项链)
+
+tagEnchantB036A=放逐者的强权 I
+tagEnchantB036B=放逐者的强权 II
+tagEnchantB036BC=放逐者的强权 III
+tagEnchantB036Desc="由放逐者设计的至强增幅物，令使用者有如神助。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB037A=强效放逐者的强权 I
+tagEnchantB037B=强效放逐者的强权 II
+tagEnchantB037BC=强效放逐者的强权 III
+tagEnchantB037Desc="由放逐者设计的至强增幅物，令使用者有如神助。"^N^w(用于所有双手武器)
+
+tagEnchantB038A=放逐者的冻伤 I
+tagEnchantB038B=放逐者的冻伤 II
+tagEnchantB038BC=放逐者的冻伤 III
+tagEnchantB038Desc="由放逐者设计的至强增幅物，令使用者精通寒冰之力。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB039A=强效放逐者的冻伤 I
+tagEnchantB039B=强效放逐者的冻伤 II
+tagEnchantB039BC=强效放逐者的冻伤 III
+tagEnchantB039Desc="由放逐者设计的至强增幅物，令使用者精通寒冰之力。"^N^w(用于所有双手武器)
+
+tagEnchantB040A=放逐者的炼狱 I
+tagEnchantB040B=放逐者的炼狱 II
+tagEnchantB040BC=放逐者的炼狱 III
+tagEnchantB040Desc="由放逐者设计的至强增幅物，令使用者精通炼狱之火。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB041A=强效放逐者的炼狱 I
+tagEnchantB041B=强效放逐者的炼狱 II
+tagEnchantB041BC=强效放逐者的炼狱 III
+tagEnchantB041Desc="由放逐者设计的至强增幅物，令使用者精通炼狱之火。"^N^w(用于所有双手武器)
+
+tagEnchantB042A=放逐者的雷霆 I
+tagEnchantB042B=放逐者的雷霆 II
+tagEnchantB042BC=放逐者的雷霆 III
+tagEnchantB042Desc="由放逐者设计的至强增幅物，令使用者精通天堂之力。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB043A=强效放逐者的雷霆 I
+tagEnchantB043B=强效放逐者的雷霆 II
+tagEnchantB043BC=强效放逐者的雷霆 III
+tagEnchantB043Desc="由放逐者设计的至强增幅物，令使用者精通天堂之力。"^N^w(用于所有双手武器)
+
+tagEnchantB044A=放逐者的毒液 I
+tagEnchantB044B=放逐者的毒液 II
+tagEnchantB044BC=放逐者的毒液 III
+tagEnchantB044Desc="由放逐者设计的至强增幅物，令使用者精通毒素运用。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB045A=强效放逐者的毒液 I
+tagEnchantB045B=强效放逐者的毒液 II
+tagEnchantB045BC=强效放逐者的毒液 III
+tagEnchantB045Desc="由放逐者设计的至强增幅物，令使用者精通毒素运用。"^N^w(用于所有双手武器)
+
+tagEnchantB046A=放逐者的死触 I
+tagEnchantB046B=放逐者的死触 II
+tagEnchantB046BC=放逐者的死触 III
+tagEnchantB046Desc="由放逐者设计的至强增幅物，令使用者掌握生命精华。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB047A=强效放逐者的死触 I
+tagEnchantB047B=强效放逐者的死触 II
+tagEnchantB047BC=强效放逐者的死触 III
+tagEnchantB047Desc="由放逐者设计的至强增幅物，令使用者掌握生命精华。"^N^w(用于所有双手武器)
+
+tagEnchantB048A=放逐者的愤怒 I
+tagEnchantB048B=放逐者的愤怒 II
+tagEnchantB048BC=放逐者的愤怒 III
+tagEnchantB048Desc="由放逐者设计的至强增幅物，令使用者精通虚化之力。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB049A=强效放逐者的愤怒 I
+tagEnchantB049B=强效放逐者的愤怒 II
+tagEnchantB049BC=强效放逐者的愤怒 III
+tagEnchantB049Desc="由放逐者设计的至强增幅物，令使用者精通虚化之力。"^N^w(用于所有双手武器)
+
+tagEnchantB050A=放逐者的裂风 I
+tagEnchantB050B=放逐者的裂风 II
+tagEnchantB050BC=放逐者的裂风 III
+tagEnchantB050Desc="由放逐者设计的至强增幅物，令使用者精通混乱虚空之力。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB051A=强效放逐者的裂风 I
+tagEnchantB051B=强效放逐者的裂风 II
+tagEnchantB051BC=强效放逐者的裂风 III
+tagEnchantB051Desc="由放逐者设计的至强增幅物，令使用者精通混乱虚空之力。"^N^w(用于所有双手武器)
+
+tagEnchantB052A=放逐者的壁垒 I
+tagEnchantB052B=放逐者的壁垒 II
+tagEnchantB052BC=放逐者的壁垒 III
+tagEnchantB052Desc="由放逐者设计的至强增幅物，令使用者的皮肤犹如钢铁。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB053A=强效放逐者的壁垒 I
+tagEnchantB053B=强效放逐者的壁垒 II
+tagEnchantB053BC=强效放逐者的壁垒 III
+tagEnchantB053Desc="由放逐者设计的至强增幅物，令使用者的皮肤犹如钢铁。"^N^w(用于所有双手武器)
+
+tagEnchantB054A=自然之怒 I
+tagEnchantB054B=自然之怒 II
+tagEnchantB054C=自然之怒 III
+tagEnchantB054Desc="毒药和毒素的强力混合物，只有流浪者能掌握，也只在极端环境中使用。"^N^w(用于戒指和项链)
+
+tagEnchantB055A=复仇之魂 I
+tagEnchantB055B=复仇之魂 II
+tagEnchantB055C=复仇之魂 III
+tagEnchantB055Desc="从安克维亚废墟中捕获的邪恶复仇之灵。坩埚内部被刻上了保护性的符文。"^N^w(用于戒指和项链)
+
+tagEnchantB056A=幸存者的同盟 I
+tagEnchantB056B=幸存者的同盟 II
+tagEnchantB056C=幸存者的同盟 III
+tagEnchantB056Desc="当盟友很少的时候，野兽伙伴是唯一值得信任的朋友。"^N^w(用于戒指和项链)
+
+tagEnchantB057A=兽王的呼唤 I
+tagEnchantB057B=兽王的呼唤 II
+tagEnchantB057BC=兽王的呼唤 III
+tagEnchantB057Desc="霍姆斯特德的人们用来祝福他们兽群的一种调和剂。"^N^w(用于所有单手武器、盾牌和副手)
+
+tagEnchantB058A=强效兽王的呼唤 I
+tagEnchantB058B=强效兽王的呼唤 II
+tagEnchantB058BC=强效兽王的呼唤 III
+tagEnchantB058Desc="霍姆斯特德的人们用来祝福他们兽群的一种调和剂。"^N^w(用于所有双手武器)
+
+tagEnchantB059A=莫格卓根的祝福 I
+tagEnchantB059B=莫格卓根的祝福 II
+tagEnchantB059C=莫格卓根的祝福 III
+tagEnchantB059Desc="据说是由野兽之神亲自施加祝福来增强人与野兽之间联系的粉末。"^N^w(用于戒指和项链)
+
+tagEnchantB060A=至高神的触摸 I
+tagEnchantB060B=至高神的触摸 II
+tagEnchantB060C=至高神的触摸 III
+tagEnchantB060Desc="由光明使者触碰过的闪动着火花的粉末。"^N^w(用于戒指和项链)
+
+tagEnchantB061A=炼狱粉尘 I
+tagEnchantB061B=炼狱粉尘 II
+tagEnchantB061C=炼狱粉尘 III
+tagEnchantB061Desc="燃烧着至高神怒火的魔法粉末。"^N^w(用于戒指和项链)
+
+tagEnchantB062A=马卡达尔的寒意 I
+tagEnchantB062B=马卡达尔的寒意 II
+tagEnchantB062C=马卡达尔的寒意 III
+tagEnchantB062Desc="马卡达尔创造的魔法粉末，他是教团的第一名核心成员。"^N^w(用于戒指和项链)
+
+tagEnchantB063A=守护者的结尘 I
+tagEnchantB063B=守护者的结尘 II
+tagEnchantB063C=守护者的结尘 III
+tagEnchantB063Desc="守卫者制造的将最强的不死仆从与自身绑定的粉尘。"^N^w(用于戒指和项链)
+
+tagEnchantC001A=人族的监视
+tagEnchantC001Desc="由军团奥术师所制作的保护士兵免受虚灵和冥煞伤害的粉末。"^N^w(用于所有护甲)
+tagEnchantC002A=皇家护卫粉末
+tagEnchantC002Desc="源自皇室行装而被恰当的命名，但人们发现在战斗中同样很有价值。"^N^w(用于所有护甲)
+
+tagEnchantC003A=恶毒守卫粉末
+tagEnchantC003Desc="从几种野兽和植物发源地萃取的致命毒素。"^N^w(用于所有护甲)
+tagEnchantC004A=暗夜之影粉末
+tagEnchantC004Desc="萃取自阿斯特堪的暗影花瓣，这是一种只在月光下绽放的花朵。"^N^w(用于所有护甲)
+
+tagEnchantC005A=刀锋护卫粉末
+tagEnchantC005Desc="考虑到他们抵制暴力的誓言，流浪者们必须随时创造出可选的方法来应对这个世界的危险。"^N^w(用于所有护甲)
+tagEnchantC006A=莫格卓根的触摸
+tagEnchantC006Desc="来自野兽之神的祝福，使其追随者们免受自然的复仇。"^N^w(用于所有护甲)
+
+tagEnchantC007A=火焰编织粉尘
+tagEnchantC007Desc="取自于被太阳晒黑的蝎尾狮骨头，通常用来增强护甲的抗火能力。"^N^w(用于所有护甲)
+tagEnchantC008A=日阳风暴粉尘
+tagEnchantC008Desc="这种特殊粉末只能在日食环境下混合调制出来，以保证它不会失去奥术能量，从而变得和普通灰尘一样。"^N^w(用于所有护甲)
+
+tagEnchantC009A=凯蒙的祝福
+tagEnchantC009Desc="圣父凯蒙亲自祝福的保护他的随从免受至高神烈焰灼烧的神秘粉尘。"^N^w(用于所有护甲)
+tagEnchantC010A=凯蒙的引线
+tagEnchantC010Desc="圣父凯蒙创造的引导闪电远离佩带者心脏的魔法粉尘。"^N^w(用于所有护甲)
+tagEnchantC011A=恶魔之祸粉末
+tagEnchantC011Desc="神选牧师所创造的保护盟友免受虚灵生物侵害的魔法粉末。"^N^w(用于所有护甲)
+
+tagEnchantC012A=幽魂之触粉末
+tagEnchantC012Desc="灌注了被抓获的幽灵精髓的魔法粉尘。"^N^w(用于所有护甲)
+tagEnchantC013A=灵魂向导粉末
+tagEnchantC013Desc="取自已故亡灵巫师骨灰的魔法粉尘。"^N^w(用于所有护甲)
+tagEnchantC014A=符咒守护者粉末
+tagEnchantC014Desc="教团高等级的熟练秘术师制造了这种粉末来保护盟友免受秘术仪式伤害。"^N^w(用于所有护甲)
+
+tagEnchantC015A=放逐者的守护粉末
+tagEnchantC015Desc="放逐者对于奥术的精通使得他们能制作出即便是最虚弱的人也能保护其抗衡虚化破坏之力的粉末。"^N^w(用于所有护甲)
+tagEnchantC016A=放逐者的元素平衡
+tagEnchantC016Desc="放逐者制作的特殊粉末，能够保护使用者免受冰火元素冲突之力的影响。"^N^w(用于所有护甲)
+tagEnchantC017A=放逐者的天佑粉末
+tagEnchantC017Desc="放逐者制作的特殊粉末，帮助使用者抵抗天空法术。"^N^w(用于所有护甲)
+
+
+
+#ItemComponents 部件
+
+tagComponentIncomplete=镶嵌物碎片
+tagComponentComplete=镶嵌物
+tagComponentNumber={%s0 - %d1 / %d2}
+tagComponentNumberRare={%s0}{%s1 - %d2 / %d3}
+tagComponentBonus=完整镶嵌物奖励：
+tagComponentQualities=镶嵌物品质：
+tagComponentHelp=[右键点击以镶嵌或组合]
+tagComponentError=[无法使用 - 需求未满足]
+tagComponentCombine=[右键点击以组合]
+tagComponentConfirmation=你确定要完成这个组合吗？
+
+tagCompA001Name=尖刺外壳
+tagCompA001Desc="布满锯齿状尖刺的厚重甲壳"^N^w(用于所有护甲)
+
+tagCompA002Name=防弹甲片
+tagCompA002Desc="用来抵御箭头和子弹的古老盔甲的碎片。"^N^w(用于胸部护甲)
+
+tagCompA003Name=神圣之骨
+tagCompA003Desc="牺牲在圣战中的骑士身上经过净化的骨头。"^N^w(用于胸部和头部护甲)
+
+tagCompA004Name=坚韧兽皮
+tagCompA004Desc="厚厚的兽皮，粗糙的表面非常适合用来吸收突如其来的冲击。"^N^w(用于头部护甲)
+
+tagCompA005Name=符文之石
+tagCompA005Desc="被一种神秘符文修饰过的石头。"^N^w(用于头部护甲)
+
+tagCompA006Name=突变脓水
+tagCompA006Desc="从感染了异世界能量的生物身上取得。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA007Name=腐坏之心
+tagCompA007Desc="受死灵法术影响而不再勃动的枯萎心脏。"^N^w(用于胸部护甲)
+
+tagCompA008Name=突变鳞片
+tagCompA008Desc="因暴露在虚灵能量下产生了突变，这种鳞片变得异常厚重和坚硬。"^N^w(用于肩部、胸部、腿部和手部护甲)
+
+tagCompA009Name=尸体尘埃
+tagCompA009Desc="从死尸身上提炼来的尘埃，经常用于释放魔法和妖术。"^N^w(用于戒指、项链和勋章)
+
+tagCompA010Name=灵魂碎片
+tagCompA010Desc="传闻说这是猎魔人用来困住邪魔的魔法宝石。"^N^w(用于戒指、项链和勋章)
+
+tagCompA011Name=虚灵凝质
+tagCompA011Desc="这种胶状残留物通常是由非有形实体的怪物分泌出来的。"^N^w(用于头部护甲、戒指、项链和勋章)
+
+tagCompA012Name=赐福钢铁
+tagCompA012Desc="受到曼海尔麾下的牧师赐福的钢铁，用来驱逐不断侵袭的黑暗。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA013Name=毒液尖牙
+tagCompA013Desc="滴着毒液的尖牙。"^N^w(用于近战武器)
+
+tagCompA014Name=纯净之盐
+tagCompA014Desc="被提炼用来驱除和威慑异世界恶魔的盐岩。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA015Name=中空之牙
+tagCompA015Desc="弯曲的牙齿，用来汲取生命力。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA016Name=断裂之爪
+tagCompA016Desc="从猛兽的肢体上断下来的利爪。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA017Name=灌魔银粉
+tagCompA017Desc="被灌注了强大魔力的银色粉末。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA018Name=恶毒尖刺
+tagCompA018Desc="从非自然生物身上得来的尖刺。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA019Name=辐光宝石
+tagCompA019Desc="发光的宝石，随着不同的元素而闪烁着。"^N^w(用于盾牌和副手)
+
+tagCompA020Name=克邪弹药
+tagCompA020Desc="神力加持的子弹，给敢于渎神者以极大的痛苦。"^N^w(用于枪、弩和副手)
+
+tagCompA021Name=死寒箭矢
+tagCompA021Desc="给敌人带去死亡般的寒冷。"^N^w(用于枪、弩和副手)
+
+tagCompA022Name=虚化之魂
+tagCompA022Desc="含有能量，震颤着的石头。在物质位面被杀死的虚灵通常会留下这种石头。"^N^w(用于项链和勋章)
+
+tagCompA023Name=坚硬外壳
+tagCompA023Desc="坚硬的外壳，似乎对冲击免疫。"^N^w(用于所有护甲)
+
+tagCompA024Name=熔岩皮肤
+tagCompA024Desc="一块厚厚的皮层，来自于一种浑身冒火的生物。"^N^w(用于所有护甲)
+
+tagCompA025Name=魔法火石
+tagCompA025Desc="通过和武器摩擦，这种被施了魔法的火石能够将火之精魂附在武器身上。"^N^w(用于近战武器、盾牌和副手)
+
+tagCompA026Name=冰寒之石
+tagCompA026Desc="民间传说中，这种既神秘又散发着寒冷的石头是游魂的心脏。"^N^w(用于近战武器、盾牌和副手)
+
+tagCompA027Name=琥珀晶石
+tagCompA027Desc="据说有时候，当树木遭到雷击，风暴之灵会被困在树木结晶的汁液之中。"^N^w(用于近战武器、盾牌和副手)
+
+tagCompA028Name=强酸结石
+tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。"^N^w(用于近战武器、盾牌和副手)
+
+tagCompA029Name=赐福磨石
+tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。"^N^w(用于斧和剑)
+
+tagCompA030Name=丝绸残片
+tagCompA030Desc="西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。"^N^w(用于肩部、胸部和腿部护甲)
+
+tagCompA031Name=鳞状兽皮
+tagCompA031Desc="这种致密却轻便的鳞片能被附加在盔甲上以提供额外的防护。"^N^w(用于肩部、胸部和腿部护甲)
+
+tagCompA032Name=燧石弹药
+tagCompA032Desc="被施了魔法的燧石，表面迸发着火焰。"^N^w(用于枪、弩和副手)
+
+tagCompA033Name=浸毒弹药
+tagCompA033Desc="子弹的尖端涂抹着来自于一种动物毒囊的毒液。"^N^w(用于枪、弩和副手)
+
+tagCompA034Name=旅者标记
+tagCompA034Desc="旅行者在穿越荒野的时候使用这种标记，这样就不会被兽神莫格卓根错认成猎人。"^N^w(用于足部护甲)
+
+tagCompA035Name=神圣裹布
+tagCompA035Desc="冥煞邪教徒所使用的血迹斑斑的裹布。"^N^w(用于手部护甲)
+
+tagCompA036Name=躁动遗骸
+tagCompA036Desc="生前倍受折磨，死后不愿安息。"^N^w(用于手部护甲)
+
+tagCompA037Name=茂密毛皮
+tagCompA037Desc="厚实的毛皮，用来应对冬季的严寒再合适不过了。"^N^w(用于所有护甲)
+
+tagCompA038Name=锯齿尖刺
+tagCompA038Desc="野兽身上的尖刺，脆弱却异常的锋利。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA039Name=灼热余烬
+tagCompA039Desc="不灭的余烬，来自于被烧毁殆尽的家园。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA040Name=淬火钢铁
+tagCompA040Desc="这块钢铁被灌注了寒冬之风。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA041Name=破裂磁石
+tagCompA041Desc="表面闪烁着能量的火花。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA042Name=破碎之爪
+tagCompA042Desc="从残忍的掠食者身上掉下的爪。它终于遇到了对手。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompA043Name=除锈甲片
+tagCompA043Desc="从废旧的铠甲上取下来的盔甲片。"^N^w(用于所有护甲)
+
+tagCompA044Name=粗硬毛皮
+tagCompA044Desc="来自一种非自然魔兽的厚厚的毛皮"^N^w(用于所有护甲)
+
+tagCompA045Name=弹性甲片
+tagCompA045Desc="从经历了无数战斗的盔甲上取下的甲片，看来让它退役还早得很。"^N^w(用于盾牌、副手、胸部和肩部护甲)
+
+tagCompA046Name=抛光翡翠
+tagCompA046Desc="纯净的宝石，抛光后已臻完美。"^N^w(用于盾牌、副手、戒指、头部和胸部护甲)
+
+tagCompA047Name=冰封之心
+tagCompA047Desc="永远地被包裹在黑冰之中。"^N^w(用于戒指)
+
+tagCompA048Name=翻腾鲜血
+tagCompA048Desc="沸腾着曾经激发它的怒火。"^N^w(用于戒指、项链和勋章)
+
+tagCompA049Name=守护之石
+tagCompA049Desc="蚀刻有古老的守护符文的石头。"^N^w(用于项链和勋章)
+
+tagCompA050Name=聚焦棱镜
+tagCompA050Desc="奥术师在特殊的重要仪式中使用它来引导能量。"^N^w(用于项链)
+
+tagCompA051Name=黑色油脂
+tagCompA051Desc="冥煞仪式中蜡烛燃烧的油脂。"^N^w(用于项链和勋章)
+
+tagCompA052Name=复仇之魂
+tagCompA052Desc="复仇的灵魂。"^N^w(用于戒指、项链和勋章)
+
+tagCompA053Name=幻象印记
+tagCompA053Desc="象征着力量的符号，许多铭文中都会使用它。"^N^w(用于戒指和项链)
+
+tagCompA054Name=凶狠下颚
+tagCompA054Desc="野兽的下颌骨，如同刺棒一般。"^N^w(用于项链和勋章)
+
+tagCompA055Name=愤怒之石
+tagCompA055Desc="震动不止，不近活物。"^N^w(用于近战武器、盾牌和副手)
+
+tagCompA056Name=裂隙之石
+tagCompA056Desc="充满了虚空中的原始能量。"^N^w(用于近战武器、盾牌和副手)
+
+tagCompA057Name=虚钢弹药
+tagCompA057Desc="用虚化怪物身上的精华增强过的子弹。"^N^w(用于枪、弩和副手)
+
+tagCompA058Name=虚触弹药
+tagCompA058Desc="浸染了冥煞的鲜血。"^N^w(用于枪、弩和副手)
+
+tagCompA059Name=强固外壳
+tagCompA059Desc="几乎不可能被穿透的外壳，能够吸收无数次的打击。"^N^w(用于盾牌)
+
+tagCompA060Name=磨损外壳
+tagCompA060Desc="承受了难以想象之多次数的打击，这枚外壳依然坚硬如初。"^N^w(用于盾牌)
+
+tagCompA061Name=抗毒血清
+tagCompA061Desc="来自巨毒生物的中和胆汁。"^N^w(用于所有护甲)
+
+tagCompA062Name=锯齿外壳
+tagCompA062Desc="坚硬的甲壳，上面长有成串锯齿状锋利的尖刺。"^N^w(用于盾牌)
+
+
+tagCompB001Name=^k拜斯迈之缚
+tagCompB001Desc="拜斯迈的女巫组织运用魔法编织出的缚魂之物，用来加强对召唤生物的控制。"^N^w(用于胸部护甲)
+
+tagCompB002Name=^k奥莱隆之链
+tagCompB002Desc="挣断的锁链，它曾束缚着神祇奥莱隆的愤怒。"^N^w(用于胸部护甲)
+
+tagCompB003Name=^k神圣之土
+tagCompB003Desc="象征着大地之神曼海尔的曼海尔底部的泥土。"^N^w(用于胸部护甲)
+
+tagCompB004Name=^k棱光钻石
+tagCompB004Desc="钻石的核心闪耀着无尽的能量。"^N^w(用于头部护甲)
+
+tagCompB005Name=^k魔力织物
+tagCompB005Desc="从覆盖着强大魔法的尸衣上切下来的一段织物。"^N^w(用于手部护甲)
+
+tagCompB006Name=^k邪恶铭文
+tagCompB006Desc="用古代语言书写的词句，蕴含着强大的力量。凡人无法习得这种语言。"^N^w(用于手部护甲)
+
+tagCompB007Name=^k远古甲片
+tagCompB007Desc="来自于曾经坚固无比的铠甲。"^N^w(用于胸部和腿部护甲)
+
+tagCompB008Name=^k奥术透镜
+tagCompB008Desc="它能揭示出宇宙中奥术洪流的轨迹。"^N^w(用于项链)
+
+tagCompB009Name=^k魔触弹药
+tagCompB009Desc="灌注以天谴之火。"^N^w(用于枪、弩和副手)
+
+tagCompB010Name=^k银核弹药
+tagCompB010Desc="涤荡邪恶，毫发无损。"^N^w(用于枪、弩和副手)
+
+tagCompB011Name=^k索拉尔印记
+tagCompB011Desc="索拉尔的信徒使用的绝密符号，用来识别是否是自己人。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompB012Name=^k德里格印记
+tagCompB012Desc="铭文刻画了一只无睑的眼睛，滴落着血之泪。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompB013Name=^k附魂钢铁
+tagCompB013Desc="禁锢其中的魂灵让你满脑子都是疯狂的私语。"^N^w(用于所有武器、盾牌和副手)
+
+tagCompB014Name=^k贝若纳斯碎片
+tagCompB014Desc="虽然只是传说中的神剑贝若纳斯的一个碎片，但仍残留着强大的力量。"^N^w(用于近战武器)
+
+tagCompB015Name=^k血腥磨石
+tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发兵刃对鲜血无比的饥渴。"^N^w(用于斧和剑)
+
+tagCompB016Name=^k共鸣磁石
+tagCompB016Desc="生成于风暴雷电之中，这些稀有且威力强大的石头上仍然回响着孕育它们的雷电之力。"^N^w(用于项链和勋章)
+
+tagCompB017Name=^k莫格卓根印记
+tagCompB017Desc="兽神莫格卓根麾下德鲁伊教徒佩戴的隐秘徽章。"^N^w(用于足部护甲)
+
+tagCompB018Name=^k恐惧头骨
+tagCompB018Desc="当刺客完成了极为危险的赏金任务后授予他的徽章。"^N^w(用于项链和勋章)
+
+tagCompB019Name=^k奥术火花
+tagCompB019Desc="闪耀着最纯粹的奥术能量。"^N^w(用于项链和勋章)
+
+tagCompB020Name=^k追随者印记
+tagCompB020Desc="蕴含着强大力量的徽章，授予战场上最勇猛无畏的部将。"^N^w(用于盾牌)
+
+tagCompB021Name=^k奥莱隆的血
+tagCompB021Desc="战神的圣血。"^N^w(用于所有武器)
+
+tagCompB022Name=^k基利安的碎魂
+tagCompB022Desc="基利安腐化的灵魂，安克维亚地下城的恐惧之源。"^N^w(用于胸部护甲)
+
+
+tagCompAetherCrystal=虚化结晶
+tagCompAetherCrystalDesc="水晶般的碎片，虚灵的能量依然驻留其中。可以用来打造魔法物品。"
+
+tagCompAmmoBox=弹药匣
+tagCompAmmoBoxDesc="反抗组织总会用更多的枪弹来击退侵袭凯恩世界的黑暗势力。"
+
+tagCompAScrap=废料
+tagCompAScrapDesc="诸如铁钉、皮革、绳索及旧金属等，可用于连结加固物品或构件。"
+
+#ItemDifficultyUnlock 难度解锁物品
+tagDifficultyUnlock={^E}已解锁 {%s0} 难度
+tagDifficultyAlreadyUnlocked=你已经解锁此难度
+tagDifficultyUnlockDLC=你不具备与此物品相关的DLC
+
+#ItemFactionBoosters
+
+tagFactionBooster={^E}获得{%s1}的声望提升{^H}{%d0}%
+tagFactionAlreadyBoosted={^r}[已经应用过此势力的委任状]
+
+tagFactionNegativeBooster={^E}从{%s1}势力获得的敌意提升{^H}{%d0}%
+tagFactionAlreadyNegativeBoosted={^r}[已使用过对该势力的缉捕令]
+
+tagFactionMandateConfirmation=你确定要使用该势力的委任状吗？{^N}这将取代当前势力的声望。
+tagFactionWarrantConfirmation=你确定要使用该势力的命令吗？{^N}这将取代当前势力的敌意。
+
+tagBoosterADesc=势力颁发的文书，将你视作该势力的盟友。
+tagBoosterBDesc=势力颁发的文书，委任某个个体作为他们的代表。{^N}^o可以放置在共享仓库中以便供其他人物使用。不能堆叠令状类用品。
+tagBoosterCDesc=针对你的死敌发出的通缉令。
+tagBoosterBL_A01=黑色军团的敕令
+tagBoosterBL_A02=黑色军团的高级敕令
+tagBoosterBL_B01=黑色军团的委任状
+tagBoosterBL_B02=黑色军团的高阶委任状
+tagBoosterBL_B03=黑色军团的神话级委任状
+tagBoosterDC_A01=恶魔十字的敕令
+tagBoosterDC_A02=恶魔十字的高级敕令
+tagBoosterDC_B01=恶魔十字的委任状
+tagBoosterDC_B02=恶魔十字的高阶委任状
+tagBoosterDC_B03=恶魔十字的神话级委任状
+tagBoosterEXILE_A01=放逐者的敕令
+tagBoosterEXILE_A02=放逐者的高级敕令
+tagBoosterEXILE_B01=放逐者的委任状
+tagBoosterEXILE_B02=放逐者的高阶委任状
+tagBoosterEXILE_B03=放逐者的神话级委任状
+tagBoosterHS_A01=霍姆斯特德的敕令
+tagBoosterHS_A02=霍姆斯特德的高级敕令
+tagBoosterHS_B01=霍姆斯特德的委任状
+tagBoosterHS_B02=霍姆斯特德的高阶委任状
+tagBoosterHS_B03=霍姆斯特德的神话级委任状
+tagBoosterKC_A01=凯蒙神选战士的敕令
+tagBoosterKC_A02=凯蒙神选战士的高级敕令
+tagBoosterKC_B01=凯蒙神选战士的委任状
+tagBoosterKC_B02=凯蒙神选战士的高阶委任状
+tagBoosterKC_B03=凯蒙神选战士的神话级委任状
+tagBoosterODV_A01=死亡守夜人教团的敕令
+tagBoosterODV_A02=死亡守夜人教团的高级敕令
+tagBoosterODV_B01=死亡守夜人教团的委任状
+tagBoosterODV_B02=死亡守夜人教团的高阶委任状
+tagBoosterODV_B03=死亡守夜人教团的神话级委任状
+tagBoosterRO_A01=流浪者的敕令
+tagBoosterRO_A02=流浪者的高级敕令
+tagBoosterRO_B01=流浪者的委任状
+tagBoosterRO_B02=流浪者的高阶委任状
+tagBoosterRO_B03=流浪者的神话级委任状
+
+tagBoosterAetherial_C01=虚灵的命令
+tagBoosterAetherial_C02=强大虚灵的命令
+tagBoosterAetherial_C03=神话虚灵的命令
+tagBoosterChthonian_C01=冥煞的命令
+tagBoosterChthonian_C02=强大冥煞的命令
+tagBoosterChthonian_C03=神话冥煞的命令
+tagBoosterOutlaw_C01=克隆利的命令
+tagBoosterOutlaw_C02=强大克隆利的命令
+tagBoosterOutlaw_C03=神话克隆利的命令
+tagBoosterUndead_C01=安克维亚的命令
+tagBoosterUndead_C02=强大安克维亚的命令
+tagBoosterUndead_C03=神话安克维亚的命令
+tagBoosterKC_C01=凯蒙的命令
+tagBoosterKC_C02=强大凯蒙的命令
+tagBoosterKC_C03=神话凯蒙的命令
+tagBoosterODV_C01=守夜人的命令
+tagBoosterODV_C02=强大守夜人的命令
+tagBoosterODV_C03=神话守夜人的命令
+tagBoosterEXILE_C01=放逐者的命令
+tagBoosterEXILE_C02=强大放逐者的命令
+tagBoosterEXILE_C03=神话放逐者的命令
+
+
+#Misc 杂项
+
+tagMoney01=铁币
+tagMoneyFormat={^s}{%d0}  {%s1}
+
+tagPotionHealthA01=生命药水
+tagPotionHealthA01Desc="愈合伤口并修复骨折。"
+tagPotionHealthA02=治疗药水
+tagPotionHealthA02Desc="愈合伤口并修复骨折。"
+tagPotionHealthA03=恢复药水
+tagPotionHealthA03Desc="愈合伤口并修复骨折。"
+
+tagPotionEnergyA01=^t能量药水
+tagPotionEnergyA01Desc="恢复能量并补充精力。"
+
+tagPotionConstitutionA01=食物补给
+tagPotionConstitutionA01Desc="尝起来像腐烂的污物，不过却能永久保存，还能回复体力。"
+
+tagPotionConstitutionB01=生命精华
+tagPotionConstitutionB01Desc="拥有着挥之不去的生命能量，能够被吸收以回复体力。"
+
+tagPotionDirections=[右键点击以使用]
+tagCombineStacks=[按住Ctrl点击以拆分堆叠]
+tagHideTooltip=[按住Ctrl点击以隐藏提示]
+
+#Bonuses 加成
+tagBonusLifePercentAbsPercent={^E}回复 {^H}{%.0f0}%+{%.0f1} {^E}生命 {^H}+{%.0f2}% {^E}持续时间
+tagBonusLifePercentPercent={^E}回复 {^H}{%.0f0}% {^E}生命 {^H}+{%.0f1}% {^E}持续时间
+tagBonusLifePercentAbs={^E}回复 {^H}{%.0f0}% + {%.0f1} {^E}生命
+tagBonusLifePercent={^E}回复 {^H}{%.0f0}% {^E}生命
+tagBonusLifeAbs={^E}回复 {^H}{%.0f0} {^E}生命
+tagBonusManaPercentAbs={^E}回复 {^H}{%.0f0}% + {%.0f1} {^E}能量
+tagBonusManaPercent={^E}回复 {^H}{%.0f0}% {^E}能量
+tagBonusManaAbs={^E}回复 {^H}{%.0f0}% {^E}能量
+tagBonusExperience={%+d0} 经验值
+tagBonusMoney={%+d0} 铁币
+tagBonusSkillPoint={%+d0} 技能点
+tagBonusAttribPoint={%+d0} 属性点
+
+
+#Devotion 虔诚
+tagDevotionReset={^E}用以重置你的虔诚点
+tagDevotionNoPointsUsed={^r}[无虔诚点可重置]
+tagDevotionResetConfirmation=你要重置全部虔诚点吗？
+
+#ItemSets 套装
+
+
+tagItemSetC001Name=帝国卫士的戎装
+tagItemSetC001NameB=帝国卫士的戎装(强化)
+tagItemSetC001Desc="曾经是这些和平卫士兼皇家护卫的标准装备，这种套装在恐怖黎明发生之后留存无几。"
+
+tagItemSetC002Name=探险者的服饰
+tagItemSetC002Desc="轻便且耐用的护甲，为渴望探险的人而准备。"
+
+tagItemSetC003Name=麦文的圣装
+tagItemSetC003NameB=麦文的圣装(强化)
+tagItemSetC003Desc="颂扬传奇般的奥术师麦文的法衣。"
+
+tagItemSetC004Name=鲜血收割者的荣耀
+tagItemSetC004NameB=鲜血收割者的荣耀(强化)
+tagItemSetC004Desc="仅被凯恩最嗜血的刺客们使用过的盔甲和武器。"
+
+tagItemSetC005Name=掠夺者的正义
+tagItemSetC005NameB=掠夺者的正义(强化)
+tagItemSetC005Desc="集法官、陪审和刽子手于一身的套装。"
+
+tagItemSetC006Name=使者的服饰
+tagItemSetC006NameB=使者的服饰(强化)
+tagItemSetC006Desc="执行外交使命的帝王使节所穿的服饰。"
+
+tagItemSetC007Name=药剂师的套服
+tagItemSetC007NameB=药剂师的套服(强化)
+tagItemSetC007Desc="御医和占卜者穿的服饰。他们致力于帮助有需要的人，不分种族与国界。"
+
+tagItemSetC008Name=沉沦套装
+tagItemSetC008NameB=沉沦套装(强化)
+tagItemSetC008Desc="圣殿骑士兰德尔·格瑞维斯在其毕生的东征中穿着它，以赦免他打破神圣誓约而娶妻的堕落行为。"
+
+tagItemSetC009Name=盲刺客套装
+tagItemSetC009Desc="盲刺客，萨迪厄斯·布兰纳甘在光天化日之下暗杀死一位圣殿骑士团团长。之后他便声名远扬。"
+
+tagItemSetC010Name=神枪手的标志
+tagItemSetC010Desc="大师级枪手珍藏的利器，能命中 500 码外的飞鸟。"
+
+tagItemSetC011Name=不洁圣约套服
+tagItemSetC011Desc="在特殊仪式中穿着以彰显王权的华服。"
+
+tagItemSetC012Name=皇家华饰
+tagItemSetC012Desc="被认为遗失在恐怖黎明劫掠中的皇家珠宝收藏品。"
+
+tagItemSetC013Name=毁誓者的武器
+tagItemSetC013NameB=毁誓者的武器(强化)
+tagItemSetC013Desc="毁誓者曾经佩戴的装备，他是一位为敌人打开城门背叛了自己国王的骑士。"
+
+tagItemSetC014Name=无畏的饰品
+tagItemSetC014Desc="在战争年代为奖励士兵们英勇行为所授予的奖章。"
+
+tagItemSetC015Name=杀戮对戒
+tagItemSetC015Desc="这对戒指会激发佩戴者的杀意。"
+
+tagItemSetC016Name=奥秘之典范
+tagItemSetC016Desc="这套华服授予给在奥术学研究中取得重大成就的奥术师。"
+
+tagItemSetC017Name=黎明守卫套甲
+tagItemSetC017Desc="只有对曼海尔的神圣信仰最为狂热的信徒们才穿过的盔甲。"
+
+tagItemSetC018Name=阿卡莫斯之怒
+tagItemSetC018Desc="安克维亚的阿卡莫斯的魔印。"
+
+tagItemSetC019Name=致命毒瘴套服
+tagItemSetC019NameB=致命毒瘴套服(强化)
+tagItemSetC019Desc="受到德里格选召之人所穿戴的服饰。"
+
+tagItemSetC020Name=曾燃硫磺套服
+tagItemSetC020NameB=曾燃硫磺套服(强化)
+tagItemSetC020Desc="奥祖因虔诚的信徒所使用的武器和甲胄。"
+
+tagItemSetC021Name=东方誓约套服
+tagItemSetC021Desc="一位来自海对岸异国的受人尊敬的祭祀所穿的衣服。"
+
+tagItemSetC022Name=野性呼唤者套装
+tagItemSetC022NameB=野性呼唤者套装(强化)
+tagItemSetC022Desc="野性呼唤者们的装饰品，萨满们聆听着自然之音。"
+
+tagItemSetC023Name=禁卫军套甲
+tagItemSetC023Desc="老兵在战场上穿的硬化铠甲，为表彰其在战场上无畏的献身精神。"
+
+tagItemSetC024Name=持火者的套服
+tagItemSetC024Desc="穿着者有着一颗火热的心，充满了火焰的精神。"
+
+tagItemSetC025Name=卡里多的法衣
+tagItemSetC025Desc="套服属于大师卡里多，一位受尊敬的奥术师和奥术风暴技术的创造者。"
+
+tagItemSetC026Name=追随者套甲
+tagItemSetC026Desc="黑色军团颁发给他们的精英先锋的装甲。"
+
+tagItemSetC027Name=莫格卓根的安宁
+tagItemSetC027Desc="很少有人获得神的信任，更少的人仍然被他宁静的注视所祝福。"
+
+tagItemSetC028Name=虚化风暴套饰
+tagItemSetC028Desc="狂暴的而愤怒的虚化能量只能由勇敢或者说愚蠢来引导出来。"
+
+tagItemSetC029Name=元素平衡对戒
+tagItemSetC029Desc="火的愤怒和冰的力量，在你的指尖舞动。"
+
+tagItemSetD001Name=审判官套甲
+tagItemSetD001Desc="曼海尔的卫士中的大审判官，沉默的霍瓦德的盔甲。"
+
+tagItemSetD002Name=神圣平衡双剑
+tagItemSetD002Desc="生命和死亡的本质灌注于这些刀锋之中。"
+
+tagItemSetD003Name=野兽召唤师的华服
+tagItemSetD003Desc="巨熊之力，夜枭之智，灵狼之怒。"
+
+tagItemSetD004Name=破晓者的光芒
+tagItemSetD004Desc="太阳的怒火抵挡着不断侵袭的黑暗。"
+
+tagItemSetD005Name=先驱者的套甲
+tagItemSetD005Desc="先驱者，伊露兰郊区著名的赏金猎人使用的装备。"
+
+tagItemSetD006Name=执法官的纹章
+tagItemSetD006Desc="很多人的命运决断于一人之手。"
+
+tagItemSetD007Name=屠魔者的装束
+tagItemSetD007Desc="驱魔人奥利弗·巴恩斯特德的服装，他也是曼海尔虔诚的信徒。"
+
+tagItemSetD008Name=枪械师的双枪
+tagItemSetD008Desc="一同锻造，战为一体。"
+
+tagItemSetD009Name=野血先锋套装
+tagItemSetD009Desc="一套来自蛮夷时代的收藏品。"
+
+tagItemSetD010Name=千里眼的套服
+tagItemSetD010Desc="白银之塔的大法师穿过的衣服，那里是吉尔达姆秘学社的大本营。"
+
+tagItemSetD011Name=祈求者的元素
+tagItemSetD011Desc="火山的狂暴之力平衡于北风的极寒。"
+
+tagItemSetD012Name=马尔科夫的堡垒
+tagItemSetD012Desc="著名的盔甲战术家，马尔科夫将军，他勇敢地冲锋陷阵在每一次战斗的前线。"
+
+tagItemSetD013Name=奥祖因的化身
+tagItemSetD013Desc="充满对背叛上帝的怒火与仇恨，穿着者具有难以抑制的火焰。"
+
+tagItemSetD014Name=德里格的护罩
+tagItemSetD014Desc="大祭司的长袍，来自巫术伟大的守护者。"
+
+tagItemSetD015Name=死神标记的套装
+tagItemSetD015Desc="死亡沉重地压抑着所有那些隐姓埋名的人，体现着死神标记，这是一套隐形刺客的遗产。"
+
+tagItemSetD016Name=伊斯坎德拉的套服
+tagItemSetD016Desc="大师伊斯坎德拉精心保留下来的法衣，因他创造了咒语，故以他的名字命名。"
+
+tagItemSetD017Name=奥托斯的风暴
+tagItemSetD017Desc="天神奥托斯穿的铠甲，灾难性风暴魔术师的化身。"
+
+tagItemSetD018Name=特洛赞的华服
+tagItemSetD018Desc="在特罗赞的隐居生活中，他研究了星辰并学会了与它们难以想象的力量相连接，完全不顾驯服这种原始力量的所有风险。"
+
+tagItemSetD019Name=沃尔顿的背叛
+tagItemSetD019Desc="沃尔顿是凯恩世界中最好的狙击手，直到他瞄准了伊露兰贵族之后，就变得臭名昭著。"
+
+tagItemSetD020Name=毒刃契约套装
+tagItemSetD020Desc="夜刃的专属套装，他们的武器含有可怕的强酸。"
+
+tagItemSetD021Name=黑焰盟约套装
+tagItemSetD021Desc="一套惨白的外套，它是黑焰大师们的首选。"
+
+tagItemSetD022Name=光明卫士套甲
+tagItemSetD022Desc="此套甲属于信仰的守护者。至高神使的光明卫士。"
+
+tagItemSetD023Name=地狱骑士套甲
+tagItemSetD023Desc="套甲属于伽罗斯瓦尔，统称为黑色军团的地狱骑士。"
+
+tagItemSetD024Name=阿格维克斯之怒套装
+tagItemSetD024Desc="阿格维克斯是著名的神秘大师，但他对权力的渴望，最终导致了他的毁灭。"
+
+tagItemSetD025Name=战裔套甲
+tagItemSetD025Desc="历经战斗锻造，这套铠甲曾见证无数次的冲突，比其他任何的文物幸存至今。"
+
+tagItemSetD026Name=怒血的狂暴套服
+tagItemSetD026Desc="这套怒血的铠甲，出自北方冰冻荒地的野蛮部落。"
+
+#Prefixes 前缀
+
+tagPrefixAA002=启悟的
+tagPrefixAA003=光耀的
+tagPrefixAA004=敏锐的
+tagPrefixAA005=武力的
+tagPrefixAA006=神秘的
+tagPrefixAA007=活力的
+tagPrefixAA008=能源的
+tagPrefixAA009=侵犯的
+tagPrefixAA010=健壮的
+
+tagPrefixAA011=战士的
+tagPrefixAA012=爆破者的
+tagPrefixAA013=神秘学者的
+tagPrefixAA014=夜刃的
+tagPrefixAA015=奥术师的
+
+tagPrefixAA016=恢复的
+tagPrefixAA017=征服者的
+tagPrefixAA018=漫游者的
+
+tagPrefixAA019=坚韧的
+tagPrefixAA020=鼓舞的
+tagPrefixAA021=萨满的
+
+tagPrefixAD001=铁壁的
+tagPrefixAD002=耐热的
+tagPrefixAD003=庇护的
+tagPrefixAD004=否定的
+tagPrefixAD005=净化的
+tagPrefixAD006=磐石的
+tagPrefixAD007=磐石的
+tagPrefixAD008=磐石的
+tagPrefixAD009=磐石的
+tagPrefixAD010=抵抗的
+tagPrefixAD011=抵抗的
+tagPrefixAD012=抵抗的
+tagPrefixAD013=抵抗的
+tagPrefixAD014=抵抗的
+tagPrefixAD015=抵抗的
+tagPrefixAD016=防腐的
+tagPrefixAD017=有序的
+tagPrefixAD018=守护的
+tagPrefixAD019=坚毅的
+tagPrefixAD020=化解的
+tagPrefixAD021=棱光的
+tagPrefixAD022=凹凸的
+tagPrefixAD023=止血的
+tagPrefixAD024=融雪的
+tagPrefixAD025=耐久的
+tagPrefixAD026=弥新的
+tagPrefixAD027=铁壁的
+tagPrefixAD028=硬化的
+tagPrefixAD029=永恒的
+tagPrefixAD030=永固的
+tagPrefixAD031=坚石的
+tagPrefixAD032=刚强的
+
+
+tagPrefixAO001=优质的
+tagPrefixAO002=碾压的
+tagPrefixAO003=刺穿的
+tagPrefixAO004=冰冻的
+tagPrefixAO005=灼热的
+tagPrefixAO006=涂毒的
+tagPrefixAO007=带电的
+tagPrefixAO008=吸血的
+tagPrefixAO009=引流的
+tagPrefixAO010=吸蚀的
+tagPrefixAO011=侵蚀的
+tagPrefixAO012=弯曲的
+tagPrefixAO013=虚触的
+
+tagPrefixB001_WpnMelee1h_A=暴君的
+tagPrefixB002_WpnMelee1h_A=冷酷的
+tagPrefixB003_WpnMelee1h_A=审判官的
+tagPrefixB004_WpnMelee1h_A=病瘟的
+tagPrefixB005_WpnMelee1h_A=蛮族的
+tagPrefixB006_WpnMelee1h_A=嗜血的
+tagPrefixB007_WpnMelee1h_A=士官的
+tagPrefixB008_WpnMelee1h_A=恶魔的
+tagPrefixB009_WpnMelee1h_A=地狱的
+tagPrefixB010_WpnMelee1h_A=巫师的
+tagPrefixB011_WpnMelee1h_A=神邪的
+tagPrefixB012_WpnMelee1h_A=天崩的
+tagPrefixB013_WpnMelee1h_A=霜裔的
+tagPrefixB014_WpnMelee1h_A=地缚的
+tagPrefixB015_WpnMelee1h_A=雷心的
+tagPrefixB016_WpnMelee1h_A=地狱火的
+tagPrefixB017_WpnMelee1h_A=咒术的
+tagPrefixB018_WpnMelee1h_A=毒牙的
+tagPrefixB019_WpnMelee1h_A=虚火的
+tagPrefixB020_WpnMelee1h_A=邪恶的
+tagPrefixB021_WpnMelee1h_A=穿心的
+tagPrefixB022_WpnMelee1h_A=狂怒的
+tagPrefixB023_WpnMelee1h_A=冰川的
+tagPrefixB024_WpnMelee1h_A=雷击的
+tagPrefixB025_WpnMelee1h_A=霜冻的
+
+tagPrefixB001_Ar_A=天体的
+tagPrefixB002_Ar_A=狂暴的
+tagPrefixB003_Ar_A=变节者的
+tagPrefixB004_Ar_A=巫妖的
+tagPrefixB005_Ar_A=和谐的
+tagPrefixB006_Ar_A=魔王的
+tagPrefixB007_Ar_A=灾难的
+tagPrefixB008_Ar_A=远古的
+tagPrefixB009_Ar_A=风暴的
+tagPrefixB010_Ar_A=求生者的
+tagPrefixB011_Ar_A=狂热的
+tagPrefixB012_Ar_A=督军的
+tagPrefixB013_Ar_A=游侠的
+tagPrefixB014_Ar_A=天使的
+tagPrefixB015_Ar_A=神圣的
+tagPrefixB016_Ar_A=霜冻的
+tagPrefixB017_Ar_A=枯萎的
+tagPrefixB018_Ar_A=廉洁的
+tagPrefixB019_Ar_A=光明使者的
+tagPrefixB020_Ar_A=不屈的
+tagPrefixB021_Ar_A=共鸣的
+tagPrefixB022_Ar_A=威吓的
+tagPrefixB023_Ar_A=敬畏的
+tagPrefixB024_Ar_A=壮丽的
+tagPrefixB025_Ar_A=无情的
+tagPrefixB026_Ar_A=谋杀者的
+tagPrefixB027_Ar_A=放血者的
+tagPrefixB028_Ar_A=石肤的
+tagPrefixB029_Ar_A=将军的
+tagPrefixB030_Ar_A=冰川的
+tagPrefixB031_Ar_A=雷击的
+tagPrefixB032_Ar_A=恶魔的
+tagPrefixB033_Ar_A=虚火的
+tagPrefixB034_Ar_A=督工的
+tagPrefixB035_Ar_A=霸主的
+
+tagPrefixB001_Class_A=突击者的
+tagPrefixB002_Class_A=巫刃的
+tagPrefixB003_Class_A=剑圣的
+tagPrefixB004_Class_A=战法师的
+tagPrefixB005_Class_A=烈焰术士的
+tagPrefixB006_Class_A=破坏者的
+tagPrefixB007_Class_A=夺命煞星的
+tagPrefixB008_Class_A=魔法猎人的
+tagPrefixB009_Class_A=术士的
+tagPrefixB010_Class_A=暗夜行者的
+tagPrefixB011_Class_A=战士的
+tagPrefixB012_Class_A=纵火者的
+tagPrefixB013_Class_A=异教徒的
+tagPrefixB014_Class_A=刺客的
+tagPrefixB015_Class_A=法师的
+tagPrefixB016_Class_A=守卫的
+tagPrefixB017_Class_A=元素使者的
+tagPrefixB018_Class_A=咒术师的
+tagPrefixB019_Class_A=幻术师的
+tagPrefixB020_Class_A=德鲁伊的
+tagPrefixB021_Class_A=先知的
+
+tagPrefixB001_Sh_A=恒定的
+tagPrefixB002_Sh_A=守护者的
+tagPrefixB003_Sh_A=过载的
+tagPrefixB004_Sh_A=时光术士的
+tagPrefixB005_Sh_A=霸主的
+tagPrefixB006_Sh_A=驯犬者的
+tagPrefixB007_Sh_A=沙暴的
+tagPrefixB008_Sh_A=冰川的
+tagPrefixB009_Sh_A=雷击的
+tagPrefixB010_Sh_A=腐蚀的
+tagPrefixB011_Sh_A=破坏者的
+tagPrefixB012_Sh_A=火墙的
+tagPrefixB013_Sh_A=冰川的
+tagPrefixB014_Sh_A=雷击的
+tagPrefixB015_Sh_A=腐蚀的
+tagPrefixB016_Sh_A=石肤的
+tagPrefixB017_Sh_A=邪术的
+tagPrefixB018_Sh_A=炼狱的
+tagPrefixB019_Sh_A=石心的
+tagPrefixB020_Sh_A=白霜的
+tagPrefixB021_Sh_A=恶魔的
+tagPrefixB022_Sh_A=虚火的
+
+#Suffixes 后缀
+
+tagSuffixA001=英勇之
+tagSuffixA002=刚毅之
+tagSuffixA003=灵魂之
+tagSuffixA004=狂狼之
+tagSuffixA005=灵狐之
+tagSuffixA006=野猪之
+tagSuffixA007=雄鹰之
+
+tagSuffixA008=活力之
+tagSuffixA009=智慧之
+tagSuffixA010=潜能之
+tagSuffixA011=冥想之
+
+tagSuffixA014=轻快之
+tagSuffixA015=急速之
+tagSuffixA016=迅捷之
+tagSuffixA017=狂热之
+tagSuffixA017B=权力之
+
+tagSuffixA018=进击之
+tagSuffixA019=保护之
+tagSuffixA020=迅速之
+
+tagSuffixA022=解毒之
+tagSuffixA023=凝固之
+
+tagSuffixA024=狩猎之
+tagSuffixA025=谋杀之
+tagSuffixA026=流放之
+tagSuffixA027=驱魔之
+
+tagSuffixA028=废墟之
+tagSuffixA029=霜寒之
+tagSuffixA030=灼热之
+tagSuffixA031=雷霆之
+tagSuffixA032=腐蚀之
+tagSuffixA033=凋零之
+tagSuffixA034=剧毒之
+tagSuffixA035=鲜血之
+tagSuffixA036=强固之
+tagSuffixA037=荆棘之
+tagSuffixA038=虚化之
+tagSuffixA039=虚无之
+tagSuffixA040=尖刺之
+
+tagSuffixA041=愈合之
+tagSuffixA042=复苏之
+tagSuffixA043=玄武之
+tagSuffixA044=狼之
+tagSuffixA045=獾之
+tagSuffixA046=蛇之
+tagSuffixA047=沧海之
+tagSuffixA048=山岳之
+
+tagSuffixA049=蝙蝠之
+tagSuffixA050=蝮蛇之
+tagSuffixA051=公牛之
+tagSuffixA052=夜枭之
+tagSuffixA053=魔犬之
+tagSuffixA054=荒漠之
+tagSuffixA055=极地之
+tagSuffixA056=废弃之
+tagSuffixA057=沼泽之
+tagSuffixA058=狂风之
+tagSuffixA059=幽魂之
+tagSuffixA060=魔咒之
+tagSuffixA061=火焰之
+tagSuffixA062=寒冷之
+tagSuffixA063=电殛之
+tagSuffixA064=创伤之
+
+tagSuffixA065=设障之
+
+tagSuffixB001_Wpn_A=爆炎之
+tagSuffixB002_Wpn_A=疯狂之
+tagSuffixB003_Wpn_A=圣灵之
+tagSuffixB004_Wpn_A=深渊之
+tagSuffixB005_Wpn_A=圣贤之
+tagSuffixB006_Wpn_A=杀手之
+tagSuffixB007_Wpn_A=贪婪之
+tagSuffixB008_Wpn_A=吞噬之
+tagSuffixB009_Wpn_A=热忱之
+tagSuffixB010_Wpn_A=残酷之
+tagSuffixB011_Wpn_A=无情之
+tagSuffixB012_Wpn_A=怒兽之
+tagSuffixB013_Wpn_A=怒火之
+tagSuffixB014_Wpn_A=凶猛之
+tagSuffixB015_Wpn_A=杀戮之
+tagSuffixB016_Wpn_A=猛袭之
+tagSuffixB017_Wpn_A=野火之
+tagSuffixB018_Wpn_A=激流之
+tagSuffixB019_Wpn_A=碎裂之
+tagSuffixB020_Wpn_A=枯萎之
+tagSuffixB021_Wpn_A=污染之
+tagSuffixB022_Wpn_A=憎恶之
+tagSuffixB023_Wpn_A=湮灭之
+tagSuffixB024_Wpn_A=元素之
+tagSuffixB025_Wpn_A=缚魂之
+tagSuffixB026_Wpn_A=折磨之
+tagSuffixB027_Wpn_A=破暗之
+tagSuffixB028_Wpn_A=寒冬风暴之
+tagSuffixB029_Wpn_A=狂风之
+tagSuffixB030_Wpn_A=飓风之
+tagSuffixB031_Wpn_A=奥术平衡之
+tagSuffixB032_Wpn_A=唤火者之
+tagSuffixB033_Wpn_A=奥术火焰之
+tagSuffixB034_Wpn_A=虚空火焰之
+tagSuffixB035_Wpn_A=天崩之
+tagSuffixB036_Wpn_A=索拉尔怨恨之
+tagSuffixB037_Wpn_A=击碎现实之
+tagSuffixB038_Wpn_A=密谋之
+
+tagSuffixB001_Ar_A=奥术学识之
+tagSuffixB002_Ar_A=曼海尔壁垒之
+tagSuffixB003_Ar_A=奥祖因烈焰之
+tagSuffixB004_Ar_A=德里格凝视之
+tagSuffixB005_Ar_A=索拉尔怨恨之
+tagSuffixB006_Ar_A=奥莱隆愤怒之
+tagSuffixB007_Ar_A=自然馈赠之
+tagSuffixB008_Ar_A=奥布莱特聚能之
+tagSuffixB009_Ar_A=吉尔达姆奥秘之
+tagSuffixB010_Ar_A=虚无之
+tagSuffixB011_Ar_A=林地之
+tagSuffixB012_Ar_A=刀锋之
+tagSuffixB013_Ar_A=英雄之
+tagSuffixB014_Ar_A=怒吼巨兽之
+tagSuffixB015_Ar_A=野性之
+tagSuffixB016_Ar_A=不羁之
+tagSuffixB017_Ar_A=焚烧之
+tagSuffixB018_Ar_A=冰川之
+tagSuffixB019_Ar_A=飓风之
+tagSuffixB020_Ar_A=蛇怪之
+tagSuffixB021_Ar_A=蛇人之
+tagSuffixB022_Ar_A=异常之
+tagSuffixB023_Ar_A=预言之
+tagSuffixB024_Ar_A=血肉巨人之
+tagSuffixB025_Ar_A=先锋之
+tagSuffixB026_Ar_A=平衡钢之
+tagSuffixB027_Ar_A=霸权之
+tagSuffixB028_Ar_A=暗影之
+tagSuffixB029_Ar_A=邪刺之
+tagSuffixB030_Ar_A=屠杀之
+tagSuffixB031_Ar_A=符咒之
+tagSuffixB032_Ar_A=洞察之
+tagSuffixB033_Ar_A=燃尽之
+tagSuffixB034_Ar_A=生存之
+tagSuffixB035_Ar_A=君王之
+tagSuffixB036_Ar_A=毁灭之
+tagSuffixB037_Ar_A=阿玛拉斯塔乱舞之
+tagSuffixB038_Ar_A=麦文智慧之
+tagSuffixB039_Ar_A=寒冬风暴之
+tagSuffixB040_Ar_A=狂风之
+tagSuffixB041_Ar_A=奥术平衡之
+tagSuffixB042_Ar_A=奥术火焰之
+tagSuffixB043_Ar_A=虚空火焰之
+tagSuffixB044_Ar_A=天崩之
+tagSuffixB045_Ar_A=破碎世界之
+tagSuffixB046_Ar_A=密谋之
+tagSuffixB047_Ar_A=荒芜之
+tagSuffixB049_Ar_A=德里格凝视之
+tagSuffixB050_Ar_A=索拉尔怨恨之
+tagSuffixB051_Ar_A=奥莱隆愤怒之
+tagSuffixB052_Ar_A=自然恩惠之
+tagSuffixB053_Ar_A=毁灭之
+tagSuffixB054_Ar_A=阿玛里斯塔乱舞之
+tagSuffixB055_Ar_A=天崩之
+tagSuffixB056_Ar_A=奥术风之
+tagSuffixB057_Ar_A=狐步之
+tagSuffixB058_Ar_A=石踵之
+tagSuffixB059_Ar_A=暗影舞之
+tagSuffixB060_Ar_A=爬虫反击之
+tagSuffixB061_Ar_A=奥术风之
+tagSuffixB062_Ar_A=快速反击之
+tagSuffixB063_Ar_A=阿玛里斯塔敏捷之
+tagSuffixB064_Ar_A=荣誉卫士之
+tagSuffixB065_Ar_A=奥术意志之
+tagSuffixB066_Ar_A=虚灵风暴之
+tagSuffixB067_Ar_A=黑暗意图之
+tagSuffixB068_Ar_A=战斗狂怒之
+tagSuffixB069_Ar_A=奥术威力之
+tagSuffixB070_Ar_A=石拳之
+tagSuffixB071_Ar_A=野性之
+tagSuffixB072_Ar_A=不羁之
+
+tagSuffixB001_Sh_A=壁垒之
+tagSuffixB002_Sh_A=勇气之
+tagSuffixB003_Sh_A=防御者之
+tagSuffixB004_Sh_A=神谕之
+tagSuffixB005_Sh_A=幽鬼之
+tagSuffixB006_Sh_A=宁静之
+tagSuffixB007_Sh_A=野火之
+tagSuffixB008_Sh_A=碎裂之
+tagSuffixB009_Sh_A=激流之
+tagSuffixB010_Sh_A=枯萎之
+tagSuffixB011_Sh_A=污染者之
+tagSuffixB012_Sh_A=憎恶之
+tagSuffixB013_Sh_A=索拉尔怨恨之
+tagSuffixB014_Sh_A=复仇之
+tagSuffixB015_Sh_A=圣贤之
+tagSuffixB016_Sh_A=守卫之
+tagSuffixB017_Sh_A=野火之
+tagSuffixB018_Sh_A=碎裂之
+tagSuffixB019_Sh_A=激流之
+tagSuffixB020_Sh_A=枯萎之
+tagSuffixB021_Sh_A=曼海尔壁垒之
+tagSuffixB022_Sh_A=湮灭之
+tagSuffixB023_Sh_A=仪式之
+tagSuffixB024_Sh_A=缚魂之
+tagSuffixB025_Sh_A=折磨之
+tagSuffixB026_Sh_A=流沙之
+tagSuffixB027_Sh_A=死寒之
+tagSuffixB028_Sh_A=风暴之
+tagSuffixB029_Sh_A=爆炎之
+tagSuffixB030_Sh_A=寒冬风暴之
+tagSuffixB031_Sh_A=狂风之
+tagSuffixB032_Sh_A=不朽之
+tagSuffixB033_Sh_A=奥术平衡之
+tagSuffixB034_Sh_A=唤火者之
+tagSuffixB035_Sh_A=奥术火焰之
+tagSuffixB036_Sh_A=虚空火焰之
+tagSuffixB037_Sh_A=天崩之
+tagSuffixB038_Sh_A=破碎世界之
+tagSuffixB039_Sh_A=密谋之
+tagSuffixB040_Sh_A=腐化之
+tagSuffixB041_Sh_A=湮灭之
+tagSuffixB042_Sh_A=爆炎之
+tagSuffixB043_Sh_A=飓风之
+tagSuffixB044_Sh_A=冰川之
+
+#ItemSkills 物品技能
+
+tagAutoSkillCondition01= ^s(生命 ^h{%.0f1}% ^s时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition02= ^s(能量 ^h{%.0f1}% ^s时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition03= ^s(受到攻击时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition04= ^s(受到近战攻击时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition05= ^s(受到远程攻击时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition06= ^s(施放增益效果有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition07= ^s(攻击时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition08= ^s(装备后即生效)
+tagAutoSkillCondition09= ^s(受到暴击伤害时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition10= ^s(造成暴击时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition11= ^s(格挡时有 ^h{%d0}% ^s几率施放该技能)
+tagAutoSkillCondition12= ^s(敌人死亡时有 ^h{%d0}% ^s几率施放该技能)
+
+#LootChests 宝箱
+
+tagChestWoodA01=风化的箱子
+tagChestRationA01=旅行者的背包
+tagChestMetalA01=金属保险箱
+tagChestNaturalA01=有记号的岩石
+tagChestNaturalA02=连根拔起的树桩
+tagChestCorpseA01=腐烂的尸骸
+tagChestRockCairnA01=岩石堆
+tagChestCocoonA01=茧状残骸
+tagChestWoodB01=光亮的箱子
+tagChestMetalB01=华丽保险箱
+tagChestStoneAltarC01=石椁
+tagChestSlithAltarC01=蛇人祭坛
+tagChestStoneMonolithC01=石质箱子
+tagChestStoneSarcophagusC01=古老石棺
+tagChestBoneChestD01=骨质匣子
+tagChestBoneChestD02=骨质箱子
+tagChestTreasureTrove01=宝藏
+
+tagChestRackArmorA01=盔甲架
+tagChestRackArmorB01=盔甲陈列架
+tagChestRackWeaponsA01=武器架
+tagChestRackWeaponsB01=武器陈列架
+
+tagChestCorpse_Mornay=莫尔奈的尸体
+tagChestCorpse_RoverElder=马赛厄斯的尸体
+tagChestCorpse_Jacob=雅各布的尸体
+tagChestCorpse_Refugee=达利娅·塔夫恩的尸体
+tagChestCorpse_BlackLegion=黑色军团遗骸
+tagChestCorpse_Malkadarr=马卡达尔的遗骸
+
+tagLectern_WardensLabA01=研究日志
+tagLectern_OldArkoviaRuinsA01=古老的讲台
+tagChestBozemanFolly=波兹曼的背包
+
+tagChestHeroD01=精英宝箱
+tagChestHeroD01_Dropped=精英的战利品
+tagChestHeroD02=豪华宝箱
+tagChestHeroD02_Dropped=豪华的战利品
+tagChestHeroD03=至尊宝箱
+tagChestHeroD03_Dropped=至高的战利品
+tagChestHeroD04=华丽宝箱
+tagChestHeroD04_Dropped=宏伟的战利品
+tagChestHeroD05=辉煌宝箱
+tagChestHeroD06=卓越宝箱
+tagChestHeroD07=黑曜石集簇
+tagChestHeroD08=黑曜石珍宝
+tagChestHeroD09=黑曜石财宝
+tagChestHeroD10=罗霍里恩的珍宝
+tagChestHeroD11=埃德蒙的藏品
+tagChestNemesis01=复仇者的珍宝
+tagChestNemesis02=克隆利的珍宝
+
+tagChestSecret01=隐藏的战利品
+tagChestSecret02=隐藏的遗骸
+tagChestSecret03=隐藏的珍宝
+
+tagBreakableA01=桶
+tagBreakableA02=木箱
+tagBreakableJugA01=壶
+tagBreakableBonePileHumanA01=人体残骸
+tagBreakableBonePileHumanA02=人体残骸
+tagBreakableJunkPileA01=垃圾堆
+tagBreakableGrobleTotemA01=格罗布尔图腾
+tagBreakableSlithPileA01=蛇人废弃物
+tagBreakableScrapPileA01=废料堆
+tagBreakableWaspClusterA01=蜂巢
+tagBreakableUrnA01=破旧的瓮
+tagBreakableUrnB01=古老的瓮
+tagBreakableUrnClusterA01=瓮堆
+tagBreakableDermapteranA01=革翅目集簇
+tagBreakableBonePileA01=骨堆
+tagBreakableObsidianA01=末日遗迹
+tagBreakableObsidianB01=黑曜石碎片
+
+tagChestLocked={^R} ~ 锁封
+tagChestLockedBoss={^R} ~ 被强大生物锁封
+tagChestLockedQuest={^R} ~ 被任务锁封
+
+tagChestBossOneShot_Warden=典狱长的宝箱
+tagChestBossOneShot_Darius=德莱厄斯的宝箱
+tagChestBossOneShot_Loghorrean=罗霍里恩的赃物
+tagChestOneShot_Sacrifice=艾萨克的藏品
+tagChestOneShot_Generic01=尊贵的藏品
+tagChestOneShot_Generic02=尊贵的藏品
+tagChestOneShot_BurrwitchCave01=怪物的宝藏
+tagChestOneShot_LowerCrossingCave01=怪物的宝藏
+tagChestOneShot_CultistSummoner=卡若兹的宝箱
+tagChestOneShot_ChthonicAbomination=冥煞的宝箱
+tagChestOneShot_HiddenWealth=隐藏的宝藏
+
+#Interactive Objects
+tagShrineConstitutionA01=未动过的餐食
+tagShrineBossLocked={^R} ~ 由强大生物封印着
+tagShrineMogdrogenLocked={^R} ~ 由冥煞能量封印着
+
+#Breakables 可破坏
+
+tagWoodenDoor=木门
+tagBarnDoor=谷仓门
+tagCageDoor=牢门
+tagTrollDoor=巨魔之门
+
+tagBreakableStoneWall=残垣断壁
+tagBreakableNaturalWall=松散土堆
+
+#DungeonDoors 地下城大门
+
+tagUGDoorCave01=洞穴入口
+tagUGDoorTrapdoor01=地窖门
+tagUGDoorTrapDoorLocked01=锁着的地窖门
+tagUGDoorLadder01=摇晃的梯子
+tagUGDoorCellarDoor01=地窖入口
+tagUGDoorMine01=矿坑入口
+tagUGDoorRuin01=地下出入口
+tagUGDoorIronDoorSecret01=铁门
+tagUGDoorIronGate=铁制大门
+tagUGDoorPortcullisFloor01=吊门
+tagUGDoorBoat=渡船
+tagUGDoorObsidian=黑曜石尖刺
+tagUGDoorFort=城堡入口
+tagUGDoorCrypt=墓室入口
+tagUGDoorWitchGods=标记石
+tagDoorLocked={^R} ~ 锁封
+
+tagDoorOneWay01=通往地面的出口
+tagDoorLever01=吊门控制器
+tagTorchLever01=熄灭的火炬
+tagStoneLever01=松动的石头
+
+#Doors 门
+
+tagCellDoor=牢门
+tagPrisonEntranceDoor=伯尔维治监狱大门
+tagMineDoor=矿井门
+tagEpicDoor_StepsOfTorment=苦痛之门
+tagEpicDoor_BastionOfChais=堡垒大门
+tagEpicDoor_StepsOfTormentLocked={^R} ~ 由远古之力封印着 ^y(解封需一把^p骸骨钥匙^y)
+tagLocked={^R} ~ 锁着的
+tagBlocked={^R} ~ 塌方阻挡了道路
+tagLocked_BlackLegion={^R} ~ 由黑色军团封印着 ^y(解封需该势力声望达到^g崇拜^y)
+tagLocked_Cult={^R} ~ 由冥神邪教封印着
+tagUGDoorDermapteranQueen=通往女皇巢穴的通道
+tagUGDoorDermapteranQueenLocked={^R} ~ 由虫群首领封印着
+tagDoorRampart=被阻挡的门
+tagDoorWarden=铁门
+tagDoorFarmland=木门
+tagDoorLab=强固大门
+tagDoorStone=石门
+tagLocked_Kymon={^R} ~ 由圣父凯蒙封印着
+tagLocked_Necro={^R} ~ 由死亡守夜人教团封印着
+tagLocked_Outcast={^R} ~ 由安娜斯特莉娅封印着
+tagLocked_BoCGauntlet={^R} ~ 由守护者封印着
+tagLocked_WitchGods={^R} ~ 由怪异力量封印着
+
+#Quest Rewards 任务奖励
+
+tagQuestItemBrothersAmulet=妹妹的护身符
+tagQuestItemBrothersAmuletDesc="致亲爱的哥哥: 愿这枚护身符护佑你在战斗中勇不可当。 -西比尔"
+
+tagQuestItemSlithRing=蛇人原始戒指
+tagQuestItemSlithRingDesc="这枚戒指上有一股挥之不去的恶臭。"
+
+tagItemTest=凝视者巨甲
+tagItemTestDesc="一件凝视者装备的奇作。"
+
+#Equipment Locations 装备位置
+
+tagSlotLeftHand= (左手)
+tagSlotRightHand= (右手)
+tagSlotHead= (头部)
+tagSlotNeck= (项链)
+tagSlotRing1= (戒指 1)
+tagSlotRing2= (戒指 2)
+tagSlotChest= (胸部)
+tagSlotLegs= (腿部)
+tagSlotShoulders= (肩部)
+tagSlotHands= (手部)
+tagSlotFeet= (足部)
+tagSlotWaist= (腰部)
+tagSlotRelic= (遗物)
+tagSlotMedal= (勋章)
+tagSlotUnknown= (未装备)
+
+tagEnchantA01=增幅物模板
+tagEnchantA01Desc="不能为任何物品增幅。"
+
+tagWeaponSwordD006Desc="注解暂缺。"
+tagWeaponAxeD000=原文本缺失此物品标签！

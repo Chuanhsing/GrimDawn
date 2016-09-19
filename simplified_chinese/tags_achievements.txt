@@ -1,0 +1,216 @@
+# Achievement Groups 成就系统
+
+achGroupAct1=第一章
+achGroupAct2=第二章
+achGroupAct3=第三章
+achGroupChallenges=挑战
+achGroupCharacter=人物
+achGroupMonsters=怪物
+achGroupStory=剧情
+achGroupWorld=世界
+
+# Achievements
+
+ach001Title=怪物屠杀者
+ach001Desc=消灭 25 只精英怪物(头顶有星)。
+
+ach002Title=史诗屠杀者
+ach002Desc=消灭 100 只精英怪物(头顶有星)。
+
+ach003Title=传奇屠杀者
+ach003Desc=消灭 1000 只精英怪物(头顶有星)。
+
+ach004Title=复仇者
+ach004Desc=击杀一个复仇怪物(红名)于精英或终极难度。
+
+ach005Title=势不可挡
+ach005Desc=击杀六个复仇怪物(红名)于精英或终极难度。
+
+ach006Title=净化世界
+ach006Desc=消灭凯恩世界的 25000 只怪物。
+
+ach007Title=屠戮觉醒
+ach007Desc=消灭凯恩世界的 100000 只怪物。
+
+ach008Title=尸山血海
+ach008Desc=消灭凯恩世界的 500000 只怪物。
+
+ach009Title=末日友谊
+ach009Desc=与一股势力的关系达到敬畏。
+
+ach010Title=凯恩世界的典范
+ach010Desc=与六股势力的关系达到敬畏。
+
+ach011Title=至高神的仆从
+ach011Desc=凯蒙神选战士的声望达到敬畏。
+
+ach012Title=尤若布鲁克信徒
+ach012Desc=死亡守夜人教团的声望达到敬畏。
+
+ach013Title=堕落的终结
+ach013Desc=击杀萨拉查于堕落圣殿。
+
+ach014Title=消灭冥神之刃
+ach014Desc=击杀萨拉查于堕落圣殿于终极难度。
+
+ach015Title=处决刽子手
+ach015Desc=击杀阿卡莫斯于苦痛阶梯。
+
+ach016Title=苦痛的终结
+ach016Desc=击杀阿卡莫斯于苦痛阶梯于终极难度。
+
+ach017Title=不朽的行刑者
+ach017Desc=以专家模式击杀阿卡莫斯于苦痛阶梯。
+
+ach018Title=伸张正义
+ach018Desc=击杀典狱长克里格于隐藏的实验室。
+
+ach019Title=往日的威胁
+ach019Desc=击杀德莱厄斯·克隆利于四山藏身处。
+
+ach020Title=以血还血
+ach020Desc=击杀卡若兹, 冥神替身于黑谷门。
+
+ach021Title=凯恩世界的梦魇
+ach021Desc=击杀罗霍里恩, 冥神之声于守望者之墓。
+
+ach022Title=净化战火平原
+ach022Desc=击杀烈焰使者于战火平原。
+
+ach023Title=不惧火焰
+ach023Desc=在终极难度击杀烈焰使者于战火平原。
+
+ach024Title=铲除格特沃姆
+ach024Desc=击杀格特沃姆于走私者盆地。
+
+ach025Title=你很有种
+ach025Desc=在终极难度击杀格特沃姆于走私者盆地。
+
+ach026Title=修补是她的专长
+ach026Desc=解救达莱特于伯尔维治庄园。
+
+ach027Title=授予曼海尔的锤骨
+ach027Desc=争取到一位铁匠的帮助。
+
+ach028Title=汤没给你喝
+ach028Desc=解救奥格瑞姆于伯尔维治郊外。
+
+ach029Title=学徒级工匠
+ach029Desc=制作 10 件物品。
+
+ach030Title=专家级工匠
+ach030Desc=制作 100 件物品。
+
+ach031Title=大师级工匠
+ach031Desc=制作 1000 件物品。
+
+ach032Title=古老遗物
+ach032Desc=合成一个遗物。
+
+ach033Title=卓越之能
+ach033Desc=合成一个卓越遗物。
+
+ach034Title=神话之能
+ach034Desc=合成一个神话遗物。
+
+ach035Title=新手试炼
+ach035Desc=打开 10 个一次性箱子。
+
+ach036Title=战利品管理者
+ach036Desc=打开 20 个一次性箱子。
+
+ach037Title=探索之星
+ach037Desc=修复 10 个虔诚祭坛。
+
+ach038Title=真正的虔诚
+ach038Desc=修复 50 个虔诚祭坛。
+
+ach039Title=幸存者
+ach039Desc=达到等级 10 。
+
+ach040Title=勇士
+ach040Desc=达到等级 35 。
+
+ach041Title=英雄
+ach041Desc=达到等级 50 。
+
+ach042Title=传奇人物
+ach042Desc=达到等级 85 。
+
+ach043Title=不朽的传奇人物
+ach043Desc=达到等级 85 于专家模式。
+
+ach044Title=凯恩世界的救星
+ach044Desc=通关游戏于终极难度。
+
+ach045Title=不朽的救世主
+ach045Desc=以专家模式通关游戏于终极难度。
+
+ach046Title=问题专家
+ach046Desc=以非暴力方式解决新港的问题。
+
+ach047Title=一视同仁
+ach047Desc=击杀安娜斯特莉娅于圣像堡监狱。
+
+ach048Title=我没想到会是你，人类
+ach048Desc=以低于 11 级的人物击杀典狱长克里格于老兵难度。
+
+ach049Title=保卫伯尔维治
+ach049Desc=保护伯尔维治传送门于老兵难度。
+
+ach050Title=藏匿于浸没通道
+ach050Desc=探索浸没通道倒塌的岩石后面隐藏着什么。
+
+ach051Title=克隆利的秘密
+ach051Desc=揭开德莱厄斯·克隆利的秘密。
+
+ach052Title=隐藏的财宝
+ach052Desc=寻找霍姆斯特德附近农田的宝藏。
+
+ach053Title=它盘踞在迷失洞穴
+ach053Desc=击杀咕噜斯, 穴居者。
+
+ach054Title=死亡空间
+ach054Desc=生存于苦痛阶梯的灵魂居所。
+
+ach055Title=让我收集我的笔记
+ach055Desc=收集 5 篇学识笔记。
+
+ach056Title=笔记收藏家
+ach056Desc=收集 20 篇学识笔记。
+
+ach057Title=博学者
+ach057Desc=收集 50 篇学识笔记。
+
+ach058Title=绝望之地
+ach058Desc=生存于混沌城堡的绝望之地。
+
+ach059Title=天神煞星
+ach059Desc=击败莫格卓根的化身。
+
+ach060Title=沙'祖尔消灭者
+ach060Desc=击杀混沌堡垒的沙'祖尔, 混沌使者。
+
+ach061Title=攻克堡垒
+ach061Desc=击杀混沌堡垒的沙'祖尔, 混沌使者于终极难度。
+
+ach062Title=不朽的堡垒征服者
+ach062Desc=以专家模式击杀沙'祖尔, 混沌使者于混沌堡垒。
+
+ach063Title=教团勇士
+ach063Desc=以死亡守夜人教团身份击杀执政官巴托雷姆于终极难度。
+
+ach064Title=神选勇士
+ach064Desc=以凯蒙神选战士身份击杀马卡达尔于终极难度。
+
+ach065Title=净化献祭
+ach065Desc=击杀毁灭使者于献祭之地。
+
+ach066Title=禁地使者
+ach066Desc=击杀献祭之地的毁灭使者于终极难度。
+
+ach067Title=凯恩世界的卫士
+ach067Desc=通关游戏于普通或老兵难度。
+
+ach068Title=凯恩世界的勇士
+ach068Desc=通关游戏于精英难度。
