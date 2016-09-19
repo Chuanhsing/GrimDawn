@@ -5,6 +5,10 @@ tagSurvivalMode_Desc=进入炼狱，这地方是以力量和勇气面对无情�
 tagSurvivalDeath=你已阵亡，但仍然可以通过这个波次观战你的盟友。如果他们成功，你将在此波结束后复活。
 tagSurvivalLastDeath=你方有人阵亡。
 
+tagGameSDifficultySetting01=Aspirant Difficulty
+tagGameSDifficultySetting02=Challenger Difficulty
+tagGameSDifficultySetting03=Gladiator Difficulty
+
 #Achievements
 achGroupSurvival=炼狱
 
