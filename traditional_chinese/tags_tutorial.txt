@@ -1,0 +1,285 @@
+﻿#Loading Tips
+tagLoadingTip01={^g}提示：{^h}你可以通過在生命條左側的戰利品過濾按鈕來根據品質(魔法及以上，稀有及以上，等等)過濾戰利品。
+tagLoadingTip02={^g}提示：{^h}如果你發現了一座暫時無法修復的祭壇，它的位置會在世界地圖上顯示。
+tagLoadingTip03={^g}提示：{^h}你可以在任何時候打開記事視窗來重新查閱教學提示，預設熱鍵：{^t}H
+tagLoadingTip04={^g}提示：{^h}敵人顯著低於你的等級時將不會獲得經驗值及勢力聲望。
+tagLoadingTip05={^g}提示：{^h}請記住在專精上投放點數，這將提供核心屬性幫助你生存與強大起來。
+tagLoadingTip06={^g}提示：{^h}訪問 {^b}www.GrimDawn.com{^h} 閱讀遊戲指南，裡面有豐富的遊戲資料和訊息。
+tagLoadingTip07={^g}提示：{^h}菁英怪獸(頭頂星型標記)是強大的敵人，具有獨特的能力，能提供更好的戰利品。
+tagLoadingTip08={^g}提示：{^h}敵人顯著低於你的等級時將不會掉落類似{^p}遠古之心{^h}等稀有鍛造材料。
+tagLoadingTip09={^g}提示：{^h}在菁英難度，你的核心抗性將會降低25%，到終極難度則會下降至50%的懲罰。
+tagLoadingTip10={^g}提示：{^h}有許多秘密地點存在於凱恩世界。仔細尋找，你將發現隱藏的寶藏！
+tagLoadingTip11={^g}提示：{^h}在老兵或者更高的難度中，如果你被頭目殺死，它會恢復部分血量。
+tagLoadingTip12={^g}提示：{^h}探索整個世界來找到一次性的寶箱，它們總是會掉落一件史詩物品，每個人物都有一次機會。
+tagLoadingTip13={^g}提示：{^h}史詩和傳奇物品會使你獲得輔助，甚至是重新構建你人物的特有能力。
+tagLoadingTip14={^g}提示：{^h}有些怪物會掉落對它們來說獨特的裝備，被稱為"特綠"。
+tagLoadingTip15={^g}提示：{^h}傳奇物品是非常稀有的，同時也異常強力，它們會在50級以上時開始掉落。
+tagLoadingTip16={^g}提示：{^h}如果穿戴齊全套裝物品，會擁有強力的屬性獎勵，甚至能獲得新技能。
+tagLoadingTip17={^g}提示：{^h}用於武器上的鑲嵌物能夠獲得某種技能，你可以用它來增強人物的能力。
+tagLoadingTip18={^g}提示：{^h}遺物是只能由熟練鐵匠製造的特殊物品。
+tagLoadingTip19={^g}提示：{^h}許多鑲嵌物只能製作。要先通過獲得凱恩世界的勢力聲望學習新的設計圖。
+tagLoadingTip20={^g}提示：{^h}在更高難度中，你有獲得強大戰利品更好的機會，但面臨的挑戰也更大。
+
+#Tutorial Pages
+
+tagTutorialTip06Title=未動過的餐食
+tagTutorialTip06TextA=你找到了被人丟棄的食物，估計是個倒霉的冒險者留下的。吃下這頓飯，你會恢復一些體力。
+
+tagTutorialTip08Title=歡迎來到恐怖黎明
+tagTutorialTip08TextA=感謝您對我們工作的支持。恐怖黎明是由我們的支持者慷慨捐助，無論是通過我們的網站，Kickstarter 或 Steam 搶先體驗。
+tagTutorialTip08TextB=如果你遇到BUG，請到 www.grim dawn.com 我們的論壇報告。
+tagTutorialTip08SubtitleA=教學提示
+tagTutorialTip08TextC=你可以在選項選單上隨時啟用或禁用遊戲中的教學提示。選項選單可以在遊戲中按 {^x}[Esc]{^-} 鍵呼出。
+
+tagTutorialTip09Title=商人視窗
+tagTutorialTip09TextA=商人出售與收購在凱恩世界的險境中生存所必需的武器裝備。
+tagTutorialTip09TextB=在這艱難的時期，好的裝備可不便宜。商人們不會為普通物品出高價，但是充滿魔力的裝備能夠賣出好價錢。你可能最終要過濾掉低於一定品質的物品。您可以通過點擊技能欄的左側的戰利品篩選按鈕這樣做。
+
+tagTutorialTip10Title=傳送裂隙
+tagTutorialTip10TextA=安全的傳送裂隙允許你在凱恩的眾多地點間快速移動。左鍵點擊傳送裂隙以打開世界地圖並選擇目標。
+tagTutorialTip10SubtitleA=個人傳送裂隙:
+tagTutorialTip10TextB=你發現了下游渡口的傳送裂隙。你所發現的所有傳送裂隙的位置會存儲在世界地圖。
+tagTutorialTip10TextC=作為一個接觸過虛化之力的人類，你擁有打開個人傳送裂隙的能力。要啟動你的個人傳送裂隙，點擊訊息面板上的傳送圖標。
+
+tagTutorialTip14Title=藥水
+tagTutorialTip14TextA=生命與能量藥水分別能夠恢復你的人物的生命和能量。要飲用藥水，點擊快捷欄內的圖標或者按下指定的快捷鍵。
+tagTutorialTip14TextB=藥水預設被分配到快捷欄的最後兩格內。通過右擊空的快捷欄並從選單選擇一種藥水你可以手動設定藥水到任意快捷欄。
+tagTutorialTip14TextC=要飲用藥水，點擊快捷欄內的圖標或者按下指定的快捷鍵。
+tagTutorialTip14TextD=你會發現藥水會從箱子和怪物身上掉出，如果你發現自己所剩無幾，也可以從任何商家購買更多。
+
+tagTutorialTip15Title=升級
+tagTutorialTip15TextA=每次你的人物升級的時候，你會獲得技能點和屬性點。
+tagTutorialTip15TextB=屬性點可以用來增加你的力量、敏捷和智力。每個屬性點提升 8點屬性。
+tagTutorialTip15TextC=技能點可以用來增加你的專精等級，解鎖新的技能，或者提升你已經解鎖的技能。
+tagTutorialTip15TextD=最初技能點數依等級，你將獲得每級 3技能點，但隨著你的能力不斷發展壯大，這個數字將下降到 2，最終每級為 1。{^n}{^n}
+tagTutorialTip15SubtitleA=分配點數
+tagTutorialTip15TextE=屬性點分配在人物視窗。點擊技能欄左側的圖標，或按 {^x}[%t0]{^-} 鍵。要分配屬性點，點擊「+」旁邊的相應屬性。
+tagTutorialTip15TextF=技能點分配許打開技能視窗。點擊技能欄左側的圖標，或按 {^x}[%t0]{^-} 鍵。
+tagTutorialTip15SubtitleB=經驗
+tagTutorialTip15TextG=你可以跟蹤你的生命和能量下方黃色欄中的經驗，及人物視窗的顯示，查看目前的經驗和達到新等級所需要的經驗值。當黃色填滿，你即可獲得等級。
+
+tagTutorialTip16Title=人物視窗
+tagTutorialTip16TextA=使用人物視窗來裝備物品，管理背包，分配屬性點和查看人物屬性一覽。將滑鼠懸停在屬性上可以獲得更多的訊息。
+tagTutorialTip16SubtitleA=物品欄管理
+tagTutorialTip16TextB=要裝備物品，從背包中右鍵點擊或者將它拖動到相應的裝備欄。你可以將物品拖出人物視窗來扔掉它，或者點擊它然後按下 {^x}[{%t0}]{^-} 鍵。
+tagTutorialTip16SubtitleB=屬性點
+tagTutorialTip16TextC=點擊想要的屬性左邊的[ + ]按鈕來分配屬性點。每個屬性點提升 8點屬性。
+
+tagTutorialTip17Title=技能專精
+tagTutorialTip17TextA=選擇技能專精是一項定義人物的決定。不同的專精迎合不同的遊戲風格，所以要謹慎選擇。
+tagTutorialTip17TextB=一旦你選擇了一項專精並點了技能點，你將不能恢復專精的選擇。
+tagTutorialTip17TextC=當你的人物到達10級時你將獲得選擇第二個專精的選擇權。
+
+tagTutorialTip20Title=鑲嵌物
+tagTutorialTip20TextA=鑲嵌物可以用來升級裝備。他們通常呈碎片形式，可以合成獲得更強力的加成。稀有鑲嵌物用淡黃色邊框來顯示。
+tagTutorialTip20SubtitleA=附著鑲嵌物
+tagTutorialTip20TextB=右擊部件選擇它，然後左鍵單擊你想要附加的裝備。注意每個鑲嵌物只能用於鑲嵌特定的物品種類。
+tagTutorialTip20SubtitleB=疊加鑲嵌物
+tagTutorialTip20TextC=你可以疊加名字相同的鑲嵌物碎片以獲得更強力的加成。
+tagTutorialTip20TextD=名字相同的鑲嵌物碎片可以在第一塊碎片附加過的物品上繼續疊加。
+
+tagTutorialTip22Title=技能視窗
+tagTutorialTip22TextA=每次你升級的時候都將獲得技能點。將你的技能點投放到專精等級上或解鎖技能。
+tagTutorialTip22SubtitleA=專精等級
+tagTutorialTip22TextB=如果你投入技能點到技能專精上，你將解鎖新的技能。你可以通過點擊技能視窗左下方專精條的按鈕來提升專精等級。
+tagTutorialTip22TextC=你必須在專精等級上投入至少一點來解鎖第一級的技能。
+tagTutorialTip22SubtitleB=技能等級
+tagTutorialTip22TextD=點擊一個解鎖技能圖標來為技能新增點數。第一個技能點將允許你使用該能力，額外的技能點將使能力增強。
+tagTutorialTip22TextE=綠線表明與技能改進的聯繫。你必須在基礎技能上至少擁有一點才能在它的改進技能上投入點數。
+
+tagTutorialTip23Title=技能分配
+tagTutorialTip23TextA=主動技能(方形圖標)需要分配到滑鼠或快捷欄才能使用。要分配技能，在快捷欄或右面的滑鼠按鍵欄上右鍵並從選單中選擇一個技能。
+tagTutorialTip23TextB=主動技能在快捷欄上左鍵單擊圖標，或者按下分配好的快捷鍵。
+tagTutorialTip23SubtitleA=使用技能
+tagTutorialTip23TextC=左鍵單擊圖標啟動技能欄技能，或按下已指定的快捷鍵。
+tagTutorialTip23TextD=被動技能(圓形圖標)始終有效，並不需要被分配到技能欄。一旦你為它們分配了技能點，它們會立即提供增益。
+
+tagTutorialTip24Title=死亡
+tagTutorialTip24TextA=當你的生命變為0時，你的人物會死亡。當你死亡時，你會失去一些經驗並且你的人物會在你最近訪問過的避難所內重生。經驗懲罰會隨著你人物等級而提高，但是你可以通過找回自己的墓碑來恢復一部分失去的經驗。
+tagTutorialTip24TextB=利用好人物的快速生命恢復機制，它將在脫離戰鬥一定時間後啟動。如果生命恢復還是不夠的話，記得使用藥水和技能來確保生存。
+
+tagTutorialTip26Title=聊天
+tagTutorialTip26TextA=在遊戲中你可以使用聊天視窗給其他玩家發送消息。通過點擊[發送]按鈕然後選擇一個接受者來發送私人消息。
+tagTutorialTip26SubtitleA=物品展示
+tagTutorialTip26TextB=要在聊天中加入物品鏈接，打開聊天視窗後按住 Shift 單擊你想要展示的物品。一條帶有物品鏈接的消息會被自動發送出去。
+
+tagTutorialTip27Title=多人遊戲
+tagTutorialTip27TextA=你可以與其他玩家組隊，共享經驗與鐵幣而且還能發起交易。你可以通過點擊該圖標或按下 {^x}[%t0]{^-} 打開組隊視窗，組隊對於PvP也是至關重要的。
+tagTutorialTip27TextB=右擊左上方玩家狀態欄的隊友頭像即可選擇與同隊的另一名玩家"交易"。
+tagTutorialTip27TextC=你也可以使用聊天視窗與其他玩家交談。可通過按下 {^x}[%t0]{^-} 打開。
+
+tagTutorialTip28Title=玩家交易
+tagTutorialTip28TextA=你可以把物品放入你的交易視窗內來進行交易。在視窗頂部輸入鐵幣的數目就能使用鐵幣來進行交易了。
+tagTutorialTip28TextB=在雙方玩家都選擇接受之後，雙方的交換才會生效。如果交易被取消了的話，所有的物品和鐵幣都會被返還到玩家的物品欄內。
+
+tagTutorialTip33Title=學習技能
+tagTutorialTip33TextA=你一直在投放你的技能點到專精上而沒有投入技能。當你升級時，試著將一些技能點投入到技能上。
+tagTutorialTip33TextB=要在一項能力上投入技能點，點擊技能視窗上的解鎖技能圖標。第一個技能點將允許你使用該能力，額外的技能點將使能力增強。
+
+tagTutorialTip34Title=拜訪商人
+tagTutorialTip34TextA=如果你的背包滿了，你會想到拜訪商人並出售一些不想要的物品。
+tagTutorialTip34TextB=商人可以在人類控制的保護區內找到，但是你也會在世界上遇到旅行商人。在羅盤或在地圖視窗上查看商人圖標。
+
+tagTutorialTip35Title=戰寵
+tagTutorialTip35TextA=戰寵會自動行進與你並肩戰鬥。如果你想要給你的戰寵直接下達命令，你可以在你點擊螢幕左上角指定的戰寵的時候按下 {^x}[{%t0}]{^-} ，然後選擇一個目標。
+tagTutorialTip35TextB=你可以在任何時候通過在它們的頭像上右鍵並選擇"解散寵物"。
+tagTutorialTip35TextC=你可以使用戰寵攻擊技能來命令所有戰寵攻擊或者移動至目標。
+
+tagTutorialTip36Title=技能重新分配
+tagTutorialTip36TextA=靈魂嚮導允許你復原技能點選擇。在靈魂嚮導的介面上點擊技能圖標來從該技能上移除一點技能點。其費用將隨著你移除隨後的技能點而增多。
+tagTutorialTip36TextB=你不能移除投放在專精上的技能點。此外，你不能移除在延伸技能上面投放的前置技能的最後一點。
+
+tagTutorialTip37Title=倉庫視窗
+tagTutorialTip37TextA=走私者可以存儲你的物品，甚至可以在你的人物間傳輸物品!你可以在整個凱恩世界能找到的任何走私者那裡訪問你的物品。
+tagTutorialTip37TextB=可以使用 Shift+滑鼠左鍵快速轉移物品。
+tagTutorialTip37TextC=點擊物品轉移來和你的其他人物分享物品。
+
+tagTutorialTip38Tile=物品轉移
+tagTutorialTip38TextA=放在共享倉庫的物品是可以在你所有人物間共享的(區分正常和專家模式)。
+tagTutorialTip38TextB=你可以購買額外的物品欄來擴展你的共享倉庫，在共享倉庫介面的左邊能看到購買它們的按鈕。這將耗費不少鐵幣。
+tagTutorialTip38SubtitleA=人物間轉移
+tagTutorialTip38TextC=要轉移物品，把它們放在共享倉庫。當你登陸其他人物時，你可以從走私者那裡存取這些物品。
+tagTutorialTip38SubtitleB=玩家間轉移
+tagTutorialTip38TextD=要想在多人遊戲中與其他玩家交易物品，你需要使用"交易"功能。
+
+tagTutorialTip39Title=發明家
+tagTutorialTip39TextA=發明家有從物品上移除鑲嵌物和增幅物的能力。物品或鑲嵌物其中一項將在工序中保留下來。任何的增幅物都會丟失。
+tagTutorialTip39SubtitleA=移除鑲嵌物
+tagTutorialTip39TextB=物品上鑲嵌物的移除將按物品、鑲嵌物和增幅物的綜合價值比例收取費用。在拆除介面上放置一個帶有鑲嵌物的物品來開始移除吧。
+tagTutorialTip39TextC=你可以獲得物品或鑲嵌物之一，在此過程中另一件將被銷毀。
+tagTutorialTip39SubtitleB=只移除增幅物
+tagTutorialTip39TextD=無論何時你只移除增幅物的話，物品和鑲嵌物都會被保留下來。如果一件靈魂綁定的增幅物以這種方式移除，而且物品原本並非靈魂綁定，那麼物品的靈魂綁定狀態也將會被移除。
+
+tagTutorialTip42Title=鐵匠
+tagTutorialTip42TextA=鐵匠有製作強大威力物品的能力。他們是經驗豐富的工匠，製作的每個物品都有某些屬性獎勵，而且他們的知識可以通過新的設計圖來擴充。
+tagTutorialTip42SubtitleA=設計圖
+tagTutorialTip42TextB=當你學習新的設計圖時，鐵匠將學會製作該物品。設計圖可以從任務獲得，或者在世界範圍內掉落。
+tagTutorialTip42SubtitleB=製作
+tagTutorialTip42TextC=要製作一個物品，在製作介面選擇配方。在介面的指定空間放入需要的物品或者在背包中右擊他們。
+tagTutorialTip42TextD=當所有需要的材料都在介面中時，按下[合成]按鈕來製作物品。
+
+tagTutorialTip43Title=設計圖
+tagTutorialTip43TextA=設計圖是用來創造強力物品失傳的模板，學習後可由鐵匠製作。
+tagTutorialTip43TextB=要學習一個設計圖，在它上面右擊。如果你已學過這個設計圖，它會被加入到鐵匠能製作的物品列表中。
+tagTutorialTip43TextC=設計圖在所有人物間共享(區分正常和專家模式)並且每種設計圖只可以學一次。
+
+tagTutorialTip44Title=鐵匠不見了!
+tagTutorialTip44TextA=你學會了一個新設計圖，但沒有能為你製作物品的鐵匠。{^n}{^n}你必須先找到一個鐵匠才能製作物品。{^n}{^n}鐵匠會馬上知道怎麼用這個設計圖製作物品。
+tagTutorialTip44TextB=
+
+tagTutorialTip45Title=體力
+tagTutorialTip45TextA=當戰鬥結束你的生命值未滿時，一個叫做體力的次級恢復系統就會啟動。
+tagTutorialTip45TextB=體力能快速補滿你的生命，但是在這個過程中也會被消耗。在你的生命槽上附著的黃色能量槽所顯示的就是體力的多少。
+tagTutorialTip45TextC=當你找到食物給養和生命精華的時候體力會自動進行補充，升級或者人物重生亦會如此。
+tagTutorialTip45TextD=如果你的體力消耗完了，脫離戰鬥後生命值不會再快速恢復。
+
+tagTutorialTip46Title=體力不足
+tagTutorialTip46TextA=你的體力消耗完了，脫離戰鬥後生命值不會再快速恢復。你可以通過收集食物給養和生命精華來補充體力。
+
+tagTutorialTip47Title=分解
+tagTutorialTip47TextA=你解鎖發明家的一種新能力，使你能將物品分解成廢料，在此過程中有幾率額外產生一個鑲嵌物。越是強力的物品，越有機會分解出鑲嵌物。
+tagTutorialTip47SubtitleA=分解一件物品
+tagTutorialTip47TextB=要分解一件物品，你需要炸藥和一些鐵幣。被分解的物品會被永久銷毀，在發明家的介面放上一件魔法品質以上的裝備來開始分解吧。
+tagTutorialTip47TextC=按下[分解]按鈕，炸藥和一些鐵幣會被消耗，然後該物品就會被分解。
+
+tagTutorialTip49Title=武器比較
+tagTutorialTip49TextA=當滑鼠停留在物品欄中的一件裝備上時，會自動與你已裝備的物品進行比較。對於武器來說，會額外比較每秒的傷害(DPS)。
+tagTutorialTip49SubtitleA=不含鑲嵌物的比較
+tagTutorialTip49TextB=你可以按住 {^x}[Ctrl]{^-} 鍵來比較武器，鑲嵌物將不被計入結果。
+
+tagTutorialTip50Title=增幅物
+tagTutorialTip50TextA=增幅物可以用來附魔物品以增強其屬性。如何製作增幅物的秘訣只有凱恩世界中的多種勢力團體才知曉。
+tagTutorialTip50TextB=要使用增幅物進行附魔，右鍵點擊它。一旦附魔過後，增幅物是不能被移除的，不過它可以再次附魔來被覆蓋掉。
+
+tagTutorialTip51Title=增幅物附魔
+tagTutorialTip51TextA=右鍵單擊一件增幅物，然後再左鍵單擊你想要附魔的裝備。
+tagTutorialTip51TextB=注意增幅物只能在特定的裝備類型上進行附魔而且已經使用不能被移除，但是你可以通過再次附魔來覆蓋掉之前的增幅物。
+
+tagTutorialTip53Title=勢力軍需官
+tagTutorialTip53TextA=勢力軍需官出售該勢力特有的物品。只有獲得該勢力的信任才能購買。
+tagTutorialTip53SubtitleA=靈魂綁定的裝備
+tagTutorialTip53TextB=勢力軍需官出售的特有裝備是靈魂綁定的，不能交易也不能放在人物共享的儲物箱裡。
+tagTutorialTip53TextC=如果一個靈魂綁定的增幅物用在了一件物品上，那麼這件物品也將變為靈魂綁定。
+
+tagTutorialTip55Title=勢力視窗
+tagTutorialTip55TextA=使用勢力視窗來查看你與凱恩世界中各股勢力的關係，這將決定你為了贏得他們的青睞而需要做的事情。
+tagTutorialTip55SubtitleA=獲取聲望
+tagTutorialTip55TextB=每個勢力都有特殊的目標和慾望。你可以在「聲望獲得途徑」部分查看如何獲得他們的尊重。
+tagTutorialTip55TextC=你的聲望等級決定了凱恩世界的各方勢力對你如何反應。更高的聲望等級使你獲得所有該勢力商人的貨物折扣並能在軍需官處購買更好的裝備。
+tagTutorialTip55TextD=隨著聲望等級的提升，新任務也會對你開放。別忘了探索它們。
+tagTutorialTip55TextE=注意，隨著聲望提升，你將需要擊敗更強的怪物來獲得聲望。
+
+tagTutorialTip56Title=賞金任務
+tagTutorialTip56TextA=賞金任務對於提升凱恩世界各種勢力的聲望是非常有效的途徑。賞金任務派遣你去完成各種不同難度的任務，並且報酬是不固定的。你必須在有限的幫助下完成任務。
+tagTutorialTip56SubtitleA=賞金任務是可重複的
+tagTutorialTip56TextB=與普通任務不同的是，賞金任務的完成次數對每個人物並沒有限制。每次進入遊戲，各勢力都會提供最多 5個賞金任務，並且你會接到之前完成過的賞金任務。
+
+tagTutorialTip59Title=虔誠祭壇
+tagTutorialTip59TextA=祭壇是一個失落已久的遠古帝國所遺留下來的，用來對各種神靈以及信仰符記進行祭祀。必須通過擊敗被困於其中的腐朽生物或者放置各種材料祭品來修復。各個祭壇的修復條件是不同的。
+tagTutorialTip59CaptionA=修復祭壇
+tagTutorialTip59TextB=要修復一座祭壇，你必須在個人倉庫、共享倉庫、物品欄以及已裝備的物品中存在所需的材料，並以此順序消耗。當你已有全部所需的材料時，點擊[修復]按鈕即可。
+tagTutorialTip59CaptionB=虔誠點數
+tagTutorialTip59TextC=當一座祭壇被修復後，你會獲得一個虔誠點。要分配虔誠點數，進入虔誠視窗並進行分配, 可以通過技能視窗打開。點擊在技能條左側的按鈕或者按下 {^x}[%t0]{^-}。
+
+tagTutorialTip60Title=虔誠視窗
+tagTutorialTip60TextA=你可以在此將你的虔誠點數奉獻給凱恩世界的各種神靈和星座圖符。
+tagTutorialTip60TextB=虔誠點數由分佈在世界各地的虔誠祭壇獲得。要到處探尋才能找到它們！
+tagTutorialTip60SubtitleA=獲取虔誠點數
+tagTutorialTip60TextC=星座排列五個不同的虔誠度，代表著不同的天體方面。不同的星座需要不同的虔誠度來解鎖。
+tagTutorialTip60SubtitleB=虔誠度
+tagTutorialTip60TextD=入門級的星座都能給予很多的親和點數獎勵，而最強大的星座不會有任何獎勵。
+tagTutorialTip60TextE=需要注意的是，如果你忘記把某星座加完整，你將失去其虔誠度加成。
+tagTutorialTip60TextF=明亮的藍色星表示你可以分配虔誠點。在該恆星上單擊左鍵開啟它的加成。
+tagTutorialTip60TextG=恆星光環標誌著該位置天體的能量，你可以解鎖，以提升你的主要技能賦有新的效果。
+
+tagTutorialTip61Title=星座能力
+tagTutorialTip61TextA=星座能力是可以由你的專精和裝備被分配到主技能，具有強大的自動啟動的能力。分配星座能力給你的技能將從戰鬥和任務中獲得經驗，這將使它們的排名和強度提升。當綁定到寵物技能上時，它們會受到寵物傷害的影響。
+tagTutorialTip61SubtitleA=指定一個主技能
+tagTutorialTip61TextB=要指定一個星座能力，你必須在虔誠視窗先解鎖，然後從下拉列表中選擇一個有效的主技能。在任何時候你都可以重新分配一個星座能力而不受處罰。如果復原已分配的星座能力，它將保留任何個人或組隊已獲得的經驗和等級。
+
+#Quick Tips
+
+tagQuickTipMainMenu={^z}歡迎來到恐怖黎明！{^-}{^n}{^n}{^w}教學提示{^-}已經啟用。你可以通過選項選單來關閉它。{^n}{^n}{^w}普通難度{^-}是為經驗不足的ARPG玩家所準備的。{^n}{^n}想要更具挑戰性請選擇{^w}老兵難度{^-}。
+tagQuickTip06={^z}未動過的餐食{^-}尋找一份未動過的餐食來恢復大量體力，這在你離開戰鬥後會快速恢復生命。
+tagQuickTip07={^z}你解鎖了裂隙傳送門！{^-}{^n}{^n}{^w}裂隙傳送{^-} {^x}[%t0]{^-} 允許你建立一個傳送裂隙並使用它在其他在凱恩世界已探明的傳送門之間進行傳送。
+tagQuickTip08={^z}教學提示{^-}{^n}{^n}{^s}教學提示{^-}已經啟用。你可以通過選項選單來關閉它。想瞭解更多訊息，只需在顯示出的提示上左鍵或者右鍵關閉它。遊戲內說明可在記事視窗 {^x}[%t0]{^-} 中隨時查閱。
+tagQuickTip09={^z}商人{^-}{^n}{^n}商人允許你出售收集的戰利品並購買裝備和藥水。最快捷的買賣方法是右鍵點擊一件物品。
+tagQuickTip11={^z}個人傳送裂隙{^-}{^n}{^n}使用個人傳送裂隙可打開世界地圖並選擇要去往地點的傳送門。
+tagQuickTip14={^z}藥水{^-}{^n}{^n}藥水有著較長的冷卻時間，但它們能迅速恢復生命與能量。要飲用藥水，在技能欄上點擊它的圖標或者按下已分配的快捷鍵。
+tagQuickTip15={^z}升級{^-}{^n}{^n}當你升級時會獲得技能與屬性點數，它們可以在技能和人物視窗中分配。
+tagQuickTip16={^z}人物視窗{^-}{^n}{^n}人物視窗允許你管理物品欄，裝備並查看你的統計資料。
+tagQuickTip20={^z}鑲嵌物{^-}{^n}{^n}鑲嵌物可為物品或裝備提供加成，並且組合完整後會更加強力。
+tagQuickTip21={^z}第二專精{^-}{^n}{^n}當你到達10級，即可選擇第二專精。
+tagQuickTip22={^z}技能視窗{^-}{^n}{^n}技能視窗 {^x}[%t0]{^-} 允許你分配升級時所獲得的技能點數。
+tagQuickTip23={^z}專精及技能{^-}{^n}{^n}增加在專精條上分配的點數可以掌握更多技能並獲得統計加成，別忘了學習新的技能同時增加你的專精條。
+tagQuickTip24={^z}死亡並非結束！{^-}{^n}{^n}當你的人物死亡時會損失經驗，但你可以通過搜集墓碑收回一些失去的經驗。
+tagQuickTip26={^z}聊天{^-}{^n}{^n}按下 {^x}[Enter]{^-} 可與其他玩家交談，或點選 "發送至..." 發送一個私密訊息。Shift+左鍵點擊物品發送可檢視的訊息給遊戲中的其他玩家。
+tagQuickTip27={^z}多人遊戲{^-}{^n}{^n}打開組隊視窗 {^x}[%t0]{^-} 可組建隊伍。按下 {^x}[Enter]{^-} 可與其他玩家交談。
+tagQuickTip30={^z}未分配的技能！{^-}{^n}{^n}主動技能必須分配到技能欄才能使用它們。右鍵單擊技能欄上的一個空位可將技能分配給它。
+tagQuickTip31={^z}生命藥水{^-}{^n}{^n}當你生命在戰鬥中降低時，使用生命藥水來恢復。生命藥水有較長的冷卻時間，但能恢復大量生命值。
+tagQuickTip32={^z}未分配的點數！{^-}{^n}{^n}你有未分配的屬性或技能點數，別忘了在你升級後使用它們。
+tagQuickTip33={^z}學習技能{^-}{^n}{^n}學習技能與專精條同樣重要。技能可為你提供強大的進攻與防禦能力。
+tagQuickTip34={^z}物品欄全滿！{^-}{^n}{^n}打開人物視窗可管理你的物品欄，或拜訪一位商人出售戰利品來獲取鐵幣。
+tagQuickTip35={^z}召喚戰寵{^-}{^n}{^n}你可以通過使用寵物技能操控所有的戰寵攻擊或移動到指定目標。它們也可以設置為進攻/防禦狀態，或者在必要時解散。
+tagQuickTip36={^z}靈魂嚮導{^-}{^n}{^n}靈魂嚮導允許你使用鐵幣與虛化結晶來更改技能和虔誠度。每改多一點的花費都會增加。
+tagQuickTip37={^z}走私者{^-}{^n}{^n}走私者允許把你所獲得的物品存入個人倉庫中，並能使用共享倉庫。
+tagQuickTip38={^z}共享倉庫{^-}{^n}{^n}共享倉庫可用於你不同人物間交換物品。額外的共享空間可以用鐵幣購買。
+tagQuickTip39={^z}發明家{^-}{^n}{^n}發明家允許你拆分物品上的鑲嵌物，並將不想要的物品拆除為製作材料。
+tagQuickTip42={^z}鐵匠{^-}{^n}{^n}鐵匠允許你運用已學會的設計圖製作強力的物品與製作材料。
+tagQuickTip43={^z}設計圖{^-}{^n}{^n}拜訪鐵匠可用你學到的設計圖製作物品，前提條件是你已經找到了各自所需的材料。
+tagQuickTip44={^z}設計圖{^-}{^n}{^n}設計圖學會後需要由鐵匠完成製作。你收集的任何設計圖都將被儲存為你的招術之一。
+tagQuickTip45={^z}快速恢復{^-}{^n}{^n}體力在脫離戰鬥時被轉化成生命，讓你能夠繼續戰鬥，而你的體力會快速生成。
+tagQuickTip46={^z}體力耗盡！{^-}{^n}{^n}當你的體力耗盡時就不能快速恢復了。可收集未動過的餐食或生命精華來補充它。
+tagQuickTip47={^z}拆除{^-}{^n}{^n}拆除視窗可以將不需要的物品分解成其它材料，然後用於手工製作。
+tagQuickTip49={^z}裝備對比{^-}{^n}{^n}將滑鼠指向一件物品就會顯示該物品與你身上所穿裝備的對比畫面。
+tagQuickTip50={^z}增幅物{^-}{^n}{^n}增幅物可加持在裝備上獲得額外加成。它們能從勢力軍需官處買到，前提是聲望達到要求。
+tagQuickTip52={^z}聲望獲得{^-}{^n}{^n}你已經取得了一些凱恩勢力之一的聲望。你可以在勢力視窗中查看你的聲望地位。快捷鍵 {^x}[%t0]{^-} 。
+tagQuickTip53={^z}勢力軍需官{^-}{^n}{^n}勢力軍需官允許你購買相應的物品，如果你聲望達到要求的話。
+tagQuickTip54={^z}聲望{^-}{^n}{^n}你在凱恩勢力之一的聲望等級已增加。勢力視窗 {^x}[%t0]{^-} 包含更高聲望等級相關的獎勵訊息。
+tagQuickTip55={^z}勢力視窗{^-}{^n}{^n}勢力視窗允許你檢視當前與各友好勢力的聲望等級以及與敵對勢力的狀況，還能瞭解他們各自的背景訊息。
+tagQuickTip56={^z}賞金任務{^-}{^n}{^n}不同於常規的任務，賞金任務是可重複執行的。每個勢力在每次遊戲中最多可提供 5項賞金任務。
+tagQuickTip57={^z}虔誠祭壇{^-}{^n}{^n}修復祭壇會使你獲得虔誠點數，通過技能視窗 {^x}[%t0]{^-} 來使用。虔誠系統是一項額外的能使你自定義人物的專精系統。
+tagQuickTip58={^z}修復祭壇{^-}{^n}{^n}祭壇可以通過供奉祭品，或擊敗被困於祭壇周圍的敵人進行修復，這取決於你遇到祭壇的類型。
+tagQuickTip59={^z}虔誠點數{^-}{^n}{^n}虔誠點數通過修復祭壇獲得，並經由技能視窗 {^x}[%t0]{^-} 使用。
+tagQuickTip60={^z}虔誠視窗{^-}{^n}{^n}虔誠視窗允許你使用虔誠點數。每個點數都會為你解鎖新的技能與加成。
+tagQuickTip61={^z}星座能力{^-}{^n}{^n}通過點擊虔誠視窗中的星座圖標，並從列表中選擇一個技能將你的星座能力綁定到該技能上。

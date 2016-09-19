@@ -1,0 +1,2172 @@
+﻿#General
+
+tagGameDifficultySetting01=普通難度
+tagGameDifficultySetting02=菁英難度
+tagGameDifficultySetting03=終極難度
+tagDifficultyUnlocked=難度已解鎖
+tagDifficultyLevelUnlocked=你現在可以進入 {^g}{%s0}{^w}！
+
+tagAutosort=自動整理
+
+tagPromptButtonYes=是
+tagPromptButtonNo=否
+tagPromptButtonOkay=確定
+tagPromptButtonClose=關閉
+
+tagGraveName=玩家墳墓 ~ {%t0}
+tagGraveSlainBy=被殺玩家 {%t0}
+tagGraveXPRecovered=回收經驗: {%d0}
+tagHeroXP={%d0} 敵方菁英經驗
+tagBossXP={%d0} 敵方頭目經驗
+tagHeroKilled=擊殺敵方菁英
+tagBossKilled=擊殺敵方頭目
+tagXPAwarded=經驗獎勵 {%d0}
+tagReputationBonus=聲望獎勵
+tagRepAwarded={^b}+{%d0} 聲望 {^w}至 {^g}{%s1}
+tagLoreBonus=學識獎勵
+
+tagLevelUp=等級提升
+tagLevelReached=你已升至 {^y}{%d0} 級
+
+#Devotion 虔誠
+
+tagDevotionPointAwarded=獲得 {%d0} 虔誠點
+tagDevotionPointsAwarded=獲得 {%d0} 虔誠點數
+tagDevotionShrine=祭壇已淨化
+tagDevotionShrineGuardian=祭壇守護者
+tagDevotionUpdate=虔誠等級
+tagDevotionSkillLevelUp={^g}{%s0} {^w}等級達到 {%d1}！
+tagDevotionSkillMaxLevel={^g}{%s0} {^w}已達到最高級別！
+tagDevotionAffinityBonus=完整的星座加成:
+tagDevotionAffinity=虔誠度:
+tagDevotionSelected= (選擇)
+tagDevotionInUse= (正在使用)
+tagDevotionConfirm=置換星座能力？
+tagDevotionExperienceFormat=經驗: {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionSkillRank=當前等級: {%d0} / {%d1}
+
+tagUndo=復原
+Chat=聊天:
+
+tagGamePaused=遊戲暫停
+
+tagSkillNotReady={^r}此技能還未準備就緒
+
+tagTransferStashError={^r}該物品不能放在共享倉庫裡
+
+#Riftgate
+
+tagRiftgatePersonal=個人傳送裂隙
+tagRiftgateDestination=目的地
+tagRiftgateError01=你不能使用這個傳送裂隙。它由一個不與你同隊伍的玩家建立。
+tagRiftgateError02=你不能在同一個傳送門間移動。
+tagRiftgateError03=你不能由此移動至該傳送門。
+tagRiftgateDialog01=打開一個新傳送裂隙將會關閉你現有的。你要繼續嗎？
+tagRiftGateMapA01=凱恩世界
+
+#Quest
+
+tagQuests=啟動的任務
+tagQuestLogNameNumber={%t0} ({%d1})
+tagQuestJournalNoQuests=無任務
+tagQuestJournalNoComplete=未完成任務
+tagQuestIncentives=動機:
+tagQuestObjectives=目標:
+tagQuestRewards=獎勵:
+tagCodexJournalNoNotes=沒有條目
+tagCodexJournalSubHeadingEnemy=敵方情報
+tagCodexJournalSubHeadingFaction=勢力
+tagCodexJournalSubHeadingCreed=審判官 克理德
+tagCodexJournalSubHeadingArkovia=歷史 - 安克維亞
+tagCodexJournalSubHeadingNecropolis=歷史 - 墓地
+tagCodexJournalSubHeadingSurvivorBlackLegion=倖存者 - 黑色軍團
+tagCodexJournalSubHeadingSurvivorBurrwitch=倖存者 - 伯爾維治
+tagCodexJournalSubHeadingSurvivorsHomestead=倖存者 - 家園
+tagCodexJournalSubHeadingSurvivorsDarkvale=倖存者 - 黑谷
+tagCodexJournalSubHeadingHistoryGods=歷史 - 凱恩眾神
+tagCodexJournalSubHeadingDefault=雜項
+tagDevotionJournalTitle=  ^r★ ^d已獲得虔誠點數：^-{%d0}/{%d1} ^r★
+tagAccept=接受
+tagDecline=拒絕
+tagContinue=繼續
+tagEndConversation=結束對話
+tagQuestPrimary=(主線)
+tagQuestSecondary=(支線)
+tagQuestElite=(精華)
+tagQuestAccepted=已接受任務: {^n}"{%t0}"
+tagQuestCompleted=已完成任務: {^n}"{%t0}"
+tagQuestUpdate=任務進度
+tagQuestUpdated=任務更新: {^n}"{%t0}"
+tagQuestFailed=任務失敗: {^n}"{%t0}"
+tagActionGiveMoney={%d0} 鐵幣
+tagActionGiveTribute={%d0} 貢品
+tagActionGiveTributes={%d0} 貢品
+tagActionGiveExperience={%d0} 經驗值
+tagActionGiveFaction={%d0} {%t1} 勢力
+tagActionGiveLevel={%d0} 等級
+tagActionGiveLevels={%d0} 等級
+tagActionGiveSkillPoint={%d0} 技能點
+tagActionGiveSkillPoints={%d0} 技能點
+tagActionGiveAttributePoint={%d0} 屬性點
+tagActionGiveAttributePoints={%d0} 屬性點
+tagActionGiveDevotionPoint={%d0} 虔誠點
+tagActionGiveDevotionPoints={%d0} 虔誠點數
+tagConditionHasKilled={%t0} ({%d1}/{%d2})
+tagConditionHasItem={%t0} ({%d1}/{%d2})
+tagQuestRewardWindowTitle=任務完成
+tagQuestRewardWindowInterim=任務進度
+tagQuestRewardTitle=獎勵:
+tagQuestRewardMoney={%d0} 鐵幣
+tagQuestRewardXP=經驗值: {%d0}
+tagQuestRewardReputationPositive=+{%d0} {%s1} 聲望
+tagQuestRewardReputationNegative=-{%d0} {%s1} 聲望
+tagQuestRewardAcceptButton=關閉
+tagQuestBlockedDescription=任務鎖定在本次遊戲基於主機的進度。
+
+tagObjectives=目標
+
+#Faction 勢力
+
+tagFaction={%s0}
+tagFactionStanding=勢力: {^s}{%t0}
+tagFactionQuestReq=額外任務: {^s}{%+d0}
+tagFactionAlone=獨立
+tagFactionInvisible=不可見
+tagFactionGenericMonster=怪物
+tagFactionPlayer=玩家
+tagFactionSurvivors=惡魔十字
+tagFactionSurvivorsInfo=營地：惡魔十字{^n}{^n}倖存者……通常我們用這個詞來描述惡魔十字的那些頑強的居民們。這些男人和女人們在廢棄的監獄之中建立一個小團體，度過了恐怖黎明。他們已見識過太多的親友被虛靈佔據，變成"被佔據者"。{^n}{^n}要取得他們的信任可不是一件容易的事，但是隨著補給品越來越少和若隱若現的虛靈危機，他們或許會冒險去相信一個陌生的面孔。
+tagFactionSurvivorsRewards1=N/A
+tagFactionSurvivorsRewards2=N/A
+tagFactionSurvivorsRewards3=N/A
+tagFactionSurvivorsRewards4=空
+tagFactionSurvivorsRewards5=新任務 {^n}獲得勢力特有商店
+tagFactionSurvivorsRewards6=新任務 {^n}可接賞金任務 {^n}勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有圖紙
+tagFactionSurvivorsRewards7=新地下城/新任務 {^n}勢力特有增幅物 {^n}勢力特有飾品 {^n}勢力特有敕令 {^n}勢力特有圖紙
+tagFactionSurvivorsRewards8=稀有增幅物 {^n}勢力特有委任狀 {^n}菁英勢力武器 {^n}菁英勢力護甲
+tagFactionAetherials=虛靈
+tagFactionAetherialsInfo=凱恩世界的奧術師們愚蠢而又貪婪地追尋著被稱為虛化力量的魔法，卻從不在意有些東西已經在背後盯上了他們。{^n}{^n}虛靈在被稱作恐怖黎明的事件發生之時來到了凱恩世界，它們佔據了無數的人類，然後將剩餘的屠戮殆盡。最為卑劣的是，它們開始復活死去的人，將他們變成變異的不死怪物，成為它們麾下沒有任何個人意志的侵略大軍。它們的存在也將凱恩世界原有的野生生物改變了，原本溫順的動物紛紛變成了邪惡的怪物。{^n}{^n}可最奇怪的還是它們對冥煞的憎恨，只要有機會它們就一定會和那些來自虛空之中的恐懼之物戰個不死不休。
+tagFactionAetherialsRewards1=復仇怪產生
+tagFactionAetherialsRewards2=額外菁英怪產生
+tagFactionAetherialsRewards3=額外怪產生
+tagFactionAetherialsRewards4=空
+tagFactionAetherialsRewards5=N/A
+tagFactionAetherialsRewards6=N/A
+tagFactionAetherialsRewards7=N/A
+tagFactionAetherialsRewards8=N/A
+tagFactionCthonians=冥煞
+tagFactionCthoniansInfo=冥煞，來自虛空之中如同夢魘般令人恐懼的生物。在恐怖黎明之前，只有在奧術儀式出錯或是強大的法師召喚冥煞時才能見到它們。{^n}{^n}儘管傾盡全力清除了所有嘗試的記錄，一個邪教依然在血儀式的周圍誕生並且崇拜著那些冥煞。邪教的成員們無意中聽到了吟唱裡的一個名字：冥神。伴隨著世界陷入混亂，邪教越發的壯大，招收新的追隨者，渴望從這個毫無意義的世界中得到答案。{^n}{^n}冥煞以及它們所效忠的教會，似乎是在與虛靈作對，急切的要消滅無望的人類從而使虛靈不能將人類變為自己的戰力。
+tagFactionCthoniansRewards1=復仇怪產生
+tagFactionCthoniansRewards2=額外菁英怪產生
+tagFactionCthoniansRewards3=額外怪產生
+tagFactionCthoniansRewards4=空
+tagFactionCthoniansRewards5=N/A
+tagFactionCthoniansRewards6=N/A
+tagFactionCthoniansRewards7=N/A
+tagFactionCthoniansRewards8=N/A
+tagFactionOutlaws=克隆利幫
+tagFactionOutlawsInfo=不像大部分散落的土匪，克隆利幫似乎是一個重裝且嚴密的組織，僅僅聽命於自稱為他們領導的德萊厄斯·克隆利。{^n}{^n}這些罪犯自從在恐怖黎明之後發生的混亂中逃離了惡魔十字監獄，就開始試圖在這個曾監禁過他們的世界中佔有一席之地。克隆利幫的成員儘是些暴力的、施虐的並傾向於對他們的同胞進行侵略的人，他們佐證了對人類最大的威脅也許就是人類自身。
+tagFactionOutlawsRewards1=復仇怪產生
+tagFactionOutlawsRewards2=額外菁英怪產生
+tagFactionOutlawsRewards3=額外怪產生
+tagFactionOutlawsRewards4=空
+tagFactionOutlawsRewards5=N/A
+tagFactionOutlawsRewards6=N/A
+tagFactionOutlawsRewards7=N/A
+tagFactionOutlawsRewards8=N/A
+tagFactionBeasts=野獸
+tagFactionBeastsInfo=野獸就是野獸。
+tagFactionUser0=流浪者
+tagFactionUser0Info=營地：古安克維亞{^n}{^n}羅瓦理，或者說經常被稱為的流浪者，是一群沒有固定住所的人。對於他們來說唯一必要的家就是朝天大道，旅行於凱恩世界並在終生的朝聖中淨化自己世俗的誘惑和文明的腐敗。他們的許多歷史都消失在時間的長河中，而且大部分的勢力認為他們不過是流浪的小偷。{^n}{^n}流浪漢痛恨暴力，並且願意以一切代價去迴避這些經常在更暴力的人會被濫用的東西。
+tagFactionUser0Rewards1=N/A
+tagFactionUser0Rewards2=N/A
+tagFactionUser0Rewards3=N/A
+tagFactionUser0Rewards4=空
+tagFactionUser0Rewards5=新任務 {^n}獲得勢力特有商店
+tagFactionUser0Rewards6=可接賞金任務 {^n}勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有圖紙
+tagFactionUser0Rewards7=新任務 {^n}勢力特有增幅物 {^n}勢力特有飾品 {^n}勢力特有敕令 {^n}勢力特有圖紙
+tagFactionUser0Rewards8=稀有增幅物 {^n}勢力特有委任狀 {^n}菁英勢力武器 {^n}菁英勢力護甲
+tagFactionUser1=中立
+tagFactionUser1Info=N/A
+tagFactionUser2=家園
+tagFactionUser2Info=營地：家園{^n}{^n}無論何時北方的農田受到了麻煩的侵擾，農夫們和他們的家人都會聚集在家園這麼個地方。這種集體意識被證明在人類面臨滅絕時比什麼都重要。{^n}{^n}在有了黑色軍團的幫助，家園變成了名副其實的堡壘，一個被死亡所蹂躪的世界中相對安全的地方；但是強大的敵人正在四面八方地侵襲這裡，一些人開始懷疑原地固守是否是個好主意。{^n}{^n}當黑色軍團專心於虛靈與冥煞時，家園的人們更加關注於臨近的威脅：貪婪的剪刀蟲蟲群，一種猖獗繁衍並遍佈於被農夫們所遺棄的田地裡。
+tagFactionUser2Rewards1=N/A
+tagFactionUser2Rewards2=N/A
+tagFactionUser2Rewards3=N/A
+tagFactionUser2Rewards4=空
+tagFactionUser2Rewards5=獲得勢力特有商店
+tagFactionUser2Rewards6=可接賞金任務 {^n}勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有圖紙
+tagFactionUser2Rewards7=新任務 {^n}勢力特有增幅物 {^n}勢力特有飾品 {^n}勢力特有敕令 {^n}勢力特有圖紙
+tagFactionUser2Rewards8=稀有增幅物 {^n}勢力特有委任狀 {^n}菁英勢力武器 {^n}菁英勢力護甲
+tagFactionUser3=科裡根礦的自由民
+tagFactionUser3Info=營地：科裡根礦{^n}{^n} WORDS
+tagFactionUser3Rewards1=N/A
+tagFactionUser3Rewards2=N/A
+tagFactionUser3Rewards3=N/A
+tagFactionUser3Rewards4=空
+tagFactionUser3Rewards5=N/A
+tagFactionUser3Rewards6=N/A
+tagFactionUser3Rewards7=N/A
+tagFactionUser3Rewards8=N/A
+tagFactionUser4=放逐者
+tagFactionUser4Info=營地：聖像堡{^n}{^n}我們對神秘的安娜斯特莉婭知道的並不多或者說不知道為什麼她對虛靈和它們的計劃如此瞭解。她似乎並沒有怎麼外出過，卻能為黑色軍團提供敵方行動的訊息以拯救珍貴的生命。{^n}{^n} 黑色軍圖中的許多人辱蔑她為女巫，儘管審判信條極力堅持要保護她的安全但黑色軍團的士兵們卻十分樂意看到她被綁在樁子上燒死。
+tagFactionUser4Rewards1=放逐者之復仇
+tagFactionUser4Rewards2=放逐者之憤怒
+tagFactionUser4Rewards3=放逐者之僕從
+tagFactionUser4Rewards4=空
+tagFactionUser4Rewards5=新任務
+tagFactionUser4Rewards6=新任務 {^n}可接賞金任務
+tagFactionUser4Rewards7=獲得勢力特有商店
+tagFactionUser4Rewards8=稀有增幅物 {^n}勢力特有委任狀 {^n}菁英勢力武器 {^n}菁英勢力護甲
+tagFactionUser5=死亡守夜人教團
+tagFactionUser5Info=營地：悲傷城堡{^n}{^n}死亡守夜人教團代表了與幾盡遺失的精妙巫術的最後連結，尤若布魯克——他們的祖師傳遞下了這種珍貴的知識。{^n}{^n} 教團成員不懼死亡。在他們經歷了一系列嚴格的試煉後，他們認為通過掌握死亡能夠更加和諧的融入自然。{^n}{^n} 在面對國王數個世紀的迫害，教團對於爭執與偏見已經不再陌生，但是他們從沒面臨過如此一個無情的敵人——凱蒙的神選。神選戰士認為必須清除凱恩大陸上所有的污穢，將教團視為必須清除的扭曲。
+tagFactionUser5Rewards1=復仇怪產生
+tagFactionUser5Rewards2=額外菁英怪產生
+tagFactionUser5Rewards3=額外怪產生
+tagFactionUser5Rewards4=空
+tagFactionUser5Rewards5=獲得勢力特有商店
+tagFactionUser5Rewards6=新任務 {^n}可接賞金任務 {^n}勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有圖紙
+tagFactionUser5Rewards7=新任務 {^n}勢力特有增幅物 {^n}勢力特有飾品 {^n}勢力特有敕令 {^n}勢力特有圖紙
+tagFactionUser5Rewards8=稀有增幅物 {^n}勢力特有委任狀 {^n}菁英勢力武器 {^n}菁英勢力護甲
+tagFactionUser6=不死族
+tagFactionUser6Info=許多悲劇故事描述了有關亡靈們無休止的遊蕩於安克維亞的廢墟。一些人認為他們的靈魂被囚禁於凡間，不得超生。其他人則認為這是邪惡亡靈巫師的傑作，一個受詛咒的亡靈軍團侍奉於一個殘忍的主人。或者是兩者的綜合。{^n}{^n}對於他們所有人都同意的一點是這些亡靈對於活物來說是極度危險的。因此奪取安克維亞的財寶是非常之不明智的選擇。
+tagFactionUser6Rewards1=復仇怪產生
+tagFactionUser6Rewards2=額外菁英怪產生
+tagFactionUser6Rewards3=額外怪產生
+tagFactionUser6Rewards4=空
+tagFactionUser6Rewards5=N/A
+tagFactionUser6Rewards6=N/A
+tagFactionUser6Rewards7=N/A
+tagFactionUser6Rewards8=N/A
+tagFactionUser7=黑色軍團
+tagFactionUser7Info=營地：聖像堡{^n}{^n}黑色軍團是帝國的菁英，他們是以國王獨裁思想為行為指導的死亡禁衛軍。一般軍團的英勇往往被他們的殘忍與暴力所掩蓋。{^n}{^n}不管他們是被人們尊敬或是畏懼，黑色軍團是唯一在恐怖黎明時逃離淪陷首都的帝國軍隊，並且是人類發起反擊的唯一希望。
+tagFactionUser7Rewards1=N/A
+tagFactionUser7Rewards2=N/A
+tagFactionUser7Rewards3=N/A
+tagFactionUser7Rewards4=空
+tagFactionUser7Rewards5=可接賞金任務 {^n}獲得勢力特有商店
+tagFactionUser7Rewards6=勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有圖紙
+tagFactionUser7Rewards7=新地下城/新任務 {^n}勢力特有增幅物 {^n}勢力特有飾品 {^n}勢力特有敕令 {^n}勢力特有圖紙
+tagFactionUser7Rewards8=稀有增幅物 {^n}勢力特有委任狀 {^n}菁英勢力武器 {^n}菁英勢力護甲
+tagFactionUser8=凱蒙神選戰士
+tagFactionUser8Info=營地：悲傷城堡{^n}{^n}凱蒙的神選是追隨至高神的狂熱者，他們認為光明使者將在閃耀光輝之中回到凱恩大陸並且帶領神選戰士們進入一個充滿秩序與繁榮的新時代。{^n}{^n}一位被授予神力的傳教士——聖父凱蒙所領導並用信仰來守護，神選戰士們渴望於將一切凱恩大陸污穢清除乾淨，不管是邪惡的黑暗的恐怖還是操縱死亡的亡靈巫師。最終，神選戰士們決定把讓死亡守夜人教團在這個世界上徹底消失作為當前最首要的任務。
+tagFactionUser8Rewards1=復仇怪產生
+tagFactionUser8Rewards2=額外菁英怪產生
+tagFactionUser8Rewards3=額外怪產生
+tagFactionUser8Rewards4=空
+tagFactionUser8Rewards5=獲得勢力特有商店
+tagFactionUser8Rewards6=新任務 {^n}可接賞金任務 {^n}勢力特有武器 {^n}勢力特有護甲 {^n}勢力特有圖紙
+tagFactionUser8Rewards7=新任務 {^n}勢力特有增幅物 {^n}勢力特有飾品 {^n}勢力特有敕令 {^n}勢力特有圖紙
+tagFactionUser8Rewards8=稀有增幅物 {^n}勢力特有委任狀 {^n}菁英勢力武器 {^n}菁英勢力護甲
+tagFactionUser9=User9
+tagFactionUser9Info=
+tagFactionUser9Rewards1=復仇怪產生
+tagFactionUser9Rewards2=額外菁英怪產生
+tagFactionUser9Rewards3=額外怪產生
+tagFactionUser9Rewards4=空
+tagFactionUser9Rewards5=Rewards
+tagFactionUser9Rewards6=Rewards
+tagFactionUser9Rewards7=Rewards
+tagFactionUser9Rewards8=Rewards
+tagFactionUser10=User10
+tagFactionUser10Info=
+tagFactionUser10Rewards1=復仇怪產生
+tagFactionUser10Rewards2=額外菁英怪產生
+tagFactionUser10Rewards3=額外怪產生
+tagFactionUser10Rewards4=空
+tagFactionUser10Rewards5=Rewards
+tagFactionUser10Rewards6=Rewards
+tagFactionUser10Rewards7=Rewards
+tagFactionUser10Rewards8=Rewards
+tagFactionUser11=User11
+tagFactionUser11Info=
+tagFactionUser11Rewards1=復仇怪產生
+tagFactionUser11Rewards2=額外菁英怪產生
+tagFactionUser11Rewards3=額外怪產生
+tagFactionUser11Rewards4=空
+tagFactionUser11Rewards5=Rewards
+tagFactionUser11Rewards6=Rewards
+tagFactionUser11Rewards7=Rewards
+tagFactionUser11Rewards8=Rewards
+tagFactionUser12=User12
+tagFactionUser12Info=
+tagFactionUser12Rewards1=復仇怪產生
+tagFactionUser12Rewards2=額外菁英怪產生
+tagFactionUser12Rewards3=額外怪產生
+tagFactionUser12Rewards4=空
+tagFactionUser12Rewards5=Rewards
+tagFactionUser12Rewards6=Rewards
+tagFactionUser12Rewards7=Rewards
+tagFactionUser12Rewards8=Rewards
+tagFactionUser13=User13
+tagFactionUser13Info=
+tagFactionUser13Rewards1=復仇怪產生
+tagFactionUser13Rewards2=額外菁英怪產生
+tagFactionUser13Rewards3=額外怪產生
+tagFactionUser13Rewards4=空
+tagFactionUser13Rewards5=Rewards
+tagFactionUser13Rewards6=Rewards
+tagFactionUser13Rewards7=Rewards
+tagFactionUser13Rewards8=Rewards
+tagFactionUser14=User14
+tagFactionUser14Info=
+tagFactionUser14Rewards1=復仇怪產生
+tagFactionUser14Rewards2=額外菁英怪產生
+tagFactionUser14Rewards3=額外怪產生
+tagFactionUser14Rewards4=空
+tagFactionUser14Rewards5=Rewards
+tagFactionUser14Rewards6=Rewards
+tagFactionUser14Rewards7=Rewards
+tagFactionUser14Rewards8=Rewards
+tagFactionUser15=User15
+tagFactionUser15Info=
+tagFactionUser15Rewards1=復仇怪產生
+tagFactionUser15Rewards2=額外菁英怪產生
+tagFactionUser15Rewards3=額外怪產生
+tagFactionUser15Rewards4=空
+tagFactionUser15Rewards5=Rewards
+tagFactionUser15Rewards6=Rewards
+tagFactionUser15Rewards7=Rewards
+tagFactionUser15Rewards8=Rewards
+tagFactionUnknown=未知
+tagFactionStateEnemy5=復仇
+tagFactionStateEnemy4=憎恨
+tagFactionStateEnemy3=厭惡
+tagFactionStateEnemy2=輕視
+tagFactionStateEnemy1=敵對
+tagFactionStateNeutral=容忍
+tagFactionStateFriend1=友善
+tagFactionStateFriend2=尊重
+tagFactionStateFriend3=信任
+tagFactionStateFriend4=崇拜
+tagFactionStateFriend5=敬畏
+tagFactionStateNemesis=復仇
+tagFactionStateHated=憎恨
+tagFactionStateReviled=排斥
+tagFactionStateHostile=敵對
+tagFactionStateUnfriendly=不睦
+tagFactionStateSuspicious=懷疑
+tagFactionStateFriendly=友善
+tagFactionStateTrusted=信任
+tagFactionStateHonored=崇拜
+tagFactionStateRevered=敬畏
+
+#Faction Window 勢力視窗
+
+tagFactionUpdated=聲望提高
+tagFactionStatusChange={^w}你在{^b}{%s1}{^w}勢力中的聲望已達到{%s0}
+tagFactionNegativeStatusChange={^w}你在{^b}{%s1}{^w}勢力中的聲望已變為{%s0}
+tagFactionDoorLocked={^r}你和{^b}{%s0}{^r}之間的關係不允許你進入這裡
+tagFactionWindowName=勢力
+tagFactionWindowFactionTitle={%s0} - {%s1}
+tagFactionReputation=獲得聲望的方式:{^n}
+tagFactionReputationKilling=擊殺 {%s0}{^n}
+tagFactionReputationBounties=賞金任務{^n}
+tagFactionReputationQuests=劇情任務{^n}
+tagFactionDiscountPositive=聲望折扣: {^r}+ {%.0f0}%
+tagFactionDiscountNegative=聲望折扣: {^g}- {%.0f0}%
+tagFactionDiscountZero=聲望折扣: {^s}{%.0f0}%
+tagFactionProgress=距離{%s0}{^w}還需聲望: {^b}{%d1}
+tagFactionKillingGain=擊殺以下敵人可以獲得聲望:
+tagFactionKillingLoss=擊殺以下敵人可以擴大你在該勢力的惡名:
+tagFactionRewardsTier=解鎖下一等級:
+tagFactionKillCommon=普通怪物
+tagFactionKillChampion=菁英怪物
+tagFactionKillHero=菁英怪物
+tagFactionKillBoss=首領怪物
+tagFactionBonusRep=聲望加成: {%d0}%
+tagFactionBonusInfamy=敵意加成: {%d0}%
+
+#Achievements 成就
+
+tagAchievements=成就
+tagAchievementUnlocked=成就已解鎖！
+tagAchievementsComplete={%d0} / {%d1}
+
+#HUD
+
+tagHUDMenu=選單按鈕
+tagHUDAttacks=當前攻擊
+tagHUDSkills=快捷欄
+tagHUD_PotionHealth=生命藥水
+tagHUD_PotionEnergy=能量藥水
+
+tagPortraitKick=由主機踢出
+tagPortraitTrade=交易
+tagPortraitRemove=從隊伍中移除
+tagPortraitChat=聊天
+tagPortraitDisband=解散戰寵
+
+tagHUDRoll_Health={%s0} {%d1} / {%d2}
+tagHUDRoll_XP={%s0} {%d1} ~ {%s2} {%d3}
+tagHUDXP_Current=經驗
+tagHUDXP_Next=下一等級
+tagMaxLevel=已達最高等級
+tagSkillRefreshTime=-{%.1f0} {%z1} 當前所有主動技能冷卻時間
+tagSkillRefreshTimeInfinate=冷卻時間減少 100%
+
+tagSkillUnusableLowMana=能量過低
+tagSkillUnusableCooldown=技能冷卻中
+tagSkillUnusableConfiguration=技能需要裝備
+tagSkillUnusableNotLearned=該技能未學過
+
+tagHUD_Riftgate=在現實空間撕裂一個入口穿梭到任何一個已知的裂隙。
+tagHUD_EmptySlot_R=清空快捷欄
+tagHUD_EmptySlot_R1=右鍵分配一個技能。
+tagHUD_LeftMouse_R=左鍵分配
+tagHUD_LeftMouse_R1=這是你的主要攻擊方式。點擊右鍵來分配一個技能。
+tagHUD_RightMouse_R=右鍵分配
+tagHUD_RightMouse_R1=這是你的次要攻擊方式。點擊右鍵來分配一個技能。
+tagHUD_CompassToggleName=指南針地圖開關
+tagHUD_CompassToggleDescription=點擊更改尺寸或最小化指南針地圖。
+tagHUD_LootModeToggleOff=自動顯示戰利品 ^D(關閉)
+tagHUD_LootModeToggleCommon=自動顯示戰利品 (普通+)
+tagHUD_LootModeToggleMagic=自動顯示戰利品 ^Y(魔法+)
+tagHUD_LootModeToggleRare=自動顯示戰利品 ^G(稀有+)
+tagHUD_LootModeToggleEpic=自動顯示戰利品 ^B(史詩+)
+tagHUD_LootModeToggleLegendary=自動顯示戰利品 ^I(傳奇+)
+
+tagHUD_LootModeToggleDescription=單擊更改自動顯示戰利品的類型。
+
+tagHUD_LeftMouse=左鍵
+tagHUD_RightMouse=右鍵
+
+tagHUDPortraitLevelUP=升級
+tagHUDWeaponSwap=切換武器
+tagHUDWeaponSwapRoll=在已裝備的武器中切換。你必須裝備有第二套武器。
+tagHUDWeaponSwapHelpRoll=在使用武器切換前，你必須在人物視窗的替換武器欄中裝備有第二套武器。
+
+tagHUDRiftgateButton=裂隙傳送
+tagHUDRiftgateButtonRoll=撕裂開一個小傳送裂隙，通向任何可見的傳送門或者由其他隊員建立的傳送裂隙。
+
+tagHUDQuickslot=未分配的快捷欄
+tagHUDQuickslotRoll=點擊右鍵來分配技能。
+tagHUDQuickslotLM=左鍵分配
+tagHUDQuickslotLMRoll=主要攻擊。點擊右鍵分配技能
+tagHUDQuickslotRM=右鍵分配
+tagHUDQuickslotRMRoll=次要攻擊。點擊右鍵分配技能
+tagHUDQuickslotBarSwap=切換備用快捷欄。
+
+tagHUDButtonCharacter=人物視窗
+tagHUDButtonSkills=技能視窗
+tagHUDButtonGroup=組隊視窗
+tagHUDButtonQuest=記事視窗
+tagHUDButtonMap=地圖視窗
+tagHUDButtonChat=聊天視窗
+tagHUDButtonFaction=勢力視窗
+tagHUDButtonAchievements=成就視窗
+tagHUDButtonOptions=選項選單
+
+tagHUDButtonRollCharacter=人物屬性、物品欄和裝備欄。
+tagHUDButtonRollSkills=專精選擇和技能分配。
+tagHUDButtonRollGroup=玩家邀請與組隊管理。
+tagHUDButtonRollQuest=任務日誌、學識、虔誠祭壇和遊戲中的說明。
+tagHUDButtonRollMap=詳細的局部和世界地圖。
+tagHUDButtonRollChat=在你的遊戲中向其他玩家發送訊息。
+tagHUDButtonRollFaction=關於凱恩世界各方勢力的細節。
+tagHUDButtonRollAchievements=成就完成度。
+tagHUDButtonRollOptions=儲存，退出和遊戲設置。
+
+#SkillUI
+
+tagSkillUndoClass=復原專精
+tagSkillUndoPoints=復原加點
+tagSkillClassSelect=選擇專精
+tagCurrentLevel=當前等級: ^h{%d0}
+tagNextLevel=下一等級: ^h{%d0}
+tagSkillClassSelectInfo=選擇一個專精{^n}{^n}一旦你做出選擇並且退出了技能視窗，你的選擇將被永久固定。
+tagSkillReq01=還需加 ^h{%d0}^- 點於{%t1}條
+tagSkillReq01Singular=還需加 ^h{%d0}^- 點於{%t1}條
+tagSkillReq02=還需加 ^h{%d0}^- 點於{%t1}和{%s2}技能
+tagSkillReq02Singular=還需加 ^h{%d0}^- 點於{%t1}和{%s2}技能
+tagSkillReq03=需學會 ^l{%s1}^- 技能
+tagSkillPointsRemain={%d0} 剩餘點數
+tagSkillPointsRemainSingular={%d0} 剩餘點數
+
+#Character
+
+GenderFormat={%t0}{%0a1}
+
+tagInventoryBag=儲物袋
+tagInventoryBagDescription=擴展你的儲物空間。
+
+tagStatsResistanceTitle=抗性
+tagStatsResistance01=火焰
+tagStatsResistance01Desc=對縱火攻擊以及產生火焰或燃燒傷害的法術的抗性。
+tagStatsResistance02=閃電
+tagStatsResistance02Desc=對來自攻擊的電擊和衝擊波以及造成閃電或電擊傷害的法術的抗性。
+tagStatsResistance03=冰冷
+tagStatsResistance03Desc=對寒冰攻擊以及造成冰冷或者霜燃傷害的法術的抗性。
+tagStatsResistance04=毒酸
+tagStatsResistance04Desc=對造成酸性或毒素傷害的邪毒以及強酸的抗性。
+tagStatsResistance05=穿刺
+tagStatsResistance05Desc=對造成穿刺傷害的破甲投射物與利刃的抗性。
+tagStatsResistance06=流血
+tagStatsResistance06Desc=對撕裂以及傷害法術造成流血的抗性。
+tagStatsResistance07=活力
+tagStatsResistance07Desc=對造成生命力損傷和生命力衰減的生命汲取咒語的抗性。
+tagStatsResistance08=虛化
+tagStatsResistance08Desc=對造成虛化傷害的虛化攻擊和法術的抗性。
+tagStatsResistance09=眩暈
+tagStatsResistance09Desc=減少使你無法反抗的眩暈攻擊和技能的持續時間。
+tagStatsResistance10=混亂
+tagStatsResistance10Desc=對宇宙本身的不穩定能量釋放出的混亂傷害的抗性，冥煞常會使用這種力量。
+tagStatsResistance11=擊倒
+tagStatsResistance11Desc=對被擊倒的抗性。
+tagStatsResistance12=打斷
+tagStatsResistance12Desc=對法術和技能打斷的抗性。
+
+tagCharStatsTab1Name=主要
+tagCharStatsTab2Name=次要
+tagCharAttributeTitle=屬性
+tagCharAttributeName01=敏捷
+tagCharAttributeName02=力量
+tagCharAttributeName03=智力
+tagCharAttributeName04=生命
+tagCharAttributeName05=能量
+
+tagCharAttributeDescription01=敏捷的思維能改進你的戰鬥技巧，提升物理、穿刺、流血和創傷傷害。敏捷也會提高你的近戰和遠程攻擊的命中幾率以及暴擊幾率。
+
+tagCharAttributeDescription02=鍛煉體格有力量穿上更重的裝備，並能靈敏地躲開敵人的攻擊。力量也能提升你承受和癒合創傷的能力以及降低被暴擊的機率。
+
+tagCharAttributeDescription03=強大的精神力會提升你體內的能量流動，讓你能承受更強大的魔法裝備所帶來的精神負擔。智力也會增強你的魔法傷害。
+
+tagCharAttributeDescription04=生命值衡量在死之前你能承受多少的痛楚和傷害。
+
+tagCharAttributeDescription05=能量值衡量你承受魔法能量的精神力。精神力越強，就會有越多的能量在等待恢復之前供你取用。
+
+tagCharBonusHealth=生命值加成:
+tagCharBonusHealthRegen=生命恢復加成:
+tagCharBonusEnergy=能量值加成:
+tagCharBonusEnergyRegen=能量恢復加成:
+
+tagCharBonusPhysicalDmg=物理傷害加成:
+tagCharBonusPierceDmg=穿刺傷害加成:
+tagCharBonusMagicalDmg=魔法傷害加成:
+tagCharBonusDurDmg=持續性傷害加成:
+
+tagCharAttributeIncrement01=每點增加敏捷 10。
+tagCharAttributeIncrement02=每點增加力量 10。
+tagCharAttributeIncrement03=每點增加智力 10。
+tagCharAttributeIncrement04=每點增加生命 50。
+tagCharAttributeIncrement05=每點增加能量 50。
+
+tagCharStatsOAAlert=攻擊能力
+tagCharStatsOA=攻擊能力
+tagCharStatsOALast=最後攻擊: 
+tagCharStatsOAHit=擊中幾率: 
+tagCharStatsOACrit=暴擊幾率: 
+tagCharStatsOADescription=更高的攻擊能力提升你攻擊和法術的命中幾率，暴擊幾率和暴擊傷害。攻擊能力低於敵人的防禦能力會極大地增加你的未命中幾率。攻擊能力受技能、物品和敏捷影響。
+
+tagCharStatsDAAlert=防禦能力
+tagCharStatsDA=防禦能力
+tagCharStatsDALast=最後受到的攻擊來自: 
+tagCharStatsDAHit=被擊中幾率: 
+tagCharStatsDACrit=被暴擊幾率: 
+tagCharStatsDADescription=更高的防禦能力使你更能閃避敵人的攻擊，降低受到暴擊的機率以及受到暴擊時的傷害。防禦能力受技能、物品和力量影響。
+
+tagRollFormat01={%s0} {^b}{%d1}
+tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
+tagRollFormat03={%s0} {%+.0f1}%
+tagRollFormat04={%s0} ({^y}{%t1}{^w})
+tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
+tagRollFormat06={%s0} {^b}{%.0f1}%
+tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
+tagRollFormat08={%s0} {^b}{%.2f1}
+tagRollFormat09={%s0} {^b}+ {%.1f1}%
+tagRollFormat10={%s0} {^b}{%.0f1} - {%.0f2}
+tagRollFormat11={%s0} {^b}{%d1} - {%d2}
+tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
+tagRollFormat13={%s0} {^b}{%.1f1}%
+tagRollFormat14={%s0} {^b}{%.0f1}
+tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
+tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
+tagRollFormat18={^b}{%.0f0} - {%.0f1}
+tagRollFormat19={^b}{%.0f0}
+tagFormatPercent={%.0f}%
+tagFormatPlusPercent= {%.0f}%
+tagFormatMinusPercent= {%.0f}%
+tagFormatPlus= {%d0}
+tagFormatDash={%d0} - {%d1} 
+tagFormatDashPercent={%d0}% - {%d1}%
+tagCharPointAvailable={^y}{%d0} {^w}可用點數
+tagCharPointsAvailable={^y}{%d0} {^w}可用點數
+tagCharLevel=^y{%d0} 級
+tagCharXP=經驗值: {%t0}
+tagCharLevelAndClass=^y{%d0} 級 ^g{%t1}
+
+tagCharRollLeftHand=副手:
+tagCharRollRightHand=主手:
+
+tagInfoPage=訊息:
+
+tagTimePlayedName=遊戲時間
+tagTimePlayedNumber={%d0}:{%d1}:{%d2}
+
+tagCharHeaderResistance=抗性
+tagCharHeaderDefense=防禦屬性
+tagCharHeaderOffense=攻擊屬性
+tagCharHeaderCombat=戰鬥屬性
+tagCharHeaderDPS=每次擊中的傷害
+tagCharHeaderCharacter=人物
+tagCharHeaderPhysical=物理
+tagCharHeaderMagical=魔法
+tagCharHeaderPets=戰寵加成
+tagCharHeaderDefenseSection=防禦
+tagCharHeaderRetaliation=反擊
+tagCharHeaderStats=屬性
+tagCharHeaderMisc=雜項
+
+tagCharStatsDPSTitle=每秒傷害
+tagCharStatsDPS=每秒傷害
+tagCharStatsDPSDescription=你的左鍵技能和右鍵技能每秒對單一目標的平均傷害，受到所有來自裝備及其技能冷卻時間和加成的影響。敵人的防禦未計算在內。
+tagCharStatsDPSRightDescription=右鍵技能對單體目標的傷害明細，受到所有來自裝備及其技能冷卻時間和加成的影響。敵人的防禦未計算在內。
+tagCharStatsDPSLeftDescription=左鍵技能對單體目標的傷害明細，受到所有來自裝備及其技能冷卻時間和加成的影響。敵人的防禦未計算在內。
+
+tagCharStatsArmorTotalAlert=護甲等級
+tagCharStatsArmorTotal=護甲等級
+tagCharStatsAbsorption=護甲吸收
+tagCharStatsArmorTotalDescription=護甲等級越高，受到的物理傷害就越少。{^n}從技能和非護甲部位獲得的加成將增加至所有護甲欄位。
+tagCharStatsHitArmor=擊中幾率
+tagCharStatsArmorUnprotected=無護甲
+tagCharStatsArmorNA=N/A
+tagCharStatsArmorBonus=加成:
+tagCharStatsArmorHead=頭部:
+tagCharStatsArmorChest=胸部:
+tagCharStatsArmorArms=臂部:
+tagCharStatsArmorLegs=腿部:
+tagCharStatsArmorJewelry=飾品:
+tagCharStatsArmorFeet=足部:
+tagCharStatsArmorWaist=腰部:
+tagCharStatsArmorShoulders=肩部:
+
+tagFormulaLearned=設計圖已學會
+tagFormulaLearn01=你學會了如何製作 ^t{%t0}
+tagFormulaLearn02={^r}你已經學過這張設計圖了。
+tagFormulaLearn03={^r}[已學會]
+
+tagItemCompareEquipped=已裝備的物品
+tagItemCompareVendor=待出售的物品
+tagItemCompareInventory=物品欄的物品
+tagItemCompareGround=地上的物品
+tagItemInsufficientStatus={^r}聲望不足
+
+
+#CharStatsTab2 人物屬性欄2
+
+#Character 人物
+tagCharStatsRunSpeed=奔跑速度
+tagCharStatsRunSpeedInfo=人物相對於基礎值的奔跑速度(包含整體速度)。
+tagCharStatsCritDmg=暴擊傷害
+tagCharStatsCritDmgInfo=暴擊傷害加成的百分比數。暴擊幾率由你的攻擊等級和目標的防禦等級的差距決定。
+tagCharStatsLifeRegen=生命恢復
+tagCharStatsLifeRegenInfo=戰鬥中生命恢復速度。加成只影響從裝備和技能獲得的恢復速度，不影響基於力量的基本恢復速度。
+tagCharStatsEnergyRegen=能量恢復
+tagCharStatsEnergyRegenInfo=能量值恢復速度。加成只影響從裝備和技能獲得的恢復速度，不影響基於智力的基本恢復速度。
+tagCharStatsEnergyAbsorption=能量吸收
+tagCharStatsEnergyAbsorptionInfo=吸收敵人攻擊和施法使用的能量為你所用的百分數。
+tagCharStatsConstitution=體力加成
+tagCharStatsConstitutionInfo=最大體力值額外加成的百分數。
+tagCharStatsExpGainedBonus=經驗加成
+tagCharStatsExpGainedBonusInfo=殺死怪物所得額外經驗的百分數。
+tagCharStatsLightRadiusBonus=光亮範圍
+tagCharStatsLightRadiusBonusInfo=照亮範圍額外的百分數。
+tagCharStatsAllSkillsBonus=所有技能加成
+tagCharStatsAllSkillsBonusInfo=所有已習得技能的額外加成
+tagCharStatsSoldierSkillsBonus=戰士技能加成
+tagCharStatsSoldierSkillsBonusInfo=所有士兵專精中已習得技能的額外加成。
+tagCharStatsDemoSkillsBonus=爆破者技能加成
+tagCharStatsDemoSkillsBonusInfo=所有爆破者專精中已習得技能的額外加成。
+tagCharStatsOccuSkillsBonus=神秘學者技能加成
+tagCharStatsOccuSkillsBonusInfo=所有神秘學者專精中已習得技能的額外加成。
+tagCharStatsNightbladeSkillsBonus=夜刃技能加成
+tagCharStatsNightbladeSkillsBonusInfo=所有夜刃專精中已習得技能的額外加成。
+tagCharStatsArcanistSkillsBonus=奧術師技能加成
+tagCharStatsArcanistSkillsBonusInfo=所有奧術師專精中已習得技能的額外加成。
+tagCharStatsShamanSkillsBonus=薩滿技能加成
+tagCharStatsShamanSkillsBonusInfo=所有薩滿專精中已習得技能的額外加成。
+
+#Physical 物理
+tagCharStatsAttackSpeed=攻擊速度
+tagCharStatsAttackSpeedDescription=相對於基本攻速的武器攻擊速度(整體攻速)。
+tagCharStatsAvgDmg=武器傷害
+tagCharStatsAvgDmgDescription=使用武器攻擊每次擊中所造成的傷害值，已含加成。
+
+tagCharStatsPhysicalAbsDmg=物理傷害
+tagCharStatsPhysicalAbsDmgInfo=使用武器攻擊每次擊中所造成的物理傷害，已含加成。
+tagCharStatsPhysicalPercentDmg=物理傷害加成
+tagCharStatsPhysicalPercentDmgInfo=攻擊和法術造成的物理傷害額外加成的百分數。不含敏捷加成。
+
+tagCharStatsPierceAbsDmg=穿刺傷害
+tagCharStatsPierceAbsDmgInfo=使用武器攻擊每次擊中所造成的穿刺傷害，已含加成。
+tagCharStatsPiercePercentDmg=穿刺傷害加成
+tagCharStatsPiercePercentDmgInfo=攻擊和法術造成的穿刺傷害的額外加成的百分數。不含敏捷加成。
+
+tagCharStatsBleedAbsDmg=流血傷害
+tagCharStatsBleedAbsDmgInfo=使用武器攻擊每一擊所造成的 3秒內每秒流血傷害值，已含加成。
+tagCharStatsBleedPercentDmg=流血傷害加成
+tagCharStatsBleedPercentDmgInfo=攻擊和法術造成的流血傷害的額外加成的百分數。
+tagCharStatsBleedDuration=流血持續時間
+tagCharStatsBleedDurationInfo=你的流血攻擊持續時間的額外加成的百分數，每秒造成的傷害不會提高。
+
+tagCharStatsInternalTraumaAbsDmg=創傷傷害
+tagCharStatsInternalTraumaAbsDmgInfo=使用武器攻擊每一擊所造成的 5秒內每秒創傷傷害值，已含加成。
+tagCharStatsInternalTraumaPercentDmg=創傷傷害加成
+tagCharStatsInternalTraumaPercentDmgInfo=攻擊和法術造成的創傷傷害的額外加成的百分數。不含敏捷加成。
+tagCharStatsInternalTraumaDuration=創傷持續時間
+tagCharStatsInternalTraumaDurationInfo=你的創傷攻擊持續時間的額外加成的百分數，每秒造成的傷害不會提高。
+
+tagCharStatsDamageToHealth=生命竊取
+tagCharStatsDamageToHealthInfo=武器傷害用來恢復生命的百分數。
+
+#Magical 魔法
+tagCharStatsCastSpeed=施法速度
+tagCharStatsCastSpeedInfo=人物相對於基礎值的施法速度(包含整體速度)。
+
+tagCharStatsCooldownReduction=技能冷卻時間減少
+tagCharStatsCooldownReductionInfo=技能冷卻時間減少的百分數。
+
+tagCharStatsManaCostReduction=技能能量消耗減少
+tagCharStatsManaCostReductionInfo=減少技能施放所消耗能量值的百分數。
+
+tagCharStatsPercentHealthDamage=目標生命每擊減少
+tagCharStatsPercentHealthDamageInfo=基礎攻擊每一擊所造成目標生命值百分比的傷害，已含加成。
+
+tagCharStatsFireAbsDmg=火焰傷害
+tagCharStatsFireAbsDmgInfo=使用武器攻擊每一擊造成的火焰傷害，已含加成。
+tagCharStatsFirePercentDmg=火焰傷害加成
+tagCharStatsFirePercentDmgInfo=攻擊和法術造成的火焰傷害的額外加成的百分數。不含智力加成。
+
+tagCharStatsColdAbsDmg=冰冷傷害
+tagCharStatsColdAbsDmgInfo=使用武器攻擊每一擊所造成的冰冷傷害，已含加成。
+tagCharStatsColdPercentDmg=冰冷傷害加成
+tagCharStatsColdPercentDmgInfo=攻擊和法術造成的冰冷傷害的額外加成的百分數。不含智力加成。
+
+tagCharStatsLightningAbsDmg=閃電傷害
+tagCharStatsLightningAbsDmgInfo=使用武器攻擊每一擊所造成的閃電傷害，已含加成。
+tagCharStatsLightningPercentDmg=閃電傷害加成
+tagCharStatsLightningPercentDmgInfo=攻擊和法術造成的閃電傷害的額外加成的百分數。不含智力加成。
+
+tagCharStatsAcidAbsDmg=酸性傷害
+tagCharStatsAcidAbsDmgInfo=使用武器攻擊每一擊所造成的酸性傷害，已含加成。
+tagCharStatsAcidPercentDmg=酸性傷害加成
+tagCharStatsAcidPercentDmgInfo=攻擊和法術造成的酸性傷害的額外加成的百分數。不含智力加成。
+
+tagCharStatsVitalityAbsDmg=活力傷害
+tagCharStatsVitalityAbsDmgInfo=使用武器攻擊每一擊所造成的活力傷害，已含加成。
+tagCharStatsVitalityPercentDmg=活力傷害加成
+tagCharStatsVitalityPercentDmgInfo=攻擊和法術造成的活力傷害的額外加成的百分數。不含智力加成。
+
+tagCharStatsAetherAbsDmg=虛化傷害
+tagCharStatsAetherAbsDmgInfo=使用武器攻擊每一擊所造成的虛化傷害，已含加成。
+tagCharStatsAetherPercentDmg=虛化傷害加成
+tagCharStatsAetherPercentDmgInfo=攻擊和法術造成的虛化傷害的額外加成的百分數。不含智力加成。
+
+tagCharStatsChaosAbsDmg=混亂傷害
+tagCharStatsChaosAbsDmgInfo=使用武器攻擊每一擊所造成的混亂傷害值，已含加成。
+tagCharStatsChaosPercentDmg=混亂傷害加成
+tagCharStatsChaosPercentDmgInfo=攻擊和法術造成的混亂傷害的額外加成的百分數。不含智力加成。
+
+tagCharStatsBurnAbsDmg=燃燒傷害
+tagCharStatsBurnAbsDmgInfo=使用武器攻擊每一擊所造成的 3秒內每秒燃燒傷害值，已含加成。
+tagCharStatsBurnPercentDmg=燃燒傷害加成
+tagCharStatsBurnPercentDmgInfo=攻擊和法術造成的燃燒傷害的額外加成的百分數。不含智力加成。
+tagCharStatsBurnDuration=燃燒持續時間
+tagCharStatsBurnDurationInfo=你的燃燒傷害持續時間的額外加成的百分數，每秒造成的傷害不會提高。
+
+tagCharStatsColdburnAbsDmg=霜燃傷害
+tagCharStatsColdburnAbsDmgInfo=使用武器攻擊每一擊所造成的 3秒內每秒霜燃傷害值，已含加成。
+tagCharStatsColdburnPercentDmg=霜燃傷害加成
+tagCharStatsColdburnPercentDmgInfo=攻擊和法術造成的霜燃傷害的額外加成的百分數。不含智力加成。
+tagCharStatsColdburnDuration=霜燃持續時間
+tagCharStatsColdburnDurationInfo=你的霜燃傷害持續時間的額外加成的百分數，每秒造成的傷害不會提高。
+
+tagCharStatsElectrocuteAbsDmg=電擊傷害
+tagCharStatsElectrocuteAbsDmgInfo=使用武器攻擊每一擊所造成的 3秒內每秒電擊傷害值，已含加成。
+tagCharStatsElectrocutePercentDmg=電擊傷害加成
+tagCharStatsElectrocutePercentDmgInfo=攻擊和法術造成的電擊傷害的額外加成的百分數。不含智力加成。
+tagCharStatsElectrocuteDuration=電擊持續時間
+tagCharStatsElectrocuteDurationInfo=你的電擊傷害持續時間的額外加成的百分數，每秒造成的傷害不會提高。
+
+tagCharStatsPoisonAbsDmg=毒素傷害
+tagCharStatsPoisonAbsDmgInfo=使用武器攻擊每一擊所造成的 5秒內每秒毒素傷害值，已含加成。
+tagCharStatsPoisonPercentDmg=毒素傷害加成
+tagCharStatsPoisonPercentDmgInfo=攻擊和法術造成的毒素傷害的額外加成的百分數。不含智力加成。
+tagCharStatsPoisonDuration=毒素持續時間
+tagCharStatsPoisonDurationInfo=你的毒素傷害持續時間的額外加成的百分數，每秒造成的傷害不會提高。
+
+tagCharStatsVitalityDecayAbsDmg=活力衰減傷害
+tagCharStatsVitalityDecayAbsDmgInfo=使用武器攻擊每一擊所造成的 3秒內每秒活力衰減傷害值，已含加成。
+tagCharStatsVitalityDecayPercentDmg=活力衰減傷害加成
+tagCharStatsVitalityDecayPercentDmgInfo=攻擊和法術造成的活力衰減傷害的額外加成的百分數。不含智力加成。
+tagCharStatsVitalityDecayDuration=活力衰減持續時間
+tagCharStatsVitalityDecayDurationInfo=你的活力衰減傷害持續時間的額外加成的百分數，每秒造成的傷害不會提高。
+
+tagCharStatsPhysical=物理
+tagCharStatsPierce=穿刺
+tagCharStatsCold=冰冷
+tagCharStatsFire=火焰
+tagCharStatsAcid=酸性
+tagCharStatsLightning=閃電
+tagCharStatsVitality=活力
+tagCharStatsChaos=混亂
+tagCharStatsAether=虛化
+tagCharStatsLifeLeech=生命吸取
+tagCharStatsManaLeech=能量吸取
+tagCharStatsDurInternalTrauma=創傷
+tagCharStatsDurFrostburn=霜燃
+tagCharStatsDurBurn=燃燒
+tagCharStatsDurPoison=毒素
+tagCharStatsDurElectrocute=電擊
+tagCharStatsDurVitalityDecay=活力衰減
+tagCharStatsDurBleeding=流血
+tagCharStatsDurLifeLeech=生命吸取
+tagCharStatsDurManaLeech=能量吸取
+
+#Pets 寵物
+tagCharStatsPetHealth=生命
+tagCharStatsPetHealthInfo=你的戰寵和召喚物的生命加成的百分數。
+
+tagCharStatsPetDamage=傷害
+tagCharStatsPetDamageInfo=你的戰寵和召喚物所造成的傷害加成的百分數。
+
+tagCharStatsPetAttackSpeed=攻擊速度
+tagCharStatsPetAttackSpeedInfo=你的戰寵和召喚物的攻擊速度加成的百分數。
+
+tagCharStatsPetCastSpeed=施法速度
+tagCharStatsPetCastSpeednfo=你的戰寵和召喚物的施法速度加成的百分數。
+
+tagCharStatsPetRunSpeed=移動速度
+tagCharStatsPetRunSpeednfo=你的戰寵和召喚物的移動速度加成的百分數。
+
+tagCharStatsPetOA=攻擊能力
+tagCharStatsPetOAInfo=你的戰寵和召喚物的攻擊能力加成的百分數。
+
+tagCharStatsPetDA=防禦能力
+tagCharStatsPetDAInfo=你的戰寵和召喚物的防禦能力加成的百分數。
+
+tagCharStatsPetFireResist=火焰抗性
+tagCharStatsPetFireResistInfo=你的戰寵和召喚物火焰抗性加成的百分數。
+
+tagCharStatsPetColdResist=冰冷抗性
+tagCharStatsPetColdResistInfo=你的戰寵和召喚物冰冷抗性加成的百分數。
+
+tagCharStatsPetLightningResist=閃電抗性
+tagCharStatsPetLightningResistInfo=你的戰寵和召喚物閃電抗性加成的百分數。
+
+tagCharStatsPetPoisonResist=毒酸抗性
+tagCharStatsPetPoisonResistInfo=你的戰寵和召喚物毒素/酸性抗性加成的百分數。
+
+tagCharStatsPetPierceResist=穿刺抗性
+tagCharStatsPetPierceResistInfo=你的戰寵和召喚物穿刺抗性加成的百分數。
+
+tagCharStatsPetBleedResist=流血抗性
+tagCharStatsPetBleedResistInfo=你的戰寵和召喚物流血抗性加成的百分數。
+
+tagCharStatsPetVitalityResist=活力抗性
+tagCharStatsPetVitalityResistInfo=你的戰寵和召喚物活力抗性加成的百分數。
+
+tagCharStatsPetAetherResist=虛化抗性
+tagCharStatsPetAetherResistInfo=你的戰寵和召喚物虛化抗性加成的百分數。
+
+tagCharStatsPetChaosResist=混亂抗性
+tagCharStatsPetChaosResistInfo=你的戰寵和召喚物混亂抗性加成的百分數。
+
+#CharStatsTab3人物屬性欄3
+
+#Defense 防禦
+tagCharStatsBlockChance=格擋幾率
+tagCharStatsBlockChanceDescription=格擋被攻擊的百分比幾率。
+
+tagCharStatsBlockAmount=格擋傷害
+tagCharStatsBlockAmountDescription=一次成功格擋減傷的數值。
+
+tagCharStatsBlockRecovery=格擋恢復時間減少
+tagCharStatsBlockRecoveryInfo=格擋恢復所需時間減少的百分數。
+
+tagCharStatsDodgeChance=閃近幾率
+tagCharStatsDodgeChanceInfo=百分比幾率避開近戰攻擊，導致其攻擊傷害完全失效。
+
+tagCharStatsProjDeflectChance=閃遠幾率
+tagCharStatsProjDeflectChanceInfo=百分比幾率避開遠程攻擊，導致其攻擊傷害完全失效。
+
+tagCharStatsPhysicalResist=物理抗性
+tagCharStatsPhysicalResistInfo=對法術和攻擊造成物理及創傷傷害的抗性。
+
+tagCharStatsDisruptionResist=施法打斷抗性
+tagCharStatsDisruptionResistInfo=對打斷技能釋放的攻擊和法術的抗性。
+
+tagCharStatsLifeLeechResist=生命吸取抗性
+tagCharStatsLifeLeechResistInfo=對生命吸取攻擊的抗性。
+
+tagCharStatsEnergyLeechResist=能量吸取抗性
+tagCharStatsEnergyLeechResistInfo=對能量吸取攻擊的抗性。
+
+tagCharStatsTrapResist=陷阱抗性
+tagCharStatsTrapResistInfo=對陷阱限制你移動的抗性。
+
+tagCharStatsPetrifyResist=石化抗性
+tagCharStatsPetrifyResistInfo=對使你石化並失去反抗能力的法術的抗性。
+
+tagCharStatsFreezeResist=冰凍抗性
+tagCharStatsFreezeResistInfo=對使你凍結並失去反抗能力的法術的抗性。
+
+tagCharStatsSleepResist=昏睡抗性
+tagCharStatsSleepResistInfo=對使你昏睡的法術的抗性，昏睡會使你在被打醒之前不能作出任何反應。
+
+tagCharStatsSlowResist=減速抗性
+tagCharStatsSlowResistInfo=對所有能減緩你攻擊、施法和移動速度的法術的抗性。
+
+#Retaliation 反擊
+tagCharStatsDamageReflect=傷害反彈
+tagCharStatsDamageReflectInfo=你所受到的傷害回饋給攻擊者的比率。
+
+tagCharStatsCurrentLifeReflect=生命反擊
+tagCharStatsCurrentLifeReflectInfo=無論何時你受到攻擊，以該比率基於敵人當前生命值實施反擊。
+
+tagCharStatsPhysicalRet=物理反擊
+tagCharStatsPhysicalRetInfo=當你被攻擊時對攻擊者造成的物理傷害。
+tagCharStatsPhysicalPercentRet=物理反擊加成
+tagCharStatsPhysicalPercentRetInfo=所有物理傷害反擊的加成比率。
+
+tagCharStatsPierceRet=穿刺反擊
+tagCharStatsPierceRetInfo=當你被攻擊時對攻擊者造成的穿刺傷害。
+tagCharStatsPiercePercentRet=穿刺反擊加成
+tagCharStatsPiercePercentRetInfo=所有穿刺傷害反擊的加成比率。
+
+tagCharStatsBleedRet=流血反擊
+tagCharStatsBleedRetInfo=當你被攻擊時對攻擊者造成 3秒內每秒的流血傷害。
+tagCharStatsBleedPercentRet=流血反擊加成
+tagCharStatsBleedPercentRetInfo=所有流血傷害反擊的加成比率。
+
+tagCharStatsInternalTraumaRet=創傷反擊
+tagCharStatsInternalTraumaRetInfo=當你被攻擊時對攻擊者造成 5秒內每秒的創傷傷害。
+tagCharStatsInternalTraumaPercentRet=創傷反擊加成
+tagCharStatsInternalTraumaPercentRetInfo=所有創傷傷害反擊的加成比率。
+
+tagCharStatsFireRet=火焰反擊
+tagCharStatsFireRetInfo=當你被攻擊時對攻擊者造成的火焰傷害。
+tagCharStatsFirePercentRet=火焰反擊加成
+tagCharStatsFirePercentRetInfo=所有火焰傷害反擊的加成比率。
+
+tagCharStatsColdRet=冰冷反擊
+tagCharStatsColdRetInfo=當你被攻擊時對攻擊者造成的冰冷傷害。
+tagCharStatsColdPercentRet=冰冷反擊加成
+tagCharStatsColdPercentRetInfo=所有冰冷傷害反擊的加成比率。
+
+tagCharStatsLightningRet=閃電反擊
+tagCharStatsLightningRetInfo=當你被攻擊時對攻擊者造成的閃電傷害。
+tagCharStatsLightningPercentRet=閃電反擊加成
+tagCharStatsLightningPercentRetInfo=所有閃電傷害反擊的加成比率。
+
+tagCharStatsAcidRet=酸性反擊
+tagCharStatsAcidRetInfo=當你被攻擊時對攻擊者造成的酸性傷害。
+tagCharStatsAcidPercentRet=酸性反擊加成
+tagCharStatsAcidPercentRetInfo=所有酸性傷害反擊的加成比率。
+
+tagCharStatsVitalityRet=活力反擊
+tagCharStatsVitalityRetInfo=當你被攻擊時對攻擊者造成的活力傷害。
+tagCharStatsVitalityPercentRet=活力反擊加成
+tagCharStatsVitalityPercentRetInfo=所有活力傷害反擊的加成比率。
+
+tagCharStatsAetherRet=虛化反擊
+tagCharStatsAetherRetInfo=當你被攻擊時對攻擊者造成的虛化傷害。
+tagCharStatsAetherPercentRet=虛化反擊加成
+tagCharStatsAetherPercentRetInfo=所有虛化傷害反擊的加成比率。
+
+tagCharStatsChaosRet=混亂反擊
+tagCharStatsChaosRetInfo=當你被攻擊時對攻擊者造成的混亂傷害。
+tagCharStatsChaosPercentRet=混亂反擊加成
+tagCharStatsChaosPercentRetInfo=所有混亂傷害反擊的加成比率。
+
+tagCharStatsBurnRet=燃燒反擊
+tagCharStatsBurnRetInfo=當你被攻擊時對攻擊者造成 3秒內每秒的燃燒傷害。
+tagCharStatsBurnPercentRet=燃燒反擊加成
+tagCharStatsBurnPercentRetInfo=所有燃燒傷害反擊的加成比率。
+
+tagCharStatsColdburnRet=霜燃反擊
+tagCharStatsColdburnRetInfo=當你被攻擊時對攻擊者造成 3秒內每秒的霜燃傷害。
+tagCharStatsColdburnPercentRet=霜燃反擊加成
+tagCharStatsColdburnPercentRetInfo=所有霜燃反擊的加成比率。
+
+tagCharStatsElectrocuteRet=電擊反擊
+tagCharStatsElectrocuteRetInfo=當你受到攻擊時對攻擊者造成持續 3秒內每秒的電擊傷害。
+tagCharStatsElectrocutePercentRet=電擊反擊加成
+tagCharStatsElectrocutePercentRetInfo=所有電擊傷害反擊的加成比率。
+
+tagCharStatsPoisonRet=毒素反擊
+tagCharStatsPoisonRetInfo=當你被攻擊時對攻擊者造成 5秒內每秒的毒素傷害。
+tagCharStatsPoisonPercentRet=毒素反擊加成
+tagCharStatsPoisonPercentRetInfo=所有毒素傷害反擊的加成比率。
+
+tagCharStatsVitalityDecayRet=活力衰減反擊
+tagCharStatsVitalityDecayRetInfo=當你被攻擊時對攻擊者造成 3秒內每秒的活力衰減傷害。
+tagCharStatsVitalityDecayPercentRet=活力衰減反擊加成
+tagCharStatsVitalityDecayPercentRetInfo=所有活力衰減傷害反擊的加成比率。
+
+#Stats 統計
+tagCharStatsItemLevel=平均物品等級
+tagCharStatsItemLevelInfo=你所有裝備的平均物品等級。
+
+tagRecordTime=已用時間
+tagRecordTimeNumber={%d0}:{%d1}:{%d2}
+tagRecordTimeInfo=總遊戲時間的天數、小時和分鐘數。
+
+tagRecordMonsterKills=擊殺怪物
+tagRecordMonsterKillsInfo=你的人物擊殺的怪物總數。
+
+tagRecordChampionKills=擊殺頭目和菁英
+tagRecordChampionKillsInfo=你的人物擊殺過的敵方首領和菁英的數量。
+
+tagRecordHighestMonster=擊殺最強大怪物
+tagRecordHighestMonsterInfo=你的人物擊殺過的最強大的怪物。
+
+tagRecordHighestDamage=造成傷害
+tagRecordHighestDamageInfo=你的人物單次造成過的最高傷害。
+
+tagRecordHighestDamageTaken=承受傷害
+tagRecordHighestDamageTakenInfo=你的人物單次承受過的最高傷害。
+
+tagRecordDeath=總死亡次數
+tagRecordDeathInfo=你的人物的死亡總數。
+
+tagCharStatsSecondaryResist=次級抗性:
+
+tagCharacterStats=人物狀態
+tagCharStatsFactionTitle=勢力
+tagCPercentageValue={%.0f}%
+
+#Vendor 商販
+
+tagVendorTabArtifactA=手工製品
+tagVendorTabArtifactB=佔位符
+tagVendorTab01A=近戰武器
+tagVendorTab01B=從廢棄的住宅中、死去多時的人和將死之人身上搜集來的各式各樣的作戰武器。
+tagVendorTab02A=遠程武器
+tagVendorTab02B=各種由廢舊材料改裝加工製成的自動旋轉發射機構的槍械和弩。
+tagVendorTab03A=防具及法器
+tagVendorTab03B=由舊衣物和金屬廢料組裝而成的護甲大全，有些甚至是古戰場上遺留的盔甲拼成的。
+tagVendorTab04A=飾品及耗材
+tagVendorTab04B=古老的遺物和自製藥劑都在這兒。
+tagVendorTab05A=回購
+tagVendorTab05B=改變主意了？在商人這兒可以原價買回賣出的物品。一旦你離開，出售就成交了。
+
+tagFactionVendorTab01A=友善
+tagFactionVendorTab01B=聲望為友善時解鎖的獎勵
+tagFactionVendorTab02A=尊重
+tagFactionVendorTab02B=聲望為尊重時解鎖的獎勵
+tagFactionVendorTab03A=崇拜
+tagFactionVendorTab03B=聲望為崇拜時解鎖的獎勵
+tagFactionVendorTab04A=敬畏
+tagFactionVendorTab04B=聲望為敬畏時解鎖的獎勵
+
+tagVendorRolloverName=救助品經銷商
+tagVendorRolloverDescription=這些商人向敢於離開人類據點出去冒險的人售賣搜集來的或是偷來的貨物，利用人類的災難來牟利。最好別打聽這些貨物的出處。
+
+MarketCostAffordable={^g}出售價格 {%d0}
+MarketCostTooExpensive={^r}費用 {%d0} ~ 鐵幣不足
+MarketCostReputationTooLow={^r}費用  {%d0} ~ 聲望不足
+MarketCostPreviousTransaction={^g}費用 {%d0} ~ 原價
+MarketCostPreviousTransactionTooExpensive={^r}費用 {%d0} ~ 鐵幣不足
+MarketValue={^g}售出價格 {%d0}
+MarketValuePreviousTransaction={^g}回購價格 {%d0} ~ 購入原價
+MarketSalePending=未決定售出
+MarketPurchasePending=未決定購買
+
+tagMarketError01=你沒有足夠的鐵幣。
+tagMarketError02=你沒有足夠的存儲空間。
+tagMarketError03=該物品已經出售。
+tagMarketError04=該物品不能出售。
+tagMarketError05=你在勢力中的聲望未達標。
+CanNotBeSoldHere=商家不接受此物品。
+Sold=已售出
+
+
+#Crafting 鍛造
+
+tagCrafting=合成
+tagInventorNamePlate=發明家
+tagCraftingComponentCount=這種材料的庫存數量。
+tagCraftingComponentMissing=目前你的庫存中沒有這種材料。
+tagCraftingWindowTitle=發明家
+tagCraftingPanelA=裝備改造
+tagCraftingPanelB=裝備拆除
+tagCraftingCost=費用:
+tagCraftingBlueprint=設計圖
+tagCraftingComponent=鑲嵌物
+tagCraftingComponentRequired=原材料:
+tagCraftingCombine=合成
+tagCraftingDisplayBoxHelp=在工作台上放置一張設計圖來開始合成裝備。
+tagCraftingBlueprintInfo=鐵匠可以基於設計圖使用各種各樣廢棄的材料合成更高級的物品。
+tagCraftingDeviceCost=鐵幣費用: {%t0}
+tagCraftingCreate=合成品:
+tagCraftingLearn=[右鍵學習]
+tagCraftingRandom={^E}+隨機屬性(單個或多個)
+tagCraftingQuantity={%d0}/{%d1}
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
+
+tagCraftingItemType00= ~ 設備
+tagCraftingItemType01= ~ 完整鑲嵌物
+tagCraftingItemType02= ~ 完整補給品
+tagCraftingItemType03= ~ 卷軸
+tagCraftingItemType04= ~ 裝備
+
+tagCraftingButtonInfo=合成位於鍛造視窗的物品。此按鈕在新增全部對應的材料後會高亮顯示。
+tagCraftingConfirmation=你確定要進行合成嗎？
+
+tagCraftingDetatchmentInfo=
+
+tagCraftingProductBoxInfo=一旦所需材料均已就位，要鍛造的物品就會在這裡出現。
+tagCraftingProductBoxCompletion=從工作台上取走你剛剛鍛造的物品。
+
+tagCraftingInsterComponent=將設計圖指定的材料放入對應的空位中。
+
+#Subheadings 子項目
+
+tagCraftingAxes=斧類
+tagCraftingBlunt=鈍器
+tagCraftingSwords=刀劍
+tagCraftingImplements=器物
+tagCraftingTwoHandedMelee=近戰雙手武器
+tagCraftingSpears=矛類
+tagCraftingStaves=法杖
+
+tagCraftingOneHanded=遠程單手武器
+tagCraftingTwoHanded=遠程雙手武器
+
+tagCraftingBelts=腰帶
+tagCraftingHelms=頭盔
+tagCraftingTorso=胸甲
+tagCraftingShoulders=肩甲
+tagCraftingLegs=腿甲
+tagCraftingHands=臂甲
+tagCraftingFeet=靴鞋
+tagCraftingOffhands=副手
+tagCraftingShields=盾牌
+
+tagCraftingComponents=鑲嵌物
+tagCraftingAccessories=飾品
+tagCraftingConsumables=藥劑
+tagCraftingMaterials=材料
+
+tagCraftingRelicsTier01=強化遺物
+tagCraftingRelicsTier02=卓越遺物
+tagCraftingRelicsTier03=神話遺物
+
+tagDividerTab01=拆分
+tagDividerRoll01=拆 分 裝 置 被 用 來 從 物 品 上 分 離 鑲 嵌 物 和 增 幅 物 。不幸的是，拆分工序的不完善會摧毀物品或鑲嵌物中的一個，不過你可以做出選擇。{^n}{^n}如果你拆分了該物品，物品上的增幅物會被分離。如果一個靈魂綁定的增幅物這樣被分離下來，而且物品的初始狀態不是靈魂綁定的話，那麼靈魂綁定狀態也將會被移除。
+
+tagDividerTab02=拆除
+tagDividerRoll02=拆除裝置被用來拆除強力的物品以得到其基本的部分。
+tagDividerRoll02B=拆 解 裝 置 可 用 來 拆 解 強 力 的 物 品 以 得 到 其基本的部分，拆除過程需要大量的能量，所以睿智的發明家使用炸藥來完成這個過程。
+
+tagDividingButtonKeepItem=保留物品
+tagDividingBoxInfo=將帶有鑲嵌物或增幅物的物品放入拆分裝置。
+tagDividingButtonKeepComponent=保留鑲嵌物
+tagDividingButtonRemoveAugment=移除增幅物
+tagDividingKeepItemWarning=選擇回收物品將會摧毀鑲嵌物和移除增幅物。
+tagDividingKeepComponentWarning=選擇回收鑲嵌物將會摧毀物品和增幅物。
+tagDividingRemoveAugmentWarning=移除增幅物將會摧毀該增幅物，任何由增幅物附加的靈魂綁定屬性也會被移除掉。
+tagDividingCost=拆分費用:
+
+tagDismantleDynamiteTotal=炸藥總數:
+tagDismantleCost=拆除費用:
+tagDismantleButton=選擇拆除會徹底摧毀該物品。
+tagDismantleDestroyItemWarning=選擇拆除會徹底摧毀該物品，繼續？
+tagDismantleDestroyItemComponentWarning=選擇拆除會徹底摧毀該物品並保留鑲嵌物，繼續？
+tagDismantleBoxInfo=放置一個普通級別以上的物品到工作台。
+
+#Shrine 祭壇
+
+tagShrineDesecrated=被褻瀆的祭壇
+tagShrineRuined=祭壇遺址
+tagShrineRestored=已修復的祭壇
+tagShrineButton01=修復
+tagShrineButton02=開始
+tagShrineButton03=取消
+tagShrineButtonInfo=將祭品放置在祭壇的空位
+tagShrineWarning=這座祭壇已被破壞，需要修復。{^n}你確定放置祭品修復嗎？
+tagShrineConfirmProxy=這座祭壇已被褻瀆，需要淨化。{^n}你確定清除困於其中的魔怪嗎？
+tagShrineActivated=這座祭壇已被修復。
+tagShrineHostActivated=這座祭壇已被主機修復。
+tagShrineHostNotActivated=你已在另一時期修復了這座祭壇。
+tagShrineBusy=這座祭壇正被另一位玩家佔用。
+tagShrineLocked=這座祭壇處於休眠狀態。^h(去古安克維亞找艾姆卡拉接任務) ^r需^k流浪者^r聲望達到^g崇拜
+
+#Smuggler 走私者
+
+tagStorageRefund=退還存儲空間
+tagCaravanTitle=走私者
+tagCaravanCost=費用: {%d0}
+tagCaravanRefund=退還: {%d0}
+tagCaravanExpand=擴展倉庫
+tagCaravanItemStorage=個人倉庫
+tagStorageInfo01=倉庫是物品欄的延伸。右鍵點擊或拖放可以在倉庫和物品欄之間存取物品。存儲的物品在遊戲中每個走私者那裡都能取用。
+tagTransferCost=轉移費用: {%d0}
+tagTransferAdd=你確定要將該物品放入共享存儲中？
+tagTransferInfo01=利用走私者來給其他人物轉移物品。只需把物品放入，你的所有人物就都能取用了。
+tagCaravanItemTransfer=共享倉庫
+tagTransferInfo02=將物品放入共享倉庫，讓你的所有人物都能取用。
+tagCaravanError01=你沒有足夠的鐵幣來轉移這件物品。
+tagStorageError01=你沒有足夠的鐵幣來購買拓展存儲空間。
+tagTransferError01=你需要 {%d0} 鐵幣來購買一個拓展存儲空間。
+tagTransferPurchase01=支付 {%d0} 鐵幣來購買一個拓展存儲空間？
+tagTransferTab01=第一欄
+tagTransferTab02=第二欄
+tagTransferTab03=第三欄
+tagTransferTab04=第四欄
+
+#Chat 聊天
+
+tagChatSend=發送至...
+tagChatCommand01=隊伍
+tagChatCommand02=所有人
+tagChatCommand03=回覆
+tagChatCommand04=告知
+tagChatCommand05=禁言
+tagChatCommand06=取消禁言
+tagChatBrag=[{%t0}{%t1}{^-}]
+
+#NPC Conversation NPC對話
+tagNpcConversationBusy=該NPC正在與另一名玩家交談。
+
+#Treasure Trove 寶藏
+tagTroveBusy=該目標正在與另一名玩家進行互動。
+
+#Maps 地圖
+
+tagAerialMapCenteredButton=居中
+tagAerialMapZoomText=縮放
+
+tagMapWindowName=本地地圖
+tagRiftWindowName=裂隙地圖
+tagWorldMapWindowName=世界地圖
+
+tagMapSymbolAOI=出入口
+tagMapSymbolAOIDesc=某洞窟或地下通道的進出地點。
+tagMapSymbolSmuggler=倉庫
+tagMapSymbolSmugglerDesc=存儲你的裝備並能與你的其他人物共享物品的地方。
+tagMapSymbolHero=玩家
+tagMapSymbolHeroDesc=你當前所處的位置。
+tagMapSymbolInventor=發明家
+tagMapSymbolInventorDesc=有從裝備上移除鑲嵌物本領的工匠。
+tagMapSymbolMission=任務
+tagMapSymbolMissionDesc=當前任務。
+tagMapSymbolNPC=NPC
+tagMapSymbolNPCDesc=非玩家人物。
+tagMapSymbolGroup=團隊
+tagMapSymbolGroupDesc=你團隊成員的位置。
+tagMapSymbolRespawn=醫師
+tagMapSymbolRespawnDesc=在恢復活力與縫合嚴重創傷方面訓練有素的治療師。
+tagMapSymbolRiftgate=傳送門
+tagMapSymbolRiftgateDesc=能夠傳送你到其他地點的非現實世界空間裂隙。
+tagMapSymbolVendor=商販
+tagMapSymbolVendorDesc=販賣貨物的商人。
+tagMapSymbolWitch=靈魂嚮導
+tagMapSymbolWitchDesc=能夠幫助你復原技能的人物。
+tagMapSymbolShrine=祭壇
+tagMapSymbolShrineDesc=一座古老的祭壇，用於祭祀繁星和遠古眾神。
+tagMapSymbolSmith=鐵匠
+tagMapSymbolSmithDesc=技藝精湛能夠打造新物品的工匠。
+
+#SystemStatsSkillUI
+
+tagOptionsMenuReturn=回到遊戲
+tagOptionsMenuExit=回到主選單
+tagOptionsMenuQuit=退出到桌面
+tagOptionsMenuOptions=選項選單
+tagOptionsMenuGameSaved=你的遊戲已經儲存
+tagOptionsMenuExitMenuConfirm=確定要退出到主選單嗎？
+tagOptionsMenuExitGameConfirm=確定要退出到桌面嗎？
+tagInfoTitle=訊息
+tagInfoButtonYes=是
+tagInfoButtonNo=否
+tagInfoButtonOk=好
+tagGameOver=^r人物已死亡
+
+SimpleStringFormat={%s0}
+SimpleStringsFormat={%s0}{%s1}
+TripleStringFormat={%s0}{%s1}{%s2}
+QuadStringFormat={%s0}{%s1}{%s2}{%s3}
+SkillBaseNamesFormat={    %s0}
+CostFormat=費用: {%d0}
+ManaDisplayFormat=能量值 {%d0} / {%d1} ({%d2} 預留)
+LifeDisplayFormat=生命值 {%d0} / {%d1}
+ExperienceDisplayFormat=當前經驗值: {^y}{%d0}{^w} ~ 距離下一級還需要經驗值: {^y}{%d1}
+
+tagExpDisplayFormat=當前經驗值: {^y}{%t0}{^w} ~ 距離下一級還需要經驗值: {^y}{%t1}
+
+tagCharPointsSpent=點數耗費:
+
+tagCharAttribute01={%+.0f0} {^E}敏捷
+tagCharAttribute02={%+.0f0} {^E}力量
+tagCharAttribute03={%+.0f0} {^E}智力
+tagCharAttribute04={%+.0f0} {^E}生命
+tagCharAttribute05={%+.0f0} {^E}能量
+tagCharConstitution={%+.0f0} {^E}體力
+tagCharLifeRegen={%+.1f0} {^E}每秒生命恢復
+tagCharManaRegen={%+.1f0} {^E}每秒能量恢復
+
+tagCharAttribute01Modifier={%+.0f0}% {^E}敏捷
+tagCharAttribute02Modifier={%+.0f0}% {^E}力量
+tagCharAttribute03Modifier={%+.0f0}% {^E}智力
+tagCharAttribute04Modifier={%+.0f0}% {^E}生命
+tagCharAttribute05Modifier={%+.0f0}% {^E}能量
+tagCharConstitutionModifier={%+.0f0}% {^E}體力
+tagCharLifeRegenModifier={%+.0f0}% {^E}生命恢復速度
+tagCharManaRegenModifier={%+.0f0}% {^E}能量恢復速度
+
+tagCharManaLimitReserve={%+.0f0} {^E}預留能量值
+tagCharManaLimitReserveReduction=-{%.0f0} {^E}預留能量值
+tagCharManaLimitReserveModifier=+{%.0f0}% {^E}預留能量值
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}預留能量值
+
+tagCharRunSpeed={%+.0f0}% {^E}移動速度
+tagCharSpellCastSpeed={%+.0f0}% {^E}施法速度
+tagCharAttackSpeed={%+.0f0}% {^E}攻擊速度
+tagCharTotalSpeedModifier={%+.0f0}% {^E}所有速度
+tagCharRunSpeedModifier={%+.0f0}% {^E}移動速度
+tagCharSpellCastSpeedModifier={%+.0f0}% {^E}施法速度
+tagCharAttackSpeedModifier={%+.0f0}% {^E}攻擊速度
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} {^E}敏捷
+tagCharAttribute02R={%+.0f0}-{%.0f1} {^E}力量
+tagCharAttribute03R={%+.0f0}-{%.0f1} {^E}智力
+tagCharAttribute04R={%+.0f0}-{%.0f1} {^E}生命
+tagCharAttribute05R={%+.0f0}-{%.0f1} {^E}能量
+tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}每秒生命恢復
+tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}每秒能量恢復
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^E}敏捷
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^E}力量
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^E}智力
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% {^E}生命
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% {^E}能量
+tagCharLifeRegenModifierR={%+.0f0}-{%.0f1}% {^E}生命恢復速度
+tagCharManaRegenModifierR={%+.0f0}-{%.0f1}% {^E}能量恢復速度
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} {^E}預留能量
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) {^E}預留能量消耗
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% {^E}預留能量
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) {^E}預留能量
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% {^E}移動速度
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}施法速度
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^E}攻擊速度
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}% {^E}所有速度
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}% {^E}移動速度
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}% {^E}施法速度
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}% {^E}攻擊速度
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^E}攻擊能力
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^E}防禦能力
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^E}攻擊能力
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^E}防禦能力
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-%.0f1})% {^E}格擋恢復時間
+tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}% {^E}敵人法術能量吸取
+tagCharDodgePercentR={%.0f0}-{%.0f1}% {^E}幾率無視近戰攻擊
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}% {^E}幾率無視投射物
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}% {^E}經驗獲得
+tagCharLightRadiusR={%+.0f0}-{%.0f1}% {^E}光照範圍
+tagCharItemGlobalReductionR=-{%.0f0}-{%.0f1}% {^E}裝備物品所需屬性
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}裝備物品所需等級
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備護甲所需力量
+tagCharArmorDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備護甲所需敏捷
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備護甲所需智力
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備飾品所需智力
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備飾品所需力量
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備飾品所需敏捷
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備盾牌所需力量
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備盾牌所需智力
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備盾牌所需敏捷
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備近戰武器所需力量
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備近戰武器所需敏捷
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備近戰武器所需智力
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備遠程武器所需力量
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備遠程武器所需敏捷
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備遠程武器所需智力
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備法杖所需智力
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備法杖所需力量
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備法杖所需敏捷
+tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備雙手武器所需智力
+tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備雙手武器所需力量
+tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備雙手武器所需敏捷
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備所有武器所需智力
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備所有武器所需力量
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}裝備所有武器所需敏捷
+
+SkillManaCostReductionR=-{%.0f0}% {^E}技能能量消耗
+SkillCooldownReductionR=-{%.0f0}% {^E}技能冷卻時間
+SkillProjectileSpeedModifierR={%+.0f0}% {^E}投射物飛行速度
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}技能能量消耗
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}技能冷卻時間
+
+tagDamageConversion={%.0f0}% {^E}{%s1}轉換為{%s2}
+tagDamageRemoval={%.0f0}% {^E}{%s1} 減少
+tagConversionPhysical=物理傷害
+tagConversionPierce=穿刺傷害
+tagConversionElemental=元素傷害
+tagConversionCold=冰冷傷害
+tagConversionFire=火焰傷害
+tagConversionPoison=酸性傷害
+tagConversionLightning=閃電傷害
+tagConversionLife=活力傷害
+tagConversionChaos=混亂傷害
+tagConversionAether=虛化傷害
+tagConversionStun=眩暈時間
+
+tagAttackSpeedNotSet=速度: 未設定
+tagAttackSpeedVerySlow=速度: 非常慢
+tagAttackSpeedSlow=速度: 慢速
+tagAttackSpeedAverage=速度: 中等
+tagAttackSpeedFast=速度: 快速
+tagAttackSpeedVeryFast=速度: 非常快
+
+tagCharOffensiveAbility={%+.0f0} {^E}攻擊能力
+tagCharDefensiveAbility={%+.0f0} {^E}防禦能力
+tagCharOffensiveAbilityModifier={%+.0f0}% {^E}攻擊能力
+tagCharDefensiveAbilityModifier={%+.0f0}% {^E}防禦能力
+
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}格擋恢復時間
+tagCharEnergyAbsorptionPercent={%+.0f0}% {^E}敵人法術能量吸收
+tagCharDodgePercent={%.0f0}% {^E}幾率無視近戰攻擊
+tagCharDeflectProjectiles={%.0f0}% {^E}幾率無視投射物
+
+tagCharIncreasedExperience={%+.0f0}% {^E}經驗獲得
+tagCharLightRadius={%+.0f0}% {^E}光照範圍
+
+tagCharItemGlobalReduction=-{%.0f0}% {^E}裝備物品所需屬性
+tagCharLevelReqReduction=-{%.0f0} {^E}裝備物品所需等級
+tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}裝備護甲所需力量
+tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}裝備護甲所需敏捷
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% {^E}裝備護甲所需智力
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% {^E}裝備飾品所需智力
+tagCharJewelryStrengthReqReduction=-{%.0f0}% {^E}裝備飾品所需力量
+tagCharJewelryDexterityReqReduction=-{%.0f0}% {^E}裝備飾品所需敏捷
+tagCharShieldStrengthReqReduction=-{%.0f0}% {^E}裝備盾牌所需力量
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% {^E}裝備盾牌所需智力
+tagCharShieldDexterityReqReduction=-{%.0f0}% {^E}裝備盾牌所需敏捷
+tagCharMeleeStrengthReqReduction=-{%.0f0}% {^E}裝備近戰武器所需力量
+tagCharMeleeDexterityReqReduction=-{%.0f0}% {^E}裝備近戰武器所需敏捷
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% {^E}裝備近戰武器所需智力
+tagCharHuntingStrengthReqReduction=-{%.0f0}% {^E}裝備遠程武器所需力量
+tagCharHuntingDexterityReqReduction=-{%.0f0}% {^E}裝備遠程武器所需敏捷
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}裝備遠程武器所需智力
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}裝備法杖所需智力
+tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}裝備法杖所需力量
+tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}裝備法杖所需敏捷
+tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}裝備雙手武器所需智力
+tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}裝備雙手武器所需力量
+tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}裝備雙手武器所需敏捷
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}裝備所有武器所需智力
+tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}裝備所有武器所需力量
+tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}裝備所有武器所需敏捷
+
+tagChanceOf={%.1f0}% {^E}{幾率造成 {^H}
+tagChanceTo={%.1f0}% {^E}{幾率 {^H}
+
+Strength=力量
+Dexterity=敏捷
+Intelligence=智力
+Life=生命
+Mana=能量
+UnusedPointsText={%d0} 可用點數
+LifeText={%.0f0} 生命
+ManaText={%.0f0} 能量
+StrengthText={%.0f0} 力量
+DexterityText={%.0f0} 敏捷
+IntelligenceText={%.0f0} 智力
+FloatFormat={%.0f0}
+Float1Format={%.1f0}
+Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
+IntFormat={%d0}
+CharacterLevelDescription={%s0} - [{%d1} 級]
+ObjectIdFormat=({%d0}) 
+SkillLevelFormat={%d0} / {%d1}
+ShortManaText=能量值 {%.0f0} / {%.0f1} / {%.1f2}
+ShortLifeText=生命值 {%.0f0} / {%.0f1}
+ShortExperienceText=經驗值 {%d0} / {%d1}
+ShortLevel=等級 {%d0}
+HitFormat={%.0f0}
+CriticalHitFormat={%.0f0}
+CriticalHitFormatMult={%.0f0} (x{%.2f1})
+DurationCriticalHit=暴擊
+DurationCriticalHitMult=暴擊 (x{%.2f0})
+tagMiss=未命中
+tagFumble=失誤
+tagDodge=閃避
+tagBlock=格擋
+tagDeflect=偏斜
+tagInvulnerable=無敵的
+GiveMoneyFormat=+{%d0} 鐵幣
+TakeMoneyFormat={%d0} 鐵幣
+ExperienceFormat=+{%d0} 經驗
+FactionFormat=+{%d0} {%s1} 聲望
+FactionUnlocked={%s0} 解鎖
+LevelUpFormat=升級！
+SkillPointFormat={%d0} 技能點
+AttributePointFormat={%d0} 屬性點
+MenuName=名字: 
+MenuLevel=等級: {%d0}
+ItemSkillIncrement={+%d0} {^l}{%s1} {^E}技能
+ItemMasteryIncrement={+%d0} {^l}{%s1} {^E}所有技能
+ItemAllSkillIncrement={+%d0} {^E}所有技能
+ItemBasicAttributeBanner={^w}
+ItemBonusAttributeBanner={^b}
+tagPerSecond=每秒
+tagDPS={%.1g0} 每秒傷害
+
+LevelRequirement=玩家等級
+ShieldBlockAbsorption={%.0f0}% 格擋值
+ShieldBlockRecoveryTime={%.2f0} 秒格擋恢復
+MeetsRequirement=需要 {%s0}: {%.0f1}
+MeetsRequirementWithReduction=需要 {%s0}: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% 需求減少]
+FailsRequirementWithReduction={^r}需要 {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% 需求減少]
+FailsRequirement={^r}需要 {%s0: %.0f1}
+SkillIntFormat={%d0 %s1}
+SkillFloatFormat={%.0f0 %s1}
+SkillFloat1Format={%.1f0 %s1}
+SkillFloat2Format={%.2f0 %s1}
+SkillSecondFormat={%.1f0 {^E}秒 %s1}
+SkillDistanceFormat={%.1f0 {^E}米 %s1}
+SkillCostFormat={%.1f0 %s1}
+SkillPercentFormat={%.0f0% %s1}
+SkillNumProjectilesFormat=發射 {%d0} 枚投射物
+SkillWeaponDamageFormat={%.0f0%} {^E}武器傷害
+SkillWeaponDamageValuesFormat={%.0f0%} {^E}武器傷害 ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={%.0f0%} {^E}主手傷害 ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={%.0f0%} {^E}副手傷害 ({^H}{%.0f1} - {%.0f2}{^E})
+SkillChargeFactor=每次充能級數
+SkillChargeMax={^E}充能等級: 
+SkillChargeLevel={^H}{%d0}%
+SkillChargeLevel2={^E}, {^H}{%d0}%
+SkillChargeLevelMod={%d0}%
+SkillChargeLevelMod2=, {%d0}%
+SkillChargeDuration=每級充能持續時間
+SkillChargeFactorMod=每次充能級數增加
+SkillChargeMaxMod=充能等級: 
+SkillChargeDurationMod=每級充能持續時間增加
+SkillChanceWeight={%d0}% {^E}幾率使用
+SkillActivationChance={^E}幾率啟動
+SkillDamageAbsorption={%.0f0} {^E}傷害吸收
+SkillDamageAbsorptionPercent={%.0f0}% {^E}傷害吸收
+SkillPetLimit={%d0} {^E}召喚個數
+SkillLifeBonus={%+.1f0} {^E}生命恢復
+SkillManaBonus={%+.1f0} {^E}能量恢復
+SkillLifePercent={%.1f0}% {^E}生命恢復
+SkillManaPercent= {%.1f0}% {^E}能量恢復
+SkillLifeBonusAndPercent={%.0f1}%+{%.0f0} {^E}生命恢復
+SkillManaBonusAndPercent={%.0f1}%+{%.0f0} {^E}能量恢復
+SkillPetDescriptionHeading={%s0} 屬性:
+tagSkillPetAbilities={%s0} 能力:
+SkillPetDescriptionNextHeading={%s0} 下一等級:
+SkillPetDescriptionHealth={%.0f0} {^E}生命值
+SkillPetDescriptionMana={%.0f0} {^E}能量值
+SkillPetDescriptionDamageMinOnly={%.0f0} 傷害
+SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1} 傷害
+tagSkillPetTimeToLive={^E}召喚物持續 {^H}{%.1f0} {^E}秒
+tagSkillPrevious=... 上一級
+tagSkillNext=下一級 ...
+HoldCtrlToShowBaseValues=按住 CTRL 來顯示基本數值。
+PressToAddUnusedSkillPoints=左鍵點擊來投入未使用的技能點數
+PressToAddUnusedDevotionPoints=左鍵點擊來投入未使用的虔誠點數
+PressToActivateDevotion=左鍵點擊以啟動
+PressToAssignDevotion=左鍵點擊以分配
+AssignDevotionForExp=必須分配獲得經驗
+SkillEnhancement=+{%d0} 所有技能
+NoSkillPointsToAdd=無可用技能點數
+NoDevotionPointsToAdd=無可用虔誠點數
+LockedDevotion=鎖定 - 需要解鎖前置星座
+ActiveDevotion=啟動
+YouMustIncreaseMasteryLevel=你必須提升專精等級才能投入點數
+EnableOneBaseSkill=至少需要一級基礎技能
+MaxSkillLevelReached=已達到技能最高等級
+ActiveMasteriesAllowedReached=已達到允許啟動的專精個數
+LifeMonitorPercent={^E}當生命低於 {^H}{%.1f0}% {^E}時啟動
+FailedSkillDependancy=需學會 ^l{%s0}^- 技能
+FailedSkillDependancyAll=需要下列技能:
+FailedSkillDependancyOne=需要下列技能之一:
+FailedSkillDependancyName={%s0}
+FailedDevotionDependency=親和需求:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=星座依賴關係:
+FailedConstellationSelfLocked=此星座依靠自身的親和力。你必須讓其他星座更具親和力才可以拋卻它。
+ManaCost={^E}能量消耗
+ManaCostPerSecond={^E}每秒能量消耗
+ActiveLifeCost={^E}每秒啟動生命消耗
+ActiveManaCost={^E}每秒啟動能量消耗
+ActiveDuration=持續時間
+Interval=間隔
+TargetRadius=目標區域
+TargetAngle={%.0f0} {^E}攻擊角度
+TargetNumber={%d0} {^E}最大目標範圍
+CooldownTime={^E}技能冷卻
+ExplosionRadius=半徑
+TargetRange=範圍
+ProjectileLaunchRotation={%.1f0} 投射物速度
+ProjectileLaunchNumber={%d0} {^E}枚投射物
+ProjectileLaunchNumberMod=+{%d0} {^E}枚投射物
+ProjectileFragmentsLaunchNumberMinMax={%d0-%d1} {^E}碎片數
+ProjectileFragmentsLaunchNumber={%d0} {^E}碎片數
+ProjectilePiercingChance={%.1f0}% {^E}幾率穿透敵人
+
+
+tagTooltipPetsHeader=戰寵
+tagTooltipSkillsHeader=賦予技能
+
+tagShieldBlockInfo={%.0f0}% 幾率格擋 {^W}{%.0f1} 傷害
+
+
+
+SkillManaCostReduction=-{%.0f0}% {^E}技能能量消耗
+SkillCooldownReduction=-{%.0f0}% {^E}技能冷卻時間
+SkillProjectileSpeedModifier={%+.0f0}% {^E}投射物飛行速度
+SkillManaCostReductionModifier=-{%.0f0}% {^E}技能能量消耗
+SkillCooldownReductionModifier=-{%.0f0}% {^E}技能冷卻時間
+
+GlobalChanceOfAllTag={^E}幾率: {^H}
+GlobalChanceOfOneTag={^E}幾率觸發下列之一: {^H}
+GlobalPercentChanceOfAllTag={%.1f0}% {^E}幾率:{^H}
+GlobalPercentChanceOfOneTag={%.1f0}% {^E}幾率觸發下列之一:{^H}
+tagIndent={   }
+tagDamageAbsorptionTitle={^E}傷害吸收:
+formatQualifyingDamage={     {^E}%s0}
+tagQualifyingDamagePhysical=物理
+tagQualifyingDamagePierce=穿刺
+tagQualifyingDamageLightning=閃電
+tagQualifyingDamageFire=火焰
+tagQualifyingDamageCold=冰冷
+tagQualifyingDamagePoison=毒素或酸性
+tagQualifyingDamageLife=活力
+tagQualifyingDamageBleeding=流血
+tagQualifyingDamageElemental=元素
+tagQualifyingDamageAether=虛化
+tagQualifyingDamageChaos=混亂
+
+DamageSingleFormat={%.0f0}
+DamageRangeFormat={%.0f0}-{%.0f1}
+DamageInfluenceSingleFormat={%.1f0}
+DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
+DamageReflexSingleFormat={%.1f0}
+DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatSecond= {^E}持續 {^H}{%.1f0} {^E}秒
+DamageSingleFormatTime= {^E}持續 {^H}{%.1f0} {^E}秒
+DamageRangeFormatTime= {^E}持續 {^H}{%.1f0}-{%.1f1} {^E}秒
+DamageFixedSingleFormatSecond= {^E}於 {^H}{%.1f0} {^E}秒
+DamageFixedSingleFormatTime= {^E}於 {^H}{%.1f0} {^E}秒
+DamageFixedRangeFormatTime= {^E}於 {^H}{%.1f0}-{%.1f1} {^E}秒
+RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}秒
+RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}秒
+RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}秒
+tagDurationDamageOverTime={%d0} {^E}傷害持續 {^H}{%.1f1} {^E}秒
+tagDotBleeding=流血
+tagDotCold=冰凍
+tagDotFire=灼燒
+tagDotPoison=中毒
+tagDotLightning=電擊
+tagDotChaos=混亂
+tagDotAether=虛化
+tagDotLifeLeech=生命吸取
+tagDotPhysical=創傷
+
+tagSetItems=({%d0}) 件套裝
+tagSecond={^E}秒
+tagSeconds={^E}秒
+DamagePerSecond={%.0f0} {^S}每秒傷害(裝備後)
+DamagePerSecondOffHand={%.0f0} {^S}每秒傷害(副手)
+DamagePhysicalChance= {^E}物理傷害
+DamageBasePhysical= {^S}物理傷害
+DamageBasePierceRatio={%.0f0}% {^S}護甲穿透
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}護甲穿透
+DamageBonusPhysical={%t0} {^E}物理傷害
+tagDamageBaseFire={%t0} {^S}火焰傷害
+tagDamageBaseLightning={%t0} {^S}閃電傷害
+tagDamageBaseCold={%t0} {^S}冰冷傷害
+tagDamageBaseVitality={%t0} {^S}活力傷害
+tagDamageBasePoison={%t0} {^S}酸性傷害
+tagDamageBaseChaos={%t0} {^S}混亂傷害
+tagDamageBaseAether={%t0} {^S}虛化傷害
+DamageCold={%t0} {^E}冰冷傷害
+DamageFire={%t0} {^E}火焰傷害
+DamageAether={%t0} {^E}虛化傷害
+DamageChaos={%t0} {^E}混亂傷害
+DamageLife={%t0} {^E}活力傷害
+DamageLifeLeech={%t0}% {^E}攻擊傷害轉化為生命
+DamageLightning={%t0} {^E}閃電傷害
+DamageElemental={%t0} {^E}元素傷害
+DamageModifierElemental={%+.0f0}% {^E}元素傷害
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}元素傷害
+DamagePhysical=+{%t0} {^E}物理傷害
+DamagePierce={%t0} {^E}穿刺傷害
+DamagePoison={%t0} {^E}酸性傷害
+DamageKnockdown={^E}擊倒目標{^H}{%t0}
+DamageStun={^E}眩暈目標{%t0}
+DamageFreeze={^E}凍結目標{%t0}
+DamagePetrify={^E}石化目標{%t0}
+DamageTrap={^E}固定目標{%t0}
+DamageTaunt={^E}嘲諷目標
+DamageThreat={^E}造成威脅
+DamageConvert={^E}控制目標意識{%t0}
+DamageFear={^E}恐嚇目標{%t0}
+DamageConfusion={^E}混亂目標{%t0}
+DamageDisruption={^E}打斷目標技能{%t0}
+DamagePercentCurrentLife={%t0}% {^E}減少敵人當前生命值
+DamageManaDrain={%t0}% {^E}能量燃燒
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}能量燃燒造成的傷害)
+DamageModifierManaBurn={%.0f0}% {^E}能量燃燒造成的傷害
+
+DamageDurationAttackSpeed=% {^E}減慢敵人攻擊速度
+DamageDurationCold= {^E}霜燃傷害
+DamageDurationReduced= {^E}防禦減少
+DamageDurationFire= {^E}燃燒傷害
+DamageDurationLife= {^E}活力衰減
+DamageDurationLifeLeach= {^E}生命吸取
+DamageDurationLightning= {^E}電擊傷害
+DamageDurationManaLeach= {^E}能量吸取
+DamageDurationOffensiveAbility= {^E}降低目標攻擊能力
+DamageDurationOffensiveReduction= {^E}減少目標物理傷害
+DamageDurationDefensiveAbility= {^E}降低目標防禦能力
+DamageDurationDefensiveReduction= {^E}降低目標護甲
+DamageDurationPhysical= {^E}創傷傷害
+DamageDurationPoison= {^E}毒素傷害
+DamageDurationTotalSpeed=% {^E}減速目標
+DamageDurationRunSpeed=% {^E}減慢目標移動速度
+DamageDurationSpellCastSpeed=% {^E}減慢目標施法速度
+DamageDurationBleeding= {^E}流血傷害
+
+DamageTotalDamageReductionPercent=% {^E}減少目標傷害
+DamageTotalDamageReductionAbsolute= {^E}減少目標傷害
+DamagePhysicalReductionPercent=% {^E}減少目標的物理傷害
+DamageElementalReductionPercent=% {^E}減少目標的元素傷害
+DamageTotalResistanceReductionPercent=% {^E}降低目標抗性
+DamageTotalResistanceReductionAbsolute= {^E}降低目標抗性
+DamagePhysicalResistanceReductionPercent=% {^E}降低目標物理抗性
+DamagePhysicalResistanceReductionAbsolute= {^E}降低目標物理抗性
+DamageElementalResistanceReductionPercent=% {^E}降低目標元素抗性
+DamageElementalResistanceReductionAbsolute= {^E}降低目標元素抗性
+DamageDurationFumble=% {^E}幾率目標攻擊失誤
+DamageDurationProjectileFumble=% {^E}幾率目標瞄準障礙
+
+DamageModifierPhysical={%+.0f0}% {^E}物理傷害
+DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}物理傷害
+DamageModifierPierceRatio={%+.0f0}% {^E}護甲穿透
+DamageModifierPierceRatioR={%+.0f0}-{%.0f1}% {^E}護甲穿透
+DamageModifierPierce={%+.0f0}% {^E}穿刺傷害
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}穿刺傷害
+DamageModifierCold={%+.0f0}% {^E}冰冷傷害
+DamageModifierColdR={%+.0f0}-{%.0f1}% {^E}冰冷傷害
+DamageModifierFire={%+.0f0}% {^E}火焰傷害
+DamageModifierFireR={%+.0f0}-{%.0f1}% {^E}火焰傷害
+DamageModifierPoison={%+.0f0}% {^E}酸性傷害
+DamageModifierPoisonR={%+.0f0}-{%.0f1}% {^E}酸性傷害
+DamageModifierLightning={%+.0f0}% {^E}閃電傷害
+DamageModifierLightningR={%+.0f0}-{%.0f1}% {^E}閃電傷害
+DamageModifierLife={%+.0f0}% {^E}活力傷害
+DamageModifierLifeR={%+.0f0}-{%.0f1}% {^E}活力傷害
+DamageModifierStun={%+.0f0}% {^E}眩暈持續時間
+DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}眩暈持續時間
+DamageModifierChaos={%+.0f0}% {^E}混亂傷害
+DamageModifierChaosR={%+.0f0}-{%.0f1}% {^E}混亂傷害
+DamageModifierAether={%+.0f0}% {^E}虛化傷害
+DamageModifierAetherR={%+.0f0}-{%.0f1}% {^E}虛化傷害
+DamageModifierKnockdown={%+.0f0}% {^E}擊倒持續時間
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}擊倒持續時間
+DamageModifierTrap={%+.0f0}% {^E}陷阱持續時間
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}陷阱持續時間
+DamageModifierFreeze={%+.0f0}% {^E}凍結持續時間
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}凍結持續時間
+DamageModifierPetrify={%+.0f0}% {^E}石化持續時間
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}石化持續時間
+
+DamageDurationModifierPhysical={%+.0f0}% {^E}創傷傷害
+DamageDurationModifierBleeding={%+.0f0}% {^E}流血傷害
+DamageDurationModifierCold={%+.0f0}% {^E}霜燃傷害
+DamageDurationModifierFire={%+.0f0}% {^E}燃燒傷害
+DamageDurationModifierPoison={%+.0f0}% {^E}毒素傷害
+DamageDurationModifierLightning={%+.0f0}% {^E}電擊傷害
+DamageDurationModifierLife={%+.0f0}% {^E}活力衰減
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}攻擊減速
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}施法減速
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}移動減速
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}生命吸取傷害
+DamageDurationModifierManaLeach={%+.0f0}% {^E}能量吸取
+DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}降低目標進攻能力
+DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}降低目標防禦能力
+DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}減少目標物理傷害
+ImprovedTimeFormat={%+.0f0}% {^E}持續增加
+ImprovedTimeFormatR={%+.0f0}-{%.0f1}% {^E}持續增加
+IncreasedDuration={^H}{%+.0f0}% {^E}增加{%s1}持續時間
+
+RetaliationCold={%t0} {^E}冰冷反擊
+RetaliationFire={%t0} {^E}火焰反擊
+RetaliationLife={%t0} {^E}活力反擊
+RetaliationLightning={%t0} {^E}閃電反擊
+RetaliationElemental={%t0} {^E}元素反擊
+RetaliationPhysical={%t0} {^E}物理反擊
+RetaliationPierce={%t0} {^E}穿刺反擊
+RetaliationPoison={%t0} {^E}酸性反擊
+RetaliationAether={%t0} {^E}虛化反擊
+RetaliationChaos={%t0} {^E}混亂反擊
+RetaliationStun={%t0} 眩暈反擊
+RetaliationFreeze={%t0} 凍結反擊
+RetaliationPetrify={%t0} 石化反擊
+RetaliationTrap={%t0} 限制移動反擊
+RetaliationConvert={%t0} 意識控制反擊
+RetaliationFear={%t0} 恐懼反擊
+RetaliationConfusion={%t0} 迷惑反擊
+RetaliationSleep={%t0} 昏睡反擊
+RetaliationPercentCurrentLife={^E}反擊造成 {^H}{%t0}% {^E}敵人生命值減少
+RetaliationDurationAttackSpeed=% {^E}減慢攻擊速度反擊
+RetaliationDurationCold= {^E}霜燃反擊
+RetaliationDurationDefensiveAbility= {^E}降低防禦能力反擊
+RetaliationDurationFire= {^E}燃燒反擊
+RetaliationDurationLife= {^E}活力衰減反擊
+RetaliationDurationLifeLeach= {^E}生命吸取反擊
+RetaliationDurationLightning= {^E}電擊反擊
+RetaliationDurationManaLeach= {^E}能量吸取反擊
+RetaliationDurationOffensiveAbility= {^E}降低攻擊能力反擊
+RetaliationDurationOffensiveReduction= {^E}傷害減少反擊
+RetaliationDurationPhysical= {^E}創傷反擊
+RetaliationDurationBleeding= {^E}流血反擊
+RetaliationDurationPoison= {^E}持續毒素反擊
+RetaliationDurationRunSpeed=% {^E}減慢移動反擊
+RetaliationDurationSpellCastSpeed=% {^E}減慢施法反擊
+RetaliationModifierPhysical={%+.0f0}% {^E}物理傷害反擊
+RetaliationModifierPierceRatio={%+.0f0}% {^E}穿刺反擊
+RetaliationModifierPierce={%+.0f0}% {^E}穿刺反擊
+RetaliationModifierCold={%+.0f0}% {^E}冰冷反擊
+RetaliationModifierFire={%+.0f0}% {^E}火焰反擊
+RetaliationModifierPoison={%+.0f0}% {^E}酸性反擊
+RetaliationModifierLightning={%+.0f0}% {^E}閃電反擊
+RetaliationModifierAether={%+.0f0}% {^E}虛化反擊
+RetaliationModifierChaos={%+.0f0}% {^E}混亂反擊
+RetaliationModifierElemental={%+.0f0}% {^E}元素反擊
+RetaliationModifierLife={%+.0f0}% {^E}活力傷害反擊
+RetaliationModifierStun={%+.0f0}% {^E}眩暈反擊
+RetaliationModifierSleep={%+.0f0}% {^E}昏睡反擊
+RetaliationDurationModifierPhysical={%+.0f0}% {^E}創傷反擊
+RetaliationDurationModifierBleeding={%+.0f0}% {^E}流血反擊
+RetaliationDurationModifierCold={%+.0f0}% {^E}霜燃反擊
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}降低防禦反擊
+RetaliationDurationModifierFire={%+.0f0}% {^E}燃燒反擊
+RetaliationDurationModifierLife={%+.0f0}% {^E}活力衰減反擊
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}生命吸取反擊
+RetaliationDurationModifierLightning={%+.0f0}% {^E}電擊反擊
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}能量吸取反擊
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}降低攻擊能力反擊
+RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}降低傷害反擊
+RetaliationDurationModifierPoison={%+.0f0}% {^E}持續毒素反擊
+
+DefenseAbsorptionProtection={%.0f0} 護甲
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} 護甲
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}護甲
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}護甲
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}護甲加成
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}護甲加成
+DefensePhysical={%.0f0}% {^E}物理抗性
+DefensePhysicalR={%.0f0}-{%.0f1}% {^E}物理抗性
+DefensePierce={%.0f0}% {^E}穿刺抗性
+DefensePierceR={%.0f0}-{%.0f1}% {^E}穿刺抗性
+DefenseElementalResistance={%.0f0}% {^E}元素抗性
+DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^E}元素抗性
+DefenseCold={%.0f0}% {^E}冰冷抗性
+DefenseColdR={%.0f0}-{%.0f1}% {^E}冰冷抗性
+DefenseFire={%.0f0}% {^E}火焰抗性
+DefenseFireR={%.0f0}-{%.0f1}% {^E}火焰抗性
+DefenseAether={%.0f0}% {^E}虛化抗性
+DefenseAetherR={%.0f0}-{%.0f1}% {^E}虛化抗性
+DefenseChaos={%.0f0}% {^E}混亂抗性
+DefenseChaosR={%.0f0}-{%.0f1}% {^E}混亂抗性
+DefensePoison={%.0f0}% {^E}毒酸抗性
+DefensePoisonR={%.0f0}-{%.0f1}% {^E}毒酸抗性
+DefenseLightning={%.0f0}% {^E}閃電抗性
+DefenseLightningR={%.0f0}-{%.0f1}% {^E}閃電抗性
+DefenseLife={%.0f0}% {^E}活力抗性
+DefenseLifeR={%.0f0}-{%.0f1}% {^E}活力抗性
+DefenseStun={%.0f0}% {^E}減少眩暈持續時間
+DefenseStunNegative={%.0f0}% {^E}眩暈抗性
+DefenseStunR={%.0f0}-{%.0f1}% {^E}減少眩暈持續時間
+DefenseLifeLeach={%.0f0}% {^E}生命吸取抗性
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}生命吸取抗性
+DefenseManaLeach={%.0f0}% {^E}能量吸取抗性
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}能量吸取抗性
+DefenseTrap={%.0f0}% {^E}減少誘捕持續時間
+DefenseTrapNegative={%.0f0}% {^E}誘捕抗性
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}減少誘捕持續時間
+DefenseFreeze={%.0f0}% {^E}減少凍結持續時間
+DefenseFreezeNegative={%.0f0}% {^E}凍結抗性
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}減少凍結持續時間
+DefenseKnockdown={%.0f0}% {^E}減少擊倒持續時間
+DefenseKnockdownNegative={%.0f0}% {^E}擊倒抗性
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}減少擊倒持續時間
+DefensePetrify={%.0f0}% {^E}減少石化持續時間
+DefensePetrifyNegative={%.0f0}% {^E}石化抗性
+DefensePetrifyR={%.0f0}-{%.0f1}% {^E}減少石化持續時間
+DefenseTaunt={%.0f0}% {^E}嘲諷抗性(僅戰寵/陷阱)
+DefenseConvert={%.0f0}% {^E}減少意識控制持續時間(僅戰寵/陷阱)
+DefenseFear={%.0f0}% {^E}減少恐懼持續時間(僅戰寵/陷阱)
+DefenseConfusion={%.0f0}% {^E}減少迷惑持續時間(僅戰寵/陷阱)
+DefenseDisruption={%.0f0}% {^E}技能打斷保護
+DefensePercentLife={%.0f0}% {^E}活力衰減抗性
+DefenseBleeding={%.0f0}% {^E}流血抗性
+DefenseBleedingR={%.0f0}-{%.0f1}% {^E}流血抗性
+DefenseBlock={%.0f0} {^E}傷害格擋
+DefenseReflect={%.0f0}% {^E}傷害反彈
+DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}傷害反彈
+DefensePhysicalDuration={%.0f0}% {^E}減少創傷傷害持續時間
+DefenseBleedingDuration={%.0f0}% {^E}減少流血傷害持續時間
+DefenseColdDuration={%.0f0}% {^E}減少霜燃傷害持續時間
+DefenseFireDuration={%.0f0}% {^E}減少燃燒傷害持續時間
+DefensePoisonDuration={%.0f0}% {^E}減少毒素傷害持續時間
+DefenseLightningDuration={%.0f0}% {^E}減少電擊傷害持續時間
+DefenseLifeDuration={%.0f0}% {^E}減少活力衰減持續時間
+DefenseLifeLeachDuration={%.0f0}% {^E}減少生命吸取持續時間
+DefenseManaLeachDuration={%.0f0}% {^E}減少能量吸取持續時間
+DefensePercentCurrentLife=+{%.0f0}% {^E}生命減少的抗性
+DefenseManaBurnRatio=+{%.0f0}% {^E}能量燃燒的抗性
+DefenseProtectionModifier={%.0f0}% {^E}提高護甲
+DefenseProtectionModifierR={%.0f0}-{%.0f1}% {^E}提高護甲
+DefenseAbsorptionModifier={%.0f0}% {^E}提高護甲吸收
+DefenseAbsorptionModifierR={%.0f0}-{%.0f1}% {^E}提高護甲吸收
+DefensePhysicalModifier={%.0f0}% {^E}提高現有物理抗性
+DefensePierceModifier={%.0f0}% {^E}提高現有穿刺抗性
+DefenseColdModifier={%.0f0}% {^E}提高現有冰冷抗性
+DefenseFireModifier={%.0f0}% {^E}提高現有火焰抗性
+DefensePoisonModifier={%.0f0}% {^E}提高現有毒素以及酸性抗性
+DefenseLightningModifier={%.0f0}% {^E}提高現有閃電抗性
+DefenseLifeModifier={%.0f0}% {^E}提高現有活力抗性
+DefenseChaosModifier={%.0f0}% {^E}提高現有混亂抗性
+DefenseAetherModifier={%.0f0}% {^E}提高現有虛化抗性
+DefenseStunModifier={%.0f0}% {^E}提高現有眩暈抗性
+DefenseBlockModifier={%.0f0}% {^E}提高盾牌格擋幾率
+DefenseBlockAmountModifier={%+.0f0}% {^E}盾牌傷害格擋
+DefenseLifeLeachModifier={%.0f0}% {^E}提高現有生命吸取抗性
+DefenseManaLeachModifier={%.0f0}% {^E}提高現有能量吸取抗性
+DefensePercentLifeModifier={%.0f0}% {^E}提高生命值百分比減少抗性
+DefenseBleedingModifier={%.0f0}% {^E}提高現有流血抗性
+DefenseElementalModifier={%.0f0}% {^E}提高現有元素抗性
+DefensePhysicalDurationModifier={%+.0f0}% {^E}減少創傷持續時間
+DefenseBleedingDurationModifier={%+.0f0}% {^E}減少流血持續時間
+DefenseColdDurationModifier={%+.0f0}% {^E}減少霜燃持續時間
+DefenseFireDurationModifier={%+.0f0}% {^E}減少燃燒持續時間
+DefensePoisonDurationModifier={%+.0f0}% {^E}減少毒素持續時間
+DefenseLightningDurationModifier={%+.0f0}% {^E}減少電擊持續時間
+DefenseLifeDurationModifier={%+.0f0}% {^E}減少活力衰減持續時間
+DefenseLifeLeachDurationModifier={%+.0f0}% {^E}減少生命吸取持續時間
+DefenseManaLeachDurationModifier={%+.0f0}% {^E}減少能量吸取持續時間
+DefensePhysicalMaxResist={%+.0f0}% {^E}最大物理抗性
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^E}最大物理抗性
+DefensePierceMaxResist={%+.0f0}% {^E}最大穿刺抗性
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}最大穿刺抗性
+DefenseColdMaxResist={%+.0f0}% {^E}最大冰冷抗性
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^E}最大冰冷抗性
+DefenseFireMaxResist={%+.0f0}% {^E}最大火焰抗性
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^E}最大火焰抗性
+DefenseAetherMaxResist={%+.0f0}% {^E}最大虛化抗性
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^E}最大虛化抗性
+DefenseChaosMaxResist={%+.0f0}% {^E}最大混亂抗性
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^E}最大混亂抗性
+DefensePoisonMaxResist={%+.0f0}% {^E}最大毒酸抗性
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^E}最大毒酸抗性
+DefenseLightningMaxResist={%+.0f0}% {^E}最大閃電抗性
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^E}最大閃電抗性
+DefenseLifeMaxResist={%+.0f0}% {^E}最大活力抗性
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^E}最大活力抗性
+DefenseStunMaxResist={%+.0f0}% {^E}最大眩暈時間減少
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}最大眩暈時間減少
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}最大生命吸取抗性
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}最大生命吸取抗性
+DefenseManaLeachMaxResist={%+.0f0}% {^E}最大能量吸取抗性
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}最大能量吸取抗性
+DefenseTrapMaxResist={%+.0f0}% {^E}最大困於陷阱時間減少
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}最大困於陷阱時間減少
+DefenseFreezeMaxResist={%+.0f0}% {^E}最大冰凍持續時間減少
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}最大冰凍持續時間減少
+DefensePetrifyMaxResist={%+.0f0}% {^E}最大石化持續時間減少
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}最大石化持續時間減少
+DefenseDisruptionMaxResist={%+.0f0}% {^E}最大技能打斷保護
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}最大技能打斷保護
+DefenseBleedingMaxResist={%+.0f0}% {^E}最大流血抗性
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^E}最大流血抗性
+DefenseSleepMaxResist={%+.0f0}% {^E}最大昏睡抗性
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}最大昏睡抗性
+DefenseAllMaxResist={%+.0f0}% {^E}最大全部抗性
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}最大全部抗性
+DefenseReflectResist={%+.0f0}% {^E}反擊傷害減少
+DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}反擊傷害減少
+
+RacialBonusPercentDamage={%+.0f0}% {^E}對{%s1}的傷害
+RacialBonusAbsoluteDamage={%+.0f0} {^E}對{%s1}的傷害
+RacialBonusPercentDefense=-{%.0f0}% {^E}來自{%s1}的傷害
+RacialBonusAbsoluteDefense=-{%.0f0} {^E}來自{%s1}的傷害
+RacialBonusRaceName={%s0}
+
+
+tagDamageSleep={^E}使目標昏睡 {%t0}
+tagDamageModifierSleep={%+.0f0}% {^E}昏睡傷害
+tagDefenseSleep={%.0f0}% {^E}昏睡抗性
+tagDefenseSleepModifier={%+.0f0}% {^E}昏睡抗性
+tagDamageModifierTotalDamage={%+.0f0}% {^E}所有傷害
+tagDamageModifierCritDamage={%+.0f0}% {^E}暴擊傷害
+tagDamageModifierDamageMult={%.0f0}% {^E}總傷害提升
+tagRetaliationModifierTotalDamage={%+.0f0}% {^E}所有反擊傷害
+tagTotalSpeedResistance={%.0f0}% {^E}減速抗性
+tagMindcontrolledMonster=意識控制
+tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}幾率最多影響 {^H}{%d1} {^E}目標
+tagSparkMaxNumberChance={^H}{%.0f0}% {^E}幾率最多影響 {^H}{%d1} {^E}目標
+tagSparkMaxNumberSingle={^E}最多影響 {^H}{%d0} {^E}目標
+tagSparkMaxNumber={^E}最多影響 {^H}{%d0} {^E}個目標
+tagSparkMaxNumberMod=最多影響 {%d0} 個目標
+
+tagItemGrantSkill=賦予技能:
+tagItemSkill= {^S}(物品賦予)
+tagItemSkillShort= {^S}(物品賦予)
+tagEffect=效果:
+tagSkillGrantEffect=天賦能力:
+tagDevotionAttached=綁定至:
+
+tagItemUseDirections=[右鍵點擊使用]
+
+tagInspectTitle=查看
+tagInspectOption=查看玩家
+tagInspectWarning=該玩家超出查看距離。
+tagGroup01=PVP開啟
+tagGroup02=自動組隊開啟
+tagAutoItemSkill=(由物品賦予 - 被動啟動)
+tagExclusiveSkill=^o特有技能 - 同一時間只能啟動一個特有技能。
+
+tagAutoSort=自動整理
+tagAutoComplete=合併鑲嵌物
+tagAttributeUndo=復原
+
+tagQuestItem=任務物品
+
+
+tagCR_Jewelry=寶石:
+tagRelicError=你不能把一個遺物或符咒附到史詩或傳奇物品上。
+
+tagExperienceDisplayFormat=現有經驗: {^y}{%t0}{^w} ~ 到達下一等級還需經驗: {^y}{%t1}
+tagCXP=經驗值: {%t0}
+tagGrave01=玩家墳墓 ~ {%t0}
+tagGrave02=被殺玩家 {%t0}
+tagGrave03=經驗回收: {%d0}
+tagHeroXPShort={%d0} 菁英經驗值
+tagBossXPShort={%d0} 頭目經驗值
+tagBossXPLong01=擊殺頭目怪物
+tagBossXPLong02=獲得 {%d0} 經驗值
+tagHeroXPLong01=擊殺菁英怪物
+tagHeroXPLong02=獲得 {%d0} 經驗值
+
+tagPetBonusNameAllPets=所有戰寵加成
+tagPetBonusNameOnePet=戰寵{%s0}的加成
+tagPetBonusNameTwoPets=戰寵{%s0}和{%s1}的加成
+tagPetBonusNameManyPets=戰寵加成
+
+TagSpeakerSetup=揚聲器設置
+TagHeadphoneSpeakers=耳機揚聲器
+Tag41Speakers=4聲道揚聲器
+Tag51Speakers=5.1聲道揚聲器
+TagKeybind40=使用備用快捷鍵欄
+tagKeybindUnassigned=未分配
+
+tagSelectPet1=選擇戰寵 1
+tagSelectPet2=選擇戰寵 2
+tagSelectPet3=選擇戰寵 3
+tagSelectPet4=選擇戰寵 4
+tagSelectPet5=選擇戰寵 5
+tagSelectAllPets=選擇所有戰寵
+tagPortraitAggressive=設置為攻擊狀態
+tagPortraitNormal=設置為正常狀態
+tagPortraitDefensive=設置為防守狀態
+tagPortraitHireling=查看
+
+tagMove=移動
+tagForceMove=強制移動
+tagUse=互動
+tagPickup=拾取
+
+tagUC_Button=解鎖內容
+tagUC_Message=請輸入你的解鎖碼來解鎖新內容。
+tagUC_OK=確認
+tagUC_Cancel=取消
+tagUC_Error=你已經為這個人物解鎖過該內容。
+
+tagHotSlotSwap=主副快捷鍵欄切換。
+tagHotSlotTitle=備用快捷鍵欄
+tagEmptyHotSlot=清空此快捷鍵欄按鈕。
+
+tagDevotionUnassigned=無技能
+
+#Stack Window
+
+tagStackOk=確定
+tagStackCancel=取消
+
+#Multiplayer 多人模式
+
+tagMPTrade=交易
+tagMPGroup=團隊
+tagMPInGame=遊戲內
+tagMPCharName=人物名稱
+tagMPCharLevel=等級
+tagMPCharClass=專精
+tagMPAdd=新增
+tagMPRemove=移除
+tagMPMessage=消息
+tagMPInvite=邀請
+tagMPLeave=離開團隊
+tagMPBan=封禁
+tagMPAvailable=尚未組隊玩家
+tagMPGroup1=團隊 1
+tagMPGroup2=團隊 2
+tagMPGroup3=團隊 3
+tagMPNoClass=N/A
+tagMPInviteMessage={%t0}邀請你加入一個團隊。
+tagMPInviteError={%t0}已在一個團隊中了。
+tagMPInviteSend={%t0}已被發送邀請加入你的團隊。
+tagMPInviteRemove={%t0}已被移出團隊。
+tagMPMessageJoin={%t0}已加入你的團隊。
+tagMPMessageLeave={%t0}已離開你的團隊。
+tagMPMessageDeny={%t0}拒絕了你的邀請。
+tagMPMessageBan={%t0}已被從遊戲中封禁。
+tagMPMessageGameJoin={%t0}已加入遊戲。遊戲難度等級已根據人數調整。
+tagMPMessageGameLeave={%t0}已離開遊戲.
+tagMPQuestionBan=你確定要在遊戲中封禁{%t0}嗎？
+tagMPInviteAccept=接受
+tagMPInviteDeny=拒絕
+tagMPStats=遊戲狀態
+tagMPMapName=地圖名:
+tagMPServerName=主機名稱:
+tagMPServerAddress=主機地址:
+tagMPPing=延遲:
+tagMPTime=持續時間:
+tagMPServer=伺服器名:{%t0}
+tagMPIPAddress=IP地址: {%t0}
+tagMPPort=埠: {%t0}
+tagMPErrorNoTarget=該玩家超出指向距離。
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagTradeError01={%t0}正在與其他玩家交易。
+tagTradeError02={%t0}拒絕了你的交易請求。
+tagTradeError03={%t0}請求交易。
+tagTradeError04=你的物品欄沒有足夠的空間來接受這筆交易。
+tagTradeButton01=交易
+tagTradeButton02=取消
+tagTradeDistance=該玩家超出交易距離。
+tagChatGroup=隊伍
+tagChatAll=所有人
+tagChatFriends=好友
+tagChatReply=回覆
+tagChatSpeak=與……對話
+tagChatError=不存在使用該名稱的玩家。
+tagChatMuted={%t0}現在被靜音。
+tagChatUnmuted={%t0}不再被靜音。
+tagChatCommandShort01=p
+tagChatCommandShort02=a
+tagChatCommandShort03=r
+tagChatCommandShort04=t
+tagChatCommandShort05=m
+tagChatCommandShort06=u
+
+

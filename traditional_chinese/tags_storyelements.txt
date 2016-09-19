@@ -1,0 +1,1384 @@
+#Region Names 地域名稱
+
+tagMapDevilsCrossing01=惡魔十字
+tagMapLowerCrossing01=下游渡口
+tagMapBurialHill=殮葬山丘
+tagMapOldDump=古垃圾場
+tagMapFoggyBank=迷霧河畔
+tagMapBurrwitchRoad01=伯爾維治大道
+tagMapWightmire01=屍妖泥沼
+tagMapSoddenHollow=濕潤山谷
+tagMapFloodedPassage01=浸沒通道
+tagMapBurrwitchOutskirts01=伯爾維治郊外
+tagMapMolderingFields=衰敗農場
+tagMapMudRow=泥濘街道
+tagMapBurrwitchVillage01=伯爾維治村
+tagMapWardensCellar01=典獄長的地下室
+tagMapWardensLabratory01=地下通道
+tagMapWardensLabratory02=隱秘實驗室
+tagMapLaboratoryStorerooms=廢棄庫房
+tagMapLaboratoryJail=地下監牢
+tagMapLaboratoryLivingQuarters=生活區
+tagMapLaboratoryInner=實驗室內部
+tagMapOminousLair=險惡巢穴
+tagMapLowerCrossing=下游渡口
+tagMapHallowedHill=神聖丘陵
+tagMapBurrwitchSlums=伯爾維治貧民區
+tagMapDumpingGrounds=垃圾場
+tagMapAbandonedWaterfront=廢棄碼頭
+tagMapMerchantsRow=商業街
+tagMapBurrwitchCenter=伯爾維治中心
+tagMapBurrwitchEstates=伯爾維治莊園
+tagMapBrokenTeeth=破碎之牙
+tagMapDevilsSpur=惡魔山脊
+tagMapNecropolis=墓地
+tagMapOldGrove=古老林地
+tagMapVoidlands=黑曜石王座
+tagMapVoidlands02=灰燼廢墟
+tagMapVoidlands03=被遺忘的廢墟
+tagMapEastMarsh01=東沼澤
+tagMapEastMarsh02=劇毒林地
+tagMapEastMarsh03=克雷格峭壁
+
+tagMapBrokenHills=破碎丘陵
+tagMapOldArkovia=古安克維亞
+tagMapArkovianFoothills=安克維亞山麓
+tagMapKymons=凱蒙的隱居處
+tagMapCoastRoad=海岸之路
+tagMapTwinFalls=雙子瀑布
+tagMapFourHills=四山
+tagMapRockyCoast=岩石海岸
+tagMapNewHarbor=新港
+tagMapBarrenHighlands=貧瘠高原
+tagMapCrumblingWatch=瞭望塔遺跡
+tagMapCronleysHideout=克隆利的藏身處
+
+tagMapSmugglersPass=走私者通道
+tagMapDeadmansGulch=亡者峽谷
+tagMapMountainDeeps=山脈深淵
+
+tagMapDustyRoad=採礦者小徑
+tagMapShadedBasin=幽暗盆地
+tagMapPineBarrens=松林荒地
+tagMapJaggedWaste=鋸齒荒地
+tagMapJaggedWasteFort=暴君要塞
+
+tagMapWitheringFields=乾枯田地
+tagMapHomestead=家園
+tagMapInfestedFarms=感染農田
+tagMapRottedHarvest=腐壞田地
+tagMapSorrowsBastionRoad=休耕田地
+tagMapCorruptedPasture=陰森穀倉
+tagMapSorrowsBastion=悲傷城堡
+tagMapBloodGrove=血森林
+tagMapDarkvaleMill=格里弗的伐木場
+tagMapBloodGroveMine=莫頓的領地
+tagMapBloodGroveAetherMine=裂石礦場
+tagMapBloodGroveShrine=被遺忘的神壇
+tagMapDarkvale=黑谷村
+tagMapDarkvaleGate=黑谷門
+tagMapFactionFort=哈倫堡
+tagMapInfestedField01=索恩斯巴利農場
+tagMapInfestedField02=埃姆斯沃斯農場
+tagMapConflagration01=戰火平原
+tagMapConflagration02=獻祭之地
+
+tagMapAlpineGate=阿斯特坎山麓
+tagMapLedgewood=伍德巖壁
+tagMapAlpineRoad=阿斯特坎山道
+tagMapAlpineValley=阿斯特坎山谷
+tagMapAlpineFort=聖像堡
+
+tagMapFortIkon=聖像堡
+tagMapPlainsofStrife=紛爭平原
+tagMapNecropolisGate=墓地外圍
+tagMapNecropolisInterior=墓地內圍
+
+#Riftgate Names 傳送門名稱
+
+tagRiftDevilsCrossing=惡魔十字傳送門
+tagRiftLowerCrossing=下游渡口傳送門
+tagRiftBurrwitchRoad=迷霧河畔傳送門
+tagRiftWightmire=屍妖泥沼傳送門
+tagRiftFloodedPassage=浸沒通道傳送門
+tagRiftBurrwitchOutskirts=伯爾維治郊外傳送門
+tagRiftBurrwitchVillage=伯爾維治村傳送門
+tagRiftWardensCellar=典獄長的地下室傳送門
+tagRiftWardensLabratory01=地下通道傳送門
+tagRiftWardensLabratory02=典獄長的實驗室傳送門
+
+tagRiftBrokenHills=破碎丘陵傳送門
+tagRiftOldArkovia=古安克維亞傳送門
+tagRiftArkovianFoothills=安克維亞山麓傳送門
+tagRiftCronleysHideout=克隆利的藏身處傳送門
+tagRiftTwinFalls=雙子瀑布傳送門
+tagRiftSmugglersPass=走私者通道傳送門
+tagRiftSmugglersRoad=採礦者小徑傳送門
+tagRiftJaggedWaste=松林荒地傳送門
+tagRiftDeadmansGulch=亡者峽谷傳送門
+
+
+tagRiftHomestead=家園傳送門
+tagRiftWitheringFields=乾枯田地傳送門
+tagRiftRottedCroplands=腐壞田地傳送門
+tagRiftRottedHarvest=腐爛穀倉
+tagRiftSorrowsBastion=悲傷城堡傳送門
+tagRiftBloodGrove=血森林傳送門
+tagRiftDarkvale=黑谷門傳送門
+tagRiftAlpineGate=阿斯特坎山麓傳送門
+tagRiftAlpineRoad=阿斯特坎山道傳送門
+tagRiftAlpineValley=阿斯特坎山谷傳送門
+tagRiftAlpineFort=聖像堡傳送門
+tagRiftPlaintsofStrife=紛爭平原傳送門
+tagRiftNecropolisGate=墓地傳送門
+tagRiftNecropolisInterior=墓地內圍傳送門
+
+tagRiftRandom01=冥煞裂隙
+
+#World Map Labels 世界地圖標籤
+
+tagWorldMapBurrwitchEstates={^n}伯爾維治莊園
+tagWorldMapAbandonedWaterFront=廢棄碼頭
+tagWorldMapBurrwitchVillage={^n}{^n}伯爾維治村
+tagWorldMapHallowedHill={^n}神聖丘陵
+tagWorldMapEastMarsh01=東沼澤
+tagWorldMapEastMarsh02=克雷格峭壁
+tagWorldMapMudRow={^n}泥濘街道
+tagWorldMapMolderingFields={^n}衰敗農場
+tagWorldMapBurrwitchGraveyard=      伯爾維治墓園
+tagWorldMapBurrwitchOutskirts={^n}伯爾維治郊外
+tagWorldMapTheFoggyBank={^n}迷霧河畔
+tagWorldMapSoddenHollow=濕潤山谷
+tagWorldMapWightmire=屍妖泥沼
+tagWorldMapTheOldDump={^n}古垃圾場
+tagWorldMapBurialHill={^n}殮葬山丘
+tagWorldMapLowerCrossing={^n}下游渡口
+tagWorldMapDevilsCrossing={^n}惡魔十字
+tagWorldMapKymonsRetreat=凱蒙的隱居處
+tagWorldMapArkovianFoothills=安克維亞山麓
+tagWorldMapCrumblingWatch={^n}瞭望塔遺跡
+tagWorldMapTheRockyCoast={^n}岩石海岸
+tagWorldMapStauntonMine={^n}斯湯頓礦洞
+tagWorldMapNewHarbor=新港
+tagWorldMapTheFourHills={^n}四山
+tagWorldMapOldArkovia={^n}古安克維亞
+tagWorldMapTheStepsOfTorment={^n}苦痛階梯
+tagWorldMapBrokenHills={^n}破碎丘陵
+tagWorldMapTwinFalls=雙子瀑布
+tagWorldMapBarrenHighlands=貧瘠高原
+tagWorldMapSmugglersPass=走私者通道
+tagWorldMapProspectorsTrail=採礦者小徑
+tagWorldMapDeadmansGulch=亡者峽谷
+tagWorldMapImmolation=獻祭之地
+tagWorldMapMountainDeeps=山脈深淵
+tagWorldMapPineBarrens={^n}松林荒地
+tagWorldMapJaggedWaste={^n}鋸齒荒地
+tagWorldMapShadedBasin=幽暗盆地
+tagWorldMapTyrantsHold={^n}暴君要塞
+tagWorldMapAureateValley={^n}金色山谷
+tagWorldMapWitheringFields={^n}乾枯田地
+tagWorldMapHomestead=家園
+tagWorldMapConflagration=戰火平原
+tagWorldMapInfestedFarms=感染農田
+tagWorldMapRottingCroplands={^n}腐壞田地
+tagWorldMapGruesomeHarvest=陰森穀倉
+tagWorldMapSorrowsBastionRoad=休耕田地
+tagWorldMapSorrowsBastion=悲傷城堡
+tagWorldMapBloodGrove=血森林
+tagWorldMapDarkvaleMill=格里弗伐木場
+tagWorldMapDarkvale={^n}黑谷村
+tagWorldMapDarkvaleGate=黑谷門
+tagWorldMapFactionFort=哈倫堡
+tagWorldMapBloodGroveMine=莫頓的領地
+tagWorldMapFortIkon=聖像堡
+tagWorldMapBattlefield={^n}紛爭平原
+tagWorldMapNecropolis={^n}墓地
+tagWorldMapAsterkarnRoad=阿斯特坎山道
+tagWorldMapAsterkarnValley={^n}阿斯特坎山谷
+tagWorldMapBastionOfChaos=混沌堡壘
+tagWorldMapTombofWatchers=守望者之墓
+tagWorldMapTombofArchon=執政官之墓
+tagWorldMapNecropolisGates={^n}墓地大門
+tagWorldMapHiddenPath=隱藏之路
+tagWorldMapWitchGodTemple=三神殿
+tagWorldMapWitchGodBoss=巫神聖殿
+tagWorldMapCorpseCave=屍骸之地
+
+#Underground Names 地穴名稱
+
+tagUGLowerCrossingRatDen01=腐敗獸穴
+tagUGBurrwitchVillageRatDen01=潰爛巢穴
+tagUGCellar01=被遺忘的地窖
+tagUGCellar02=墮落聖殿
+tagBurrwitchCellar01=感染地窖
+tagBurrwitchCellar02=陰濕地窖
+tagBurrwitchCellar03=發霉地窖
+tagWightmireCellar01=邪教徒藏身處
+tagBurrwitchRiverCave=河流通道
+tagUGBurialCave=殮葬洞穴
+tagUGWightmireCave01=洞窟
+tagUGDevilsCrossingAquifer=惡魔含水層
+tagUGDevilsCrossingDungeon01=監獄地牢
+tagUGDevilsCrossingHiddenPassage01=罪犯隧道
+tagUGBurrwitchFloodedCellars=浸沒地窖
+tagUGBurrwitchOutskirtsBasin=走私者盆地
+tagUGFloodedPassageRuin=沉沒聖所
+
+tagUGSlithLab01=哈格特的小島
+tagUGSlithLab02=哈格特的實驗室 - 第一層
+tagUGSlithLab03=哈格特的實驗室 - 第二層
+
+tagUGArkovianFoothills01=斯湯頓礦洞
+tagUGArkovianFoothills02=脊狀峽谷
+tagUGOldArkovia01=漢內法礦洞
+tagUGOldArkovia02=安克維亞地下城
+tagUGOldArkovia03=分群蜂巢
+tagUGOldArkovia04=活躍蜂巢
+tagUGOldArkovia05=克隆利的藏身處
+tagUGBrokenHills01=脊狀峽谷
+tagUGBrokenHills02=苦痛階梯
+tagUGBrokenHills02A=第二層 疼痛
+tagUGBrokenHills02B=第三層 憂患
+tagUGBrokenHills02C=第四層 折磨
+tagUGBrokenHills02D=第五層 苦痛
+tagUGBrokenHills02E=尤若布魯克的折磨
+tagUGBrokenHills02F=靈魂居所
+tagUGBrokenHills03=廢棄獸穴
+tagUGBrokenHills04=走私者通道
+tagUGBrokenHills05=尖嘯山谷
+
+tagUGJaggedWasteCave01=血荊棘的巢穴
+tagUGJaggedWasteCave02=遺忘深淵
+tagUGDermapteran01=掠行蟲巢
+tagUGDermapteran02=蟲群孵化所
+tagUGDermapteran03A=蟲王巢穴
+tagUGDermapteran03B=蟲后巢穴
+tagUGHomesteadCave01=迷失洞穴
+tagUGRottingCroplandsCrypt01=墓室
+tagUGCaveGhost01=骸骨洞穴
+tagUGFortZealot01=凱蒙的庇護所
+tagUGFortZealot02=凱蒙的書房
+tagUGCryptNecro01=教團的堡壘
+tagUGCryptNecro02=靈魂的居所
+tagUGFortIkon_Prison=聖像堡監獄
+tagUGFortIkon_Armory=聖像堡軍械庫
+
+tagUGFortCultist01=黑谷門
+tagUGFortFaction01=哈倫堡
+tagUGFortBlackLegion01=聖像堡
+tagUGCryptNecropolis01=黑塚
+tagUGCryptFactionBattle01=執政官巴托雷姆之墓
+tagUGCryptFactionBattle02=被詛咒之墓
+tagUGCryptZealot01=寇瓦克之墓
+
+tagUGVoidlands01=混沌堡壘
+tagUGVoidlands01A=A 紛爭
+tagUGVoidlands01B=B 混亂
+tagUGVoidlands01C=C 煉獄
+tagUGVoidlands01D=絕望之地
+
+tagUGPassageNecropolis=靈魂殿堂
+tagUGCryptFinal01=守望者之墓
+tagUGCryptFinal02=羅霍里恩的封地
+tagUGCryptFinal03=瘋狂之淵源
+
+tagUGSecret01=現實之邊緣
+tagUGSecret02=不朽之聖地
+
+#Signs 地標
+
+tagSign_BurialHill=殮葬山丘
+tagSign_DevilsCrossing=惡魔十字
+tagSign_Wightmire=屍妖泥沼
+tagSign_Burrwitch=伯爾維治村
+tagSign_Malmouth=馬爾茅斯
+tagSign_BrokenHills=破碎丘陵
+tagSign_CoastRoad=安克維亞山麓
+tagSign_EastMarsh=東沼澤
+tagSign_Homestead=家園
+tagSign_MistyVale=霧色河谷
+tagSign_RockyCoast=古安克維亞
+tagSign_FoothillsVillage=凱蒙的隱居處
+tagSign_TyrantsHold=暴君要塞
+tagSign_SorrowsBastion=悲傷城堡
+tagSign_Farm=阿韋爾魯克的耕地
+tagSign_Deeps=注意：礦洞已封閉
+tagSign_Darkvale=黑谷村
+tagSign_BloodGroveFort=哈倫堡
+tagSign_BloodGroveMine=裂石礦場
+tagSign_BloodGroveMill=格里弗的伐木場
+tagSign_FortIkon=聖像堡
+
+tagSign_OldGrove=古老林地
+
+tagGravestone_OldArkovia01=這裡埋葬著：羅伯特
+tagGravestone_OldArkovia02=這裡埋葬著：洛克福德
+tagGravestone_OldArkovia03=這裡埋葬著：瑞恩
+tagGravestone_TyrantsHold01=在此紀念：逝去的混沌梅隆，它生前致力於侍奉凱恩。
+
+#Points of Interest 出入口
+
+tagPOI001A=入口
+tagPOI001B=出口
+tagPOI002A=向下階梯
+tagPOI002B=向上階梯
+tagPOI003A=洞穴入口
+tagPOI003B=洞穴出口
+tagPOI004A=渡口
+tagPOI005A=蜂巢入口
+tagPOI005B=蜂巢出口
+tagPOI006A=古代遺跡入口
+tagPOI006B=古代遺跡出口
+tagPOI007A=礦洞入口
+tagPOI007B=礦洞出口
+tagPOI008A=剪刀蟲坑道入口
+tagPOI008B=剪刀蟲坑道出口
+tagPOI009A=哈格特的實驗室
+tagPOI010A=死亡守夜人教團領地入口
+tagPOI011A=凱蒙神選戰士領地入口
+tagPOI012A=黑谷門
+tagPOI013A=哈倫堡
+tagPOI014A=墓穴入口
+tagPOI014B=墓穴出口
+tagPOI015A=虛空入口
+tagPOI015B=虛空出口
+
+tagPOIFloodedPassageA=浸沒通道入口
+tagPOIFloodedPassageB=浸沒通道出口
+tagPOICaveBurialHillA=殮葬洞穴入口
+tagPOICaveBurialHillB=殮葬洞穴出口
+tagPOIPrisonCellarA=監獄地牢入口
+tagPOIWardensCellarA=典獄長的地下室入口
+tagPOIWardensCellarB=典獄長的地下室出口
+tagPOIUndergroundTransitA=地下通道入口
+tagPOIUndergroundTransitB=地下通道出口
+tagPOIArkovianFoothillsMineA=斯湯頓礦洞入口
+tagPOIArkovianFoothillsMineB=斯湯頓礦洞出口
+tagPOIHomesteadPassageMineA=走私者通道入口
+tagPOIHomesteadPassageMineB=走私者通道出口
+tagPOIOldArkoviaRuinsA=安克維亞地下城入口
+tagPOIOldArkoviaRuinsB=安克維亞地下城出口
+tagPOIOldArkoviaRuins2A=安克維亞地下城(第二層)入口
+tagPOIOldArkoviaRuins2B=安克維亞地下城(第一層)出口
+tagPOIOldArkoviaRuins3A=安克維亞地下城(第三層)入口
+tagPOIOldArkoviaRuins3B=安克維亞地下城(第二層)出口
+tagPOIOldArkoviaMineA=克隆利的藏身處入口
+tagPOIOldArkoviaMineB=克隆利的藏身處出口
+tagPOIFesteringLairA=潰爛巢穴入口
+tagPOIFesteringLairB=潰爛巢穴出口
+tagPOIManInNeedCaveA=邁拉的藏身處入口
+tagPOIManInNeedCaveB=廢棄獸穴出口
+tagPOIMountainDeepsA=山脈深淵入口
+tagPOIMountainDeepsB=山脈深淵出口
+tagPOIFortIkon_Armory=聖像堡軍械庫
+tagPOIFortIkon_Prison=聖像堡監獄
+tagPOIFactionBattleA=執政官巴托雷姆之墓
+tagPOIKymonSecretA=寇瓦克之墓
+tagPOILoghorrean01A=守望者之墓
+tagPOILoghorrean02A=羅霍里恩的封地
+tagPOILoghorrean03A=瘋狂之淵源
+
+tagPOIStepsOfTorment1A=苦痛階梯入口
+tagPOIStepsOfTorment1B=苦痛階梯出口
+tagPOIStepsOfTorment2A=苦痛階梯(第二層)入口
+tagPOIStepsOfTorment2B=苦痛階梯(第二層)出口
+tagPOIStepsOfTorment3A=苦痛階梯(第三層)入口
+tagPOIStepsOfTorment3B=苦痛階梯(第三層)出口
+tagPOIStepsOfTorment4A=苦痛階梯(第四層)入口
+tagPOIStepsOfTorment4B=苦痛階梯(第四層)出口
+tagPOIStepsOfTorment5A=苦痛階梯(第五層)入口
+tagPOIStepsOfTorment5B=苦痛階梯(第五層)出口
+
+tagPOI_BastionOfChaos01A=混沌堡壘入口
+tagPOI_BastionOfChaos01B=混沌堡壘出口
+tagPOI_BastionOfChaos02A=紛爭入口
+tagPOI_BastionOfChaos02B=紛爭出口
+tagPOI_BastionOfChaos03A=混亂入口
+tagPOI_BastionOfChaos03B=混亂出口
+tagPOI_BastionOfChaos04A=煉獄入口
+tagPOI_BastionOfChaos04B=煉獄出口
+
+tagPOIQuest_Burrwitch=清理伯爾維治傳送門
+tagPOIQuest_WardenLab=找到典獄長的實驗室
+tagPOIQuest_ArkovianFoothills=進入安克維亞山麓
+tagPOIQuest_Elsa=尋找艾爾莎
+tagPOIQuestHomestead=家園
+tagPOIQuestHomesteadBridge=雙子瀑布橋
+tagPOIQuestHomesteadTown=家園鎮
+tagPOIQuest_Sacrifice=艾薩克的寶藏
+tagPOIQuest_StrangeKey=墮落聖殿
+tagPOIQuest_Homestead=開闢出一條到家園的道路
+tagPOIQuest_NecropolisGate=通往墓地
+tagPOIQuest_NecropolisRift=清理墓地傳送門
+
+
+#Notifications 通告
+
+tagNotification_WightmireBurialCaveFound=距離死屍的源頭已經不遠了...
+tagNotification_WightmireReanimatorFound=一隻生物正在復生屍體！
+tagNotification_WightmireCaravanFound=這場屠殺剛發生過不久...
+tagNotification_WightmireCaravanDriverFound=一位俘虜正在呼救！
+tagNotification_InventoryBagAcquired=得到儲物袋！
+tagNotification_BurrwitchRiftgateEvent=裂隙傳送門正在產生敵人！
+tagNotification_BurrwitchRiftgateSecured=伯爾維治的傳送門已經被清理乾淨了！
+tagNotification_WardenCellarFound=這一定就是典獄長的地下室了...
+tagNotification_WardenLabFound=一個實驗室，典獄長一定就在附近...
+tagNotification_LostApprenticeCellar=有人最近來過這兒...
+tagNotification_LostApprenticeFound=卡斯帕羅夫的學徒在這兒！
+tagNotification_WightmireRiftgate=這傳送門正釋放著虛靈！
+
+tagNotification_HS_RemoveTheHead_ElsaFound=看起來克隆利沒有抓艾爾莎...
+tagNotification_HS_SpoilsOfTheGrimDawn=你找到了古老的遺跡。
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=海邊的舊橋被毀掉了，你需要在走私者通道內找出一條路來。
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=你已經穿越了走私者通道，尋找通往家園的道路吧。
+tagNotification_HS_OldArkoviaPassagesCompleted=你已經找齊了講述安克維亞文章的所有章節並考察了其中的內容。
+tagNotification_HS_OldArkoviaPassagesBossKilled=你得到了一片被污染者的靈魂碎片！
+tagNotification_HS_RoverLegacy_Chthonians=莫格卓根的祭壇已經充斥了冥煞！
+tagNotification_HS_RoverLegacy_Cleansed=冥煞已經被清除！
+
+tagNotification_AreaC_EnclaveRiftgateEvent=進入家園的通道充斥著虛靈！
+tagNotification_AreaC_RefugeeRemainsFound=看起來達利婭·塔夫恩沒能在山脈深淵的危險中倖免。
+tagNotification_AreaC_BloodHarvestFound=有些囚徒在呼救。
+tagNotification_AreaC_TrappedAndAloneReturn=一個冥煞正在流浪者營地屠戮！
+
+tagNotification_AreaD_KymonSecret=你隱約聽到附近有一座石門打開了。
+tagNotification_AreaD_NecropolisRiftgate=惡魔從傳送門的裂隙中躥出！
+tagNotification_AreaD_FortIkonRiftgate=這傳送門中擠滿了虛靈。
+tagNotification_AreaD_FinalCryptLocked=這墓穴被附近邪教的運血車封印著。
+tagNotification_AreaD_FinalBossUlgrim=虛空裂隙通往各處腔室，消耗著奧格瑞姆的時間！
+
+tagNotification_WitchGods_Shrine02=你前方的道路已經打開....
+tagNotification_WitchGods_Shrine03=隱藏之路已為你開通...
+tagNotification_WitchGods_3Markers=你與巫神的聯繫讓你更加強大。
+tagNotification_WitchGods_Secret=附近的石牆發生變化。
+
+tagNotification_WarningToughArea=這裡棲息著一個遠比你強大的生物...
+tagNotification_WarningRiftgateDisabled=你在此區域內無法開啟個人傳送裂隙...
+tagNotification_WarningGatesOfAnguish=苦痛之門已經打開。動作要快，這扇門不會長久的開著...
+tagNotification_WarningGatesOfAnguishLocked=苦痛之門已被封印並且本次遊戲將不再重新開啟。
+tagNotificationStepsOfTormentShortcut=附近有巨石鬆動...
+tagNotification_WarningBastionGates=堡壘大門已經打開。快點，因為它無法保持長久的開著...
+tagNotification_WarningBastionGatesLocked=堡壘大門已被封印並且本次遊戲將不再重新開啟。
+
+tagNotification_WarningSecret01=你感覺到令人不寒而慄的涼氣，但沒有風...
+tagNotification_WarningSecret02=恐懼感淹沒了你...
+tagNotification_WarningSecret03=這個地方感覺很奇怪...
+
+#NPC Names NPC名稱
+
+tagNPC_JohnBourbon=隊長 約翰·波旁
+tagNPC_Kasparov=卡斯帕羅夫
+tagNPC_Harmond=哈蒙德
+tagNPC_Barnabas=巴納巴斯
+tagNPC_SybilHart=西比爾·哈特
+tagNPC_LutherGraves=盧瑟·格雷夫斯
+tagNPC_Ulgrim=奧格瑞姆
+
+tagNPC_Direni=狄瑞尼
+tagNPC_CaptiveInventor=達萊特
+
+tagNPC_GuardA04=麥考爾 - 守衛
+tagNPC_Guard_DCRanged01=守衛 - 梅納德
+tagNPC_Guard_DCRanged02=守衛 - 羅斯
+tagNPC_Guard_DCMelee01=守衛 - 布瑞格斯
+tagNPC_Guard_DCMelee02=守衛 - 奧克斯利
+tagNPC_Guard_DCMelee03=守衛 - 切斯特
+tagNPC_BountyBoard=惡魔十字懸賞
+
+tagNPC_Guard_Female01=守衛
+tagNPC_Guard_Female02=突擊手
+
+tagNPC_DevilsCrossing_01=賈斯伯
+tagNPC_DevilsCrossing_02=羅弗 俘虜
+tagNPC_DevilsCrossing_03=艾薩克
+tagNPC_DevilsCrossing_04=托爾文
+tagNPC_DevilsCrossing_05=庫爾多
+tagNPC_DevilsCrossing_06=埃德溫
+tagNPC_DevilsCrossing_07=羅斯 - 守衛
+tagNPC_DevilsCrossing_08=切斯特
+
+tagNPC_WitchGodAttendant=侍者
+
+tagNPC_Homestead_01=米諾娃
+tagNPC_Homestead_02=德萊厄斯·克隆利
+tagNPC_Homestead_03=莫格卓根的化身
+tagNPC_Homestead_04=德魯·拉金
+tagNPC_Homestead_05="長腿"埃德蒙·道爾
+tagNPC_Homestead_06=伊麗莎白·斯金納
+tagNPC_Homestead_07=以賽亞·瑞丹
+tagNPC_Homestead_08=約瑟芬·瑞丹
+tagNPC_Homestead_09=
+tagNPC_Homestead_10=米拉·斯金納
+tagNPC_Homestead_11=
+tagNPC_Homestead_12=
+tagNPC_Homestead_13=
+tagNPC_Homestead_14=
+tagNPC_Homestead_15=史蒂芬·斯金納
+tagNPC_Homestead_16=莫爾奈
+tagNPC_Homestead_17=艾爾莎
+tagNPC_Homestead_18=
+tagNPC_Homestead_19=
+tagNPC_Homestead_20=
+tagNPC_Homestead_21=伯納德
+tagNPC_Homestead_22=艾麗西亞
+tagNPC_Homestead_23=塞拉斯
+tagNPC_Homestead_24=格雷文
+tagNPC_Homestead_25=長老 馬賽厄斯
+tagNPC_Homestead_26=奎德
+tagNPC_Homestead_27=伊娃
+tagNPC_Homestead_28=海勒姆
+tagNPC_Homestead_29=卡爾德羅斯
+tagNPC_Homestead_30=巴爾沃拉克
+
+tagNPC_AreaC_01=偵查隊長 萊伊爾
+tagNPC_AreaC_02=道格拉斯·沙利文·古塚
+tagNPC_AreaC_03=邁拉·法恩根
+tagNPC_AreaC_04=審判官 克理德
+tagNPC_AreaC_05=死神標記 卡德裡斯
+tagNPC_AreaC_06=奧蕾莉亞
+tagNPC_AreaC_07=卡裡斯塔
+tagNPC_AreaC_08=納撒尼爾·索恩
+tagNPC_AreaC_09=莉珊德拉·艾弗裡
+tagNPC_AreaC_10=兄弟 艾魯維斯
+tagNPC_AreaC_11=聖父 凱蒙
+tagNPC_AreaC_12=主教 瓦瑞克
+tagNPC_AreaC_13=秘典守護者
+tagNPC_AreaC_14=拉莉亞
+tagNPC_AreaC_15=隊長 索梅爾
+tagNPC_AreaC_16=科林·塔夫恩
+tagNPC_AreaC_17=死神標記 瓦拉爾
+tagNPC_AreaC_18=兄弟 莫泰爾
+tagNPC_AreaC_19=哈魯夫
+tagNPC_AreaC_20=中士 瑟裡夫
+tagNPC_AreaC_21=武器專家 波若
+tagNPC_AreaC_22=信使
+tagNPC_AreaC_23=靈魂守衛 堪德裡斯
+tagNPC_AreaC_24=
+tagNPC_AreaC_25=
+
+tagNPC_AreaD_01=破法者 莫伊拉
+tagNPC_AreaD_02=隊長 瑞弗
+tagNPC_AreaD_03=武器大師 埃德裡克
+tagNPC_AreaD_04=安娜斯特莉婭
+tagNPC_AreaD_04B=安娜斯特莉婭, 北部先驅者
+tagNPC_AreaD_04C=安娜斯特莉婭, 虛化之怒
+
+tagNPC_DetonationSite=爆破點
+tagNPC_AetherCluster=虛化集簇
+tagNPC_Cannon=廢棄的大炮
+tagNPC_Ritual=被束縛的靈魂
+
+tagNPC_BrokenHillsBridge=安克維亞山麓橋樑修理處
+tagNPC_OldGroveBridge=古老林地橋樑修理處
+tagNPC_HomesteadBridge=雙子瀑布橋樑修理處
+tagNPC_WightmireBridge=屍妖泥沼橋樑修理處
+tagNPC_BurrwitchBridge=伯爾維治橋樑修理處
+tagNPC_NecropolisBridge=墓地橋樑修理處
+
+tagNPC_JosephClaxton=約瑟夫·克萊斯頓
+tagNPC_MariaFletcher=瑪利亞·弗萊徹
+tagNPC_NathanielGage=納撒尼爾·蓋奇
+tagNPC_ByronHale=拜倫·黑爾
+tagNPC_AliciaDrake=艾麗西亞·德雷克
+tagNPC_OliverLott=奧利弗·洛特
+tagNPC_SybilGreene=西比爾·格林
+
+
+#Flavor NPC Names
+
+tagNPC_Jailor=劊子手·賈維斯
+tagNPC_Villager=村民
+tagNPC_Flavor_DevilsCrossing01=康斯坦茨
+tagNPC_Flavor_DevilsCrossing02=簡
+tagNPC_Flavor_DevilsCrossing03=阿萊克斯
+tagNPC_Flavor_DevilsCrossing04=格特魯德
+tagNPC_Flavor_DevilsCrossing05=馬庫斯
+tagNPC_Flavor_DevilsCrossing06=達裡安
+tagNPC_Flavor_DevilsCrossing07=流浪漢 哈維
+tagNPC_Flavor_DevilsCrossing08=法爾迪斯
+
+tagNPC_Flavor_Homestead_01=弗蘭基 "刀子"
+tagNPC_Flavor_Homestead_02=克隆利幫叛逃者
+tagNPC_Flavor_Homestead_03=海倫·弗萊徹
+tagNPC_Flavor_Homestead_04=朱利葉斯·科爾
+tagNPC_Flavor_Homestead_05=帕爾達
+tagNPC_Flavor_Homestead_06=傑迪戴亞
+tagNPC_Flavor_Homestead_07=奧斯卡
+tagNPC_Flavor_Homestead_08=朱迪斯
+tagNPC_Flavor_Homestead_09=小奧斯卡
+tagNPC_Flavor_Homestead_10=受傷的流浪者
+tagNPC_Flavor_Homestead_11=艾姆卡拉
+tagNPC_Flavor_Homestead_12=霍拉斯
+
+tagNPC_Flavor_AreaC_01=迪恩·古塚
+tagNPC_Flavor_AreaC_02=丹尼·古塚
+tagNPC_Flavor_AreaC_03=瑪麗亞·古塚
+tagNPC_Flavor_AreaC_04=死神標記 拉哈
+tagNPC_Flavor_AreaC_05=勞勃·哈洛韋
+tagNPC_Flavor_AreaC_06=彼崔斯·薩莫斯
+tagNPC_Flavor_AreaC_07=特裡西婭·溫德伯勒
+tagNPC_Flavor_AreaC_08=塔裡斯·溫德伯勒
+tagNPC_Flavor_AreaC_09=艾米麗·拉克森
+tagNPC_Flavor_AreaC_10=鮑維婭
+tagNPC_Flavor_AreaC_11=瓦姆
+tagNPC_Flavor_AreaC_12=伊勞拉
+tagNPC_Flavor_AreaC_13=卡爾達拉
+tagNPC_Flavor_AreaC_14=塔維克
+tagNPC_Flavor_AreaC_15=阿姆卡洛
+tagNPC_Flavor_AreaC_16=拉魯卡
+tagNPC_Flavor_AreaC_17=卡拉卡
+tagNPC_Flavor_AreaC_18=加拉若克
+tagNPC_Flavor_AreaC_19=拉魯克
+tagNPC_Flavor_AreaC_20=姐妹 瑟蒂雅
+tagNPC_Flavor_AreaC_21=兄弟 萊格特
+tagNPC_Flavor_AreaC_22=兄弟 奧諾克斯
+tagNPC_Flavor_AreaC_23=奈迪
+tagNPC_Flavor_AreaC_24=菲爾
+tagNPC_Flavor_AreaC_25=奧利弗·索恩斯巴利
+tagNPC_Flavor_AreaC_26=亨利·埃姆斯沃斯
+tagNPC_Flavor_AreaC_27=家園農民
+tagNPC_Flavor_AreaC_28=廚師長布萊克漢姆
+tagNPC_Flavor_AreaC_29=黛拉·索恩斯巴利
+tagNPC_Flavor_AreaC_30=阿萊克斯·埃姆斯沃斯
+tagNPC_Flavor_AreaC_31=麗莎·索恩斯巴利
+tagNPC_Flavor_AreaC_32=達拉
+tagNPC_Flavor_AreaC_33=維格
+tagNPC_Flavor_AreaC_34=雷納·奧博拉什
+tagNPC_Flavor_AreaC_35=禁衛軍 澤德雷
+tagNPC_Flavor_AreaC_31UNUSED=伊萊恩·庫伯勒
+tagNPC_Flavor_AreaC_32UNUSED=朱莉婭·阿普勒斯沃斯
+tagNPC_Flavor_AreaC_33UNUSED=沙恩·庫伯勒
+tagNPC_Flavor_AreaC_34UNUSED=戴維斯·莫登
+
+tagNPC_Flavor_AreaD_01=
+tagNPC_Flavor_AreaD_02=
+tagNPC_Flavor_AreaD_03=
+tagNPC_Flavor_AreaD_04=
+tagNPC_Flavor_AreaD_05=
+tagNPC_Flavor_AreaD_06=
+
+#Quest Items 任務物品
+
+tagQuestItemHartsAmulet_Name=哈特的項鏈
+tagQuestItemHartsAmulet_Text="致我親愛的哥哥：希望這枚項鏈能在戰場上保佑你。-西比爾"
+
+tagQuestItemCultistKey_Name=奇特的鑰匙
+tagQuestItemCultistKey_Text="這把鑰匙標注著冥神麾下邪教徒所使用的諸多奇異符文和墮落符號。"
+tagQuestItemDirections_Name=狄瑞尼的指引
+tagQuestItemDirections_Text=遵照約定：邪教徒們很舒服地待在山中，遠離通常旅行者的地方。前往伯爾維治郊外的斷橋那裡。到了之後，沿著懸崖邊走，直到你找到一條進入山中的路。{^n}{^n}當你發現穿著浴血長袍在召喚黑暗力量的人時，你就到了。進入他們聖殿的入口就在營地的後面，深入山腹之中。
+
+tagQuestChestLostJournal=積灰的誦經台
+tagQuestItemLostJournal_Name=邪教徒的命令
+tagQuestItemLostJournal_Text="血之兄弟們，{^n}{^n}伯爾維治的虛靈勢力每天都在增強。本來能不受干擾地完成計劃的地方已經超出了它所能承受的極限，因此我們要改變行動目標。現在輪到惡魔十字了，我們的特工狄瑞尼成功地破壞了他們的水泵。不久那個令人生厭的群體就要被迫逃離他們的庇護所，之後他們的命運就要由我們來掌控。準備好，我的兄弟們。不久我們就要飲用他們的鮮血了！{^n}{^n}薩拉查, 冥神之刃"
+
+tagQuestItemDynamite=炸藥
+tagQuestItemDynamiteDesc="猛烈的爆炸物，爆破者們曾使用它來對抗法師們毀滅性的力量。"
+tagQuestItemSupplies=補給袋
+tagQuestItemSuppliesDesc="裝滿了有價值的材料和不易腐壞食物的囊袋。"
+tagQuestItemSlithNecklace=蛇人項鏈
+tagQuestItemSlithNecklaceDesc="蛇人薩滿佩戴的項鏈，只有它們才懂得此物的用途。"
+tagQuestItemFabric=織物
+tagQuestItemFabricDesc="有點舊有點髒，但是其他方面都挺好。"
+
+tagQuestItemForgottenPassage=被遺忘的文本
+tagQuestItemForgottenPassage_Desc="一段記錄古安克維亞歷史的支離破碎的文本。沒有剩下部分的文本是無法解密的。"
+
+tagQuestItemSmithHammer=曼海爾的錘骨
+tagQuestItemSmithHammer_Desc="工匠們手中代代相傳的一把遠古鍛錘。它見證了無數神器的誕生，也將繼續打造出無數的神兵利器。"
+
+tagQuestItemDermapteranPheromones_01=洛扎克的腺體
+tagQuestItemDermapteranPheromones_01Desc="散發出的惡臭令人作嘔。"
+
+tagQuestItemDermapteranPheromones_02=伊尼克希爾的腺體
+tagQuestItemDermapteranPheromones_02Desc="散發出的惡臭令人作嘔。"
+
+tagQuestItemManticorePoisonGland=蠍尾獅的毒腺
+tagQuestItemManticorePoisonGland_Desc="滴落著接觸即會灼燒皮膚的烈性毒液。"
+
+tagQuestItemNecromancerRemains=馬卡達爾的遺骸
+tagQuestItemNecromancerRemains_Desc="這位曾經強大的死靈法師的遺骸還在腐爛著。"
+
+tagQuestItemUroboruukInfo=尤若布魯克的筆記
+tagQuestItemUroboruukInfo_Desc="這似乎是死靈法師尤若布魯克遺失的筆記。"
+
+tagQuestItemKymonRelic=寇瓦克之眼
+tagQuestItemKymonRelic_Desc="一隻充滿奧術能量的乾癟眼睛。你不禁覺得它在回望著你。"
+
+tagQuestItemExileBossDrop_01=命運未卜之秘笈
+tagQuestItemExileBossDrop_01Desc="這本書似乎被奧術力量封印著，就連封面都無法翻開一角。"
+
+tagQuestItemExileBossDrop_02=檔案管理員塞隆的頭顱
+tagQuestItemExileBossDrop_02Desc="閃耀著虛化光芒的雙眼仍在面無表情地凝視著你。"
+
+tagQuestItemExileBossDrop_03=搏動的黑曜石碎片
+tagQuestItemExileBossDrop_03Desc="黑曜石碎片搏動著黑暗的力量。"
+
+tagQuestItemExileBossDrop_04=骸骨獵手的尖牙
+tagQuestItemExileBossDrop_04Desc="尖牙出自卡利斯·卡，它是貝若納斯的後裔。可以出售給商人獲得等價報酬，或者交給偏執的女巫。"
+
+tagQuestItemBlackLegionInsignia=黑色軍團徽章
+tagQuestItemBlackLegionInsignia_Desc="授予普通士兵作為他們忠誠服役的獎勵。"
+
+tagQuestItemCultistNecropolisNote=卡若茲的秘典
+tagQuestItemCultistNecropolisNote_Desc="一本寫滿了黑暗儀式的秘典，記述著古代墓地中一股強大的黑暗力量即將歸來。"
+
+tagQuestItemAnnalsOfArkovia=安克維亞編年史
+tagQuestItemAnnalsOfArkovia_Desc="記錄著安克維亞羅文王最後的日子。"
+
+tagQuestItemThornsburyDiary=黛拉的日記
+tagQuestItemThornsburyDiary_Desc="它屬於黛拉·索恩斯巴利。"
+
+tagQuestItemSlithLab=哈格特的公式
+tagQuestItemSlithLab_Desc="瘋狂的奧術師奧斯瓦爾德·哈格特寫下的草稿，潦草的完全無法辨識。"
+
+tagQuestItemAetherialEssence=虛靈精華
+tagQuestItemAetherialEssence_Desc="一個虛靈揮之不去的靈魂，被腐敗的能量所困。"
+
+tagQuestMogdrogenShrine=莫格卓根的祭壇
+tagQuestItemMogdrogenShrine01=莫格卓根的符石
+tagQuestItemMogdrogenShrine02=莫格卓根的魂靈
+tagQuestItemMogdrogenShrine_Desc="莫格卓根祭壇的組件。"
+
+tagQuestItemSacredAshes=至高神的聖潔骨灰
+tagQuestItemSacredAshes_Desc="執政官巴托雷姆的骨灰，光明使者的虔誠信徒。"
+
+tagQuestItemDesecratedAshes=至高神的褻瀆骨灰
+tagQuestItemDesecratedAshes_Desc="被玷污的執政官巴托雷姆的骨灰，被遺忘神的虔誠信徒。"
+
+tagQuestItemHeavyExplosives=軍團重型炸藥
+tagQuestItemHeavyExplosives_Desc="軍事術士灌注，以保證一個巨大的有效載荷。"
+
+tagQuestItemLegionSupplies=軍團物資
+tagQuestItemLegionSupplies_Desc="黑色軍團藏匿的原料。鑒於帝國目前情況這是名副其實的財富。"
+
+tagQuestItem_Dravis_A01Name=德拉維斯寫給黛拉的信 - 第一封
+tagQuestItem_Dravis_A01Text=我最親愛的妹妹，{^n}我相信這封信會自己找到你。你會返回此處的；我知道那晚的記憶仍然是你沉睡中的夢靨。你所見到的那張臉，是為瞭解真相所付出的代價。那你所否認的事實！{^n}{^n}你還記得我們小時候曾經在那些古老廢墟周圍玩嗎？老爸總是說我們不能再去玩了，不然就會在黃昏時分被天空中的鷹身女妖抓走的。但那如果只是他為了保護我們而故意說的呢？又或許是別有用心的阻止我們靠近那些遠古地點呢？再者說，我們進入探險後會瞭解更多關於他那些不願意讓我們知道的過往呢？{^n}{^n}我已經做了你無法完成的事情，黛拉。我無視了父親並深入了那個苦痛之地。我在那真是大開了眼界。你要是明智的話，會做出跟我一樣的事情... {^n}{^n}德拉維斯
+
+tagQuestItem_Dravis_A02Name=德拉維斯寫給黛拉的信 - 第二封
+tagQuestItem_Dravis_A02Text=黛拉，{^n}現在你一定見到了那些過往的安克維亞陰魂了。你可曾考慮過這些事情是怎麼發生的？安克維亞是怎麼淪陷的？父親稱是德理格，但光靠德理格並不能將一個人詛咒到如此痛苦。因此來說，必定還有個強大的死靈法師扮演了重要角色。{^n}{^n}我感到它無處不在。牆面的岩石中蘊含著向...向我發出的怒號。難道亡者還在蔑視活人不成？他們是否在渴望取回被竊取的東西？在這種無盡地獄中以這樣的狀態活著足以令任何靈魂發瘋，但我不覺得這麼做的意圖就是使他們瘋狂。這些石頭內有些相同的東西。{^n}{^n}我必須瞭解更多。因此我打算前往父親所去過的地方：我們兒時的家。當然，這對我來說是不小的挑戰，如你所知，我們的家已經在不久前被冥煞傳送門磨滅了。 但這種小事無法阻擋我尋求答案...{^n}{^n}德拉維斯
+
+tagQuestItem_Dravis_A03Name=德拉維斯寫給黛拉的信 - 第三封
+tagQuestItem_Dravis_A03Text=黛拉，{^n}塵埃已經落定。事情的答案一直就在我們身邊。裂隙之門猛烈地磨滅著我們的房子，但這樣也暴露了在地板下藏著些什麼。我們的父親一直在記錄，看起來沒什麼特別的，但內容卻針對我設下了保護性的符文封印。{^n}{^n}我粗心大意地，或者是自負地解開了封印。這導致了迸發出來的烈焰燒燬了筆記本並在我臉上持續灼燒。那相當痛苦，但我只能忍受。儘管如此，我還是從烈焰中取得了幾頁筆記。他說我們的母親在分娩是就死了，這很有可能，但你不知道的是，我們都不是最先生下來的。還有其他女人，以及其他孩子，但日期...卻毫無道理。知道我翻開最後一頁才知曉了答案。{^n}{^n}我必須盡快前往那座死亡之城。那裡有最後的線索...{^n}{^n}德拉維斯
+
+tagLoreObj_AreaDDravis_NoteA04Name=德拉維斯寫給黛拉的信 - 最後一封
+tagLoreObj_AreaDDravis_NoteA04codexTitle=德拉維斯寫給黛拉的信
+tagLoreObj_AreaDDravis_NoteA04Text=黛拉，{^n}我對發生的事情感到萬分震驚，我無法控制自己那顫抖的手並寫下這些話語。我們的父親，留給我們的遺產，比我所要求的多的多，多到超過我的想像。為了否認我們得到這部分遺產...這對他的孩子們而言就是犯罪。但我瞭解他的秘密，因此不會被否認。{^n}{^n}我們的父親是不朽者，黛拉。他在某一個瞬間困住了無法計數的靈魂來達成了這件不可能完成的事情。那在歷史上是個對不朽追捧的黑暗日。 但在這裡，大墓地內，我們的父親準備了一項不同的儀式。這是用來收割墳場內亡者的殘骸的，為了補充他那支離破碎的存在，但不論什麼原因，他失敗了。魔法印記被遺棄了。所有的殘存者都點亮了火葬堆並進行活祭。{^n}{^n}我毫不猶豫地完成了他所未能完成的事情。儘管我並不能像他一樣不朽，這些靈魂內所蘊含的力量都足夠使我追蹤他的形跡並對他向我們灌輸的痛苦進行報復。然後，在我完成復仇時，我會用現今磨滅著世界的災難來重複父親做過的事情，那些發生在數個世紀前的事情。{^n}{^n}你要重新考慮加入我嗎，黛拉，來北邊找我吧。我會成功站在我們父親骨灰旁的。{^n}{^n}德拉維斯
+
+tagQuestItemShrineMarker_Dreeg=德理格的符文石
+tagQuestItemShrineMarker_Dreeg_Text="由德理格的奴僕攜帶的符文石。邊緣有一圈銘文：雖然現在三巫神如同一體，但他們並非一直都是如此。戒備著其他兩位神的力量，他們通過在凱恩世界破壞性地展示怪異之力進行爭鬥。山脈崩潰，河流轉向，但是沒有神獲得勝利..."
+
+tagQuestItemShrineMarker_Bysmiel=拜斯邁的符文石
+tagQuestItemShrineMarker_Bysmiel_Text="由拜斯邁的追隨者攜帶的符文石。邊緣有一圈銘文：...所以，在東方星辰的照耀下，三巫神在他們的聖殿中結盟。在神血的約束下，爭鬥就此平息。三神聯盟形成了。"
+
+tagQuestItemShrineMarker_Solael=索拉爾的符文石
+tagQuestItemShrineMarker_Solael_Text="由索拉爾的信徒攜帶的符文石。邊緣有一圈銘文：...最後是索拉爾看到了他們造成的大屠殺，以及他們這些行動的必然性。事實上，沒有神能夠勝出，因為他們三神彼此平等。在聯盟達成之前，他派遣他忠誠的侍者前去遊說。他們將達成一項協議，在沼澤之中殘留著他們最後的爭端。"
+
+
+#Journals 日誌
+
+tagLoreObj_InquisitorCreedA01Name=審判官克理德的日誌 - 第一章
+tagLoreObj_InquisitorCreedA01codexTitle=審判官克理德 - 第一章
+tagLoreObj_InquisitorCreedA01Text=此時此刻，我正在趕往調查伯爾維治的路上，最近有人報告在這個區域裡發生了一些奇怪的事情。黃昏正在逐漸籠罩惡魔十字，附近陰森的沼澤提示著在晚上趕路可不是個好主意。我只好勉強住進了下游渡口的一個髒兮兮的小旅館。{^n}{^n}也許經過一段匆匆忙忙的旅途之後，我應該感到很疲乏，但我似乎感到空氣中有一種奇怪的壓迫感，使我的情緒保持著緊張的狀態。這種感覺就好像在一個雷鳴般的夏季風暴即將到來之前，太陽仍然是光芒四射，甚至空中連一朵雲都看不見。寂靜，卻令人害怕。這裡的一切事物似乎都處於它們正常的狀態，看不出來任何端倪，但我的直覺告訴我，某種可怕的事情將要到來了...
+
+tagLoreObj_InquisitorCreedA02Name=審判官克理德的日誌 - 第二章
+tagLoreObj_InquisitorCreedA02codexTitle=審判官克理德 - 第二章
+tagLoreObj_InquisitorCreedA02Text=正當收拾行李準備重新踏上前往伯爾維治的旅途時，我收到了來自一個伐木營地的緊急求救，這個營地駐紮在古老林地，位於惡魔十字的西邊。奇怪的野獸襲擊了那個營地，只留下三個虛弱而臉色蒼白的伐木工人。{^n}{^n}到達營地之後，工頭神情嚴肅地向我問好，接著告訴我被野獸咬過的工人發了瘋並且逃離了營地。另外，他們還用一種從來沒聽過的語言彼此交談。工頭把一些動物的遺骸指給我看。那是兩隻灰狐和一隻獵犬，身上長滿了令人毛骨悚然的疥瘡，躺在房子後面一個草草挖好的坑裡。工頭告訴我這些動物在接觸了那些工人之後，突然暴斃而亡，之後奇怪的綠色蒸氣從他們的屍體裡上慢慢散發出來。隨後，三個伐木工人就病倒在床，精神狀態也迅速變得惡化起來。看來這次我來到這片區域進行調查是十分有必要的。
+
+tagLoreObj_InquisitorCreedA03Name=審判官克理德的日記 - 第三章
+tagLoreObj_InquisitorCreedA03codexTitle=審判官克理德 - 第三章
+tagLoreObj_InquisitorCreedA03Text=在穿過了被稱為屍妖泥沼的一片陰沉區域過後，我終於到達了伯爾維治。多年來，人們悄悄地講述關於在屍妖泥沼裡發生的一些超自然事件，事實上，單單是聽到這片沼澤的名字，已經足夠讓人心裡發毛了。說實話我並不太相信這些人，但最近發生的一系列事情難道不是在某種程度上證實了這些老掉牙的故事？{^n}{^n}抵達目的地之後讓我感到驚訝的是，住在伯爾維治的惡魔十字典獄長似乎預料到了我的到來。當我剛踏進鎮上，一個男僕就向我問好並堅持要我接受典獄長克里格的邀請去他的莊園歇息。這有點不同尋常，但我還是接受了邀請，因為假如想要調查一下克里格莊園，這可能是最好的方式了。{^n}{^n}由於克里格邀請我今天就要去他那裡吃晚餐，使得我這次對伯爾維治的訪問變得十分短暫。這似乎證明真相正在慢慢浮出水面。
+
+tagLoreObj_InquisitorCreedA04Name=審判官克理德的日記 - 第四章
+tagLoreObj_InquisitorCreedA04codexTitle=審判官克理德 - 第四章
+tagLoreObj_InquisitorCreedA04Text=我在典獄長克里格的莊園裡做客已經有一周時間了，在這期間我每天都在暗暗擔憂著某種可怕的事情會降臨這兒。每天我都出門，在伯爾維治附近調查另外一件不同尋常的罪行和一些不詳的流言，在這些流言中一部分只不過是些嚼舌頭的謠言，或者是某本小說裡的天方夜譚，但是另外的一些調查情況也讓我的方向變得愈漸模糊。我認為這裡存在一種新的模式，不過我暫時還無法把這些片段拼接到一起。{^n}{^n}這段時間內我做了許多無關緊要的事情，為自己提供一些借口，以便能夠在伯爾維治待的更長久一些。漸漸地，克里格成為了我調查的重點對象。儘管確信克里格正在參與某種神秘活動，同時還為自己披上了一層偽裝，我也無法找出能夠指控他進行不法行為的確切證據，這樣的證據意味著我們能夠對他實施正式的官方調查。{^n}{^n}莊園裡的很多區域對我都是沒有開放的。克里格和他的拜訪者們經常在樓上的一些房間進進出出，我沒有權限進入裡面。更奇怪的是，一天夜裡我醒來後聽到了類似馬車趕路的嘎吱作響聲，我推開窗子朝下面的村莊尋找聲音的來源卻什麼也沒有發現。這些聲音是從哪裡來的？貓和老鼠的遊戲仍在繼續，不過迄今為止，還不知道誰是貓，誰是老鼠...
+
+tagLoreObj_InquisitorCreedA05Name=審判官克理德的日記 - 第五章
+tagLoreObj_InquisitorCreedA05codexTitle=審判官克理德 - 第五章
+tagLoreObj_InquisitorCreedA05Text=我敗給了克里格，他饒了我一命，把我關在了這莊園的地牢裡。{^n}{^n}意識到呆在這裡沒有辦法能夠繼續進行調查，我費盡力氣強行擠進了莊園裡原本被封閉的區域，然後發現自己正身處於一個十分可怖的環境裡。我本該明白那附在鎖上面的奇怪魔法證明我並非只是簡單的對付些兇惡的神秘學者。{^n}{^n}我穿過一個滿是腐爛屍體的房間，男人的，女人的都有，他們無一例外地都遭受了殘忍的酷刑或者可怕的實驗。在莊園的後方我找到一扇通往下層的門，進去以後我很快在這個極大的地牢裡迷了路。很快我就感覺到黑暗中有什麼東西在移動，他們很快靠近並包圍了我。我正要以死相搏的時候，克里格巨大的身軀在陰影中漸漸浮現，臉上毫無表情。他開口說話了，冷酷的語氣彷彿一切都很自然平常，邀請我參觀他的設施。儘管我很清楚這不是什麼好事，但這樣至少我不用去對抗眼前這些可怕的怪物了。
+
+tagLoreObj_InquisitorCreedA06Name=審判官克理德的日記 - 第六章
+tagLoreObj_InquisitorCreedA06codexTitle=審判官克理德 - 第六章
+tagLoreObj_InquisitorCreedA06Text=我在這個陰冷的牢房已經度過了一天一夜，內心充滿不安和恐懼。克里格讓我親眼目睹他們儲存屍體的過程，他稱之為榮耀黎明。{^n}{^n}我在克里格身上隱約產生了一個想法，就是加入他或者受他擺佈。從他的言行中推斷這些僅僅是他的計劃中一個極小的部分，背後一定還有更大的陰謀。我猜想其他的許多處於關鍵職務的人也受到了某種東西的控制，就像現在的克里格一樣。最初面對克里格時，我對自己十分自信，甚至有些傲慢，但我遠遠低估了我們將要面對的威脅與力量。{^n}{^n}幸運的是，克里格同樣也有這種傲慢的心態，他輕視了囚犯的智慧。他讓我選擇拋棄人性發誓對他效忠，或者成為那些封存屍體中的一員。克里格把我一個人留下考慮他給出的選擇，但這件牢房雖然被魔法封印，卻無法禁錮我的愛好，我並不打算呆在這兒直到克里格來聽我的答覆。
+
+tagLoreChest_InquisitorCreed_HomesteadName=審判官克理德的講台
+tagLoreObj_InquisitorCreedA07Name=審判官克理德的日記 - 第七章
+tagLoreObj_InquisitorCreedA07codexTitle=審判官克理德 - 第七章
+tagLoreObj_InquisitorCreedA07Text=離我上一次寫日記已經過去很久。在我逃離克里格的實驗室的過程中，我與時間和失落賽跑，穿越黑暗和火焰，並目睹了我曾熟悉的世界的崩塌。{^n}{^n}正如我假定的首都中極有可能有關鍵人物已經被那種如今被稱為虛靈的生物所佔據，我推斷只有在首都內部的支持下我們才有希望挫敗虛靈。在真相被揭開之前，首都外部發生的一切行動都將被視為政治叛亂並且被帝國自身的軍隊所鎮壓。因此，我決定破釜沉舟，火速趕往伊露蘭帝國的核心，並且盡力將自己隱藏起來。{^n}{^n}剛來到這裡時，我謹慎地前行，在靠近西門的一個骯髒的旅館定了一個房間以圖掩飾我的到來。起初我找出曾經的老熟人，假如我察覺到他們在性格和行為舉止上有所變化，就有可能揭露出虛靈的佔據者。經過幾次尷尬的相聚，我痛苦地發現近幾年作為審判官到處東奔西走執行公務的生活使得我和舊友們失去了聯繫並且無法分辨出他們的改變是由於被虛靈佔據還是由於時間的流逝和褪色的記憶。最後孤注一擲的辦法是回到光明會的根據地匯報並看看會由此引出什麼。我並沒有在那裡達到這個目標。{^n}{^n}等到陽光漸淡，下方街道上的人群散去，我起身離開時卻相當震驚地發現一個模糊的人影不知道用什麼方法靜悄悄地闖入了我的房間，避開了所有防止入侵的守衛。這就是我開始和第一刃合作的原因。
+
+tagLoreObj_InquisitorCreedA08Name=審判官克理德的日記 - 第八章 
+tagLoreObj_InquisitorCreedA08codexTitle=審判官克理德 - 第八章
+tagLoreObj_InquisitorCreedA08Text=眾所周知，任何大規模煽動不滿或者對國王的統治構成實際威脅的人都有可能被第一刃造訪。我未曾攪入這樣的紛爭，但是我經常幻想，如果發生這樣的衝突，我就可發掀起一場令人尊敬的戰役。然而我始終沒有得到機會。不知不覺地，在我意識到發生了什麼之前我就被繳械了。如果他想要殺死我，我甚至無法看到死亡鐮刀的落下。然而，他似乎對問話更有興趣，並且他轉而告訴了我一段關於他自己的事件，他的敘述證實了我最害怕發生的事。{^n}{^n}第一刃透露，就在幾天前，他被迫將刀口指向了國王，而發出這個指令的人正是國王自己。儘管有著無數的護衛保護著國王，其中有世俗的衛士也有奧術師，但是他依然被虛靈控制了。依靠心靈的力量，他奪取了足夠長的控制身體的時間來召喚第一刃，發出了處決自己的指令並且要求這位殺手保護他的兒子(年輕的王子殿下)，使其重新收回王位。{^n}{^n}隨著國王發出他的最後一條指令，他的意識在虛靈的控制下再一次滑落，隨後發生了一場殊死的戰鬥。第一刃說他相信國王和他體內附身的虛靈一併被他殺死了，但是考慮到他對這種生物缺乏經驗認識，無法給出肯定的答案。然後他說他已經將王子秘密的帶走並且將他隱蔽起來但是拒絕透露更多的細節。第一刃說他意圖辭去他的帝國軍銜並且改名為奧格瑞姆，我很好奇這個名字是不是刻意參照了神話中的人名。{^n}{^n}最後一個令人煩惱的細節是並沒有關於國王死亡的詔書公佈。這不僅證明虛靈們對於宮廷有著足夠的控制力來隱藏國王的死訊，但是考慮到他們不可能希望長時間隱藏國王的缺席，因此這從另一方面也說明虛靈的計劃即將進入下一階段。{^n}{^n}我和阿爾格瑞姆一起制訂戰略直到深夜，詳細制訂了一個對抗虛靈的計劃，但是最終我們一致認為我們不可能及時地挫敗虛靈門的陰謀。我們最後唯一的方式就是聚集所有我們能夠聚集的人力和資源，轉入地下活動並經受住即將到來的風暴，然後找到一條反抗入侵者的道路。{^n}{^n}我們一致認為黑色軍團將最有希望成為我們最堅實的盟友。作為一個由罪犯、負債人和政見異議者服役的徵召軍團，在能夠通過控制軍隊最高統帥來間接控制他們的前提下，虛靈門似乎不太可能有什麼原因會去滲透他們。那麼下一步就是對他們展開聯繫。
+
+tagLoreObject_PrisonNoteName=粗糙潦草的筆記
+tagLoreObject_PrisonNotecodexTitle=粗糙潦草的筆記
+tagLoreObject_PrisonNoteText=如今，我不是一個正派的人而且我的確不擅長寫作，但是關於這個鬼地方的真實面目的文字需要被傳達出去。這個監獄，不像我曾經進去過的任何一個，我能夠在名單中看到兩個我的名字。犯人從不會在這裡久待，並且有些他們拉進來的年輕人並不是罪犯，我看得出來。當我看到一個犯人時，他的眼睛能夠告訴我他曾經做錯了事。而那些男孩呢？我在他們眼裡只看到了害怕。{^n}{^n}我曾見過典獄長兩三次，他是個穿著黑色盔甲的高大男人。如果你是一個明事理的人，你一定會認為他應該站在這些欄杆的裡面而不是外面。每一天，他和他的侍從們將犯人成打地從監獄中帶到院子中的那個小屋裡。而這些犯人再也沒有出來。然後，一輛四輪馬車滾滾而入這間小屋，並且總是滿載而出。{^n}{^n}他們不再拉我們離開牢房了，但是我看得出來已經沒有多少人留下了。整個大廳靜悄悄的。我是我們這一排最後一個人。其他人？他們在昨天的分批處理中被帶走了、。我並不是在哀告憐憫，我知道我的生命將終結於那間小屋，但是這篇日誌可能會是我可悲的生命中一件好事吧。。。
+
+tagLoreObj_LowerCrossingA01Name=港務長的日誌 - 下游渡口
+tagLoreObj_LowerCrossingA01codexTitle=港務長的日誌
+tagLoreObj_LowerCrossingA01Text=今年的秋霧出現得很早，但是交通仍然異乎尋常地擁堵。有著源源不斷的小艇從馬爾茅斯下來以及從其他小鎮駛向東北。有些小艇僅僅是漂浮在海上，船上裝著的貨物看起來是他們的全部家當。這些旅行者，有時候是整個家庭，帶來了許多關於戰爭和非自然死亡的奇怪的故事。成串的廢話惹惱了溫和的市民，同樣也使得碼頭嘈雜不堪，雖然我不能抱怨出來。大多數旅行者是向西行的，試圖盡可能地遠離這裡。{^n}{^n}碼頭裡的年輕人也開始失去勇氣了。有些年輕人之間開始談論關於啟程向西的事宜，但是我相信這些都是很快就揭過的胡言亂語。年輕人總是容易心血來潮。
+
+tagLoreObj_BurrwitchB01Name=港務長的日誌 - 伯爾維治
+tagLoreObj_BurrwitchB01codexTitle=港務長的日誌
+tagLoreObj_BurrwitchB01Text=又一艘小艇到站了，裡面裝滿了套著頭罩的囚犯，約莫有幾十個。和往常一樣，一輛四輪馬車在等待著他們，但是據我所知，馬車不會把他們帶出很遠。碼頭上裝貨的一個男孩剛剛拜訪完伯爾維治的新醫生回來，他說看到這輛馬車停在典獄長的宅邸外面。小伙子詢問了這些囚犯的訊息，其中一個操作者告訴他這是"康復"。我並不清楚這意味著什麼。{^n}{^n}這些禮拜以來已經超過一打的這樣的運送囚犯的船到站了。我實在無法想像他們如何能在那個宅邸塞下那麼多人。我並不關心那個宅邸有多大，克里格肯定不會將一群沒有價值的小偷囚犯保管在他的屋簷下。一些怪異的事情正在那座宅邸裡發生著，而我的疑惑沒有得到正確的解答。也許我應該寫信到馬爾茅斯，邀請其中一位審判官來調查這裡的怪事。這並不是說我希望有一位審判官在這裡閒逛。他們總是讓人感到不安。
+
+tagLoreObj_LowerCrossingA02Name=弗朗西斯的筆記
+tagLoreObj_LowerCrossingA02codexTitle=弗朗西斯的筆記
+tagLoreObj_LowerCrossingA02Text=我被困在這兒了... 我終於意識到了，我會死在這間房子裡。瑪格利特，恐怕你已經死了，所以我不久之後和你團聚也還算不壞。如果奇跡發生的話，如果你還活著回到這兒找到這頁筆記的話，我想要你明白我不生你的氣。我從不後悔我們在一起，只是我後悔當時發了脾氣，對你說了不該說的話。{^n}{^n}我希望你不要因為我要做的事覺得我是個懦夫。他們已經進到了屋子裡，我把房門擋住了但他們衝進來也只是時間問題。我能做的只是選擇如何面對死亡而已，我寧可作為人去死也不要成那些恐怖的東西或是被活生生地啃食。我會一直愛著你的...{^n}{^n}弗朗西斯
+
+tagLoreObj_WightmireA01Name=給屍妖泥沼血之兄弟會的信函
+tagLoreObj_WightmireA01codexTitle=血之兄弟會的信函
+tagLoreObj_WightmireA01Text=是時候向盤踞在屍妖泥沼的虛靈發起進攻了。儘管現在我們在伯爾維治上方的山丘集結了力量準備進攻這座村寨。但是，在這之前，我們必須首先確保屍妖泥沼的安全，確保不會有敵人出現在我們後方。{^n}{^n}雖然你們強大而且忠誠，並做好了為冥神犧牲的準備，但是我認為你們現在還未擁有足夠的血誓來擊敗虛靈們。我們最近非常成功地從虛空中召喚出了更多冥神的強力僕從。只需要一個冥煞先鋒就能夠消滅屍妖泥沼所有的虛靈，甚至可以攻佔魔鬼十字，使之成為我們在這個區域的大本營。{^n}{^n}為了生成一個冥煞先鋒，你需要獲取至少三個人類的血肉。你們可以用你們認為合適的任何方式來獲得犧牲品：可以是路邊或者流浪者營地裡的難民，也可以是你們血誓者自身。在完成任務後請通知我你們的成功。{^n}{^n}大祭司阿爾多·崔格
+
+tagLoreObj_WightmireA02Name=彌爾頓·哈特的筆記
+tagLoreObj_WightmireA02codexTitle=彌爾頓·哈特的筆記
+tagLoreObj_WightmireA02Text=我恐怕要違背諾言了，我還不想放棄希望，但是外面的情況看起來不太好。當波旁帶著我妹妹以及其他團隊成員開闢前往惡魔十字的道路時，我自願前去引開這些腐朽的行屍們的注意力，並且我很幸運地活過了第一個夜晚。在他們離開前，我注視著波旁的雙眼，讓他保證我妹妹的安全。他將手臂搭在我的肩膀上，用他那平靜又令人心安的嗓音對我說，他會拼盡全力保護隊伍，但是我也必須承諾他一些事：我也必須拼盡全力活著離開這裡。{^n}{^n}於是我為自己我做了最好的準備。我成功地轉移了行屍們的方向，但是現在我被他們完全包圍了。我曾經躲藏在一片連在一起的破敗的棚戶裡，當發現這些死屍靠近時就改變位置。雖然我無法找到一條前進之路，但是成功躲到了太陽落山。行屍們通常看起來是很愚蠢的，但是我想他們在昨晚發現了這片河堤，並利用海水沖出了道路，這就像是有什麼東西在指導他們。{^n}{^n}我還沒有完成諾言，也不想死在這間腐敗的棚屋裡。當不得不放手一搏時，我會拋棄這些束縛出去奮力一搏。當最壞的設想發生了，而你在我冰冷的屍體上找到這篇日誌，很好，請讓我妹妹西比爾知道發生了什麼並且告訴她要堅強地活下去。我只能希望她可以及時趕到惡魔十字。
+
+tagLoreObj_WightmireA03Name=被塵土覆蓋的筆記
+tagLoreObj_WightmireA03codexTitle=被塵土覆蓋的筆記
+tagLoreObj_WightmireA03Text=不久前的一個夜晚，我們發現一群白癡流浪者在我們的藏身處周圍遊蕩。他們手無寸鐵，通常都是這樣。理所當然的，當我們襲擊他們時，他們試圖逃跑，但是這毫無意義。於是現在我們多了一群奴隸來挖掘礦井。然而我們不能以煤礦為食，所以我們的食物補給開始慢慢耗盡。流浪者的隊伍裡也幾乎沒有多少殘羹冷炙。{^n}{^n}隨著伯爾維治大橋的毀壞，我們被困在了這片泥沼中。我開始疑惑當初沒有跟著克隆利幫向西行是不是一個錯誤。雖然在荒野之中不像在惡魔十字那邊可以輕易獲得許多食物，但是至少他們人多勢眾，很可能捕到數量可觀的野豬來養活整個隊伍。離開這裡？我們除了蛇人和死亡什麼都得不到。
+
+tagLoreObj_WardensJournalA01Name=典獄長克里格的日記
+tagLoreObj_WardensJournalA01codexTitle=典獄長克里格的日記
+tagLoreObj_WardensJournalA01Text=我已經成功佔據了我的任務目標，當地的典獄長。我在他的臥室接近他並尋找佔據的突破口。我設想會遭到恐懼和懷疑，然而這些人類輕易地接受了這個在他們心目中顯然對他們有利的協議。克里格不是一個擁有特別強烈慾望的人但是他是個十分執著的人，並且一直持續不斷的刮擦著我的意識，然而我還是控制住了他。{^n}{^n}克里格的職位是其他人類的監管員，這將極大地推動我們的工作。在他龐大的住宅下擁有大量的地窖，我認為這些地窖可以被為我們所用，將其改造成一個地下運輸場所來隱藏我們的活動以及人類肉體的運輸。為了我們的榮耀黎明還有大量的工作要做，但是我非常喜歡這具肉體，而且它有著許多優勢。
+
+tagLoreObj_WardensLabA01Name=蓋思蘭的筆記 - 第一章
+tagLoreObj_WardensLabA01codexTitle=蓋思蘭的筆記 - 第一章
+tagLoreObj_WardensLabA01Text=我們並不清楚為什麼這些虛靈會對肉體儲存這麼感興趣。一位同事設想他們可能是要用這些人類屍體作為以後帶來更多他們的同類到我們王國時用來佔據的容器。{^n}{^n}裝載著屍體的馬車夜以繼日地不斷湧入。屍體的絕對數量已經多到令人吃驚，我開始懷疑他們並不是像他們所說的一樣僅僅是處決罪犯。
+
+tagLoreObj_WardensLabA02Name=蓋思蘭的筆記 - 第二章
+tagLoreObj_WardensLabA02codexTitle=蓋思蘭的筆記 - 第二章
+tagLoreObj_WardensLabA02Text=今天我們開始了試驗的第二階段，但是結果並不是如我所預期的那樣。我們的儲存的屍體在幾個月至多幾年內從表面腐壞。我們的虛靈監工看起來很滿意，他或者說是它突然將手放在其中一具屍體上並且釋放出一股虛無能量閃光。然後令人觸目驚心的事情發生了，這些屍體就好像再次活過來一般。{^n}{^n}然而更讓我感到苦惱的是這些屍體顯然不適合作為虛靈的宿主，因為據我所知虛靈更喜歡活的宿主。他們搬運進這裡的龐大數量的屍體表明了一個更糟糕的現實：這是一支軍隊。
+
+tagLoreObj_WardensLabA03Name=蓋思蘭的筆記 - 終章
+tagLoreObj_WardensLabA03codexTitle=蓋思蘭的筆記 - 終章
+tagLoreObj_WardensLabA03Text=這將是我最後一次記筆記了，因為我打算結束自己的生命。我無法再忍受自己執行這些令人憎惡的實驗了。我之前的行為可能已經算是泯滅了人性。雖然我曾長期避開我在研究院的同事並認為虛靈們可以給我提供更好的待遇，但是現在我覺得我不能再成為它們的一員了。我害怕如果他們找到了我的身體，他們會將我的屍體用作他們的實驗，因此我必須小心謹慎。將我復生為那些行屍的一員。。。我無法容忍這件事情的發生。
+
+tagLoreObj_WardensLabB01Name=贊布蘭特的筆記
+tagLoreObj_WardensLabB01codexTitle=贊布蘭特的筆記
+tagLoreObj_WardensLabB01Text=今天我的同事蓋思蘭結束了自己的生命-真是個目光短淺的傻瓜。他永遠不能看到這個獨一無二的藍圖和計劃的實現了。蓋思蘭無法看穿跟著虛靈工作的光輝前景以及我們在其中扮演的最早的人類合作者的榮耀角色。這不是為了個人私利。我們將提高人性！這確實將捨棄一些人類的生命，但是進步總是需要犧牲的。那麼當榮耀黎明到來，虛靈們將自身展現在全世介面前時，死去一些骯髒的平民又算的了生命呢。在虛靈眼中我們人類只是底層的原始生物，就像我們眼中的蛇人一樣。那些像我們一樣已經或者即將和一個虛靈綁定在一起的人，將會塑造出一個全新的高級人類。
+
+tagLoreObj_WardensLabC01Name=給典獄長克里格的信
+tagLoreObj_WardensLabC01codexTitle=給典獄長克里格的信
+tagLoreObj_WardensLabC01Text=典獄長克里格，{^n}{^n}請原諒我用這種原始的交流方式。我正走在向北的路上，而我的思維似乎無法連接到你。在未來所有書信交流中我們都將使用宿主的姓名以及人類的語音形式。{^n}{^n}我寫這封信是因為最近接到許多令人困惑的有關你行為的報告，這些都需要你的解釋。你是真的一直在監禁並折磨人類嗎？你這麼做是為了什麼？看起來你的宿主的嗜好正在影響你自己的行為。你必須將身體完全掌控並且停止這些多餘的活動。你的職責是加快我們的屍體收集實驗。請將你的行為約束在任務的各項參數內，否則你會被召回。
+
+tagLoreObj_VilagerNoteB01Name=阿利斯特的日記
+tagLoreObj_VilagerNoteB01codexTitle=阿利斯特的日記
+tagLoreObj_VillagerNoteB01Text=第一部分{^n}媽媽讓我在這本東西上寫作，於是我覺得現在和往常一樣，又要被禁足了！於是我拉了一下阿比蓋爾的頭髮。是她先來惹我的！為什麼她不需要坐在自己的房間裡寫她那愚蠢的日記？{^n}{^n}明天我要在沼澤找到一隻最大的青蛙放在我妹妹的房間裡。我們等著看她的反應吧。{^n}{^n}第二條{^n}媽媽應該已經讀了我的日記了，於是我現在又被禁足了。那只青蛙在我妹妹看到它之前就跳走了！為什麼爸爸還沒回家呢？他本應該在今天帶我去伯爾維治的，但是他仍然沒有做完生意回來。{^n}{^n}阿利斯特的日記-第三條{^n}媽媽說再也不允許我跑出去玩了。帕金斯說有怪物在沼澤裡遊蕩，但是媽媽說根本沒有這種事而且因為我又在談論謠言而大罵著用勺子抽了我一頓。我多麼希望爸爸已經到家了。我想要去伯爾維治！{^n}{^n}阿利斯特的日記-第四條{^n}我好害怕。我真的真的好害怕。媽媽把我和妹妹鎖在房間裡然後出去查看屋子後面為什麼傳來奇怪的聲音。媽媽再也沒有回來，而現在我在屋裡也聽到了那種聲音。爸爸，你快回來把這些聲音都趕走。我再也不關心能不能去伯爾維治了。爸爸，你快回來啊！
+
+TagLoreObj_VillagerNoteH01Name=艾比的筆記
+TagLoreObj_VillagerNoteH01codexTitle=艾比的筆記
+TagLoreObj_VillagerNoteH01Text=我周圍的城鎮已經支離破碎，到處都是那種鬼東西，只有上帝知道他們是怎樣復生的。整個伯爾維治已經有一半葬身火海，而且火勢還在不斷蔓延。試圖熄滅火勢是毫無意義的，於是我打算收拾一些必需品就立馬離開了。我聽到北方的復生死屍已經氾濫成災了，因此我決定往南走穿越屍妖泥沼去試試運氣。{^n}{^n}賀拉斯，如果你正在讀這篇筆記，請記住我將在惡魔十字紮營。我想已經沒有可以讓我快樂生活的最後的樂土了，但是這所監獄聽起來比在野外和那些該死的死屍在一起安全得多。來惡魔十字見我，如果你還活著的話。
+
+TagLoreObj_VillagerNoteJ01Name=諾拉的筆記
+TagLoreObj_VillagerNoteJ01codexTitle=諾拉的筆記
+TagLoreObj_VillagerNoteJ01Text=這個月已經來了三波土匪了。你可能會認為最近發生了如此多災難後人們會變得更加樂於助人了。然而答案是否定的，看起來世間依然充滿了在如此惡劣的環境下依然要佔人便宜的渣滓。{^n}{^n}如果你是這些骯髒傢伙中的一份子，跟著我然後去死吧！我的皮帶上還有足夠多的插槽。如果你也只是一個在廢墟中亂逛的迷失的靈魂，不要指望在這裡能交到朋友。外邊的傢伙們極有可能會為了獲得一些子彈而在給你指出安全方向的時候突然切斷你的喉嚨。如果遇到你，我會毫不猶豫地射出第一槍，而你也應該這樣。
+
+TagLoreObj_Kymon01Name=凱蒙的聖經：第一部分
+TagLoreObj_Kymon01codexTitle=凱蒙 - 第一部分
+TagLoreObj_Kymon01Text=他們嘲笑我們並把我們趕了出來，還要稱呼我們為異教徒和瘋子，他們覺得我們的偉大預言和宗旨是荒謬可笑的。{^n}{^n}他們將會遭受災難！神聖憤怒將會在世界重塑時降臨在這些凡人身上！我們的預言將會實現，我再也不會聽到嘲笑聲，取而代之的是死一般的沉默！{^n}{^n}末日將會降臨在那些惡劣、無知又懶惰的凡人身上。只有少數我們這些被選中的人，在身體和靈魂都經受過訓練和準備後才能承受住世界的清洗，並且在死亡和衰退中存活並成長起來。{^n}{^n}看看你的前後左右，你能看到兄弟姐妹們神聖的面容，神聖的使命將你們聯結在一起。我們被賦予的神聖職責是消滅所有腐化的殘骸，然後在新生的純淨土地上繁衍我們的子孫，只有這樣新的黎明才能升起！讓我們互相給予力量，並從知識中獲得力量來堅定地完成我們神聖的使命吧。{^n}{^n}我們已經為了這一刻準備了很久，現在我們躲躲藏藏的日子是時候結束了。我們將會向前衝鋒，大膽地向北行進以完成我們的使命。我們要讓那些非信徒們、腐屍們、惡魔們在神聖憤怒的打擊下顫抖不已！現在，召集我的孩子們，集合所有對我們的聖戰有幫助的物資從這個簡陋的避難所向著我們的神聖使命開始進軍！
+
+TagLoreObj_OldArkovia_History01Name=安克維亞的末日
+TagLoreObj_OldArkovia_History01codexTitle=安克維亞的末日
+TagLoreObj_OldArkovia_History01Text=在我寫著這篇日誌之時，港口上升起了黑暗的煙柱，長久以來滋生在那些不安份的民眾中的瘋狂行為終於失去了控制。一艘燃燒的商船被它的船員們遺棄並且將它的船錨跑向周圍的漁船們，木屑飛濺，火焰飛快地在帆船間蔓延開來。我聽到不遠處的庭院傳來喊殺和鐵器碰撞的聲音，一個女子不斷發出淒厲的慘叫，話語已經無法辨認。{^n}{^n}長久以來，我們害怕野蠻的部落會帶來我們的末日，但是最後，我們自己毀滅了自己；僅僅只是因為巫師們的一些於誘人的承諾。{^n}{^n}由我們曾經的政治寡頭領導的偉大儀式已經過去將近兩個月了；這個儀式舉辦的目的是帶來不朽和確保安克維亞的永恆輝煌。抱著懷疑的態度，我將它看作是一個騙局，最多是一個政治表演，但是這個儀式看起來獲得了悲劇性的成功。{^n}{^n}這個儀式是一個叫尤若布魯克的死靈巫師舉辦的，他原先一直被囚禁在苦痛階梯之中，傳言說他不會衰老並且任何手段都不能殺死他。三大宏偉宮殿中的領導者，包括我的贊助者——勞多斯·瓦格拉，為了強迫這個尤若布魯克洩露他不朽的秘密在塔樓中進行了一次計劃不周的旅程。在這裡，不朽的生命反而幫了尤若布魯克的倒忙，他遭受了慘無人道的折磨，所有人類能夠設計出的針對不死者的新型的酷刑都被使用在他身上。最終，尤若布魯克同意利用這個儀式來指導他們，而這些政治寡頭們被通向不朽的慾望蒙蔽了雙眼，他們的渴望太過強烈以至於完全沒有考慮可能的陷阱而全盤接受了這個在他們眼中完全真實的不朽儀式。{^n}{^n}顯而易見地安克維亞的人們確實獲得了某種形式上的不朽，但是這是一種殘酷又扭曲的實現方式。我們的身體依然要接受時間的洗禮，最終失去活力並逐漸腐朽，同時我們的靈魂依然被困在裡面，永遠地被束縛於這塊土地上。{^n}{^n}我曾經在儀式中親眼目睹一些瀕臨死亡的老弱病殘在死去後仍然和我們生活在一起。他們的身體以肉眼可見的速度腐朽，就像是一句屍體，然而他們彷彿仍然活著，能夠移動和交談；雖然他們和活著的人十分相似，但是他們並不是真的活著。{^n}{^n}所有肉身已經死亡的人們變得缺少活力，失去思考的動力。他們甚至變得難以記住生命中最關心的東西。眼睜睜的看著家人以及愛人的肉身死去卻無能為力的感覺是讓人煩惱的。{^n}{^n}更令人恐懼的是關於在儀式中出生的嬰兒的傳言。他們說那是一些令人憎惡的東西，他們有著醜陋畸形的外形，並且長出了黑暗恐怖的翅膀。據說有人看到許多新生兒的父親們手上抱著東西在破碎丘陵艱苦跋涉去將他們的不正常的後代遺棄到丘陵上。{^n}{^n}戰鬥和哭泣的喧鬧依然在下面繼續。我想這場戰鬥還需要很長的時間才會結束，因為這些參戰者們無法被任何尋常的手段殺死。我會一直和我的書本在一起並且一直寫作下去。。。可能會直到永遠。。。{^n}{^n}安克維亞作家，西奧多克斯·瓦格拉
+
+tagLoreObj_FloodedPassageRuins01Name=羅德拉西斯的著作 - 第一章
+tagLoreObj_FloodedPassageRuins01codexTitle=羅德拉西斯 - 第一章
+tagLoreObj_FloodedPassageRuins01Text=世界末日就要降臨到我們身邊！榮耀的安克維亞，西方的燈塔，正在從內部瓦解。但是不要恐懼，兄弟姐妹們，因為我們是伊什塔克的選中者。{^n}{^n}在這裡，對著我們祖先的聖地，我們必將在傲慢的寡頭們造成的末日廢墟中存活下去。在這裡，我們必將從不朽的災難中逃生，然後重返地面，開創人類的第二黎明。{^n}{^n}當我封上了我們的寺廟的入口時，我的心情是沉重的。也許伊什塔克處於這些牆面前時對於這些糟糕的靈魂也有著憐憫.他們將不會在這裡找到慰藉。
+
+tagLoreObj_FloodedPassageRuins02Name=羅德拉西斯的著作 - 第二章
+tagLoreObj_FloodedPassageRuins02codexTitle=羅德拉西斯 - 第二章
+tagLoreObj_FloodedPassageRuins02Text=伊什塔克的祝福已經在我們身上失效。這些病房沒有保護住我們。對安克維亞的詛咒已經滲透到這裡。{^n}{^n}我們正在死去，然而我們還不能死。我的兄弟姐妹在不斷增長的瘋狂中互相殘殺，只有再一次發動大清洗以更新我們的族群。{^n}{^n}眾神已經拋棄我們，不會成為我們的救世主。這裡將會成為我們的墳墓...
+
+tagLoreObj_StepsOfTorment01Name=扎爾澤蘭的著作
+tagLoreObj_StepsOfTorment01codexTitle=扎爾澤蘭的著作
+tagLoreObj_StepsOfTorment01Text=那個他們叫做尤若布魯克的人受到了眾神的折磨。主劊子手切割著他的肉體，但是傷口拒絕流血。他的四肢生長了回來；他的皮膚無視了火焰。{^n}{^n}我相信這次襲擊是讓我落進那個邪惡的地方，去處理那些異教徒。我們將看到他會對神界聖火做出什麼反應。
+
+tagLoreObj_BozemanFollyName=波茲曼的瘋言瘋語
+tagLoreObj_BozemanFollycodexTitle=波茲曼的瘋言瘋語
+tagLoreObject_BozemanFollyText=他們都說我瘋了，把車隊帶到這條路的深處。唯一瘋狂的地方也就是賄賂了那些控制著走私者通道的驕傲自大的混蛋。可能還不如支付帝國的關稅！{^n}{^n}我已經從一個可靠的來源得知了山脈深淵的危險已經停息的消息，並且這個出口將會讓我們更靠近家園，遠離那些強盜土匪出沒的地方。{^n}{^n}當我回到伯爾維治，在沒過我脖子的金幣裡游泳時，他們都會看到看到的，他們都會看到我波茲曼是正確的。
+
+#Random Burrwitch Notes 隨機伯爾維治日誌
+
+tagLoreObj_BookA01Name=冥煞異教 - 第一頁
+tagLoreObj_BookA01codexTitle=冥煞異教 - 第一頁
+tagLoreObj_BookA01Text=恐懼，我的兄弟。不要懼怕冥神，因為這是我們的罪的先兆。不要提及它的主人的名字，因為這是惡意和邪惡意圖的體現。要憎惡異端，因為他的話對信眾的耳朵是有毒的。正如邪惡的靈魂必須清除，活著的異端必須清除。
+
+tagLoreObj_BookA02Name=冥煞異教 - 第二頁
+tagLoreObj_BookA02codexTitle=冥煞異教 - 第二頁
+tagLoreObj_BookA02Text=鮮血，我的兄弟。血液是精華，因為它給予我們生命。不要飲用惡魔的血液，因為它是腐化的源頭。飲用這種血的人將會被永遠詛咒。要憎惡冥煞的天性，以免它的觸摸污染你的靈魂。血液的純潔預示著靈魂的純潔。
+
+tagLoreObj_BookA03Name=冥煞異教 - 第三頁
+tagLoreObj_BookA03codexTitle=冥煞異教 - 第三頁
+tagLoreObj_BookA03Text=信仰，我的兄弟。讓你的信仰守護你，因為它之於冥煞正如鹽之於化膿的傷口。保護你的信仰，因為它使你明確。要憎惡異教徒的文章，因為他的文章充斥著謊言和欺騙。堅定的信徒將會作為英雄被傳頌，動搖的信徒將被永遠遺忘.
+
+tagLoreObj_BookA04Name=冥煞異教 - 第四頁
+tagLoreObj_BookA04codexTitle=冥煞異教 - 第四頁
+tagLoreObj_BookA04Text=審判，我的兄弟。審判將會迅速且無情，因為它對信仰，血液，恐懼是溫和的。審判將會降臨到異教徒身上，不寬恕也不溫和。那些拿起武器抵抗冥煞的人將會成為神聖報償的熾烈復仇。那些奉冥煞為神的人將會嘗到正義之火的味道。審判終將降臨。
+
+tagLoreObj_CriminalA01Name=罪行記錄 - 第一頁
+tagLoreObj_CriminalA01codexTitle=罪行記錄 - 第一頁
+tagLoreObj_CriminalA01Text=利安德 "黑水"格林{^n}{^n}因敲詐勒索和謀殺而被通緝的退伍軍人。利安德因為一場嚴重的居民事故而不光彩地退出了拆遷部門。利安德至少兩次逃避了因使用未經許可的爆炸裝置被判處的監禁。{^n}{^n}目擊消息或死亡證明請提交到伯爾維治監獄的典獄長克里格。提供一份1000皇家克朗的獎勵給活捉並移交利安德的人。
+
+tagLoreObj_CriminalA02Name=罪行記錄 - 第二頁
+tagLoreObj_CriminalA02codexTitle=罪行記錄 - 第二頁
+tagLoreObj_CriminalA02Text=血腥傑克{^n}{^n}不計後果的殺人犯和和邪神索拉爾的知名崇拜者。報告已經收到血腥傑克的簽名謀殺，喉嚨雕刻，左胸刻女巫符號等案件越來越接近伯爾維治。建議居民們避免獨自旅行，盡可能避開叢林小徑。{^n}{^n}目擊消息或死亡證明請提交到伯爾維治監獄的典獄長克里格。提供一份400皇家克朗的獎勵給活捉並移交血腥傑克的人。
+
+tagLoreObj_CriminalA03Name=罪行記錄 - 第三頁
+tagLoreObj_CriminalA03codexTitle=罪行記錄 - 第三頁
+tagLoreObj_CriminalA03Text=血咒 埃弗雷特{^n}{^n}一名異教徒和吸血者。已知的冥煞異教合作者及異教徒的供貨商。當面對法律，埃弗雷特在執法者面前製造了神秘可怕的暴行，然後逃走了。極其危險的人。建議未經訓練的人員不要去對付這些異端邪術。{^n}{^n}目擊消息或死亡證明請提交到伯爾維治監獄的典獄長克里格。提供一份1200皇家克朗的獎勵給活捉並移交血咒 埃弗雷特的人。
+
+tagLoreObj_BookC01Name=吉爾達姆秘學社 - 第一頁
+tagLoreObj_BookC01codexTitle=吉爾達姆秘學社 - 第一頁
+tagLoreObj_BookC01Text=想要理解虛化的流動，必須首先領會它固有的危險。奧術不是一件玩具，也不是一個能被濫用的工具。無法計數的年輕奧術師因為大意疏忽失去了他們的生命。完美操縱虛化需要在吉爾達姆秘學社，唯一被批准指導和研究奧術的官方機構的小心監督下數以年計的練習。不要疑惑這裡所演說的是否符合假想的巫師之神的教義，那是在未受教育者中常見的誤解，沒有神。這是奧術僅有的真實和科學。
+
+tagLoreObj_BookC02Name=吉爾達姆秘學社 - 第二頁
+tagLoreObj_BookC02codexTitle=吉爾達姆秘學社 - 第二頁
+tagLoreObj_BookC02Text=為了加強奧術師的智慧，無論活著的或是已死的，我們轉向麥文大師的工作，一位高產的來自我們榮耀帝國第三代的奧術師。麥文大師能夠扭曲虛化固有的毀滅性的流動隨她的意願形成一個圍繞她的防護罩。這項技術是一個一流的表現吉爾達姆秘學社如何持續地努力打破我們對虛靈的常識的例子，在奧術界創造了全新的思想學派。
+
+tagLoreObj_BookD01Name=蛇人的起源 - 第一頁
+tagLoreObj_BookD01codexTitle=蛇人的起源 - 第一頁
+tagLoreObj_BookD01Text=在我們偉大帝國的所有歷史中，沒有比創造出被我們稱作蛇人的邪惡生物更大的惡行了。一部分是人，一部分是巨蛇，蛇人被證明是源於秘術的威脅，並作為吉爾達姆秘學社形成與秘術修習的幕後驅使。{^n}{^n}蛇人的出現只由於一個人：奧斯瓦爾德·哈格特。依靠家族的財富與對研究的強烈興趣，奧斯瓦德渴望著在秘術領域留下他的印記。他沒有意識到的是他留下的遺產將會是整個奧術師領域的永久污點。
+
+tagLoreObj_BookD02Name=蛇人的起源 - 第二頁
+tagLoreObj_BookD02codexTitle=蛇人的起源 - 第二頁
+tagLoreObj_BookD02Text=奧斯瓦爾德·哈格特家族堅信虛化能量能為創造新生物提供幫助。奧斯瓦爾德開始動身去某個隱匿的地點進行令人髮指的實驗，並堅信自己能取代神靈。{^n}{^n}儘管對他的實驗沒有太多細節的瞭解，但結果非常清楚。他創造出了蛇人，滑行移動並有著像蛇一般的下肢，奧斯瓦爾德炫耀的對秘學社宣佈了他的發明。令人厭惡的人與帶著蛇尾的怪物，而它的嘴部則哪種都不像。它的眼中帶著人類的悲傷盯著你的後背，儘管它有遲鈍的思維，但在這蛇人的軀體內沒有人性的跡象顯露出來。{^n}{^n}那些醫師們為其對神靈及其領域的公然蔑視感到震驚。在簡短的審訊後，奧斯瓦爾德被判為危害公共社會罪並將在監獄中度過餘生。人們毀滅了實驗品並將其挫骨揚灰。隨著奧斯瓦爾德的入獄以及蛇人的死亡，所有人都認為噩夢結束了；但他們都錯了。
+
+tagLoreObj_BookD03Name=蛇人的起源 - 第三頁
+tagLoreObj_BookD03codexTitle=蛇人的起源 - 第三頁
+tagLoreObj_BookD03Text=當第一隻蛇人開始出現在名為屍妖泥沼的地方時，很顯然奧斯瓦爾德並不只創造了一隻蛇人。由於他的實驗室從未被發現，官方人員只能猜測它是一個新起源的物種。這只蛇人具有難以置信的攻擊性，輕易地掌控了當地的食物鏈並以極快的速度進行繁殖。{^n}{^n}隨著數量的倍增，蛇人們形成了一個層級制度，並由某種族群成員領導其他蛇人。並且，最驚人的是，報告稱蛇人中出現了薩滿式的跡象，表明他們與虛化能量有著緊密的聯繫，也或許是他們超乎尋常的源泉。{^n}{^n}事實證明所有消滅蛇人的努力都是白費的，人類僅僅是在一些新的隱藏巢穴和洞窟中來回。毫無疑問的是那個傲慢自大的傢伙的所作所為將影響一代又一代的人們。
+
+tagLoreObj_BookD04Name=哈格特的日誌 - 第一頁
+tagLoreObj_BookD04codexTitle=哈格特的日誌 - 第一頁
+tagLoreObj_BookD04Text=這是在我新實驗室的第一天。我必須得說，我要興奮的開始實驗了。我把鼻子貼到書裡的日子一去不復返了。研究書典直到極限的時代來臨了。最終，必須有人用自己的力量去開發新的從未被思考過的事業和創意。對於學者來說，在這個世界上留下自己的印記是多麼神聖的職責！{^n}{^n}我的妻子，海倫，以及我最親愛的女兒埃倫娜將會很快加入我們的新家。海倫開始擔心我們的女兒在實驗室長大是否合適，離其他孩子們非常遙遠，但我安撫了她。埃倫娜將會擁有任何想要得到的東西，如果她需要一名玩伴，去伯爾維治也只需要一艘船罷了。{^n}{^n}順帶一提，海倫和我將要做某件任何神秘工匠都不敢想像的事情：創造新的生物。虛化能量是一種奇妙的能源，並且至今很多人都在思索它對於有機物的作用。海倫在生物方面的專業學識將會在這項工作中綻放異彩。
+
+tagLoreObj_BookD05Name=哈格特的日誌 - 第二頁
+tagLoreObj_BookD05codexTitle=哈格特的日誌 - 第二頁
+tagLoreObj_BookD05Text=根據海倫的建議，我選擇骯髒的綠沼蝰蛇作為實驗基礎。它短暫的壽命以及快速的蛻皮形成了一個可塑性很強的課題。最初的實驗結果似乎很有希望。通過使用高度濃縮的虛化能量，我們能夠注入各種突變因子到樣本中去，創造新的肢體或引起巨大化。不幸的是，沒有任何實驗樣本能夠存活超過兩周，它們的大腦功能似乎無法處理好引入其中的肢體元素。{^n}{^n}在第二批實驗體中，我們塑形了用當地捕捉器抓來的格羅布爾。結果是...至少很稀奇。不過這並不是我想要的進展，我們似乎在向正確的方向前進。格羅布爾遲鈍的大腦能夠適應新的軀體，但那粗糙和令人生厭的畸形體格會讓我成為同行們的笑柄。不行，我必須看透並總結出合乎邏輯的結論。海倫可能會不高興，但下一步對我而言是非常清晰的...
+
+tagLoreObj_BookD06Name=哈格特的日誌 - 第三頁
+tagLoreObj_BookD06codexTitle=哈格特的日誌 - 第三頁
+tagLoreObj_BookD06Text=我讓海倫和埃倫娜去拜訪在首都的家人，而我則繼續獨自研究。我派出了一些令人厭惡的人去收集幫助我下個階段研究的「志願者」，不過是抓些些流浪者而已，不會有人失蹤的。他們要求的費用不少，但如果能有突破性進展的話我會付出任何代價的。{^n}{^n}樣本在午夜送過來了，像先前承諾的一樣送進了室內。我的合作者們拿了錢後一言不發的迅速離開了。坦白說，他們看起來有點不安。但我毫不擔心。他們都是笨蛋蠢貨加白癡，根本無法看透我工作的重要性。{^n}{^n}實驗樣本們由於清晨的來臨活躍起來，他們那受驚嚇的呼喊在實驗室中迴盪。我告訴他們說，他們成為了一項重要任務的人選，他們的生命最終會頗具意義和目標。這些渣渣應該感謝我，但他們卻不停的咒罵我是個瘋子和罪犯。我駁回了他們的控訴並回去工作。還有很多事情要完成。
+
+tagLoreObj_BookD07Name=哈格特的日誌 - 第四頁
+tagLoreObj_BookD07codexTitle=哈格特的日誌 - 第四頁
+tagLoreObj_BookD07Text=海倫和埃倫娜提前回來了。當埃倫娜在角落裡玩她的玩偶時，海倫下到實驗室並在一堆最近的實驗成果中找到了我。那在她臉上浮現的驚容是我永遠無法忘記的。我試著找些理由。我解釋說她所看見的只是一塊墊腳石，那些男女的死可以讓我們不必再在蛇和格羅布爾身上浪費力氣。但她並沒有動搖。{^n}{^n}我的妻子，我的搭檔，在這重要的時刻背叛了我。我的工作太重要了，不允許有任何的情緒化因素阻擋。我做了最明智的事情。讓歷史來評判我的行為... {^n}{^n}處理完讓我分神的不幸事件後，我回去看了看我的成果。人類和蛇的雜交顯得不穩定，而且很暴力。在我研究他們的身體機能時曾經好幾次被突然襲擊，但那些攻擊像是垂死掙扎。所有的實驗樣本都在那之後死了。解剖顯示了內部不完全的雜交內臟。伴有功能性障礙的消化系統，必然會死亡。但我想知道是不是可能這項技術太過古老而無法成功。如果我能重新來過，更加年輕的時候，或許我最終能找到一直追尋的答案...
+
+tagLoreObj_VillagerNoteE01Name=警告：格羅布爾的進攻日益猖獗
+tagLoreObj_VillagerNoteE01codexTitle=警告：格羅布爾的進攻
+tagLoreObj_VillagerNoteE01Text=伯爾維治地方政府近期收到了日漸增多的關於格羅布爾在此區域活動的報告。市民們被建議做好房屋的安全措施，格羅布爾以偷竊鬆動的金屬以及值錢的東西著稱。當遭遇單個格羅布爾時很少會受傷，市民們避開這種大量集結的墮落族群將是非常明智的。{^n}{^n}格羅布爾的營地極具特徵，矗立著異教圖騰並堆著大量偷來的財寶。如果你在附近區域發現了格羅布爾圖騰，不要靠近它們。立刻返回營地並向有關當局報告。
+
+tagLoreObj_AreaAEastMarsh_NoteA01Name=穆迪筆記
+tagLoreObj_AreaAEastMarsh_NoteA01codexTitle=穆迪筆記
+tagLoreObj_AreaAEastMarsh_NoteA01Text=該死，南方那座橋樑坍塌了。唯有冒險進入沼澤地帶。很後悔這個決定。現在馬車卡在這個惡臭沼澤中寸步難移了。不過一想到車子中的半噸金子和珠寶，我就猶如置身夢境中。珠寶店的老闆就這樣丟下它不管，而且不知道是誰先我一步爆破了店舖。當然，現在這些財物都困在沼澤中無法移動，終究只是鏡花水月！要是繼續沉下去，怕是連馬兒都無法倖免。我必須盡快想辦法。我需要幫忙，也許其他人也是往這個方向逃命的。幾塊寶石應該能夠讓他們動心。我看得見不遠處有營火的亮光。聽不出他們說的是什麼，也許是外語，不過金錢應該是通用的語言。先去打探下他們是否有能力幫助我。我聞到了烤豬肉的味道，他們應該不會吝於分享吧？- 無名氏
+
+#Random Old Arkovia Notes 隨機古安克維亞日誌
+
+tagLoreObj_OldArkovia_NoteA01Name=馬若思·卡斯的日誌
+tagLoreObj_OldArkovia_NoteA01codexTitle=馬若思·卡斯的日誌
+tagLoreObj_OldArkovia_NoteA01Text=我曾考慮過自殺。但我目擊了你在嘗試的時候發生的事情。一個好人，被這個...這個詛咒給逼瘋了。我並不是責備他們為了離開這無盡的痛苦而作出的嘗試，即便逃跑看起來像引頸就戮I一般。根本沒有逃離的出路。我們與自身的血肉骨架綁定了，即便它們在時光中風化腐朽。{^n}{^n}對於其他人來說，一把小刀能讓人突然想起，我們曾經是活著的。有些人會很高興地分享這新的發現，在墮落與邪惡的深淵中互相銘刻。但我無法拒絕加入那些人的誘惑，他們在街道上將鮮血灑在冰冷的岩石上。當我看向自己腐敗的雙手時，我開始考慮即便那麼做是否也太遲了。這樣的折磨何時結束？在我們獲得自由之前還要衰退到何種程度？
+
+tagLoreObj_OldArkovia_NoteB01Name=判決
+tagLoreObj_OldArkovia_NoteB01codexTitle=判決
+tagLoreObj_OldArkovia_NoteB01Text=這將會成為對逝去的巫術技藝及其對安克維亞的造成的嚴重影響進行最後判決的記錄。{^n}{^n}宏偉法庭已經審閱了一個名叫奧魯洛克的傢伙的案件，他自覺的承認其為了個人樂趣以及經濟利益而將鄰居的妻子復活並利用她對被害人進行折磨與剝削的卑劣行徑。在鐵證如山的情況下，法庭只能別無他法的判其絞死。{^n}{^n}這起犯罪只是我們大陸上罪惡之源的滄海一粟罷了。人們必須發聲並採取行動。為此，也因為無數其他的犯罪，反自然，反神靈以及反安克維亞，必須讓人知道巫術的行為是最卑劣邪惡的遠古技藝，從今往後在安克維亞大陸上都會遭到最嚴厲的懲罰。如果發現有無知的傢伙無視這項聲明，都會在不通過審訊的情況下直接遣送至苦痛階梯，他們將會在那痛苦的深淵內永世不得超生。
+
+tagLoreObj_OldArkovia_BookA01Name=禁術 - 第一部
+tagLoreObj_OldArkovia_BookA01codexTitle=禁術 - 第一部
+tagLoreObj_OldArkovia_BookA01Text=當認為我們不聽話的時候，他們就會竊竊私語地談論著我們。對我們的能力感到恐懼，但他們仍然渴望得到它。對未知的東西感到恐懼正是人的本性，我們的法術自然也不例外。死靈法術雖然在安克維亞從來都不是什麼被尊重的技藝，但如此地遭人敵視還是近年來才有的事。{^n}{^n}現在，根據最高法庭最新的判決，我們不僅是被驅逐的對象，更是罪犯。只是他們不懂得的是，阻礙對知識的求索和文明的進步才是一種最嚴重的罪行。他們已將我的同胞們用正義的借口集中起來投進他們稱之為苦痛階梯的黑牢裡面。我覺得他們找上門來將我也抓去也只是時間問題了。
+
+tagLoreObj_OldArkovia_BookA02Name=禁術 - 第二部
+tagLoreObj_OldArkovia_BookA02codexTitle=禁術 - 第二部
+tagLoreObj_OldArkovia_BookA02Text=一個女人，臉上寫滿恐懼與絕望地來到我的家裡。必須承認，我認為她熱切的敲門聲標誌了我最後的自由。我很怕去打開那扇門，但是她在那裡，手臂上挽著一個包袱，梨花帶雨。{^n}{^n}她乞求我的幫助，眾神在她最需要的時刻拋棄了她。我顫抖著手打開了包袱，裡面是她年幼孩子的頭顱。死了不到一天。她那懇求的眼神鎖住了我，但我不能答應她的請求。帶著巨大的悲傷，我轉身離去了。{^n}{^n}我還是完成了她的請求，孩子變成了一個怪物，一個不屬於這個世界的憎惡。有很多事情，甚至是無比傲慢的人類，都不能...也不應該去干涉。
+
+tagLoreObj_OldArkovia_BookA03Name=禁術 - 第三部
+tagLoreObj_OldArkovia_BookA03codexTitle=禁術 - 第三部
+tagLoreObj_OldArkovia_BookA03Text=我能聽到他們在外面東奔西跑的聲音。他們最終都來了，有很多人。十分明智...{^n}{^n}多個世紀以來我的偽裝被傳言成各種版本，它們大多數都很誇張，但為了某種微妙的目的，他們並沒有對我進行干涉和虐待。不過這次，貌似即便是這些故事也不能使安克維亞安然無恙了。{^n}{^n}我必須封印這個入口，他們快要接近我了。我並不懼怕接下來要發生的事情。在事情的結束後，他們都將化為飛灰，只有我能完好無損...{^n}{^n}尤若布魯克
+
+tagLoreObj_AreaBCrumblingWatch_NoteA01Name=塵封的日誌
+tagLoreObj_AreaBCrumblingWatch_NoteA01codexTitle=塵封的日誌
+tagLoreObj_AreaBCrumblingWatch_NoteA01Text=如果這些碎石能說話的話，會是什麼傳說？一千年的歷史淹沒在了這大破壞時代之中。那些奇異和可怕的事情，這些岩石是否目睹過？那曾經光輝的帝王及其墮落，全都濃縮在這些岩石之中。所有東西都遺失了。只有殘留的碎片存在於古老墓地與遺忘之地中。我時常在想羅文帝王是否被欺騙了，被那個讓他放棄王位並離開的人所騙？{^n}{^n}我還在思考有多少安克維亞最後的議員逃到這處曾經的宏偉堡壘之中來逃避這淪陷的帝國？偉大的安克維亞守望者，守護著南方邊界。他們是否苟且偷生，並希望被那些狂怒地搜尋他們貪婪與傲慢的存在所忽視？還是說他們戰鬥到了最後？他們是否被抓住並被吊在了他們自己的要塞之牆上？又或者是逃進了地下墓穴並與遠古遺物一起滅亡了？{^n}{^n}我現在坐在這並思考著我在這些往日的灰燼中的命運。我該加入他們，同樣被人所遺忘嗎？還是說目前在追捕我的強盜與怪物會在這隱蔽的地方找到我並把我撕成碎片？這或許無關緊要了。我從卷軸，墓地和記憶中所收集並記錄下來的所有知識...都不重要了。那個世界逝去了，與偉大的安克維亞帝國一併消亡。{^n}{^n}我們曾淪落為野蠻人，像一群野狗般為了食物而爭鬥。我們殺死其他人來得到一個睡覺的地方，還出賣朋友與家人來換取邪教那虛無的安全承諾。我以前總是在想厄洛蘭的歷史是否能像安克維亞那樣經得起時間的考驗。現在我覺得還是算了吧。{^n}{^n}-伯爾維治抄寫員斐甘
+
+#Cronley's Mine Notes
+
+tagLoreObj_Cronley_NoteA01Name=威爾金的筆記
+tagLoreObj_Cronley_NoteA01codexTitle=威爾金的筆記
+tagLoreObj_Cronley_NoteA01Text=營地裡傳言說不死生物停止了對城牆的攻擊。我並不是為此抱怨，而是想知道為什麼。只是在幾天前，西面城牆就死了三個人，一群生物突襲了我們。他們吸乾血液，數量無窮無盡。該死，我很明確的看到了一些我們的潛伏者死在了那邊。現在我不是個將軍，但似乎對我而言那只是時間問題。{^n}{^n}首領說我們贏了，古安克維亞是屬於幫派的了。他甚至召集了他的最高副官們來加入在礦井中類似慶典的盛會。對我來說，我覺得太快了，但沒人在意威爾金在想些什麼。
+
+tagLoreObj_Cronley_NoteA02Name="壓碎者"羅曼諾夫的筆記
+tagLoreObj_Cronley_NoteA02codexTitle="壓碎者"羅曼諾夫的筆記
+tagLoreObj_Cronley_NoteA02Text=老大說我敲碎那些藏匿食物的流浪者頭顱的事情幹的很好。還說我是下一個能在新黎明中加入他和兄弟團的人。我看到那些體內有綠色水晶的傢伙能做些什麼了。他們能把一個人像撕麵包那樣劈開。但當克隆利把水晶植入他們體內時他們也會尖叫。聽起來就像上次他從一個流浪者那得到一條手臂時那樣。{^n}{^n}但一點小小的疼痛並不能使我像個耍小刀的懦夫。這裡沒人能在力量上超越我這樣的絞肉機。
+
+tagLoreObj_Cronley_NoteA03Name=染血的筆記
+tagLoreObj_Cronley_NoteA03codexTitle=染血的筆記
+tagLoreObj_Cronley_NoteA03Text=一個男人和一個女人，穿著灰白長袍的二人組，這已經是第三次出現在藏匿處了。老大說讓他們通過，於是我照做了。{^n}{^n}當這兩個人出現時，整個營地都緊張起來。或許是因為他們的眼睛。那在眼中泛著的綠色幽光讓我想到了亡者。{^n}{^n}也或許是由於克隆利在我後背植入的水晶在灰袍人附近會產生顫動，所以我會感到焦慮，就像是要裂開一般。我在睡覺時聽見的聲音已經足夠讓人緊張不已了。其他人說他們也會聽見，但沒人能說清低語的內容是什麼。老大說很快就會過去，這只是晉陞到他光榮部隊中的一步而已。這或許是值得的。
+
+tagLoreObj_Cronley_NoteA04Name=安克維亞編年史摘錄
+tagLoreObj_Cronley_NoteA04codexTitle=安克維亞編年史
+tagLoreObj_Cronley_NoteA04Text=一位帝王會主動放棄王位，這真是件離奇的事情。他對法庭給出的緣由依然是外來者。沒有別的解釋了。羅文帝王的第三衛隊曾被一個瘋子攪擾。在對位於安格隆德之巔的野蠻人部落的戰爭凱旋而歸之時，這位帝王沉醉於去面見一個叫做莫格卓根的憔悴旅行者。羅文，出於他的慷慨，允許這位老人使用他的戰馬。這個男人，使得帝王的傳說變得毫無頭緒，他拒絕了提議，並用只有羅文才能聽見的低語對其發出了警示。{^n}{^n}這個老傢伙大放厥詞地聲稱我們的偉大帝國將崩塌，包括西部的信標，整個安克維亞都將隕落。他懇求羅文放棄他的頭銜，財富以及身份。教廷中有一些人慫恿羅文應當遵從那個瘋狂的提議，他們貪婪而渴望的腦袋將這件事視為奪取政權的大好時機。皇后，安克維亞的明珠，在羅文面前哭泣並請求他重新考慮；但羅文很果決。在頒布法令後，他解散了皇家衛隊並放棄了安克維亞帝王的位子。羅文瘋了的傳言在大眾間迅速傳播。讓我感到十分驚訝的是，他的一些僕從們依然遵從羅文的領導，放棄了生計並追隨他們失去鬥志的領導者，過上了失去身份的貧苦生活。{^n}{^n}從那件革命性事件發生至今已經六個星期了。皇后死在了她的房中。他們說她是因悲而亡，失去了他的帝王，但我更傾向於某種秘密的因素。教廷因為其內部大家族為爭奪王位的激烈競爭而陷入了混亂。由於群龍無首，也沒有明確的人能夠登上王座，我的助手拉多斯·瓦格拉提出要組建一個寡頭政治團體，有安克維亞的菁英執掌。{^n}{^n}這是沒有好結果的。我確信。這些天來，我無法控制的去思考羅文的預言是否真的只是瘋言瘋語。或許這場風暴要許久才會降臨，而我們根本無法看到它。我為安克維亞擔心。我為她的靈魂感到懼怕。{^n}{^n}瑟爾多庫斯·瓦格拉，安克維亞史官
+
+tagLoreObj_Cronley_NoteA05Name=克隆利的筆記 - 第一部分
+tagLoreObj_Cronley_NoteA05codexTitle=克隆利的筆記 - 第一部分
+tagLoreObj_Cronley_NoteA05Text=當虛靈的攻勢停下來的時候，他們派來了他們的使者。當然他們知道只要繼續進攻，我們便無計可施。他們只需要施加些壓力，然後所有人都會對他們畢恭畢敬。可是他們從沒有跟我德萊厄斯·克隆利打過交道。他們來了，只有兩個，是穿著衣袍的人類。唯一露餡的地方就是他們的眼睛。他們的眼睛發著那種病態的虛化綠色光芒。他們給了我一個投降的機會，一個交出身體成為他們不斷壯大軍隊的容器和繁殖用牲畜的機會。我把他們的腦袋插在木頭上送了回去，想看看是否能夠摧毀他們的靈魂。{^n}{^n}但當他們再次到訪的時候，他們學會了新的表達方式，他們說著和我們同樣的語言。我成了他們宏偉計劃中的一員，我將統領一支由虛化力量強化的人類組成的軍隊。我所要做的就是要保證自己的事業，把一塊結晶種植在礦井之中。至於剩下的事，他們說到時候我就會知道了。
+
+tagLoreObj_Cronley_NoteA06Name=克隆利的筆記 - 第二部分
+tagLoreObj_Cronley_NoteA06codexTitle=克隆利的筆記 - 第二部分
+tagLoreObj_Cronley_NoteA06Text=虛靈離開了。他們去了北方的家園，去那裡碾碎一支由可惡的黑色軍團領導的人類抵抗力量。他們讓我留下來自主行事，只給我留下一句告誡：摧毀惡魔十字。我當然非常樂意完成這個任務。我有無數種幹掉波旁的方法，但是不幸的是，只有一種方法能才能讓我心滿意足。或許當我砍下他的頭顱之後，我可以把他身上插滿虛化結晶的碎片，這樣他就能復活成為我的僕人。我可以一遍又一遍的重複享受這個過程。{^n}{^n}但是首先我要完成我那無比榮耀的軍隊。又來了一批熱情高漲的追隨者。他們不知道他們身上要發生的事情，無比的痛苦正在等著他們。有時我希望這個過程中多死點人才好，失敗的作品是多麼好的玩物啊。他們的尖叫充斥在這個礦井之中。或許今天我就該切開某個傢伙的喉嚨，來娛樂一番。
+
+
+#AreaC Notes
+tagLoreObj_HiddenWealth_MapName=瑪索斯·艾弗布魯克的遺願
+tagLoreObj_HiddenWealth_MapCodexTitle=艾弗布魯克的遺願
+tagLoreObj_HiddenWealth_MapText=已故的瑪索斯·艾弗布魯克二世頒布的遺願如下：{^n}{^n}農莊和它附近的果園留給我最親愛的女兒麗琪。讓那片保佑我們家族一代又一代豐產的土地繼續為你和你孩子出產作物。還有我那魯莽的兒子們，埃德裡克和安東尼。你們在我剩餘的歲月中不停地爭吵著誰將繼承我的財產。對於你們，我除了這些話以外什麼都不會留給你們。{^n}{^n}我讓農場的工人將金子埋在了屬於艾弗布魯克家族的土地上。你們只有兩個選擇：放棄你們那可悲的生活，用辛勤的勞作重新開始，就像你們的祖父曾經做過的一樣。或者揮霍掉你們的青春，尋找這份不應屬於你們的財富。我相信你們會做出正確的選擇。{^n}{^n}*在最後你勉強能看到用另外一種筆跡寫下的潦草筆記：沿著索恩斯巴利農場的路進入山中，帶上爆炸物。*
+
+tagLoreObj_TrappedAndAloneName=伊勞拉的日記
+tagLoreObj_TrappedAndAloneText=又做噩夢了。夢中我位於一處古老的墳墓中，只有一根蠟燭照亮道路。在轉角處我看見了一雙泛著紅光的眼睛。它們越靠越近 ...越來越近...然後，在我要弄清楚在陰影中到底有什麼的時候，它離開了。{^n}{^n}我試著逃跑，但每條路都被岩石所阻。無路可逃。我返回的時候又看見了那雙眼睛，盯著我的後背。我聽到了笑聲，一個小孩的笑聲。然後周圍的所有東西都燃燒了起來。我試著呼喊，但發不出聲音，那雙眼睛直勾勾地盯著在火焰中翻滾的我。{^n}{^n}這時我就會醒來，渾身濕透。這樣的情況每五天就會出現一次。現在噩夢變得越來越頻繁了。我不知道我還能忍受多久。我可能不是個智者，但或許是時候離開這個邪惡之地了。
+
+tagLoreObj_AreaCThornsburyDiary_Name=黛拉日記的節選
+tagLoreObj_AreaCThornsburyDiary_Text=奧利弗不讓我繼續寫下去了。他說我該去農場幹活而不是在這裡做白日夢。所以我得在晚上寫，趁他睡著的時候。他無法阻止幕後操縱著我心靈的思緒。{^n}{^n}哭泣的橡樹，黛拉·索恩斯巴利著{^n}{^n}附近一棵樹上的枝條有節奏地拍打著臥室的窗戶。天際又一次刮起了風暴，但黛拉無動於衷，覺得這只是另一場淋浴而已。她從床上坐起來，並快速看了一眼她的丈夫，奧利弗。他還在呼呼大睡。即便是暴風雨也不能將他從沉睡中驚醒。{^n}{^n}黛拉起床，確保沒將她丈夫身上的被子掀開。她躡手躡腳的走向衣櫃並取出她的行裝：一件輕革製成的舊大衣和隨身短劍，風暴之心。當她拔劍出鞘時，這把劍週身閃爍著電火花。它的魔力仍然和她在黑谷北邊的墓地中發現這把劍時一樣強大。黛拉換好衣服並把短劍別在了腰帶上。在出門前她看了奧利弗最後一眼。他最好不要知道她的的守夜行動。只需擔心他自己的病痛就行了，黛拉也不願見到他為自己的安全感到擔憂。{^n}{^n}當她出門時，夜風吹拂著她的頭髮與臉頰。雨已經開始下了，地面很泥濘。黛拉小心地前進，注意著腳下的每一塊岩石，因為它們不是每塊都很穩固。最後，她來到了孤單的橡樹旁，一種深深的恐懼感向她襲來。{^n}{^n}「我就知道你會來感謝我的，親愛的黛拉。」樹後傳來陰森的話語。黛拉緊握著風暴之心，它表面閃爍的火花將雨點轉化為了薄霧。一個黑影顯現出來並平緩地走向她。她看不清來人的臉，但知道他是誰。「過來，有什麼要感謝你哥哥的嗎？」來者再次說話了。黛拉一言不發。相反，她用手上的劍作為回應。來者也用自己的劍對抗著她，一把每次揮舞都會在空中留下燃燒之痕的劍。「我能看出你練習過了。」這個人呲牙笑著說道。{^n}{^n}雷電從天際劈閃而下，呈現出一條雷霆裂隙，短暫地照亮了周圍的場景。風暴帶來的光照亮了黛拉對手的臉，那是他死去兄長的一張嚴重腐爛的面容。"德拉維斯"，黛拉從牙縫中擠出這句話。她又一次發起了攻擊...
+
+tagLoreObj_AreaCFarmer_NoteA01Name=沃爾特的筆記
+tagLoreObj_AreaCFarmer_NoteA01Text=我能看見從河邊房屋那裡升起的煙霧。他們就在這附近了，不管是什麼。我已經盡可能地把門和窗戶給擋住了。剩下的只有等他們找到我們了。{^n}{^n}妻子堅持說我們應該拋棄農田並去家園，但要是被那些眼睛閃著綠光的怪胎趕出我們的土地，我會被祖先罵死的。我們的家族世代在這片農場勞作，而現在只是出現了一點兆頭就要離開。家園的那些懦夫們把他們的作物留在地裡腐爛。當一切都過去，我仍然會在這裡照看莊稼，他們太蠢了。
+
+tagLoreObj_AreaCFarmer_NoteA02Name=虛化燒焦的備忘錄
+tagLoreObj_AreaCFarmer_NoteA02Text=我知道你總是忘記一些東西，所以我寫給你一個列表。我的意思是，你別顧及面子回到這裡，直到把這個列表上的一切都記住。{^n}{^n}- 一袋麵粉{^n}{^n}- 一塊麵包{^n}{^n}- 兩打雞蛋{^n}{^n}- 三瓶伊露蘭紅酒{^n}{^n}- 與裁縫訂購的服飾{^n}{^n}* 在列表的底部，潦草凌亂的字跡中你會看到寫著：一打玫瑰。*
+
+tagLoreObj_AreaCFarmer_NoteA03Name=瓦爾德的筆記
+tagLoreObj_AreaCFarmer_NoteA03Text=我們逃出來了！我到現在還不敢相信，但我們給了那些虛靈雜碎一點教訓。他們永遠不會想到來這種荒郊野外查探的。這裡除了草木和岩石就別無他物了。當然也沒有像他們那樣的東西。{^n}{^n}我繼續前進並搭建了一個營地，我們的小夥伴們外出探險去尋找一些漿果和柴火。他們很快就會回來的。可能並不會太多，但我想能夠把這地方變成一個新家。該死的，只要他們願意，甚至是鳥都能找到。我能看見一些鳥類偶爾在頭頂盤旋。
+
+tagLoreObj_AreaCAetherial_NoteA01Name=混元體
+tagLoreObj_AreaCAetherial_NoteA01Text=共識已經達成。家園的聖所將在兩星期之內墜落。當使它穩定的徵兆從北方接近時，在它的尾跡裡除了大火什麼也沒有，它展示在我面前的力量足以從西方攻擊人類的要塞。復生者在籠子裡不知疲倦地工作，把虛靈的禮物散佈給人類，我們也為了這個目標而聚集起來，但是真正的工作將在穀倉中進行。{^n}{^n}人類確實證明是...麻煩的東道主，這份對抗強大力量的意志不可能瓦解。但是他們的肉體，那是容易屈服和腐化的。我看著屍體漸漸填滿穀倉，伴隨著腐爛的惡臭，這臭氣不是證明生命如此脆弱，而是像一塊畫布；一塊我們將畫上凱恩的未來的畫布。{^n}{^n}希奧頓·馬塞爾，肉身塑造者
+
+tagLoreObj_BlackLegion_NoteA01Name=黑色軍團偵查報告
+tagLoreObj_BlackLegion_NoteA01Text=我寫這封信是為了報告在家園北方極端的麻煩的虛靈活動。我啟程去阿克維亞山麓時，穿過了聚居區的矮石牆，圍牆，和偶遇的農舍。在遊蕩在未經偵查的地區的恐懼之下，我謹慎地潛行著，一直沒有被發現。我保持潛行來到兩座臨河的小山之間的山谷時，我目擊了一件我幾乎無法理解的事情。{^n}{^n}一個超自然的黑色柱子，它既不是石頭，也不是血肉，漂浮著慢慢穿過大地，像一片飄得很低的雲。病態的綠色光芒在它的核心和掛在一塊活動的貝殼下面的巨大的捲曲著的觸手上燃燒著。隨著這塊邪惡的方尖碑慢慢停下來，我越看越害怕，然後，沒有警告，那些懸掛的觸手探出鉤子挖進了地面。地面開始凋零，並且燃起同樣病態的綠火。就在那時，那塊方尖碑把自己拉進地面。隨著一種讓我覺得像是大地正在死亡的聲音，綠火變得無比明亮，亮到我幾乎不能直視。它的力量滲入地面，扭曲和腐化隨之蔓延。{^n}{^n}在那裡我逗留了將近一個小時，在這段時間裡，那塊方尖碑周圍很大一片地方都改變了。當我打算離開時，那塊方尖碑從地面噴出，然後漂到另一個沒有腐化的地面開始又一輪的循環。我們必須快速採取行動，否則這裡將會無法挽救。{^n}{^n}--黑色軍團第六偵查團，雷納·奧博拉什
+
+tagLoreObj_BlackLegion_NoteA02Name=禁衛軍的報告
+tagLoreObj_BlackLegion_NoteA02Text=空氣裡瀰漫著硫磺和硝煙的惡臭。我在寫這篇報告時就感到呼吸困難。我們中了埋伏，處於絕對的劣勢。某種畸形的虛靈從地上升起並在所到之處散播虛化之火。我從沒見過這種情景。隊長命令我們強行突破拿下那個可怕的東西，可他在第一場讓我們丟盔卸甲損兵折將的戰鬥中就陣亡了。{^n}{^n}軍隊陷入了恐慌，我們被逼無奈而撤退。我設法重振那些落下的士兵的士氣，但很顯然我們沒法活著回去。我帶著軍隊回到了入口並下令全軍撤退到聖像堡。{^n}{^n}虛靈快速地朝我們推進，我們沒有時間猶豫不決。我讓軍需官交給我所剩的所有爆炸物。我們把它們堆在了隧道的入口處並引爆它們，有效地封鎖了進出山區的道路並阻止了虛靈進入此地。本人遺憾地報告，由於雙子瀑布大橋被毀以及山區隧道被堵死，我們現在徹底地封鎖了南部，可是我欣慰得知我們見證的犧牲將不會擴大到群山峭壁之外。{^n}{^n}-禁衛軍 馬庫斯·艾丁
+
+tagLoreObj_AreaCCultist_NoteA01Name=阿瓦林的筆記 - 第一頁
+tagLoreObj_AreaCCultist_NoteA01Text=我們已經逃亡了大概有好幾個星期了。虛靈們總是能跟上我們的腳步，到處散播著野火一樣的東西。孩子們都挨餓了；我們攜帶的食物不足以提供全部的人。我不確定我們還能撐多久。{^n}{^n}路上聽說冥神的邪教正在招募成員，他們提供食物與庇護。我一直將他們視為異教瘋子，沐浴著鮮血對著月亮咆哮，但對安全的承諾真是太好了。索爾隆很害怕成為血誓的成員，但我們都同意為了生存，這將是無法避免的災禍。孩子們需要食物。
+
+tagLoreObj_AreaCCultist_NoteA02Name=阿瓦林的筆記 - 第二頁
+tagLoreObj_AreaCCultist_NoteA02Text=在血誓中生活對我們的家庭有些小小的改變，主要是我們只能在平日的儀式和雜務完成後才能見到孩子們，這些事物通常都會持續到深夜。有些時候只有在他們睡著後才能見到。我的丈夫對這種祈願者們異常反感，他說他們在褻瀆神明，但我提醒他我們為了家庭的生存只能這麼做。{^n}{^n}我自己的意見，我只想問那些所謂的神靈除了窮苦艱苦什麼也沒有給我們。但在這裡，在冥神的庇護下，我們是安全的，而且能吃飽。血誓給了我們承諾的一切，還有更多。他們的要求只是我們的信仰以及一點鮮血。{^n}{^n}因此我每天清晨都不由自主地更加讚頌冥神。儀式小刀留下的傷口提醒我們仍然活著，而不是在野地裡腐爛。這中感覺...很好。拜冥神所賜，感覺很好... 
+
+tagLoreObj_AreaCCultist_NoteA03Name=阿瓦林的筆記 - 第三頁
+tagLoreObj_AreaCCultist_NoteA03Text=一切都啟於並止於冥神。我現在明白了。我的家庭正遭受痛苦，我們所忍受著的貧困，這都是因為我們離開了冥神。血誓告訴了我拯救的方法。{^n}{^n}我在祭壇處努力地祈求了很長時間，將我的鮮血灑向石頭直到答案的出現。能使我們家庭真正安全的唯一途徑是和冥神相聚。{^n}{^n}我已經做好了必要的準備。獻祭將在黎明開始。
+
+tagLoreObj_AreaCCultist_NoteA04Name=獻給冥神的鮮血
+tagLoreObj_AreaCCultist_NoteA04Text=我試著安慰他們。我告訴他們一切都會好的。我找到了肋骨間的點並將刀插了進去，他們的眼神開始渙散。他們始終在哭喊，這讓我有些悲傷。他們還不明白。我看著他們那順著裸露大腿流下的鮮血匯聚到一個我放在他們下方的大盆之中。冥神需要每一滴鮮血。{^n}{^n}為了確保我得到了全部的鮮血，我開始了切割。從大腿開始。然後是軀體。最後是手臂。他們的掙扎越來越慢，然後接受了他們的命運。最後他們能夠理解了。{^n}{^n}血液本就不屬於他們。他們只是為別人儲存而已。現在是時候歸還了。歸還給冥神，真正的擁有者。最終他們的恐懼煙消雲散，並開始很樂意將鮮血無償獻出。{^n}{^n}冥神的忠心僕從，貝勒·亨德
+
+tagLoreObj_AreaCCultist_NoteA05Name=血之召喚
+tagLoreObj_AreaCCultist_NoteA05Text=我整個生命都癡迷於濺出的鮮血。我在數年中都被派遣在陰影中獵殺。潛伏與孤獨。但現在我不再孤單了。最終我發現了是什麼在召喚著我。{^n}{^n}冥神向我低語，恐怖黎明解放了我的桎梏。現在我很樂意的為主人收集鮮血。注視著最後一滴鮮血落下，它填補了我的心靈並溫暖了我的靈魂。{^n}{^n}原來的世界不明白我需要的是什麼。但現在有了新的力量，冥神也向我發出召喚。那些回應召喚的人都會是我的獵物。
+
+tagLoreObj_AreaCCultistSummoner_NoteName=最後的布道：末日
+tagLoreObj_AreaCCultistSummoner_CodexTitle=末日
+tagLoreObj_AreaCCultistSummoner_NoteText=冥神的血誓祈願者們，今日我們在此聚集有著重要的目的，我將給予你們最後的訓誡。你們已經完全的獻身給了冥神，拋棄過往的一切關係，財富以及自由的意志。你們已經證明了自己，都做好成為更加偉大整體的一部分的準備了，準備接受重新統一的光榮贈禮。{^n}{^n}我必須和其他人一起在後方完成偉大的事業，即便你們失去了生命，也將會使這個世界向末日邁進一步。黑暗之時來臨，這個被痛苦折磨著的世界將會在冥神手中重整，糾正那些偽神在幾千年前犯下的過錯！這些自以為是的神操控著我們，把他們自己尊為必須受到崇敬的角色，並在很長時間內都依賴著我們的血汗。{^n}{^n}末日同時也會將死亡審判帶給不羈的虛靈們。他們阻礙了我們。屠殺我們的同胞並在這個世界佔據了優勢。然而，我們還得感謝他們，虛靈不知不覺地讓我們摧毀帝國及其教廷的目標變為可能。教廷不再獵殺我們，鎮壓我們或是阻礙我們與神聖之地的連接。卸去了帝國的枷鎖，人們從虛假的夢境中醒悟並使我們的隊伍不斷壯大。{^n}{^n}虛靈對我們世界的歷史無知，也不瞭解我們要喚醒怎樣的末日。他們無法猜測我們的末日遊戲，一旦他們意識到些什麼，就會採取行動，但那已經太遲了！我們最虔誠的同胞們正在和墓地虛空處的帝國軍隊交鋒。他們需要做的只是阻止敵人越過最後的防線，即便對我們發起進攻，他們灑出的鮮血也會餵食我們的召喚儀式。在以往遭受最大挫敗的地方，我們將重新獲得最後的凱旋。並且，羅霍里恩，末日的先驅者，將會帶著成千上萬冥神信徒的尖嘯著進入這個世界並帶領我們進入一個新的時代！
+
+tagLoreObj_AreaCNecro_Note01Name=拉魯卡的日誌
+tagLoreObj_AreaCNecro_Note01Text=今天標誌著我人生中的重要時刻---我成為了尤若布魯克的學生。我通過了審訊，現在我與夢寐以求的「巫術師」頭銜之間只隔著一道坎：進行一次復生。{^n}{^n}我已經很榮幸地觀察了主人無數次的演示。他真的是技藝的大師，不借助外物或是咒語就能將死屍復活。尤若布魯克聲稱這和練習與構成有關，但我還是敬佩不已。他對死亡的掌控超過我們所有人，甚至他最早的一批學生裡也有人靈光一閃後召喚出了幽靈來執行命令；但即便是他們也需要借助綁定符文與專注之石，而我們的主人卻完全不需要。尤若布魯克復活的亡者不僅僅是為他服務；他們似乎渴望取悅他們的主人，就像爭寵一般。{^n}{^n}現在輪到我來加入教團的菁英隊伍了。我已經學習了卷軸和儀式，通過重複徹底的背誦將咒語烙印在腦海中。我已經從埋葬的屍骨中取得了墓穴苔蘚以及塵埃。我準備好了。明天我將把一個靈魂從死亡的籠罩中拖拽回現世並轉變為骷髏之軀。明天我將和一名成熟的死靈法師一樣登場。
+
+tagLoreObj_AreaCNecro_Note02Name=教團的教義
+tagLoreObj_AreaCNecro_Note02Text=死亡守夜人教團以我們不朽的主人---尤若布魯克的教義為準則而建立。尤若布魯克教導我們永遠不要滿足於生命的無盡秘密，要追求達到學識的更深層次。{^n}{^n}作為教團的一員，儲存和維護學識是我們的神聖職責，不用顧慮它的來源；因為其價值不是一般人能明白的。對於那些懼怕它的而言，我們的學識在他們手中就是浪費，例子就是最近頒布的法令，拔除教團教義--巫術的藝術。{^n}{^n}對於等待著所有人的終極命運而言，這代表了無止境學術的最前沿。因此新入教團的人需要征服對死亡的恐懼，來接受嚴苛的教學。即便死去，職責也將繼續。
+
+tagLoreObj_AreaCNecro_Note03Name=尤若布魯克的日誌 - 第一頁
+tagLoreObj_AreaCNecro_Note03Text=某些強大的東西要降臨了。我已經感受到它要到達的時刻了。但像是一場夢或者遙遠的記憶，細節部分記不清了...直到現在。{^n}^n}我能感覺到它正從伯爾維治東北部的虛空中伸爪探路，無疑此處已經被捲入了超塵脫俗的大漩渦之中。我敢說，它的本質在逃避著我；但它並不是血肉或者靈魂。我必須找出我們面對的是什麼，並要做的更進一步，再次將其封印在世界之間的屏障中。{^n}{^n}教團不必為此考慮。我必須獨自行動...{^n}{^n}尤若布魯克
+
+tagLoreObj_AreaCNecro_Note04Name=尤若布魯克的日誌 - 第二頁
+tagLoreObj_AreaCNecro_Note04Text=我會撕裂一千人的骨頭來找出背叛者。在一場致命的攻擊中，我付出了很大的代價才活了下來。{^n}{^n}我發現了冥煞惡魔的一支大軍。起初，我以為這就是那股力量的來源，於是就跟著他們。在他們前往北部時，我立刻意識到他們也在追蹤我所要找尋的東西。他們通過沼澤前往峭壁。在跟蹤他們時，我突然從背後受到了襲擊。{^n}{^n}戰鬥是毀天滅地的，我消滅了大量的敵人。然而在戰鬥中，一些先驅者將我的守護者逼入了絕境。我確信他們是要破壞它；但隨著他們的爆炸，一股洶湧的冥煞能量湧入了我的生物並阻斷了我們的聯繫。我的骸骨生物開始轉而攻擊我，然後我就知道先驅者們找到了腐化我召喚物的方法。我不明白他們是如何做到這點的，但我沒有見過冥煞生物會做到這種事情。{^n}{^n}如果虛空惡魔能夠駕馭這種力量，那麼死亡守夜人教團將會發現他們被超越了。我必須對我所追蹤的東西抱有希望，希望能夠對抗黑暗。每次這股力量的增長都意味著其他人的力量被吸取了。我必須趕快了。{^n}{^n}尤若布魯克
+
+tagLoreObj_AreaCZealot_Note01Name=侍僧的誓言
+tagLoreObj_AreaCZealot_Note01Text=當世界終結之後，我不知道我將如何生存下去。只有仁慈的凱蒙，他們找到了我。我被埋在房間裡的泥漿和瓦礫之中的時候，是聖父凱蒙他知道到哪裡可以找到我。是他的手拉著我，使我脫離了死亡的邊緣。{^n}{^n}現在我在這裡，我誓將竭盡全力去和邪惡戰鬥，去為給了我第二次生命的事業服務。依據凱蒙的神諭，現在我把他的光輝灑向世界，拯救我可以救助的人。讚美父。{^n}{^n}神選的僕從，卡茲·拉文
+
+tagLoreObj_AreaCZealot_Note02Name=希望的信標
+tagLoreObj_AreaCZealot_Note02Text=我目睹了凱蒙烈焰的淨化之力，我再也不會動搖我的信仰了。我們的力量已經被無法理解的恐怖事物超越了，那是我第一次親眼看到他。{^n}{^n}就像是混沌中的明亮的信標，聖父凱蒙衝入了戰場。他像一陣火焰旋風刮過森林一般，伐去妄圖與世界光明進行抗爭的扭曲與邪惡的根源。我知道從那天起他就是那個領導我們走出恐懼的人。他的正義將燃盡這個世界的黑暗並放逐惡魔。我不會讓他失望。{^n}{^n}刀鋒侍女，珊德拉·艾姆布瑞
+
+tagLoreObj_AreaCZealot_Note03Name=凱蒙的日誌 - 第一頁
+tagLoreObj_AreaCZealot_Note03Text=信使很難對付。每一個交易都讓我感覺自己的生命精力被拽入一口深井。所有的事情都呈現出更加黑暗的層面。如果換成一個沒有受過多年檢察官意志訓練的人，恐怕已經死了。{^n}{^n}甚至在我寫這些東西的時候，我還能感覺到它的能量在室內瀰漫，像是有蠕蟲在拉扯著我的皮肉。它在挖掘與拉扯，在試圖說服我靠近。我無法想像我的選召者們接觸到這個物體會發生什麼。能剩下什麼，我不敢說，但我猜測信使會剝奪身體和意志並化為已用。{^n}{^n}我怕沒人能承受並在知曉秘密後能活下來。我必須獨自承擔此事，並使自己變得冷酷起來。我承擔了一個巨大的風險，但這個世界的命運取決於神選者們的勝利以及我所訂立的契約。{^n}{^n}聖父凱蒙
+
+tagLoreObj_AreaCZealot_Note04Name=凱蒙的日誌 - 第二頁
+tagLoreObj_AreaCZealot_Note04Text=有很多疑問讓我傷透了腦筋。我試圖通過與信使談論來將它們拋到一邊，但我發現卻變得更加難以忽視了。{^n}{^n}我必須要問：當最後一個惡魔被派遣到這個世界時，我們會發生什麼？在我心中，恐怕已經明白了結局，但無法將它大聲道出。毫無疑問，我做了最正確的決定。我所獲得的力量將會是人類對抗鮮血惡魔和虛空冥煞的希望。{^n}{^n}但是，惡魔是除之不盡的。還有，即便是沒有惡魔在了，那會是什麼去填充虛空？這更加令人恐懼。我們會成為像被我們自己所反對的人們一樣嗎？原始之力不會對人類有任何憐憫與照顧。如果沒有了禁錮，我所借來的力量會是災難性的，或許更糟糕的是，冥神。{^n}{^n}現在我希望我並沒有燒掉喚醒這個遠古生靈所處的的城鎮。如果它必須永遠的被制止，我可能必須破壞最後的禁忌來消滅它。{^n}{^n}聖父凱蒙
+
+tagLoreObj_AreaCTyrant_NoteA01Name=帝國宣言
+tagLoreObj_AreaCTyrant_NoteA01Text=根據帝國法令，特此命令杜克·卡瓦尼爾解散駐紮在暴君要塞的第三十一師。所有現役士兵必須立刻無償解散。士兵們可以帶走武器裝備來當作報酬。{^n}{^n}在解散駐紮於暴君要塞的部隊後，杜克·卡瓦尼爾必須立刻前往大元帥尼古拉斯·馬恩維爾處。如果沒有關於第一個月的報告，帝國將會沒收其領地與頭銜。{^n}{^n}帝國審判者，瑞諾·芬奇
+
+tagLoreObj_AreaCTyrant_NoteA02Name=公爵卡萬爾的日誌
+tagLoreObj_AreaCTyrant_NoteA02codexTitle=卡萬爾的日誌
+tagLoreObj_AreaCTryant_NoteA02Text=這毫無道理。我接到了無償解散部隊的命令。更坑爹的是他們將我們的武器裝備當作最後的結算款。他們在想些什麼？{^n}{^n}這種命令只能是因為政府陷入了混亂。這些人中起碼有一半人會成為強盜或者更糟糕。如果無償解散部隊，他們必定會將刀鋒指向帝國。沒有部隊的駐守，格羅布爾們將會毫不費力地重新佔領這片區域。從黑谷到惡魔十字的道路將無法通行了。{^n}{^n}我們已經在野蠻人的大肆進攻下奪取了這座要塞，但他們隨時都準備將其奪回。我已經向伊露蘭請求更多的援兵以及裝備，然而這就是回應？瘋子！如果我的妻兒在這裡的話，我一定會無視這項命令。{^n}{^n}經過更深層次的考慮，這些人也有可能會反抗我。我不是因為虐待過他們而這麼認為，而是他們將我視為使他們淪落到此境地的貴族階層中的一員。我必須在他們接到這項命令前離開，否則我恐怕再也見不到我的家人了。{^n}{^n}杜克·卡瓦尼爾，暴君要塞指揮官
+
+tagLoreObj_AreaCTyrant_NoteA03Name=危險道路
+tagLoreObj_AreaCTyrant_NoteA03Text=一群白癡。我要詛咒那些在暴君要塞拋棄崗位的帝國士兵。是怎樣的惡行才能使他們作出這樣的事情？難道他們想看到旅行者們被殺掉或者被野蠻人和野獸吃掉？我付了很高的稅款來保證這條道路的安全。如果他們不想履行職責，那我也要終止繳稅。{^n}{^n}當我返回商業協會的時候，我會對帝國和軍隊發起正式投訴。如果我能得到足夠的支持，那我們就能聯合抵制主要大城市並給伊露蘭的外交官一些真正的壓力。或許甚至能使他們對協會作出賠償。他們或許是忠誠的，但即便是他們也將屈服於命運的力量。如果能使帝國反過來向協會道歉，那我會很高興。{^n}{^n}現在有更多的好消息。一名向北前進的旅行者說他們被南方的強盜搶劫了。更糟糕的是很多罪犯都穿著士兵的制服。是否可能是暴君要塞的那些軍隊變成了盜賊？我想是時候廢除這迂腐陳舊的條例了。即便是想想也是一種叛國，更不用說寫下來了，但如果我們活下來，這將會是長久性的重大變革。{^n}{^n}帕維爾·路德姆
+
+tagLoreObj_AreaCDarvale_NoteA01Name=特雷弗的筆記
+tagLoreObj_AreaCDarvale_NoteA01Text=很多星期以來我都感到有壞事要發生了。就像有個繩結吊在我的胃裡一樣，而且每天都更難受。我同時也注意到有更多的旅行者從首都厄洛蘭來到了這裡。帶著全部家當去往南方。我詢問了關於北方的消息，但沒人能說出個所以然來；只是確信有極其糟糕的事情將要發生了。我們為何會同時感到恐懼？{^n}{^n}首都又沒有運貨過來。我們上周就沒有收到最近的貨物，現在又來？沒有貨來也意味著這裡的貨也無法發出去。要是沒有補給，我還怎麼開這個店？當地東西是不錯，但我所依賴的卻是販賣他們無法從附近買到的貨物。{^n}{^n}我聽到街上的人們在低聲談論，有一位客人告訴我說她看見一些身披黑斗篷的人將一個大桶滾進了湖中。現在鎮子裡的醉鬼失蹤了。很有可能是跌下山溝了。但空氣中仍然瀰漫著奇異的寒意，每個人都緊張不安。我開始考慮將店舖收拾一下然後前往南方可能是最佳選擇了。{^n}{^n}-特雷夫·米爾斯
+
+tagLoreObj_AreaCDarvale_NoteA02Name=布裡奇沃特市長的日記
+tagLoreObj_AreaCDarvale_NoteA02Text=我不是那種希望人們的信仰失落的人，但我不得不說，我更加偏向於最近鎮子中流傳的新信仰。隨著來自北方的恐怖流言不斷散播，宗教狂熱份子對民眾的聚合是我們最後的依賴。希斯·斯崔格波說這個冥神的宗教並不是新興的，而是異常古老的。好吧，既然這麼古老，那我怎麼從沒聽說過呢？他們的傳教士之一邀請我聆聽他們的教義，以此來驅散我心中對這件事的不安之感。他們似乎也沒什麼危害，但最後讓我感到不舒服的是他們那對鮮血的癡狂，還想要重新與他們的神靈取得聯繫。{^n}{^n}又有人失蹤了。上周是托姆，我認為他是個酒鬼並且是鎮子裡的老鼠屎，但這周是瑪麗·泰絲，鎮裡的女裁縫。扎利亞告訴我說她看到瑪麗跟著一隊難民離開了鎮子，就像特弗雷在不久前所做的一樣。而特弗雷至少跟我說過會離開，但瑪麗，並沒有這麼說，而且沒有帶任何行李。這都非常奇怪。{^n}{^n}在寫這份日誌的時候我正打算和鎮裡的領導者們計劃如何處理那些穿越黑谷門而來的旅行者。每天都有數百人來到這裡。慶幸的是大多數都沒有停留，但這種情況一直持續下去的話就真會出問題的。我不知道首都究竟發生了什麼，但每個人都在考慮。{^n}{^n}-格雷戈爾·布裡奇沃特，黑谷市長
+
+tagLoreObj_AreaCDarvale_NoteA03Name=和平衛士隨從的日記
+tagLoreObj_AreaCDarvale_NoteA03Text=我們的小鎮已經被帝國士兵以及他們的要塞包圍了，這讓我不再感到孤單與害怕。我每天都會見到更多的士兵離開哈倫堡並前往北方，而通過黑谷前往南方的道路上到處都是無盡的難民隊伍。那些從首都逃出來的人說人們都瘋狂了，像瘋子一般的燒殺搶劫正在首都蔓延。更有甚者，一名暴徒當街追著一個婦女並將其殺死。聽著像個恐怖故事，但我確定那是真的。{^n}{^n}隨著更多新人來到小鎮，我的副手們一齊指出鎮子裡約束力的薄弱。爭奪稀有物資成為了日常慣例。在過去的兩周裡就出現了一些謀殺者，我們這種小村莊裡從沒出現過這樣的事情。 上周又有三人銷聲匿跡。開始我們並未過多留意，因為來來往往的各族人民由於避難而來，但自從托姆以來已經有多達6人失蹤了。{^n}{^n}首都發生的大事也會蔓延到這裡。無法準確言明的未知恐懼，但你能從那些前往南方的人的臉上讀出些什麼來。絕望...恐懼...現在我們這裡也充滿了這些情緒，並在黑谷紮了根。市長也表達出了類似的擔憂，特別是最近出現的一個吸引了眾多追隨者的陌生宗教。他們會是最近失蹤事件的幕後黑手嗎？{^n}{^n}-文森特·尚布爾，黑谷的和平衛士
+
+tagLoreObj_AreaCDarvale_NoteA04Name=扎裡亞的日記 - 第一頁
+tagLoreObj_AreaCDarvale_NoteA04Text=所有的事情都遵照血領主的意思進行。我在這座小鎮長達一年的藥劑師身份贏得了人們的信任，現在我正處於一個完美的境況來傳播我們的事業。而那些拒絕聆聽和信奉冥神的傢伙，我作為治療者會很容易地取走他們的性命而不被懷疑。一點來自阿斯特堪龍葵根莖的粉末新增進藥方中，就能讓任何人昏睡數個小時。{^n}{^n}然後，解決反對者並執行儀式就非常簡單了。對於每個回歸冥神的人，我將冥神的魔印刻進了他們的血肉之中。對我而言這是鮮血儀式初始時最重要的一步。血液從頸動脈的裂口處快速流乾並淌入特別準備的橡木桶中，這個木桶是另一個被血領主祝福的木匠為我制做的。雖然不像我們之前準備的玻璃瓶那麼漂亮，但更能避嫌。屍體儲存在另一個桶中，上面壓著石塊，然後沉入湖底。在去年，幾乎所有加入祭品的死亡事件都沒有懷疑到我們頭上。{^n}{^n}但現在，隨著偽神的僕從抵達首都並在整個帝國散播浩劫，我們是時候揭開面紗並指引人類踏上前往末日的道路了。一切都將重組！{^n}{^n}-扎裡亞，黑谷藥劑師
+
+tagLoreObj_AreaCDarvale_NoteA05Name=扎裡亞的日記 - 第二頁
+tagLoreObj_AreaCDarvale_NoteA05Text=血領主派來的信使告訴我說大墓地內的復甦儀式已經開始了。是時候佔領這座鎮子了。這裡的長官和他的和平衛士會最先被剔除。他們掛了，剩下的平民就會接受我們的教義或是被收割而為儀式所用。我已經派出忠誠的血誓前往黑谷門設障，將難民堵在裡面。他們到時全都會為儀式提供能源。{^n}{^n}這裡的消息一旦傳到黑色軍團那裡，我們就得準備面臨反抗了。我會親眼看到留在黑谷內的那些驚恐與冥頑不靈的傢伙被轉化的。如果他們不願加入我們的事業，他們會被吊起來並放血，以此對那些還未作出選擇的人殺雞儆猴。{^n}{^n}他們都會明白，沒有比在血領主的庇護下更安全的地方了。他們也會明白，南方也沒有淨土了。我們的真正歸屬只有冥神那溫暖的懷抱。{^n}{^n}-屠刀 扎裡亞
+
+tagLoreObj_AreaCDarvale_NoteA06Name=澡堂
+tagLoreObj_AreaCDarvale_NoteA06Text=收集鮮血的進度慢到讓我發瘋，所以我搞了個雙水槽系統，在公共浴室的水管上安裝了一個開關。現在我們能將澡盆裡的水引流回水槽裡了。但當我啟動開關時，水卻流向了次水槽，那是儲存鮮血的地方。然而，帶鉤子的輪滑系統仍是極好的。在不啟用的時候它就會隱藏起來不被發現，但當我們準備獻祭的時候...{^n}{^n}扎裡亞給我提供了龍葵根莖來與浴鹽溶在一起。混在熱水裡，它就能讓客人們沉睡。然後我們把水放干，進行儀式，啟動開關並集中祭品，沒有一點浪費。這費了點工夫，但我很自豪。這是批量收集的第一步，這會加速進程的。我已經等不及要告訴其他人了。{^n}{^n}赫若德·費爾德文，黑谷木工
+
+tagLoreObj_AreaCOldGods_NoteA01Name=奧斯特拉姆的手抄本
+tagLoreObj_AreaCOldGods_NoteA01Text=我無法在書中找到任何關於這件石雕的參考訊息。上面的銘文與我們記錄在案的都不相符。這種語言很可能超過一千年都沒人說起過了。那個被遺忘的神靈曾在此被供奉？還有，為何我們什麼都不知道？可怕的刻痕描繪了一副令人毛骨悚然的場景。這是一名邪神嗎？一定不是至高之神。{^n}{^n}三巫神也並不會這樣，而且，也從未聽說他們會接受這種信仰方式。他們更喜歡秘密地點，不為常人所知且日光無法照耀到的地方，他們的信徒也不用擔心巫師集會會被光明會發現。{^n}{^n}在我印象中，一千年前，帝國已經在血腥變革中鎮壓了所有在厄洛蘭的異教徒。審判官們都收到了十分周詳的死亡名單統計。那麼已經沒有倖存者能夠調用這些石頭中所蘊含的力量了？{^n}{^n}而整塊石頭摸起來還很溫暖，火炬也很光亮，就好像有人定期來此一般。這件雕像充滿了一種奇怪的力量，使我脊背生寒。或許這裡還是不要碰的好，以免我攪動了存在於這處遠古之地深處的什麼東西。{^n}{^n}耐茲密特·奧斯特瑞姆，白銀之塔首席作家
+
+
+
+#AreaD Notes 可閱讀的筆記
+
+tagLoreObj_AreaDSecret_NoteA01Name=可怕的發現
+tagLoreObj_AreaDSecret_NoteA01Text=地震對墓地上層造成了一些破壞。骨架裂開，墓穴破碎，大堆的土石散落各方，而且有座橋完全的坍塌了。對我們來說這是非常可怕的消息，因為我們必須選擇那條被遺忘的道路才能到達墓地最深處。我最怕的實際上就是最探索深處的地方。我對死亡並不陌生。我曾清理戰場並在鮮血中前行，將在戰鬥中犧牲的英雄重新縫合完好。然而，這處神秘的地方充斥著被詛咒的骸骨以及許多無法名狀的詛咒，我感到自己的皮膚在蠕動，靈魂在尖嘯。我踏下的每一步都讓我想逃離這個邪惡之地。{^n}{^n}我多次提議說帶著遺物與這麼多邪惡之人待在一起是十分不明智的，但到現在為止我的建議都被無視了。罪犯，巫師，異端，被詛咒者，殺手以及瘋子都潛伏在這裡。我能感受到他們惡意的靈魂瀰漫在我們周圍的空氣之中；推到破裂的牆面；向黑暗之地叫喊；懇求虛空的生物來尋找監獄並釋放出困在此處數個世紀的惡魔。{^n}{^n}我已經在墓地下方發現了一處巨大的裂隙。一些牆面已經倒塌並墜入了下方的黑暗中。在地板和牆面上都有劃痕，好像每一塊都被什麼東西劃過一樣。我也在上面找到了一些帶有奇怪符號的骨頭，貌似是被動物咬的。我聽到牆內有聲音傳過來，像是有人躲藏在附近的黑暗中。某種邪惡的東西正在光亮範圍之外指引著陰影。我最擔心的可怕之事發生了，我必須逃走並警告其他人。{^n}{^n}死屍看守者，阿萊斯特·潘克洛夫
+
+tagLoreObj_AreaDCatacomb_NoteA01Name=有始有終
+tagLoreObj_AreaDCatacomb_NoteA01Text=觸目驚心。像一隻被困的老鼠一樣陷進了這裡。我寫下這些內容，或許我能夠復仇。這很可能不會被人發現，但如果有人讀到了這些，就能知道馬爾沃克·布瑞弗利是個狗日的叛徒。{^n}{^n}我是納薩·尤恩崔茲。我是從外地來的，並且我毫不羞愧的說，我是一名盜賊兼殺手。我現在告訴你這些，可以讓你明白我接下來要說的都是實話。我受到一名叫做馬爾沃克·布瑞弗利的貴族的秘密僱傭。他的大部分任務都是為了利益而竊取關鍵訊息和材料。我已經撕裂了他的至少三名競爭對手或代理人的喉嚨。我進入了馬爾沃克的上司的房間並放下了某些罪證。這導致了那人被捕，馬爾沃克取代了他的位置。這些都不新鮮了。同樣的事情發生在世界上所有富人和詭計多端的貴族之間。{^n}{^n}更近的事情，他要我去找到他父親墳墓中的一個祖傳之物。家族的印章戒指。一件並沒有像他說的那樣被掩埋的東西。但父子間的辯論導致了一個魯莽的決定。我不在意原因，他的決定一向很正確，但我什麼也沒說，就任他說。他繼續說了下去「這座墓地揮霍了家中大量的財富。不要碰任何東西。我不會付錢讓你去搶劫我的祖墳。你只需要找到我父親的戒指並帶回來。記得帶根火炬。沒有光亮很難從那樣的深處逃離。不得到戒指就不要回來。」{^n}{^n}我很容易就找到了入口，但它只是個通往黑暗的階梯。點燃火炬之後，我進入了墓穴並在這些大廳走廊中遊蕩了幾個小時，在數不盡的死屍中尋找著那個名字。最終我放棄了。但我不能空手而歸。我是被派來找東西的。我向黑暗之處越走越深。這裡有一些財寶，但都不是他要找的。我繼續前進，忽略了我背後的危險。{^n}{^n}當我察覺到火炬開始搖曳的時候，就好像自己把自己背叛了一樣。馬爾沃克把我當蠢貨一樣戲弄。他那頗有居心的措辭刺痛了我的自尊心，並以此來確保我在尋找印章的時候會忽略任何危險。還有要帶個火炬的「溫馨提示」，我就像笨蛋一樣帶了一根。{^n}{^n}我在這裡寫下最後的內容。現在我明白什麼是欺詐了。消失是最後的結局。我的光明消散了，我也一樣。{^n}{^n}納扎恩
+
+tagLoreObj_AreaDSecretPrison_NoteA01Name=保密工作
+tagLoreObj_AreaDSecretPrison_NoteA01Text=先生們，{^n}{^n}我寫下這份報告來告知你們，在等待了十年後，墓地的工程已經到達了最深處，我們終於可以準備第二階段了。我申請了更多的奴隸來製作帶有符文封印的箱子，它們將被運往建造點。我親自監管每一次的運送，並且必須通知你們一件不幸的事情。{^n}{^n}一輛馬車失去了一個車輪，還有一個箱子受到損傷並使得封印破壞。這會導致洩漏。駕車者堅持幫忙，無視我不要去碰箱子的勸說，然後被洩漏出的膿水沾到了身上。我立刻解決了這個可憐的蠢蛋，相比那些邪惡的液體會產生的後果而言，這是很仁慈的了。我遏制了損傷並向他的家庭進行了賠償。除了這不幸的事件，就沒有其他導致延期的事情了。遺骸被安全的儲存在墓地底部，直到這座監獄建造完畢。{^n}{^n}我已經把你的文件交給那個負責建造的上了年紀的建築師，他對帝國的法令持有保留意見。然而，在我到達那裡幾個月的時間內，他一直在重申我們要做的是被其稱之為偉大工程的項目。我表示這項工程是不明智並且缺乏安全性的，但他十分頑固。赫默爾·利斯塔瑞有一個家庭，也或許是迫使他就範的一種手段。不幸的是，我怕他的好奇心會趨勢他讓我們在工程完結前就採取嚴厲的措施。{^n}{^n}維斯提亞瑞斯，帝國秘術師
+
+tagLoreObj_AreaDSecretPrison_NoteA02Name=囚禁
+tagLoreObj_AreaDSecretPrison_NoteA02Text=他們承諾給我們自由。用十年無比辛勞的苦力換取自由。但我今天知道我們都要死在這裡了。昨天晚上，在我們睡覺時，他們拿走了所有的工具和食物。前往大堂的入口被岩石堵住並傳來神秘的聲音，像是一群黃蜂在飛舞。{^n}{^n}我們被封印在了這個地方，除了有符文覆蓋的箱子外別無他物。它們上面有腐敗的水汽，會刺痛你的鼻孔。我無法注視它們上面的文字太久。它們會灼燒眼睛並模糊視線。我不認為應該打開他們，但是其他人開始餓了，然後希望有食物在裡面。我知道裡面不會有的。我體內的每一塊肌肉都告訴我必須盡量遠離這些箱子。印在它們上面的符記，和命令我們刻在室內牆壁上的那些是一樣的。{^n}{^n}我確定這裡是類似監獄的地方，用來儲存那些容器裡緩緩滲出的東西；現在連我們也一起困在這裡了。我應當在戰場上戰敗，並目睹同伴們死去。但這樣死？這絕對不是一個好男兒的死法。
+
+tagLoreObj_AreaDAlpine_NoteA01Name=南方之旅 - 第一頁
+tagLoreObj_AreaDAlpine_NoteA01Text=*這本筆記被血液和泥土粘的濕乎乎的，而且很多頁似乎被故意撕了下來。*{^n}{^n}第三天：約翰一邊駕著馬車一邊用單手夾著希爾維。他很高興的告訴我們幾天後就會到達山脈。這意味著離開家園，但我更希望能遠離北方不斷增長的危險，過上更好的生活。{^n}{^n}第四天：希爾維很高興，繞著馬車周圍采起花來。我真的非常擔心離開她所熟知的家園會讓她情緒低落。青春充滿了奇跡和光彩。這溫暖了我的心靈。{^n}{^n}第六天：山脈就在眼前了，氣候也變得非常寒冷。我能看到約翰臉上的擔憂，儘管他努力的保持鎮定。我知道他只是想保護我們，我能做的只有祈禱在大雪來臨前穿過山脈。{^n}{^n}第八天：我們已經進入了山脈區域，白晝的時間也變短了。開始下雪了，突如其來的寒冷讓我們很驚訝。我們有保暖的衣物，但寒風卻直接透過了它們。{^n}{^n}第十一天：我們已經到達了一座堡壘的平地上。這裡還有其他的旅行者，他們說前往黑谷的道路被阻斷了。隨著食物的消耗，我們決定去黑谷門的商業區進行補給。現在我不知道該做些什麼。沒有回頭路可以走，而且就快下雪了。約翰說他要去和其他人談談。{^n}{^n}第十六天：今天我們的馬死了。約翰為此非常傷心，但這至少能夠為我們提供食物直到救援抵達。我心裡很不好受，我們必須帶著希爾維一起進行這樣的旅程。她只有九歲，而且我很討厭營地裡的其他人看她的眼神。{^n}{^n}第二十二天：所有的馬肉都吃完了。如果沒有和別人分享，我們會堅持更久的。但約翰說如果不那麼做，事情會變得糟糕透頂。我不願去想他所說的到底是什麼意思。
+
+tagLoreObj_AreaDAlpine_NoteA02Name=南方之旅 - 第二頁
+tagLoreObj_AreaDAlpine_NoteA02Text=第二十八天：願眾神保佑我們。我們得餓著肚子了。我整個早晨都在樹林中尋找堅果和蟲子來吃。我無法相信自己居然會在找到蟲子後吃掉它們，而且不會為此感到丟臉。在我回到營地時發現約翰殺了一個想攻擊我們女兒的人。{^n}{^n}第二十九天：約翰給了希爾維和我一點肉。我沒問他是從哪裡搞到的。{^n}{^n}第三十天：其他人詢問他們的朋友發生了什麼事情。約翰說那個人想殺死我們的女兒，然後給了他們一些新割下的肉。他們拿了肉然後一言不發的離開了。友情在這種時刻難道就毫無意義了嗎？{^n}{^n}第三十六天：約翰把希爾維賣給了營地中的一個人。當這個人進來交易的時候，約翰在我和希爾維面前殺了他。我已經餓到感受不到害怕了。{^n}{^n}日期不明：很難再寫下去了。麻木的手指和冰寒的天氣使我的思維遲鈍。山脈中的黑暗很容易掩蓋時光的流逝。{^n}{^n}日期不明：另一個人被引誘進了我們的帳篷。這是一個用食物換取溫暖的交易。他們一定知道這是個陷阱。或許他們已經準備好去死了。甚至在他們走向屠刀時仍然在欺騙自己。{^n}{^n}日期不明：我們的下一位訪客知道會遭受攻擊。約翰還是殺了他，但自己也受了很嚴重的傷。他可能活不過當晚。我發現我並沒有想像中那麼害怕。我所能看見的只是可能的血肉食物。天哪，我到底是怎麼了？{^n}{^n}日期不明：約翰堅持得比預期要久，更消耗著我們的食物。我「照顧」好了他。現在我們有了很多天的食物。
+
+tagLoreObj_AreaDAlpine_NoteA03Name=南方之旅 - 第三頁
+tagLoreObj_AreaDAlpine_NoteA03Text=日期不明：希爾維餓了。她帶著怨恨，帶著惡毒。我那天真純潔的女兒去哪了？為什麼我毫不在意了？要注意了。但我沒有任何觸動。{^n}{^n}日期不明：營地裡已經沒有人了。都走了。我們必須前進。冰凍的雪，難以掩蓋血跡。但很容易被掠食者發現。{^n}{^n}日期不明：更難寫下去了。除了飢餓什麼也想不了。{^n}{^n}日期不明：路旁的新居所。很容易引誘去往南方的旅行者。他們要尋找安全的居所。但他們永遠都找不到了。{^n}{^n}日期不明：又沒食物了。我鼓動希爾維去找人並帶來這裡並當作食物。她愉快的答應了。約翰死了，現在殺人的活得我來幹。{^n}{^n}日期不明：太餓了。不用再為做飯苦惱了。{^n}{^n}日期不明：今天和一個女性談話了。在我們吃她的時候仍然活著。滿嘴的血。她問為什麼要這麼做。我只說了：「餓。」希爾維為我們在吃她的時候仍然在說話而感到好笑。{^n}{^n}日期不明：頭髮不斷掉落。不用在意。{^n}{^n}日期不明：不會再有人被引誘進來了。他們知道等待他們的是什麼。沒關係。我們去追。{^n}{^n}日期不明：希爾維現在是個很熟練的獵手了。我也是。或許應該感覺很糟糕，明白那是錯誤的。但填飽肚子的感覺真好。{^n}{^n}日期不明：感受到極度的寒冷。血液都凍了起來，碎片切割著嘴唇和牙齦。我不在乎。{^n}{^n}日期不明：追捕人類。恐懼使血肉更美味。很好。{^n}{^n}日期不明：太餓了。必須找到更多食物。{^n}{^n}*餘下部分完全無法辨認了。* 
+
+tagLoreObj_AreaDNecropolis_NoteA01Name=墓地授權書 - 第一頁
+tagLoreObj_AreaDNecropolis_NoteA01codexTitle=墓地 - 第一頁
+tagLoreObj_AreaDNecropolis_NoteA01Text=我被委託建造一個宏大的陵墓來貯藏成千上萬在西部發生的戰鬥中死去的人。這將會是我的傑作。這項工程將會持續幾十年，根據我的年齡，我很可能無法活到完工的那天。{^n}{^n}我開始在腦海中刻畫藍圖。墓地的主體將以一面巨大的井為中心，那也是埋葬大部分死屍的地方。我們需要搬運的泥土量是極其巨大的，但死者們城市中的倖存者將會提供幫助。當這部分完成時，一個小型的政府部隊會小心的收集屍體，起草身份識別的文書並準備臨時的埋葬。亡者們需要很多年才能被埋葬到合適的地方。{^n}{^n}我們已經開始建造臨時的萬人塚來儲存他們。一些家屬堅持要取回遺骸，我並不反對，但我想不通為何他們不想讓愛人們埋葬在這裡，這處獲得偉大勝利的地方。我要提一下的是敵人的屍體被裝運到敵國邊界，他們愛咋咋的。我並沒有對他們的死亡表示不敬，但很坦白的說，那不是我們的問題。{^n}{^n}數千工人被委託在此挖掘，搬運和雕刻岩石。伊露蘭是從哪快速找到這麼多身強力壯又願意工作的人，這是顯而易見的。奴隸。從帝國礦井中買來，或是從戰爭中俘獲的戰俘。這令人很不爽，但確實有太多的事情要完成。{^n}{^n}如此多的事情要考慮和準備。我迫不及待地要開始了。我現在只希望我的妻子兒子在這裡。這裡很多年內都比不上一個礦業城鎮，但這裡實在是太重要了，我不能將它委託給其他人。{^n}{^n}大建築師，何馬爾·利斯塔瑞
+
+tagLoreObj_AreaDNecropolis_NoteA02Name=墓地授權書 - 第二頁
+tagLoreObj_AreaDNecropolis_NoteA02codexTitle=墓地 - 第二頁
+tagLoreObj_AreaDNecropolis_NoteA02Text=十年後，逐漸為人所知的墓地，完成度已經過半了。遠超我早先的預計。儘管我不能說沒有併發症。{^n}{^n}當一名來自伊露蘭政權的代理人出現並在未經我允許的情況下重新分配人手和裝備時，我感到很震驚。很顯然，帝國要在我原先的設計下方增添一個新的密室。這使我畢生的心血！我完全不在意帝國會支付我多少報酬。我不會答應的。{^n}{^n}在過去的七個月中，我提交了一些不快的信件給伊露蘭理事會並闡述了我的不滿。沒有任何回應。每次都都能見到那個卑劣的傢伙，維斯提亞瑞斯，在這項工程上我們意見分歧很大；而每次他都以同樣的話來回應我：「你讓伊露蘭政權非常失望。如果你對我的職責有意見，那你來負責。」嗯，那樣他們就能無視我了。這是我的夢想，我不會允許它被其他人染指。我不在乎會耗費多久。我會查出他們在這下面要做什麼，並會加以阻止。{^n}{^n}大建築師，何馬爾·利斯塔瑞
+
+tagLoreObj_AreaDNecropolis_NoteA03Name=墓地授權書 - 第三頁
+tagLoreObj_AreaDNecropolis_NoteA03codexTitle=墓地 - 第三頁
+tagLoreObj_AreaDNecropolis_NoteA03Text=我的父親何馬爾·利斯塔瑞，已經死了。在他開始偉大工程的二十年後，終於竣工了。對他而言，不能親見其完工是一個巨大的不幸，僅僅在幾天前突然去世。他身強體壯，如此突然的死亡讓我感到有什麼事情不對。我非常悲傷，而後對於我幫助了他完成這項偉大設計而充滿了自豪與喜悅。帝國政權同意將他埋在此地，能和這麼多英勇的帝國守護者共勉於此，這對我們家族而言是一項偉大的榮耀。{^n}{^n}至於我，正在設計我父親的陵墓，然後繼續下一個委託。我接到了一個建造連接被我們征服的北方領地與安克維亞南部的巨型隧道的任務；這項工程或許不如墓地宏偉，但它會是我的作品，我將要替代父親繼續完成事業。{^n}{^n}我想留下來監督我父親陵墓的修建工作，但命令很明確的要求我即刻啟程。我並不太明白為什麼這麼著急和堅決。我幾乎認定他們是想強制我離開。{^n}{^n}助理建築師，莫丁·利斯塔瑞
+
+tagLoreObj_AreaDIkon_NoteA01Name=黑色軍團偵察報告: 墓地
+tagLoreObj_AreaDIkon_NoteA01codexTitle=墓地偵察兵
+tagLoreObj_AreaDIkon_NoteA01Text=指揮官盧修斯指派了一項北邊的偵查任務。當我問道我們要找尋什麼的時候，他幾乎失去了理智並說道「任何可能會導致騷亂的東西」。他的反應相當的不合理也很奇怪。指揮官平常不是這麼暴躁的人。他的用詞「騷亂」也同樣令我感到奇怪。{^n}{^n}我帶著偵察兵小隊穿過北門並幾乎立刻看到了有虛靈在活動。我們改變了路線，向小山丘前進而不是在大路上走動。這會多花點時間，但也避開了大量的虛靈。他們似乎在北邊聚集並準備發起進攻。與我上次巡邏時相比，他們的數量極大的擴增了。返回的路途會變得困難。我派出一名偵察兵立刻回去報告這項消息。{^n}{^n}向北前進我們會經過墓地。從山頂上俯瞰並沒有發現什麼異常情況。我們盡可能遠地進行了偵查並發現了遍佈各處被詛咒的血腥邪教徒。避開他們使得我們放慢了速度。我們看到了一個奇怪的現象：邪教徒似乎在大量地收集鮮血並用裝著大型玻璃箱的馬車去搬運它們。我們跟隨了一小段路以期發現它們會被運往哪裡，但卻暴露了行蹤並被迫撤退。{^n}{^n}黑色軍團第一偵查團，馬休斯·卡斯塔蘭中士
+
+tagLoreObj_AreaDIkon_NoteA02Name=聖像堡報告的彙編
+tagLoreObj_AreaDIkon_NoteA02codexTitle=聖像堡報告
+tagLoreObj_AreaDIkon_NoteA02Text=在軍械庫的爆炸發生後我回來找到幾份一周前的報告並從中摘錄了一些與此相關的部分。我把它們釘在了一起並重新整理。我這麼做是希望能解釋為何會發生這種事情並能夠做些什麼去避免其發生。這是假設我們都活著的情況下。{^n}{^n}-弗萊德瑞克·貝克尼爾隊長{^n}{^n}報告1：來自北面城牆的夜間視察：當我在上部城牆巡邏的時候看見了一個人進入了軍械庫。如果不是他鬼鬼祟祟的四下張望以保證沒有人會看見他進入門內，我是不會注意到他的。庭院裡的火炬出了點問題，我沒能看出那是誰。{^n}{^n}報告2：來自軍官的視察報告：一些人失蹤了，我們猜測他們已經叛逃了。一次對聖像堡內部以及周邊地區的搜查並沒有發現任何關於他們的跡象。偵察兵沒有發現任何跡象並推測這些人並沒有離開堡壘。{^n}{^n}報告3：來自武器大師的報告：我已經找到了失蹤的裝滿黑火藥的十個小木桶和五個大木桶。很難對這些失蹤的供給作出解釋，因為整個軍團只有5個人有打開黑火藥儲藏室大門的鑰匙。指揮官盧修斯在收到這令人擔憂的報告後親自率部進行搜查，從最底層到塔的頂端，一無所獲。
+
+tagLoreObj_AreaDIkon_NoteA03Name=軍械庫爆炸調查
+tagLoreObj_AreaDIkon_NoteA03codexTitle=軍械庫爆炸
+tagLoreObj_AreaDIkon_NoteA03Text=這是我關於破壞北部大門的重型炸藥的最後一份報告。這是由上周的各項報告彙編而成的。{^n}{^n}為了建立一個損傷報告以及死亡統計，我組建了一個五人小隊並帶領他們進入破碎的聖像堡深處。這場爆炸似乎炸毀了下水道，軍械庫裡充滿了噁心的氣味。這種狀況阻擋了我們的去路。羽毛狀的煙霧降低了我們的視線並使得空氣嗆人。破碎的牆面，支撐以及台階有著進一步倒塌的危險。爆炸的集中點似乎位於軍械庫下方的支撐上。在廢墟的底部我們發現了一些死人，被燒得面目全非。他們似乎就是前陣子失蹤的人。{^n}{^n}我的調查顯示這些失蹤的人使用偷來的黑火藥炸開了通往下水道的路，想以此逃跑。在報告的結尾，我提出兩點擔憂。第一點是：其中的一個人是爆破磚家，應該能意識到如此多的爆炸物造成的破壞效果。就本身而言，我不認為這個細節有第二個理由，如果不是則我的第二個擔憂是：這些人中的另一個是軍團中將近八年的老兵，並且與指揮官有些衝突。事實上，他應當會很快被提升至指揮官的位置。這裡有些事情不對勁。據說破壞是從內部發生的，但誰能設計加害這些人？在沒有更多訊息的情況下，我不能斷定發生了什麼，但直覺告訴我這裡一定發生了比表面上看起來更複雜莫測的事情。{^n}{^n}弗萊德瑞克·貝克尼爾隊長
+
+tagLoreObj_AreaDIkon_NoteA04Name=匿名信
+tagLoreObj_AreaDIkon_NoteA04Text=根據你的指令，我已經成功地滲入了堡壘。諷刺的是這個要塞的指揮官是我遇見過意志最弱的人。他的思想內有大量的騷動與恐懼，他很容易操控和鎮壓。在我完全控制他的身體時，在這片區域的某些東西干預了直接通訊，某種古老的，感染的東西。任何能夠作出這種事情的人都需要進一步的調查。我現在寫下了這份信件，以便其他人能調查這件事。{^n}{^n}都說聖像堡對我們來說是不小的挑戰，現在我知道為什麼了。人類聚集的大量武器裝備與戰爭機器貯藏量是驚人的。他們居然沒有在對戰爭的無盡追捧以及自我毀滅中滅亡，這真的很奇妙。不過，一切都向我們的宏偉計劃邁進。我已經著手安排接近他們的軍械庫並將證據引向一些叛逃者。沒人會懷疑我牽連在內。{^n}{^n}但讓我覺得有必要向你報告的主要原因是一個意外的發現。有個不尋常的揭秘者，混跡在這些人類當中，甚至現在還與他們分享我們的計劃。我們已經調整了在此區域內的計劃，確保這個揭秘者暴露的內容對於人類來說毫無用處，但它對我們的瞭解仍然對我們征服這個世界是很不利的。目前，我已經在人類中間散播了質疑揭秘者的種子，他們產生了巨大的恐懼並因此而將其關進了監獄，它會死在那的。一旦我的破壞活動完成並把大門打開了，聖像堡就會陷落。然後我們就能處置這個史無前例的叛徒了。
+
+tagLoreObj_AreaDCultist_NoteA01Name=鮮血噴湧
+tagLoreObj_AreaDCultist_NoteA01Text=我正在搬運的鮮血就像翻過來的杯中水一樣。它擠壓並爬上了玻璃杯的邊緣，試圖返回到來源中去。要不是蓋子夠緊，它們是不是會噴發出來？鮮血會從空中橫移並返回到呼喚它回歸的人體內嗎？{^n}{^n}我承認揭開其中一個封蓋需要非常堅強。但我的罪惡更加強大。這是我需要通過的一項測試並開啟通向神之領域和傳說的道路。數世紀的沉睡就快要結束了。當羅霍里恩甦醒時，異教徒們都會因對其的不信仰而遭受痛苦。{^n}{^n}秘術師 薩祖爾
+
+tagLoreObj_AreaDCultist_NoteA02Name=大門已開
+tagLoreObj_AreaDCultist_NoteA02Text=有什麼改變了。空氣中瀰漫著不一樣的氣息。就像是身處於當瓶蓋突然爆開時的瓶子中，所有的壓力都被釋放出來，我的靈魂也在爆發中被拉出了身體。我的意識有些模糊，而且站立不穩。{^n}{^n}我能感受到它。在大地深處，他們已經完成了最後的儀式，打開了大門。血液在我體內澎湃。擠壓，拉扯。吸引我靠近。我必須目睹這偉大的甦醒。如果我被選中了，我時刻準備再次為冥神獻身。{^n}{^n}秘術師 薩祖爾
+
+tagLoreObj_AreaDCultist_NoteA03Name=清晰的勇氣
+tagLoreObj_AreaDCultist_NoteA03Text=隨著所有的惡魔都被釋放到這個世界，加入血誓似乎是這個時期很明智的事情。起初，主要是為了逃離虛靈的恐懼，我的家族，妻子，兒子都死了。但之後我就開始明白了邪教首領對我所說的話的含義。強烈的歸屬感讓我感到很重要，我應該屬於比自身更偉大的團體。{^n}{^n}我現在位於這處宏偉之地的大廳內，我能感受到所有那些獻出生命的人的目光：領導者，偉大的英雄以及無數隨他們而去的人。正是由於他們的犧牲我們才能安然生活，我如今也正為他們服務。我能感到祖先們的榮耀與犧牲，這使我很慚愧，羞愧於我曾經在道路上留下的恐懼。{^n}{^n}我曾經好幾個月都干了邪惡與無法言表的事情。僅僅是為了自私自利，我的雙手沾滿了男女老少，子女妻兒的鮮血，用我的恐懼與巨大損失來洗刷罪惡使我陷入了瘋狂。死亡與謀殺，這一切都是以某些死去已久的神靈的名義進行的行動，但他們現在已經無法主宰我體內的血液了。那些原本屬於被我殺死的人的血液。{^n}{^n}浸透了這處被遺忘的戰場的血液使我脫離了恐懼並將我喚醒。我所做的事情無法原諒，沒有任何處罰能夠洗刷罪惡。但我會用盡最後一次呼吸，最後一滴鮮血來阻止他們。我不是一個人在戰鬥。偉大的英雄們與我同在，我感受不到害怕。
+
+tagLoreObj_AreaDCultist_NoteA04Name=最後的封印
+tagLoreObj_AreaDCultist_NoteA04Text=我們最終站在了染血的勝利之門面前。羅霍里恩將會很快甦醒，它會引領我們進入一個新的時代。就是你，我的忠誠祈願者，鋪就了我們的成功之路。你的奉獻和獻身使我們到達勝利之門，我會看到我們通過的。{^n}{^n}古人們下定了決心要建造這處終極密室。一百名帝國最出色的秘術師在此陪葬來增強到如今還用於羅霍里恩之墓的符文封印上。他們相信犧牲是值得的，封印將會牢不可破。但我有一支數千人的部隊帶著死神之力對其發起了衝擊；一股無法遏制的力量。{^n}{^n}我很高興地用刀割破最忠誠信徒的喉嚨，感受生命鮮血的湧出；他們那欣然為最終時刻付出的鮮血。在他們鮮血之力的幫助下，我破開了最後的封印並開始了儀式。很快，羅霍里恩就將從長眠中被喚醒。這個世界將再次在冥神之口的凝視下顫慄。{^n}{^n}讓鮮血流淌吧！{^n}{^n}塞隆尼斯，冥神的血領主
+
+
+#Witch God Shrine Notes 巫神聖殿筆記
+tagLoreObj_WitchGods_NoteA01Name=隱藏之路 - 德理格
+tagLoreObj_WitchGods_NoteA01Text=歡迎，真理的探索者，來到這個知識的堡壘。你已經踏出探索藏匿在深處的真理的第一步，就像在你之前的兄弟姐妹們一樣。展現在你面前的是一個難以置信的道路。你將會受到迫害來作為你的實踐，像動物一樣被光明會所獵殺；但要堅持下去，要忍受我們的守護者所忍受的審判，這就是通過怪異位面獲得真正力量的方法。{^n}{^n}你從德理格的神殿開始，三巫神中最古老的一位。偉大的守護者渴求知道一切，看見那蒙蔽了所有人的晶壁後的真相。在傲慢，也許是遠見下，他拋棄了古老的警告和他的同輩的告誡。德理格進入了晶壁之後見證了神的創造。因他的傲慢，他曾變得盲目，但那時他才真正的睜開眼睛看清世界。暴露在怪異位面中原生的魔力之下，他被永久的改變了。他的血肉被殘忍地刺穿了，從潰爛的傷口中滴落著無盡的酸性血液。從晶壁後面回來的那個東西和之前進去的人沒有任何相似之處。德理格重生為了……一個神明。{^n}{^n}德理格現在守望著我們所有人，他那無可匹敵的目光刺穿了我們的靈魂本質，看見了我們的真實樣貌。站在偉大守護者之前就是種無需競爭就可獲得的榮耀，聽到他的聲音就是種來自天堂的祝福。如果你真的值得他的注目，那麼沿著三巫神的隱藏之路前進：走在安克維亞邊境的破碎大陸上，隱身女妖吞食可憐人血肉的地方。尋找被巨石阻擋的道路。如果你攜帶著德理格的訊息，道路將會為你打開。
+
+tagLoreObj_WitchGods_NoteA02Name=隱藏之路 - 索拉爾
+tagLoreObj_WitchGods_NoteA02Text=探索者，你已經前進的很遠，也看到了不少，但是世界間的晶壁仍阻止看清真理。你在我們居住的世界蹣跚前行，渴望知道帝國與光明會所否認的答案。他們認為我們是異教徒，追隨著偽神，但是他們沒有一個能站出來聲稱目睹了他們神明的力量。他們的……幻想展現了曼海爾治癒的殘疾；奧萊隆碾壓的軍隊；莫格卓根所拯救的野獸。你不能相信這些，因為他們都不是真的。但是由人晉陞的巫神已經冠冕，為了讓我們擺脫愚昧。若你願意去聆聽，他們亦會拓展你的眼界。{^n}{^n}你現在站在索拉爾的神殿之前，三巫神中最年輕的一個。怪異之火遵循著他的意願，怪異位面的重要元素被他塑造成他認為合適的樣子。黑色長袍後是他瘦弱的身體，索拉爾沒入暗影消失不見，為了活力而獵殺不知情的凡人。許多向索拉爾的祈禱都會回應以極大的犧牲，被呈現到這黑暗之神面前的人會被奪走他的生命這樣其餘的人就會獲得索拉爾無盡的智慧。{^n}{^n}你，尊敬的探尋者，雖未被神明所注意，但你走的每一步都在使自己更靠近三巫神。去前往北面的冰封大陸，原始部落早已立好岩石的地方。帶著索拉爾和德理格的訊息，道路將會為你打開。
+
+tagLoreObj_WitchGods_NoteA03Name=隱藏之路 - 褻瀆
+tagLoreObj_WitchGods_NoteA03Text=你面前的景象可能會使你停止前行，探索者，確實這裡是莫格卓根愚昧的追隨者開啟他們信仰的地方。褻瀆者進入了我們的儀式，污染了神殿並以我們的秘密來威脅我們。復仇是迅速且合適的。後來得知他們的內臟散落在山谷之中，被雪山野人所爭奪。{^n}{^n}無需恐懼，隱藏之路的探尋者，前行的道路暢通無阻。回到阿斯特坎山道並延其向東南前行。在軍團壁壘之下，標記的石頭正等著你。若你真的是被三巫神派至此地，那麼通往拜斯邁的路將會為你打開。
+
+tagLoreObj_WitchGods_NoteA04Name=隱藏之路 - 拜斯邁
+tagLoreObj_WitchGods_NoteA04Text=終於，勇敢的探索者，你來到了最後一個神殿，謀士拜斯邁的聖地。通過她龐大的僕從網，拜斯邁掙脫了束縛了我們所有人的命運線。她被認為是第一個擅長於奴役怪異生物的神秘學者並也是因為她的謀略的帝國至今依然對於獵殺我們無從下手，他們的審判官被編織出的無盡的誘餌和死路所愚弄。只有少數被選中的人才能有幸目睹龐大網路中的一部分，並且就算給予機會他們也無法完全理解。{^n}{^n}前行這麼遠後，你也知道了拜斯邁網路中的一部分，永遠被你所看所聽之物所束縛。你手中已經有了三巫神神廟的秘密。如果你想向三巫神展現你的存在，就按照其中所包含的線索。你的命運正在聖地之中等待著你。
+
+tagLoreObj_WitchGods_NoteA05Name=符文漸滅
+tagLoreObj_WitchGods_NoteA05Text=符文逐一破滅；並且每個落難的線人都在消耗著我的資金。世界在我們周圍崩潰並導致神殿牆壁劇烈搖動。所幸三神殿沒被侵襲。此時有兩次我看到侍者的房間放出了使者，他們鏤空的眼窩發著怪異火焰。不，他們不是為慶幸而來。{^n}{^n}我已經可以聽到索拉爾的臣僕中詭計多端的竊竊私語，設想如果一旦時機成熟，與我們解散盟約並尋求在我們面對這一新的環境時壯大自己的機會。我閉關的原因是為了震懾這群愚人。他們沒在意；呼聲最高的反對者已經提供了索拉爾的祭壇。德理格的的奴僕還和以前一樣神秘，他們在瘋狂的胡言亂語中如潮水般的在一個巨大虛空之間轉移血液。他們互相抓撓對方的臉並撕扯他們的頭髮，他們的頭腦中還依稀記得他們的神的存在。但明智並且比我更有經驗的人會採取遠遠離開，據令人不安的消息稱德理格正在傳授他的追隨者。{^n}{^n}我僅關注與編織相關的事。隨著我們的線人消失沉默，我們已經無法瞭解外面的世界。這位拜斯邁女士從伊露蘭發來請求，但我沒有什麼可提供的。我開始擔心，我眼前的侍者將是下一個消失的人。{^n}{^n}卡瑞恩·塔羅斯，拜斯邁的僕從
+
+tagLoreObj_WitchGods_NoteA06Name=阿達爾隨筆
+tagLoreObj_WitchGods_NoteA06Text=月亮已經減弱兩次，如同巨大的眼睛流淌著血淚。海洋狂怒並且將水染紅。其餘的人沉寂了下來，但還仍然有人存在，清除著塗抹在牆上的血腥。我研究他們，但他們的內涵我摸不透。我研究他們其實是我不明智。告訴我，偉大的守護者，是什麼真相我想不起來了嗎？這種脆弱的肌肉和骨骼的形式是德理格渴望的嗎？{^n}{^n}你無限的目光超越了所能達到的境界。它已經看到了凡人看不見東西。它見證了綠色的火焰吞噬一切。它的觸鬚威脅我們的牆，我們的信念，我們的命運。告訴我，秘密大師，應該做些什麼？我願以你之名灑乾熱血去尋找你的聲音。你對我們的懇求還要沉寂多久？{^n}{^n}安靜，實在是太安靜了。連一丁點聲音都沒有。我必須要聽到他們喋喋不休的說教一次不然我會瘋掉！我必須看到超出我能看到的東西。如果神不來找我，那我躺著做夢也要讓他找上門來。{^n}{^n}阿達爾·克拉茲，德理格的僕從
+
+#Guards 守衛
+
+tagNPC_GateGuardA01=魯克 - 守門人
+
+
+#Merchants and Other Services 商人等NPC
+
+tagNPC_BonusItems=科麗 保管人
+
+tagNPC_MerchantA01=羅恩
+tagStoreTitle_MerchantA01=收集品商人
+
+tagNPC_MerchantA02=克裡克
+tagStoreTitle_MerchantA02=收集品商人
+
+tagNPC_MerchantA03=盧瑟·格雷夫斯
+tagStoreTitle_MerchantA03=贓物販子
+
+tagNPC_MerchantA04=以賽亞·瑞丹
+tagStoreTitle_MerchantA04A=特殊貨物商人
+tagStoreTitle_MerchantA04B=收集品商人
+
+tagNPC_MerchantA05=帕芙拉
+tagStoreTitle_MerchantA05=黑色軍團商人
+
+tagNPC_MerchantB01=本內瓦德
+tagStoreTitle_MerchantB01=奇貨商人
+
+tagNPC_MerchantB02=莫裡斯·波頓
+tagStoreTitle_MerchantB02=稀有貨物商人
+
+tagNPC_MerchantB03=兄弟 賈倫
+tagStoreTitle_MerchantB03=凱蒙的供應商
+
+tagNPC_MerchantB04=巴雷爾
+tagStoreTitle_MerchantB04=教團的供應商
+
+tagNPC_MerchantC01=馬裡斯·卡斯
+tagStoreTitle_MerchantC01=失落寶物商人
+
+tagNPC_MerchantC02=卡若斯·阿達爾
+tagStoreTitle_MerchantC02=被詛咒的商人
+
+tagNPC_MerchantT01=流動商人
+tagStoreTitle_MerchantT01=補品商人
+
+tagNPC_SmugglerA01=卡萊爾
+tagStoreTitle_SmugglerA01=走私者
+
+tagNPC_SmugglerA02=漢娜
+tagStoreTitle_SmugglerA02=走私者
+
+tagNPC_SmugglerA03=奧格瓦爾德
+tagStoreTitle_SmugglerA03=走私者
+
+
+tagNPC_ReallocatorA01=薩蒂娜
+tagStoreTitle_ReallocatorA01=靈魂嚮導
+
+tagNPC_InventorA01=達萊特
+tagStoreTitle_InventorA01=發明家
+
+tagNPC_SmithA01=安格瑞姆
+tagStoreTitle_SmithA01=鍛造大師
+tagStoreDesc_SmithA01_1={}精湛技藝
+tagStoreDesc_SmithA01_2=安格瑞姆運用他多年的經驗打造出奪命的武器和堅不可摧的護甲。
+tagStoreDesc_SmithA01_3= 
+tagStoreDesc_SmithA01_4=鍛造的武器、護甲和飾品會被注入以下屬性之一：
+
+tagNPC_SmithA02=鄧肯
+tagStoreTitle_SmithA02=玄秘鐵匠
+tagStoreDesc_SmithA02_1={}玄秘鍛造
+tagStoreDesc_SmithA02_2=鄧肯運用實驗性的技術為武器和護甲注入魔力
+tagStoreDesc_SmithA02_3= 
+tagStoreDesc_SmithA02_4=鍛造的武器、護甲和飾品會被注入以下屬性之一：
+
+tagNPC_SmithA03=沃德裡克
+tagStoreTitle_SmithA03=軍團鐵匠
+tagStoreDesc_SmithA03_1={}知己知彼
+tagStoreDesc_SmithA03_2=沃德裡克研究了人類的敵人之後，學會了如何通過鍛造反制它們的力量。
+tagStoreDesc_SmithA03_3= 
+tagStoreDesc_SmithA03_4=鍛造的武器，護甲和飾品會被灌注以下屬性其中之一：
+
+tagNPC_SmithA04=霍魯斯
+tagStoreTitle_SmithA04=亡靈鐵匠
+tagStoreDesc_SmithA04_1={}亡靈天賦
+tagStoreDesc_SmithA04_2=霍魯斯在塵世那特殊的存在方式，承載了數個世紀的鍛造知識。
+tagStoreDesc_SmithA04_3= 
+tagStoreDesc_SmithA04_4=鍛造的武器，護甲和飾品會被灌注以下屬性其中之一：
+
+tagNPC_SmithA05=伊塔姆·法爾德
+tagStoreTitle_SmithA05=天神鐵匠
+tagStoreDesc_SmithA05_1={}
+tagStoreDesc_SmithA05_2=伊塔姆·法爾德的作品是神聖的，他的鍛錘由至高神親自指引。
+tagStoreDesc_SmithA05_3= 
+tagStoreDesc_SmithA05_4=鍛造的武器，護甲和飾品會被灌注以下屬性其中之一：
+
+tagNPC_SmithA06=哈倫納
+tagStoreTitle_SmithA06=軍團鐵匠
+tagStoreDesc_SmithA06_1={}知己知彼
+tagStoreDesc_SmithA06_2=哈倫納研究了人類的敵人，並學會通過鍛造來發揮自己的長處。
+tagStoreDesc_SmithA06_3= 
+tagStoreDesc_SmithA06_4=製作的武器、防具和配飾都充滿了以下特性之一：
+
+#Faction Quartermasters 勢力軍需官
+tagNPC_FactionQuartermaster_01=埃利斯
+tagStoreTitle_FactionQuartermaster_01=軍需官
+
+tagNPC_FactionQuartermaster_02=守護者 安卡拉
+tagStoreTitle_FactionQuartermaster_02=流浪者文物守護者
+
+tagNPC_FactionQuartermaster_03=懷特菲爾德
+tagStoreTitle_FactionQuartermaster_03=軍需官
+
+tagNPC_FactionQuartermaster_04=兄弟 穆爾溫
+tagStoreTitle_FactionQuartermaster_04=武器大師
+tagNPC_FactionQuartermaster_05=兄弟 埃德瑞斯
+tagStoreTitle_FactionQuartermaster_05=武器大師
+
+tagNPC_FactionQuartermaster_06=守護者 馬沃爾
+tagStoreTitle_FactionQuartermaster_06=文物守護者
+tagNPC_FactionQuartermaster_07=守護者 波盧克
+tagStoreTitle_FactionQuartermaster_07=文物守護者
+
+tagNPC_FactionQuartermaster_08=塔利亞
+tagStoreTitle_FactionQuartermaster_08=軍需官
+tagNPC_FactionQuartermaster_09=柯林斯
+
+tagNPC_FactionQuartermaster_10=安娜斯特莉婭的僕從
+tagStoreTitle_FactionQuartermaster_10=放逐者的密使
+
+#Faction Bounty Tables 派系賞金桌
+tagNPC_FactionTable_01=惡魔十字賞金桌
+tagNPC_FactionTable_02=流浪者賞金桌
+tagNPC_FactionTable_03=家園賞金桌
+tagNPC_FactionTable_04=黑色軍團賞金桌
+tagNPC_FactionTable_05=凱蒙神選戰士賞金桌
+tagNPC_FactionTable_06=死亡守夜人教團賞金桌
+tagNPC_FactionTable_07=放逐者賞金桌
+
+#Devotion Shrines 虔誠祭壇
+tagDevotionShrineA01=殮葬山丘 (殮葬洞穴)
+tagDevotionShrineA02=迷霧河畔 (洞窟)
+tagDevotionShrineA03=伯爾維治郊外 (殮葬洞穴)
+tagDevotionShrineA04=浸沒通道
+tagDevotionShrineA05=伯爾維治莊園
+tagDevotionShrineA06=惡魔含水層
+tagDevotionShrineA07=典獄長的實驗室 (地下通道)
+tagDevotionShrineA08=東沼澤 (克雷格峭壁)
+tagDevotionShrineB01=安克維亞山麓 (脊狀峽谷)
+tagDevotionShrineB02=古安克維亞 (岩石海岸)
+tagDevotionShrineB03=安克維亞地下城 (第三層)
+tagDevotionShrineB04=克隆利的藏身處
+tagDevotionShrineB05=破碎丘陵 (貧瘠高原)
+tagDevotionShrineB06=岩石海岸
+tagDevotionShrineB07=苦痛階梯 (第三層 憂患)
+tagDevotionShrineC01=山脈深淵
+tagDevotionShrineC02=遺忘深淵
+tagDevotionShrineC03=暴君要塞
+tagDevotionShrineC04=迷失洞穴 (隱藏於掠行蟲巢)
+tagDevotionShrineC05=感染農田
+tagDevotionShrineC06=黑谷村
+tagDevotionShrineC07=混沌堡壘
+tagDevotionShrineC08=血森林
+tagDevotionShrineD01=阿斯特坎山谷
+tagDevotionShrineD02=被詛咒之墓 (隱藏於執政官之墓)
+tagDevotionShrineD03=墓地
+tagDevotionShrineD04=黑塚
+tagDevotionShrineD05=???
+tagDevotionShrineMogdrogen=莫格卓根的祭壇
+tagDevotionShrineS01=不朽之聖地 (隱藏任務)

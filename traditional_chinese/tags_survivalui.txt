@@ -1,0 +1,105 @@
+﻿#Survival Mode Tags 生存模式標籤
+
+#Main
+tagSurvivalMode_Desc=進入煉獄，這地方是以力量和勇氣面對無情怪物浪潮的試驗場。倖存者將獲得獎勵與豐富的寶藏。
+tagSurvivalDeath=你已陣亡，但仍然可以通過這個波次觀戰你的盟友。如果他們成功，你將在此波結束後復活。
+tagSurvivalLastDeath=你方有人陣亡。
+
+#Achievements
+achGroupSurvival=煉獄
+
+achS001Title=煉獄之勇士
+achS001Desc=完成煉獄於修習者難度。
+
+achS002Title=煉獄之征服者
+achS002Desc=完成煉獄於挑戰者難度。
+
+achS003Title=煉獄之王者
+achS003Desc=完成煉獄於角鬥士難度。
+
+achS004Title=超過 90 萬！
+achS004Desc=拿到至少 90 萬煉獄積分。
+
+achS005Title=攀登階梯
+achS005Desc=拿到至少 500 萬煉獄積分。
+
+achS006Title=最高得分
+achS006Desc=拿到至少 1000 萬煉獄積分。
+
+achS007Title=勢不可擋的煉獄之王
+achS007Desc=完成煉獄於角鬥士難度的第 6 個重生點存活。
+
+achS008Title=防禦態勢
+achS008Desc=建造 1 個防禦塔。
+
+achS009Title=防禦超載
+achS009Desc=建造 50 個防禦塔。（累計）
+
+achS010Title=天界接觸
+achS010Desc=觸發 1 次天界賜福。
+
+achS011Title=天界引導
+achS011Desc=觸發 25 次天界賜福。（累計）
+
+achS012Title=天界干涉
+achS012Desc=觸發全部 4 種天界賜福於單場煉獄。
+
+
+#Mutators
+
+tagNewMutator=新變異觸發
+tagNewMutators=新變異觸發
+tagMutatorGained={%s0} 已獲得 {^r}{%s1} 變異
+tagMutatorPlayers=玩家
+tagMutatorMonsters=怪物
+
+# Survival HUD Rollovers
+
+tagHUDScore01=積分
+tagHUDScore01Info=你在煉獄中獲得的分數；基於你通過的波數，擊敗的敵人，遊戲難度和積分倍數。
+
+tagHUDMultiplier01=積分倍數
+tagHUDMultiplier01Info=你 所 獲 得 的 分 數 倍 率 是 基 於 你 在 加成時間內通過的波數。如果一次未能在加成時間內通過就會重置。{^N}^s（註：最多x10）
+
+tagHUDTribute01=貢品
+tagHUDTribute01Info=你 在 煉 獄 中 獲 得 的 貢 品 數 量 。貢品可以使你獲得各種神明祝福，建造防禦塔和回到各種儲存點所使用的貨幣。{^N}^s同一時間你只能擁有 100 貢品。
+
+tagHUDTimer01=加成計時
+tagHUDTimer01Info=如果在這個時間之內擊敗本波敵人，分數倍率就會提升。
+
+tagHUDWaveTier01=當前波數
+tagHUDWaveTier01Info=你當前正在與之戰鬥的怪物波數。
+
+
+
+#Tutorials
+tagTutorialTip62Title=煉獄呼喚...
+tagTutorialTip62TextA=你進入了煉獄，神秘人洛卡爾的狡猾的陰謀。這裡，你的戰鬥智慧將會被一些恐怖黎明的敵人所檢驗。
+tagTutorialTip62TextB=當你準備好開始時和洛卡爾，煉獄之主交談。
+tagTutorialTip62SubtitleA=洛卡爾的奴僕
+tagTutorialTip62TextC=在煉獄波數間，你可以和洛卡爾的奴僕們交談並獲得一些基礎服務，例如：商店、鐵匠和洗點。
+tagTutorialTip62SubtitleB=煉獄貢品
+tagTutorialTip62TextD=貢品是在煉獄中獲得的。貢品可以使你獲得各種神明祝福，建造防禦塔和回到各種儲存點所使用的貨幣。
+tagTutorialTip62SubtitleC=永恆法師
+tagTutorialTip62TextE=特洛麗亞為你提供只能在煉獄中使用獨特幫助。與她交談花費珍貴的貢品來換取神明的祝福或是解鎖信仰點數。
+
+tagTutorialTip63Title=煉獄防禦
+tagTutorialTip63TextA=你已經建立了一個防禦塔。這個建築能幫助你擊敗洛卡爾的隨從。
+tagTutorialTip63TextB=防禦塔不會被攻擊也不會被摧毀。
+tagTutorialTip63SubtitleA=升級防禦塔
+tagTutorialTip63TextC=防禦塔可以升級，增強效果甚至解鎖新的能力，但是需要消耗貢品和鐵幣。每種防禦塔可以升級兩次。
+
+tagTutorialTip64Title=煉獄完成
+tagTutorialTip64TextA=你已經努力走到了終點，要麼陷入殘酷的陰謀或是英勇的勝利，但這並不是結束。
+tagTutorialTip64TextB=你現在肯已經進入了藏寶閣並收集基於分數而獎勵的戰利品。
+tagTutorialTip64SubtitleA=重置煉獄
+tagTutorialTip64TextC=若你想再次嘗試，你可以和洛卡爾交談並從頭開始。
+tagTutorialTip64TextD=注意這會清空藏寶閣寶箱內的東西並重置你的防禦塔。
+tagTutorialTip64SubtitleB=從儲存點開始
+tagTutorialTip64TextE=若你通過了 50 波，你將可以選擇花費貢品來從最近的儲存點開始，使你停止時的第 20 波前，從最近的整數層開始 (例如第 55 波退出會從滴 30 波開始)。
+tagTutorialTip64TextF=每次你重新開始，消耗的貢品都會增加。你可以重新開始3次。
+tagTutorialTip64TextG=注意這會清空藏寶閣寶箱內的東西並重置你的防禦塔。
+
+tagQuickTip62={^z}煉獄在召喚...{^-}{^n}{^n}你覺得什麼時候可以開始，就與洛卡爾對話，或者先和其他NPC交談{^n}{^n}點擊這裡獲得更多關於煉獄的訊息。
+tagQuickTip63={^z}煉獄防禦塔{^-}{^n}{^n}你建造了煉獄的防禦塔。這些建築可以幫助你對付洛卡爾的隨從。每一個可以升級兩次。
+tagQuickTip64={^z}煉獄完成{^-}{^n}{^n}當完成了煉獄挑戰，你可以進入藏寶閣獲得你的戰利品。你也可以重新開始，或從你解鎖的儲存點開始。
