@@ -195,7 +195,6 @@ tagClass02SkillDescription03E=专注于火焰打击的破坏之力允许你消�
 tagClass02SkillName03F=【爆破者】灼热之力
 tagClass02SkillDescription03F=当使用强力的双手近战或远程武器时，火焰打击会造成毁灭性的伤害。 ^o需要一把双手近战或远程武器。
 
-
 tagClass02SkillName04A=【爆破者】罐式炸弹 
 tagClass02SkillDescription04A=填装了更多爆炸物的炸药，这项恐怖的发明能够击垮一整片敌人。
 tagClass02SkillName04B=【爆破者】改良外壳 
@@ -221,9 +220,9 @@ tagClass02SkillDescription06B=同时用烟火制造术和炼金术对铝热地�
 tagClass02SkillName06C=【爆破者】烈焰喷射 
 tagClass02SkillDescription06C=喷射一束致命的白热火焰将经过的敌人烧成灰烬。
 tagClass02SkillName06D=【爆破者】引爆 
+
 tagClass02SkillName07A=【爆破者】防爆护盾 
 tagClass02SkillDescription07A=军事装备与火焰法术的融合创造出能吸收一定量所有类型伤害的护盾，并降低受到的穿刺与火焰伤害。攻击你的敌人会受到护盾的炽烈反击。
-
 tagClass02SkillName07B=【爆破者】奥祖因的选召 
 tagClass02SkillDescription07B=在烟火制造工作中做出很大贡献的那些人最终得到奥祖因的青睐，获得他的祝福，可以对世界造成炽烈破坏。^o影响眩晕投掷，手榴弹和罐式炸弹并需要其中的技能之一才能生效。
 
@@ -348,6 +347,7 @@ tagClass03SkillDescription13D=血瘟疫的变异对敌人与神秘学者本身�
 tagClass03SkillName14A=【神秘学者】末日闪电 
 tagClass03SkillDescription14A=施放一束能够撕裂现实世界的熵能闪电，任何被它击中的敌人都将遭受重创。
 
+
 tagClass03SkillName07A=【神秘学者】妖术净化 
 tagClass03SkillDescription07A=使敌人的法术失效，并且基于敌人剩余的能量值造成法力燃烧伤害。
 tagClass03SkillName08A=【神秘学者】混沌之箭 
@@ -439,7 +439,6 @@ tagClass04SkillDescription10B=一项精通技艺，让刀阵能使敌人的武�
 
 tagClass04SkillName13A=【夜刃】幻影护甲 
 tagClass04SkillDescription13A=在你周围凝聚由思想和精神的集中力量所形成的超自然屏障。这层屏障抵御物理伤害并将魔法攻击的能量转为自身能量。
-
 tagClass04SkillName13B=【夜刃】解剖 
 tagClass04SkillDescription13B=这是受到一流刺客极度赞赏的学识，对解剖的广泛研究使你熟悉刀剑所经之处的所有人体易受创与致命部位。
 tagClass04SkillName13C=【夜刃】无情终章 
@@ -469,12 +468,14 @@ xtagClass04SkillDescription14A=刺杀大师阿玛拉斯塔偏爱的一种冒险�
 xtagClass04SkillName14B=【夜刃】阿玛拉斯塔的爆裂之刃 
 xtagClass04SkillDescription14B=熟练掌握致命策略之后，就能以攻击目标为原点爆射出大量致人死地的幻影刀锋，对附近的敌人造成伤害。
 
+
 xtagClass04SkillName15A=【夜刃】剔骨 
 xtagClass04SkillDescription15A=迅猛的切割使受害者长时间出血，同时削弱他们的移动力和攻击速度。^o需要一把剑或斧。
 xtagClass04SkillName15B=【夜刃】阿玛拉斯塔的策略 
 xtagClass04SkillDescription15B=一项大师级的武技，能够更有效地切割内脏，如果完美地施放更能造成毁灭性的伤害。但同时它也有徒劳无功的危险。
 xtagClass04SkillName14C=分裂
-xtagClass04SkillDescription14C=An outnumbered gunman can quickly turn the odds in their favor with clever use of a splintering round. As desperate measure, this method can also prove lethal at point-blank range. ^oRequires a two-handed ranged weapon to launch additional projectiles.
+xtagClass04SkillDescription14C=一位寡不敌众的枪手可以巧妙地利用分裂弹化险为夷。这种置之死地而后生的招数在近距离下非常致命。{^N}^o需要装备双手远程武器才能发射出更多的子弹。
+
 
 
 #Class05
@@ -589,6 +590,7 @@ tagClass06SkillName02C=【萨满】激流
 tagClass06SkillDescription02C=汹涌的力量奔流于你的武器中，震击一个附近的目标并跳跃至更远的敌人身上。
 tagClass06SkillName02D=【萨满】雷电打击 
 tagClass06SkillDescription02D=风暴召唤者,信奉上天的萨满教派的成员们，当向敌人释放自然的愤怒时，他们向天空之神~尤尔托斯呼唤，允许他们更加频繁的召唤雷电。^o雷电打击不是一项默认武器攻击，不能触发类似狂野饥渴的特效。
+
 tagClass06SkillName03A=【萨满】雪怪图腾 
 tagClass06SkillDescription03A=雪怪图腾象征着萨满仪式中更黑暗的一面，崇尚自然的邪恶双重性：必须用一人的死亡来使另一个人得以喂食并存活。一旦被放置，图腾将会吸取附近敌人的生命，同时形成疗伤的光环治疗同伴。这种图腾被大部分部落设为禁忌。尽管如此，但原始的饥渴灵魂呼唤着它并使得很多萨满陷入了疯狂，让他们充满无厌的饥渴并因此不可避免的导致了自相残杀。^o雪怪图腾受到人物伤害的加成。
 tagClass06SkillName03B=【萨满】血之契约 
@@ -671,18 +673,18 @@ tagClass06SkillDescription17B=蔓藤致命地生长，使无助的敌人被荆�
 xtagClass06SkillName13A=【萨满】莫格卓根之怒 
 xtagClass06SkillDescription13A=莫格卓根通常被述说成是一位授予其追随者保护恩赐的仁慈之神，但当他的秘密圣地受到威胁时，这位野兽之神的怒火是极其可怕的。
 
-xtagClass06SkillName08A=召唤风魔 Conjure Wind Devil
-xtagClass06SkillDescription08A=A tornado is one of the most destructive forces of nature. Shaman Stormcallers conjure manifestations of this raw power in the form of Wind Devils, swirling whirlwinds of destruction that move about the battle seemingly with a mind of their own. ^oWind Devils are considered pets and benefit from pet bonuses.
-xtagClass06SkillName08B_Pet=呼啸狂风 Howling Wind
-xtagClass06SkillDescription08B_Pet=A swirling whirlwind of destruction assaults nearby foes.
-xtagClass06SkillDescription07A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning.
-xtagClass06SkillName03A=狂野饥渴 Feral Hunger
-xtagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
-xtagClass06SkillName03B=血腥气息 Taste for Blood
-xtagClass06SkillDescription03B=Your taste for carnage is insatiable. While under the effects of Feral Hunger, your attacks wound deeper and draw more of your target's precious vitality.
-xtagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
-xtagClass06SkillName04D=大漩涡Maelstrom
-xtagClass06SkillDescription04D=Mastery of storm conjuration allows you to focus your powers into one devastating Squall, rather than several lesser tempests.
+xtagClass06SkillName08A=召唤风魔^b 「萨满」^-
+xtagClass06SkillDescription08A=龙卷风是一种最破坏性的自然的力量。萨满攻击时有召唤这原始力量的表现形式的风力魔鬼，旋转旋风的破坏，战争似乎有自己的思想。{^N}^o风魔被视为宠物并受战宠加成。
+xtagClass06SkillName08B_Pet=呼啸狂风^b 「萨满」^-
+xtagClass06SkillDescription08B_Pet=一个旋转破坏的旋风攻击附近的敌人。
+xtagClass06SkillDescription07A=引导风暴的力量是风暴呼唤者的最神圣的仪式之一。只要有足够的实践中，萨满可以灌输以闪电般的破坏力图腾。
+xtagClass06SkillName03A=狂野饥渴^b 「萨满」^-
+xtagClass06SkillDescription03A=回归你的原始的一面，对血液通过在战斗中的武器攻击洒贪婪饲养。
+xtagClass06SkillName03B=血腥气息^b 「萨满」^-
+xtagClass06SkillDescription03B=你的品味大屠杀是无法满足的。虽然在野性饥饿的效果，你的攻击伤口更深，吸引更多的目标珍贵的生命力。
+xtagClass06SkillDescription04C=风暴召唤的掌握，您可以更加频繁重复的仪式，将有效地覆盖了倾盆大雨战场。
+xtagClass06SkillName04D=风暴漩涡^b 「萨满」^-
+xtagClass06SkillDescription04D=风暴召唤的掌握让您能够将权力集中到一个毁灭性的飑，而不是几个规模较小的风暴。
 xtagClass06SkillName03B=风暴图腾 
 xtagClass06SkillDescription03B=与风暴之力沟通是风暴召唤者们的神圣仪式之一。通过足够的练习，萨满可以向一个雪怪图腾注入闪电的破坏之力，使得它能快速的发出闪电攻击附近的敌人。
 
@@ -695,39 +697,39 @@ xtagClass06SkillDescription03B=与风暴之力沟通是风暴召唤者们的神�
 #Class09
 
 XXXtagClass01SkillName15A=战斗暴怒
-XXXtagClass01SkillDescription15A=The heat of battle rouses savage animal impulses that heighten your strength and speed but diminish discipline lowering your defenses.
+XXXtagClass01SkillDescription15A=你对战斗的热情激起了内心野兽般的力量。这将提升你的力量和速度，但防御力降低。
 XXXtagClass01SkillName15B=狂暴
-XXXtagClass01SkillDescription15B=Adrenaline and rage drive you on, giving you almost super-human speed but also making you more wreckless, reducing defensive ability.
+XXXtagClass01SkillDescription15B=肾上腺素和愤怒的力量激发了你拥有超人的速度，但同时会降低你的防御能力。
 
 
-XXXtagClass03SkillName09=Fulcrum Training
-XXXtagClass03SkillDescription09=Channeling chaotic energy to bend the physical world is a volatile art that deforms and can eventually destroy the body of practicioners.  Channeling through a fulcrum can mitigate some of this damage.
+XXXtagClass03SkillName09=支点训练
+XXXtagClass03SkillDescription09=以混沌的力量扭曲物理世界犹如一门易变的艺术，最终会摧毁施法者本身。  通过一个支点可以减轻这种伤害。
 
 
 XXXtagClass04SkillName03A=毒性炸弹
-XXXtagClass04SkillDescription03A=A combination of vicious toxins and explosive powders results in a deadly explosive charge that will leave enemies gasping for air.
+XXXtagClass04SkillDescription03A=邪恶的毒素混合炸药打造出的致命爆炸物，被击中的敌人会挣扎着呼吸新鲜空气。
 XXXtagClass04SkillName03B=腐坏毒气
-XXXtagClass04SkillDescription03B=The addition of an unstable agent to the Toxic Bomb causes weakened resolve and painful convulsions.
+XXXtagClass04SkillDescription03B=添加不稳定物质到毒素炸弹内，对目标造成意志削弱和疼痛抽搐。
 
 XXXtagClass03SkillName06A=元素光球
-XXXtagClass03SkillDescription06A=Lobs a pulsating orb of combined elemental force at enemies that explodes in a burst of heat, cold, and electricity.
+XXXtagClass03SkillDescription06A=抛投一粒搏动的混合元素法球到敌人身上，爆炸出热力、冰冻以及电力伤害。
 
 
 
 XXXtagClass03SkillName08A=狂风之力
-XXXtagClass03SkillDescription08A=A burst of wind and elemental energy knocks enemies away from the caster and inflicts elemental damage.
+XXXtagClass03SkillDescription08A=突然爆发的狂风和元素能量将敌人击退并造成元素伤害。
 
 
 
 
 XXXtagClass03SkillName01C=旋风
-XXXtagClass03SkillDescription01C=The great raven controls the winds, channeling them into a swirling vortex of rocks and debris that pummel enemies within its path.
+XXXtagClass03SkillDescription01C=巨大的乌鸦掌控着风力，卷起无数石块和沙尘成为旋转的漩涡，将前方的敌人揍得体无完肤。
 
 XXXtagClass03SkillName01D=风暴涡旋
-XXXtagClass03SkillDescription01D=Magnifies the power of Whirlwind and causes it to emit bolts of lightning.
+XXXtagClass03SkillDescription01D=强化旋风的威力并赋予它发射闪电击的能力。
 
 xxxtagClass05SkillName01A=邪恶毒剂
-xxxtagClass05SkillDescription01A=Bottled and hurled at enemies, this vile concoction releases a poisonous miasma that sickens enemies and eats away at their flesh.
+xxxtagClass05SkillDescription01A=此罐装邪恶混合物一旦被抛投到敌人身上，就会释放出剧毒雾气，弱化敌人并腐蚀他们的肉体。
 
 xxxtagClass05SkillName02A=涂毒
 xxxtagClass05SkillDescription02A=将你的武器涂满堕落酿造之油。
@@ -781,7 +783,6 @@ tagItemSkillDescA013=打断你的敌人。
 
 tagItemSkillA014=石化
 tagItemSkillDescA014=将你的敌人转化成岩石。
-
 
 tagItemSkillB001Name=冲击波
 tagItemSkillB001Desc=你的攻击中爆发出一道火焰冲击波。
@@ -1292,7 +1293,6 @@ tagItemSkillC121Desc=无情切割附近的敌人并使这片区域沐浴在他�
 
 tagItemSkillC122Name=玻璃假眼
 tagItemSkillC122Desc=一只训练有素的眼睛，发出致命一击。 ^o这是一项被动双手远程武器技能加成。
-
 tagItemSkillC122NameB=神射手
 tagItemSkillC122DescB=熟练利用步枪与视野。 ^o这是一项被动双手远程武器技能加成。
 
@@ -1343,6 +1343,7 @@ tagItemSkillC137Desc=从你所在的位置向外释放一阵冰与火的旋转�
 
 tagItemSkillC138Name=Oathbreaker毁誓者
 tagItemSkillC138Desc=毁誓者发出一颗充满黑暗力量的爆弹。 ^o使用默认武器攻击时激活。
+
 
 tagItemSkillM005Name=狂暴
 tagItemSkillM005Desc=进入狂暴状态，以牺牲耐力为代价凶猛地攻击敌人。
@@ -2058,6 +2059,8 @@ tagItemSkillD242Desc=一种能揭示隐藏弱点并注入血肉的毒素。
 
 tagItemSkillD243Name=仪式之环
 tagItemSkillD243Desc=召唤一个仪式之环来增强你的法术威力，并且当你站在圆环内时会减少所受到的物理伤害。
+tagItemSkillD243NamePetSkill=仪式增效
+tagItemSkillD243DescPetSkill=站在祭祀阵内可使你的法术和人身免受伤害。
 
 tagItemSkillD244Name=风暴裂片
 tagItemSkillD244Desc=在目标地点召唤一枚充满风暴之力的水晶来震击附近的敌人。 ^o风暴裂片随着玩家的伤害而增强。
@@ -2067,6 +2070,7 @@ tagItemSkillD245Desc=从敌人脚下召唤出地狱烈焰。
 
 tagItemSkillD246Name=阿格里维斯的契约
 tagItemSkillD246Desc=向敌人释放一只充满奥术能量的精灵。 ^o奥术精灵会随着玩家伤害增强。
+tagItemSkillD246NamePetSkill=奥术冲击
 
 tagItemSkillD247Name=战争之子
 tagItemSkillD247Desc=你为战斗而生，并因之茁壮成长。
@@ -2080,8 +2084,12 @@ tagItemSkillD249Desc=撕裂一道奥术领域与现实世界间的细微裂缝�
 tagItemSkillD250Name=血溅
 tagItemSkillD250Desc=用极其血腥的方式撕裂附近敌人。
 
-tagItemSkillFailName=Failchantment
-tagItemSkillFailDesc=Failalittleharder.
+tagItemSkillD251Name=黑色标记
+tagItemSkillD251Desc=此标记使你的敌人感到难以忍受的疼痛。
+
+
+tagItemSkillFailName=附魔失效
+tagItemSkillFailDesc=敌人的负面很难凑效。
 
 
 #Component Skills
@@ -2220,6 +2228,7 @@ tagCompSkillB006Desc=用你的武器猛击，造成重伤并致残目标。
 
 tagCompSkillB007Name=拜斯迈的束缚
 tagCompSkillB007Desc=用你的意志束缚你的仆从。 ^o(被动技能)
+
 
 
 
@@ -2638,6 +2647,7 @@ tagDevotion_B30=艾尔洛，水域看守者
 tagDevotion_B30Desc=艾尔洛象征着水流的无尽循环以及无法阻挡的流动，使河流再生，轮流灌溉湖泊与海洋。
 tagDevotion_B31=收割者的镰刀
 tagDevotion_B31Desc=这杆长柄镰刀象征着馈赠和收获之时。在最热的月份里它会闪耀得最为明亮，为即将到来的秋之野猪让路。
+
 tagDevotion_C01=伊恩的沙漏
 tagDevotion_C01Desc=伊恩是时光守护者，是命运螺纹的主宰。人们的出生与死亡都由他掌控。他的标志就是沙漏。
 tagDevotion_C02=憎恶
@@ -2780,7 +2790,6 @@ tagDevotionEffectC14Desc=将一名无名英雄复生来与你并肩作战。^o�
 tagDevotionEffectC14_Pet01=暗影突袭
 tagDevotionEffectC14_Pet02=暗影刀锋
 
-
 #SkillsReallocator
 
 tagReallocateError01=在完全撤销该技能加点之前你必须先撤销其所有延伸技能的加点。
@@ -2810,11 +2819,12 @@ tagTemplateDescription=DescribeMe
 
 #EnemySkills 敌人技能
 
-tagEnemySkillA01=虚弱诅咒
-tagEnemySkillA01_Desc=削弱灵魂对虚空的抵抗力。
 
 tagEnemySkill01=绝望光环
 tagEnemySkill01Desc=虚灵先锋的存在使你感到惧怕，因此你的行动减缓并受到虚化伤害。
+
+tagEnemySkillA01=虚弱诅咒
+tagEnemySkillA01_Desc=削弱灵魂对虚空的抵抗力。
 
 tagEnemySkillA02=吸魂者的仪态
 tagEnemySkillA02_Desc=吸魂者的仪态会吸取你的力量并使你受到活力伤害。
@@ -2860,3 +2870,5 @@ tagEnemySkillD03_Desc=一只邪恶的灵魂萦绕在你身边并吸取你的活�
 
 tagEnemySkillD04=邪能光环
 tagEnemySkillD04_Desc=原始的邪恶能量围绕着这块水晶，增强邪能生物并对自然生命造成伤害。
+
+

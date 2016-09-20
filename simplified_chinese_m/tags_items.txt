@@ -145,6 +145,8 @@ tagWeaponBluntD003=痛苦
 tagWeaponBluntD004=炽热末日先驱
 tagWeaponBluntD005=德里格的瘟疫使者
 tagWeaponBluntD006=破晓者的巨锤
+tagWeaponBluntD007=毒刃之拳
+tagWeaponBluntD008=战裔槌
 
 tagWeaponBluntF001=恶魔的压碎者
 tagWeaponBluntF002=军团战锤
@@ -329,6 +331,7 @@ tagWeaponCrossbow2hA004=刺蝎弩
 
 tagWeaponCrossbow2hB001=幽光十字弩
 tagWeaponCrossbow2hB002=^l幽光强弩
+tagWeaponCrossbow2hB003=^l伽弗林弩
 
 tagWeaponCrossbow2hC001=雷霆十字枪
 tagWeaponCrossbow2hC001Desc="一支原型武器。不幸的是，发明者在该武器能够被量产之前已死于非命。"
@@ -528,6 +531,7 @@ tagWeaponCaster1hD014=蛇怪之爪
 tagWeaponCaster1hD015=洞察者的法杖
 tagWeaponCaster1hD016=德里格的符文匕首
 tagWeaponCaster1hD017=特洛赞的繁星看守者
+tagWeaponCaster1hD018=黑焰之刃
 
 tagWeaponCaster1hF001=军团唤火者
 tagWeaponCaster1hF002=军团虚化火花
@@ -552,7 +556,7 @@ tagWeaponCrossbow1hA001=手枪弩
 tagWeaponCrossbow1hA002=复合弩
 tagWeaponCrossbow1hA003=滑轮弩
 tagWeaponCrossbow1hA004=连弩
-tagWeaponCrossbow2hB003=伽弗林的十字弓
+
 
 #Shields盾牌
 
@@ -732,6 +736,8 @@ tagFocusD012=阿格维克斯的法器
 tagFocusD012Desc="伟大的秘术师阿格维克斯以向他的法器灌注过量的能量而闻名，但是对力量的渴望使他认为自己就是世界的主宰并走上了一条毁灭之路。阿格维克斯最终在审判官手中迎来了末日，但他的一些法器却遗留了下来。"
 tagFocusD013=祈愿者的闪耀之焰
 tagFocusD014=伊斯坎德拉的文本
+tagFocusD015=黑焰之球
+tagFocusD016=阿格维克斯法典
 
 tagFocusF001=收割者的宝典
 tagFocusF002=收割者的账簿
@@ -832,25 +838,25 @@ tagArmorClass02=
 tagArmorClass03=重型
 
 #WeaponClass
-
 tagOffHand=副手
 tagShield=盾牌
+
 tagOneHandedSword=单手剑
 tagOneHandedMace=单手锤
 tagOneHandedAxe=单手斧
-tagOneHandedPistol=单手远程武器
-tagOneHandedDagger=匕首
+tagOneHandedDagger=单手短剑
 tagOneHandedScepter=单手权杖
-tagTwoHandedRifle=双手远程武器
+tagOneHandedPistol=单手远程
+
 tagTwoHandedSword=双手剑
 tagTwoHandedMace=双手锤
 tagTwoHandedAxe=双手斧
+tagTwoHandedRifle=双手远程
 
 tagSpear=长矛
 tagStaff=法杖
 
 tagWeaponUnknown=未知武器
-
 
 #ArmorSlots
 tagRing=戒指
@@ -864,14 +870,11 @@ tagChest=胸甲
 tagFeet=靴子
 tagGloves=护手
 
-
 #QualityClass
 tagMagic=魔法
 tagRare=稀有
 tagEpic=史诗级
 tagLegend=传奇
-
-
 
 tagStyleUniqueTier2=强化的
 tagStyleUniqueTier3=神话的
@@ -999,6 +1002,13 @@ tagHeadD022=邪能凝视者
 tagHeadD022Desc="这顶头盔用你无法理解的嗓音向你低语。"
 tagHeadD023=三巫神之契约
 tagHeadD023Desc="通过契约用三巫神的精华进行注魔来束缚他们。"
+tagHeadD024=毒刃兜帽
+tagHeadD025=黑焰面甲
+tagHeadD026=光明卫士的头盔
+tagHeadD027=地狱骑士的面甲
+tagHeadD028=战裔面具
+tagHeadD029=怒血的兜帽
+
 
 tagHeadF001=放逐者的兜帽
 tagHeadF001Desc="你难以抑制地觉得这块面具一直在背后盯着你。"
@@ -1049,7 +1059,6 @@ tagShoulderB022=赞塔兰的斗篷
 tagShoulderB023=^l赞塔兰的护肩
 tagShoulderB024=费比乌斯护肩
 tagShoulderB025=^l费比乌斯的肩铠
-
 
 tagShoulderC001=剃刀背的尖刺披肩
 tagShoulderC001Desc="用剃刀背的尸体缝制而成的披肩。"
@@ -1103,6 +1112,12 @@ tagShoulderD019=尤尔托斯的肩甲
 tagShoulderD020=莫格卓根的斗篷
 tagShoulderD020Desc="莫格卓根的化身所穿的斗篷。"
 tagShoulderD021=特洛赞的斗篷
+tagShoulderD022=黑焰披肩
+tagShoulderD023=光明卫士的肩饰
+tagShoulderD024=地狱骑士的肩铠
+tagShoulderD025=阿格维克斯披肩
+tagShoulderD026=战裔肩铠
+tagShoulderD027=怒血的护肩
 
 tagShoulderF001=放逐者的燃烧披肩
 tagShoulderF002=放逐者的寒霜披肩
@@ -1225,6 +1240,12 @@ tagTorsoD018=尤尔托斯的胸铠
 tagTorsoD019=寒霜恐惧胸甲
 tagTorsoD020=特洛赞的服饰
 tagTorsoD021=瓦尔登的夹克
+tagTorsoD022=毒刃隐形胸甲
+tagTorsoD023=光明卫士的板甲
+tagTorsoD024=地狱骑士的胸甲
+tagTorsoD025=阿格维克斯战衣
+tagTorsoD026=战裔护胸
+tagTorsoD027=怒血的外衣
 
 tagTorsoF001=放逐者的燃烧战衣
 tagTorsoF002=放逐者的严寒战衣
@@ -1320,6 +1341,7 @@ tagWaistD013Desc="破法者军团曾穿戴的腰带，他们是从曼海尔的�
 tagWaistD014=幽魂丝线束腰
 tagWaistD014Desc="借助不可名状的死灵法术，将受诅咒的灵魂纺成了线，从而编制成为这件束腰。"
 tagWaistD015=野性之血束腰
+tagWaistD016=地狱骑士的束腰
 
 tagWaistF001=恶魔的束带
 tagWaistF002=恶魔的护腰
@@ -1392,6 +1414,7 @@ tagHandsD008=虚化之触
 tagHandsD009=巨像之握
 tagHandsD010=正义护手
 tagHandsD011=先驱者之握
+tagHandsD012=光明卫士的手甲
 
 tagHandsF001=罗瓦里抓握护手
 tagHandsF002=罗瓦里护手
@@ -1432,6 +1455,7 @@ tagLegsC015=咒法编织裹腿
 
 tagLegsD001=恶魔之骨长裤
 tagLegsD001Desc="制作这件腿甲最困难地方在于收集必需的材料。"
+tagLegsD002=骨织长裤
 tagLegsD003=死亡低语裹腿
 tagLegsD004=地狱熔锻腿甲
 tagLegsD004Desc="在一只地狱猎犬的熔岩吐息中锻造而成。"
@@ -1449,15 +1473,6 @@ tagLegsD013=异常宏伟长裤
 tagLegsD013Desc="实际上，它们只是凑合罢了。"
 tagLegsD014=野性掠夺护腿
 
-tagLegsD002=骨织长裤
-tagLegsD003=死亡轻语长裤
-tagLegsD004=地狱熔锻长裤
-tagLegsD004Desc="它在地狱犬的烈焰吐息中被锻造而成。"
-tagLegsD005=织法者裹腿
-tagLegsD005Desc="大量的咒语与颇具威力的真言如丝线般织成了这件护腿。"
-tagLegsD006=正义护腿
-tagLegsD007=野兽召唤者的长裤
-tagLegsD008=大法师的长裤
 
 
 #ArmorFeet鞋子
@@ -1628,7 +1643,8 @@ tagRingF011=神选火焰印戒
 tagRingF012=神选风暴印戒
 
 
-#Necklaces项链
+#Necklaces 项链
+
 tagNecklaceA00=盐袋
 tagNecklaceA00Desc="装满盐的袋子，似乎能够击退恶灵。"
 tagNecklaceA001=利爪神像
@@ -1733,6 +1749,8 @@ tagNecklaceD021=马尔科夫的荣誉勋章
 tagNecklaceD022=奥祖因之心
 tagNecklaceD023=山脉之心
 tagNecklaceD024=瓦尔登的慷慨
+tagNecklaceD025=阿格维克斯奥术碎片坠饰
+tagNecklaceD026=怒血的吊坠
 
 tagNecklaceF001=罗瓦里守护石
 tagNecklaceF002=罗瓦里的怨恨
@@ -1807,8 +1825,6 @@ tagMedalD009=黑暗幻想标记
 tagMedalD010=诅咒者的标记
 tagMedalD011=神性标记
 tagMedalD012=野兽召唤者的护符
-tagMedalD013=马尔科夫的标记
-tagMedalD014=奥祖因之心
 
 tagMedalF001=恶魔的火焰徽章
 tagMedalF002=恶魔的寒霜徽章
@@ -2056,6 +2072,12 @@ tagBlueprint_ArmorD019=设计图: 特洛赞的风帽
 tagBlueprint_ArmorD020=设计图: 瓦尔登的皮帽
 tagBlueprint_ArmorD021=设计图: 邪能凝视者
 tagBlueprint_ArmorD022=设计图: 三巫神之契约
+tagBlueprint_ArmorD023=设计图：^i毒刃兜帽
+tagBlueprint_ArmorD024=设计图：^i黑焰面甲
+tagBlueprint_ArmorD025=设计图：^i光明卫士的头盔
+tagBlueprint_ArmorD026=设计图：^i地狱骑士的面甲
+tagBlueprint_ArmorD027=设计图：^i战裔面具
+tagBlueprint_ArmorD028=设计图：^i怒血的兜帽
 
 tagBlueprint_AccessoryC001=设计图：麦文的透镜
 tagBlueprint_AccessoryC002=设计图: 漩涡之石
@@ -2244,6 +2266,8 @@ tagCraftComponentRareDesc=失传已久的卓越锻造技术。
 tagCraftShardBeronathDesc=将钢铁变幻为神兽贝若纳斯的鳞片。
 tagCraftRelicDesc=因恐怖黎明而失传的远古锻造技术。
 tagCraftTransmuteDesc=通过熔炉的高温以及一些炼金术，稀有材料能够被炼成其他等值的稀有物品。
+tagCraftRandomLegendaryDesc=铁匠把奥术能量注入这些物体来创造具有传奇能力的装备，人物低于50级时将以史诗物品代替。
+tagCraftRandomLegendaryAccessoryDesc=铁匠结合这些设计图中的原始神秘力量打造传奇潜质的物品，低于58级的人物将以史诗物品代替。
 
 tagCraftRandomAxe=附魔之斧
 tagCraftRandomBlunt=附魔钉锤
@@ -2284,13 +2308,11 @@ tagCraftRandomTorso_Caster=附魔施法者胸甲
 tagCraftRandomTorso_Heavy=附魔重型胸甲
 tagCraftRandomTorso_Light=附魔胸甲
 tagCraftRandomLegendary_Armor=传奇护甲
-tagCraftRandomLegendary_CasterWeapon=传奇施法武器
+tagCraftRandomLegendary_Accessory=传奇饰品
+
 tagCraftRandomLegendary_MeleeWeapon=传奇近战武器
 tagCraftRandomLegendary_RangedWeapon=传奇远程武器
-tagCraftRandomLegendary_Shield=传奇盾牌
-tagCraftRandomLegendary_Accessory=传奇饰品
-tagCraftRandomLegendaryDesc=铁匠通过组合原始奥术能量与一些物件来制造传奇物品，等级低于50的角色将会制作出一件史诗物品。
-tagCraftRandomLegendaryAccessoryDesc=铁匠通过这些物品中蕴含的原始奥术之力来创造一件颇具潜力的传奇物品，等级低于58的角色将会制作出一件史诗物品。
+tagCraftRandomLegendary_CasterWeapon=传奇施法武器
 
 tagSuppliesIncomplete=部分锻造材料
 tagSuppliesComplete=锻造材料
@@ -2415,14 +2437,14 @@ tagDLCA01=幻象:假发粉末
 tagDLCA01Desc="高雅和风尚的定义。"
 tagDLCA02=幻象: 侠盗的外套
 tagDLCA02Desc="环游世界的首选着装。"
-tagDLCA03=Backer's Distinction
-tagDLCA03Desc="Recognition for the most dedicated of backers."
-tagDLCA04=Kickstarter Service Medal
-tagDLCA04Desc="A military insignia from the great Kickstarter Wars of 2012."
-tagDLCA05=Kickstarter Veteran's Medal
-tagDLCA05Desc="A veteran's insignia from the great Kickstarter Wars of 2012."
-tagDLCA06=Kickstarter Officer's Medal
-tagDLCA06Desc="An officer's insignia from the great Kickstarter Wars of 2012."
+tagDLCA03=幻化: ^y赞助勋章
+tagDLCA03Desc="表彰最忠诚的 (Kickstarter) 伟大众酬活动支持者。"
+tagDLCA04=幻化: ^m勤务勋章
+tagDLCA04Desc="纪念2012年 (Kickstarter) 伟大众筹活动的徽章。"
+tagDLCA05=幻化: ^g老兵勋章
+tagDLCA05Desc="纪念2012年 (Kickstarter) 伟大众筹活动的徽章。"
+tagDLCA06=幻化: ^r士官勋章
+tagDLCA06Desc="纪念2012年 (Kickstarter) 伟大众筹活动的徽章。"
 tagDLCConsumableA01=罐中精灵
 tagDLCConsumableA01Desc="一个人畜无害的精灵，困在了一个罐子里。"
 tagDLCConsumableA01PetSkill01=精灵光环
@@ -3315,6 +3337,11 @@ tagCompAmmoBoxDesc="反抗组织总会有更多的枪弹来击退侵袭卡恩世
 tagCompAScrap=废铁
 tagCompAScrapDesc="可以用于固定和连接的废旧材料，例如子弹，皮绳和劣质的金属。"
 
+#ItemDifficultyUnlock 难度解锁物品
+tagDifficultyUnlock={^E}已解锁 {%s0} 难度
+tagDifficultyAlreadyUnlocked=你已经解锁此难度
+tagDifficultyUnlockDLC=你不具备与此物品相关的DLC
+
 #ItemFactionBoosters
 
 tagFactionBooster={^E}获得{%s1}的声望提升{^H}{%d0}%
@@ -3412,7 +3439,6 @@ tagPotionConstitutionB01Desc="拥有着挥之不去的生命能量，能够被�
 tagPotionDirections=[右键点击以使用]
 tagCombineStacks=[Ctrl+左键来拆分堆叠物品]
 tagHideTooltip=[按住Ctrl 来隐藏装备信息窗口]
-
 
 #Bonuses奖励
 tagBonusLifePercentAbsPercent={^E}恢复 {^H}{%.0f0}%+{%.0f1} {^E}生命 {^H}+{%.0f2}% {^E}持续恢复量
@@ -3592,8 +3618,28 @@ tagItemSetD018Desc="特洛赞在隐居期间对繁星进行了研究并学会了
 tagItemSetD019Name=瓦尔登的背叛
 tagItemSetD019Desc="瓦尔登是卡恩最出色的射手之一，但在将厄洛兰的权贵作为目标之后，他就真正变得声名狼藉。"
 
+tagItemSetD020Name=毒刃契约套装
+tagItemSetD020Desc="夜刃的专属套装，他们的武器含有可怕的强酸。"
 
-#Prefixes前缀
+tagItemSetD021Name=黑焰盟约套装
+tagItemSetD021Desc="一套惨白的外套，它是黑焰大师们的首选。"
+
+tagItemSetD022Name=光明卫士套甲
+tagItemSetD022Desc="此套甲属于信仰的守护者。至高神使的光明卫士。"
+
+tagItemSetD023Name=地狱骑士套甲
+tagItemSetD023Desc="套甲属于伽罗斯瓦尔，统称为黑色军团的地狱骑士。"
+
+tagItemSetD024Name=阿格维克斯之怒套装
+tagItemSetD024Desc="阿格维克斯是著名的神秘大师，但他对权力的渴望，最终导致了他的毁灭。"
+
+tagItemSetD025Name=战裔套甲
+tagItemSetD025Desc="历经战斗锻造，这套铠甲曾见证无数次的冲突，比其他任何的文物幸存至今。"
+
+tagItemSetD026Name=怒血的狂暴套服
+tagItemSetD026Desc="这套怒血的铠甲，出自北方冰冻荒地的野蛮部落。"
+
+#Prefixes 前缀
 
 tagPrefixAA002=启悟
 tagPrefixAA003=光耀

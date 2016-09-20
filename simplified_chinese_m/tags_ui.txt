@@ -523,7 +523,6 @@ tagCharAttributeName02=力量
 tagCharAttributeName03=智力
 tagCharAttributeName04=生命
 tagCharAttributeName05=能量
-tagCharPointsSpent=在此项属性中投入的点数:
 
 tagCharAttributeDescription01=敏 捷 的 思 维 能 改 进 你 的 战 斗 技 巧，提 高 物 理、穿 刺、流 血 和 创 伤 伤 害。敏 捷 也 会 提 高 你 的 近 战 和 远 程 攻 击 的 命 中 几 率 以 及 暴 击 几 率。
 
@@ -625,8 +624,8 @@ tagCharStatsDPSRightDescription=右键技能对单体目标的伤害明细，受
 tagCharStatsDPSLeftDescription=左键技能对单体目标的伤害明细，受到所有来自装备及其技能冷却时间和加成的影响。敌人的防御未计算在内。
 
 tagCharStatsArmorTotalAlert=护甲等级{^b}(?)
-tagCharStatsAbsorption=护甲吸收
 tagCharStatsArmorTotal=护甲等级
+tagCharStatsAbsorption=护甲吸收
 tagCharStatsArmorTotalDescription=护甲等级越高，受到的物理伤害就越少。{^n}{^n}从技能和非护甲部位获得的加成将增加至所有护甲栏位。
 tagCharStatsHitArmor=击中几率
 tagCharStatsArmorUnprotected=无护甲
@@ -1232,13 +1231,8 @@ tagChatBrag=[{%t0}{%t1}{^-}]
 #NPC Conversation
 tagNpcConversationBusy=那个NPC正在和另一名玩家交谈。
 
-tagShrineActivated=这座神龛已经被修复了。
-tagShrineHostActivated=这座神龛已经被主机修复了。
-tagShrineBusy=这座神龛正在被另一名玩家使用。
-tagShrineLocked=这座神龛处于封锁状态。
-
-#Treasure Trove宝藏
-tagTroveBusy=那个目标正在和另一名玩家进行互动。
+#Treasure Trove 宝藏
+tagTroveBusy=该目标正在与另一名玩家进行互动。
 
 #Maps
 
@@ -1303,6 +1297,8 @@ ExperienceDisplayFormat=当前经验值:{^y}{%d0}{^w} ~ 距离下一级还需要
 
 tagExpDisplayFormat=当前经验值:{^y}{%t0}{^w} ~ 距离下一级还需要:{^y}{%t1}点经验值
 
+tagCharPointsSpent=点数耗费:
+
 tagCharAttribute01={%+.0f0} {^E}敏捷
 tagCharAttribute02={%+.0f0} {^E}力量
 tagCharAttribute03={%+.0f0} {^E}智力
@@ -1317,8 +1313,8 @@ tagCharAttribute02Modifier={%+.0f0}% {^E}力量
 tagCharAttribute03Modifier={%+.0f0}% {^E}智力
 tagCharAttribute04Modifier={%+.0f0}% {^E}生命
 tagCharAttribute05Modifier={%+.0f0}% {^E}能量
-tagCharLifeRegenModifier={^E}生命回复速度提高 {^H}{%.0f0}%
 tagCharConstitutionModifier={%+.0f0}% {^E}体力
+tagCharLifeRegenModifier={^E}生命回复速度提高 {^H}{%.0f0}%
 tagCharManaRegenModifier={^E}能量回复速度提高 {^H}{%.0f0}%
 
 tagCharManaLimitReserve={%+.0f0} {^E}点预留能量值
@@ -1741,6 +1737,7 @@ DamageTotalDamageReductionAbsolute= {^E}点目标伤害降低
 DamageTotalResistanceReductionPercent=% {^E}目标抗性降低
 DamagePhysicalReductionPercent=% {^E}减少目标的物理伤害
 DamageElementalReductionPercent=% {^E}减少目标的元素伤害
+DamageTotalResistanceReductionPercent=% {^E}降低目标抗性
 DamageTotalResistanceReductionAbsolute= {^E}目标抗性降低
 DamagePhysicalResistanceReductionPercent=% {^E}减少目标的物理抗性
 DamagePhysicalResistanceReductionAbsolute= {^E}减少目标的物理抗性
@@ -1779,7 +1776,6 @@ DamageModifierFreeze={%+.0f0}% {^E}冻结持续时间
 DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}冻结持续时间
 DamageModifierPetrify={%+.0f0}% {^E}石化持续时间
 DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}石化持续时间
-
 
 DamageDurationModifierPhysical={%+.0f0}% {^E}创伤伤害
 DamageDurationModifierBleeding={%+.0f0}% {^E}流血伤害
@@ -2018,7 +2014,6 @@ tagMindcontrolledMonster=思维控制
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberChance={^H}{%.0f0}% {^E}的几率影响最多 {^H}{%d1} {^E}个目标
 tagSparkMaxNumberSingle={^E}最多影响 {^H}{%d0} {^E}个目标
-
 tagSparkMaxNumber={^E}最多影响 {^H}{%d0} {^E}个目标
 tagSparkMaxNumberMod=至多影响 {^H}{%d0} {^E} 个目标
 
@@ -2102,10 +2097,11 @@ tagEmptyHotSlot=清空此快捷栏按钮。
 tagDevotionUnassigned=无技能
 
 #Stack Window
+
 tagStackOk=确定
 tagStackCancel=取消
 
-#Multiplayer
+#Multiplayer 多人模式
 
 tagMPTrade=交易
 tagMPGroup=团队
@@ -2147,11 +2143,11 @@ tagMPServer=服务器名:{%t0}
 tagMPIPAddress=IP地址: {%t0}
 tagMPPort=端口: {%t0}
 tagMPErrorNoTarget=该玩家超出指向距离。
-tagTradeError01={%t0}正在与其他玩家交易。
 tagMPNameLevel={%t0} ({%d1})
 tagMPClass={%s0}
 tagMPLocation={%s0}
 tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagTradeError01={%t0}正在与其他玩家交易。
 tagTradeError02={%t0}拒绝了你的交易请求。
 tagTradeError03={%t0}请求交易。
 tagTradeError04=你的物品栏没有足够的空间来接受这笔交易。
@@ -2172,7 +2168,5 @@ tagChatCommandShort03=r
 tagChatCommandShort04=t
 tagChatCommandShort05=m
 tagChatCommandShort06=u
-
-
 
 

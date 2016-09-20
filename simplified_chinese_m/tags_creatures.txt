@@ -86,6 +86,7 @@ tagBoarHeroH06=裂隙之面 ~ 虚空之触
 tagBoarFrostHeroH01=穆塔洛尔 ~ 再生者
 tagBoarFrostHeroH02=石鬃 ~ 防御者
 
+
 #CreatureBoneRat 骨背鼠
 
 tagEnemyBoneRatMeleeA01=骨背啮咬者
@@ -108,11 +109,6 @@ tagBoneRatHeroH06=暴怒之爪 ~ 腐化
 
 tagBoneRatMiniBoss01=贮藏者~ 格兰德佩里斯
 tagBoneRatMiniBoss02=贮藏者~ 帕斯珪尔
-
-#CreatureCelestial 天神
-
-tagEnemyCelestial_QuestA01=Celestial Thing
-
 
 #CreatureChthonian 冥灵
 
@@ -274,6 +270,7 @@ tagGhoulBoss01=永恒的纳卡森
 tagGhoulBoss02=普拉格尤斯~ 衰败者
 tagGhoulBoss03=哈弗尔~ 撼地者
 
+
 #CreatureGolem 傀儡
 
 tagEnemyGolemRockA01=大地蹒跚者
@@ -281,21 +278,12 @@ tagEnemyGolemRockB01=苔藓蹒跚者
 tagEnemyGolemRockC01=巨石蹒跚者
 tagEnemyGolemRockMiniBoss01=远古蹒跚者
 
-tagEnemyGolemIceA01=冰冷蹒跚者
-tagEnemyGolemIceB01=白霜蹒跚者
-tagEnemyGolemIceC01=坚冰蹒跚者
-
 tagGolemRockHeroH01=哈默顿
 tagGolemRockHeroH02=喷火者~ 哈德拉斯
 tagGolemRockHeroH03=石心 ~ 伤害反弹
 tagGolemRockHeroH04=石磨 ~ 冲锋
 tagGolemRockHeroH05=霜石 ~ 冰冻
 tagGolemRockHeroH06=虚空之石 ~ 虚空之触
-
-tagGolemIceHeroH01=
-tagGolemIceHeroH02=
-tagGolemIceHeroH03=
-tagGolemIceHeroH04=
 
 #CreatureGrobles
 
@@ -352,7 +340,6 @@ tagGrobleHeroH06=不洁者~ 匹克斯诺特
 
 tagGrobleBoss01=纳尔巴加尔，风暴探寻者
 
-
 #Harpy 鹰身女妖
 
 tagEnemyHarpyA01=鹰身女妖~ 血肉撕裂者
@@ -378,12 +365,15 @@ tagHarvestmanHeroH02=感染者~ 艾菲格斯
 tagHarvestmanHeroH03=阿斯珀 ~ 迅捷
 tagHarvestmanHeroH04=乌鸦邪灵 ~ 碾碎者
 
+
 #地狱犬
 
 tagEnemyHellhoundA01=地狱犬
 
 tagEnemyHellHoundWitchGodA01=邪能混种犬
 tagEnemyHellHoundWitchGodA02=邪能风暴驱逐者
+
+
 
 #CreatureHuman
 
@@ -472,8 +462,8 @@ tagHumanPossessedHeroH02=虚化烈焰
 tagHumanPossessedHeroH03=霜心~ 卡姆拉德瑞斯
 tagHumanPossessedHeroH04=科普西亚 ~ 伤害反弹
 tagHumanPossessedHeroH05=埃斯匹瑞亚 ~ 支援者
-tagHumanPossessedHeroH06=洛克斯莫里~ 暗夜法师
 
+tagHumanPossessedHeroH06=洛克斯莫里~ 暗夜法师
 tagHumanPossessedBoss01=风暴之火~ 诺维利亚
 tagHumanPossessedBoss02=档案保管员~ 塞隆
 tagHumanPossessedBoss03=Usterius 艾弗隆
@@ -978,6 +968,7 @@ tagZombieMiniBoss03=尼甘，枯萎者
 tagZombieMiniBoss04=巴尔若斯，畸形的
 tagZombieMiniBoss05=哈格拉，折磨者
 
+
 #CreatureZombieHound
 
 tagEnemyZombieHoundA01=污秽猎犬
@@ -1003,6 +994,7 @@ tagReanimatorBossH02=高阶虚灵~ 赞布兰特
 tagReanimatorBossH03=寒冰恐惧
 tagReanimatorBossH04=堕落者~ 纳扎格拉德
 
+
 #Pets 宠物
 
 tagPetRavenA01=风暴乌鸦
@@ -1019,6 +1011,10 @@ tagPetGazeOfDreeg=德里格的凝视
 tagPetEyeOfGuardian=守护者之眼
 tagPetHeraldOfDoom=末日之旗
 tagPetSpirit=束缚灵魂
+tagPetRitualCircle=祭祀阵
+tagPetStormShard=风暴碎片
+tagPetArcaneWisp=奥术精灵
+
 
 tagDevotionPet_Skeleton=骸骨骷髅
 tagDevotionPet_ArcaneBomb=奥术炸弹
@@ -1046,6 +1042,7 @@ tagRelicStormhound=风暴猎犬
 tagRelicNemesis=复仇女神
 tagRelicSwarm=虫群
 
+
 tagDLCWisp=Will'O'Wisp
 
 #EnemySummons 敌军召唤物
@@ -1066,13 +1063,13 @@ tagEnemyMogdrogenBoar=莫格卓根的寒霜尖牙
 tagEnemyMogdrogenRat=莫格卓根的骸骨脊背
 tagEnemyMogdrogenHorror=莫格卓根的荆棘石南
 
-
 #Boss&Quest boss和任务怪
-tagQuestBloodWagon=血腥战车
+
 tagQuestEnemyReanimator=死尸复生者~ 凯奥格
 tagQuestEnemyMiltonHart=弥尔顿·哈特
 tagQuestEnemyBanditForge=非法熔炉
 tagQuestChthonianMonstrosity=拆解者 塔尔·诺什
+tagQuestBloodWagon=运血车
 
 tagBossTheWarden01=典狱长
 tagBossLoghorrean01=罗格霍瑞恩, 冥神的代言人
@@ -1080,13 +1077,21 @@ tagBossLoghorreanTentacle01=罗格霍瑞恩的触手
 tagBossLoghorreanTentacle02=罗格霍瑞恩的触手
 tagBossLoghorreanTentacleCluster=触手集簇
 
+tagAetherialRoguelikeBoss01=杰伦, 扭曲瘟疫
+tagAetherialRoguelikeBoss02=凡·奥尔德里奇, 霸主
+tagAetherialRoguelikeBoss03=理事 哈罗斯
+tagAetherialRoguelikeBoss04=理事 加尔
+tagAetherialRoguelikeBoss05=守望者 亚格拉德
+tagAetherialRoguelikeBoss06=守望者 奥尔达斯
+tagAetherialRoguelikeBoss07=守望者 布兰迪斯
+
 tagMiscTargetDummy=训练假人
+
 tagQuestWitchGod01=德里格的守卫者
 tagQuestWitchGod01_Summon=德里格之眼
 tagQuestWitchGod02=索拉尔的守卫者
 tagQuestWitchGod03=拜斯迈的守卫者
 tagQuestWitchGod04=哨卫
-
 
 #Nemesis 复仇者
 tagNemesis_Aetherial01=风暴之灾~ 沃达兰
@@ -1270,6 +1275,7 @@ tagRace012=野兽
 tagRace013=魔法生物
 tagRace014=天神
 tagRace015=蜘蛛族
+tagRace016=植物
 tagRace001P=亡灵
 tagRace002P=兽人
 tagRace003P=虚灵
@@ -1285,3 +1291,6 @@ tagRace012P=野兽
 tagRace013P=魔法生物
 tagRace014P=天神
 tagRace015P=蜘蛛族
+tagRace016P=植物
+
+
