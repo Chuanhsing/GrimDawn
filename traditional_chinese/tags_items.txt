@@ -4251,9 +4251,3 @@ tagSlotWaist= (腰部)
 tagSlotRelic= (遺物)
 tagSlotMedal= (勳章)
 tagSlotUnknown= (未裝備)
-
-tagEnchantA01=增幅物模板
-tagEnchantA01Desc="不能為任何物品增幅。"
-
-tagWeaponSwordD006Desc="註解暫缺。"
-tagWeaponAxeD000=原文本缺失此物品標籤！

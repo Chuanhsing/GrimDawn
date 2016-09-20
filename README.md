@@ -28,6 +28,8 @@ Community Localizations (v1.0.0.5)
 	http://www.grimdawn.com/forums/showpost.php?p=427411&postcount=120
 	chiousf：版本 v1.0.0.5 Hotfix 2，繁體中文，為 tt300 簡轉繁並修飾版
 	http://forum.gamer.com.tw/C.php?bsn=19441&snA=32&tnum=56
+	貼吧：版本 v1.0.0.5，簡體中文
+	http://tieba.baidu.com/p/4095260985?see_lz=1&pn=2
 
 翻譯資料產生
 ========
