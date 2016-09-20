@@ -34,14 +34,16 @@ Sticky: In-Game Localization Downloads
 * http://www.grimdawn.com/forums/showthread.php?t=45172
 * 註: Steam 最新版為 v1.0.0.5 Hotfix 2
 
-自己解檔案，只有 text_en 解出來的檔案可以直接用，裡面包含的是 tags_* 的檔案
-ArchiveTool.exe resources\text_en.arc -extract D:\GrimDawn\resources
+自己解檔案，只有 text_en 解出來的檔案可以直接用，裡面包含的是 tags_* 的檔案，其他解出來的仍然是二進位檔案，如 conversations.arc 解出的 npc_*，轉成翻譯檔案的方式已知。但是因為我沒買 DLC，所以無法更新 object_defensesite_*.txt 的檔案。
+
+	ArchiveTool.exe resources\text_en.arc -extract D:\GrimDawn\resources
+	ArchiveTool.exe resources\Conversations.arc -extract D:\GrimDawn\resources
+	ArchiveTool.exe resources\Quests.arc -extract D:\GrimDawn\resources
 
 * text_en.arc -> tags_*
 * Conversations.arc -> npc_*, object_*
 * Quests.arc -> bq_*, mq_*, sq_*
 
-其他解出來的仍然是二進位檔案，如 conversations.arc 解出的 npc_*，轉成翻譯檔案的方式已知，但是因為我沒買 DLC，所以無法更新 object_defensesite_*.txt 的檔案。
 
 翻譯
 ========
