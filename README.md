@@ -18,7 +18,8 @@ Community Localizations (v1.0.0.5)
 遊戲內目前可下載的版本
 
 	Chinese: 版本 v1.0.0.5，簡體中文，第一批翻譯的人做的
-	Chinese_m: 版本 v1.0.0.5，簡體中文，翻譯詞句有重新潤飾
+	http://www.grimdawn.com/forums/showthread.php?t=23250
+	Chinese_m: 版本 v1.0.0.5，簡體中文，翻譯詞句有貼吧重新潤飾
 	註：上述兩個都不是 v1.0.0.5 Hotfix 2 最新版
 
 論壇可下載的版本
