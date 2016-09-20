@@ -55,7 +55,27 @@ ArchiveTool.exe resources\text_en.arc -extract D:\GrimDawn\resources
 * tags_* 以外的格式為每行對應，空白行不可刪除，行數對應的就是翻譯資料
 * 換行必須要 {n} 不可直接換行
 
+Q & A
+========
+
+文字沒有斷行
+
+	檢查 zip 包裡面的 language.def 的 wordmode=false 是否有正常設定，如果沒有該設定就直接增加一行。
+
+文字變成方塊
+
+	檢查每個檔案是否有儲存為 UTF-8 no-BOM 格式，如果儲存成 ASCII 格式會因為編碼錯誤變成方塊。
+
+翻譯版本錯誤可能的問題
+
+	翻譯版本錯誤，會造成對話可能沒有內容，或是出現 Tag Not Found 的錯誤。
+
+Tag Not Found 問題
+
+	text_en.arc 新增的 Tag 未翻譯，可以用官方內建的工具 ArchiveTool.exe 解開 text_en.arc 後，用整併工具合併新增的部分，然後重新打包就可以了。
+
 備份
 ========
 
 https://github.com/Chuanhsing/GrimDawn/releases
+
