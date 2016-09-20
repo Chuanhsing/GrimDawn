@@ -34,7 +34,7 @@ Sticky: In-Game Localization Downloads
 * http://www.grimdawn.com/forums/showthread.php?t=45172
 * 註: Steam 最新版為 v1.0.0.5 Hotfix 2
 
-自己解檔案，只有 text_en 解出來的檔案可以直接用，裡面包含的是 tags_* 的檔案，其他解出來的仍然是二進位檔案，如 conversations.arc 解出的 npc_*，轉成翻譯檔案的方式已知。但是因為我沒買 DLC，所以無法更新 object_defensesite_*.txt 的檔案。
+自己解檔案，只有 text_en 解出來的檔案可以直接用，裡面包含的是 tags_* 的檔案，其他解出來的仍然是二進位檔案，如 conversations.arc 解出的 npc_*，轉成翻譯檔案的方式已知。
 
 	ArchiveTool.exe resources\text_en.arc -extract D:\GrimDawn\resources
 	ArchiveTool.exe resources\Conversations.arc -extract D:\GrimDawn\resources
@@ -44,6 +44,26 @@ Sticky: In-Game Localization Downloads
 * Conversations.arc -> npc_*, object_*
 * Quests.arc -> bq_*, mq_*, sq_*
 
+有一些檔案似乎是 Crucible DLC 限定，但是因為我沒買 DLC，所以無法更新檔案。
+
+* npc_event_01.txt
+* npc_event_02.txt
+* npc_event_03.txt
+* npc_powerups_01.txt
+* object_defensesite_01.txt
+* object_defensesite_01b.txt
+* object_defensesite_01c.txt
+* object_defensesite_02.txt
+* object_defensesite_02b.txt
+* object_defensesite_02c.txt
+* object_defensesite_03.txt
+* object_defensesite_03b.txt
+* object_defensesite_03c.txt
+* object_defensesite_04.txt
+* object_defensesite_04b.txt
+* object_defensesite_04c.txt
+* tags_survival.txt
+* tags_survivalui.txt
 
 翻譯
 ========
