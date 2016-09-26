@@ -481,8 +481,8 @@ tagEnemySummonWeavilA01=感染者
 tagDermapteranHeroH01=哈爾帕拉克斯, 噬日者
 tagDermapteranHeroH02=科羅西納克斯
 tagDermapteranHeroH03=沃斯巴萊克斯 ~ 迅捷
-tagDermapteranHeroH04=奧馬裡克斯 ~ 閃電
-tagDermapteranHeroH05=維爾德裡克斯 ~ 虛化
+tagDermapteranHeroH04=奧馬里克斯 ~ 閃電
+tagDermapteranHeroH05=維爾德里克斯 ~ 虛化
 
 tagDermapteranBoss01=蟲群首領 洛扎克
 tagDermapteranBoss02=蟲群首領 伊尼克希爾
@@ -529,7 +529,7 @@ tagEnemyInsectSwarmB01=疫病蟲群
 tagEnemyInsectSwarm_PossessedA01=失心蟲群
 
 tagInsectSwarmHeroH01=依絲克, 蟲巢主腦
-tagInsectSwarmHeroH02=阿瓦裡克斯 ~ 閃電
+tagInsectSwarmHeroH02=阿瓦里克斯 ~ 閃電
 tagInsectSwarmHeroH03=奧姆諾, 災荒 ~ 疾病
 
 #CreatureManticores 蠍尾獅
@@ -586,17 +586,17 @@ tagEnemyCavePrawnSummonA01=成群的穴居爬行者
 tagEnemyPrawnWitchGodA01=怪異遊蕩者
 tagEnemyPrawnWitchGodA02=夢魘爬行者
 
-tagPrawnHeroH01=拉娃克裡克斯, 貪婪
-tagPrawnHeroH02=帕拉克裡克斯, 先祖
-tagPrawnHeroH03=維拉克裡克斯, 毒裔
-tagPrawnHeroH04=艾爾克裡克斯 ~ 閃電
-tagPrawnHeroH05=弗洛克裡克斯 ~ 燃燒
+tagPrawnHeroH01=拉娃克里克斯, 貪婪
+tagPrawnHeroH02=帕拉克里克斯, 先祖
+tagPrawnHeroH03=維拉克里克斯, 毒裔
+tagPrawnHeroH04=艾爾克里克斯 ~ 閃電
+tagPrawnHeroH05=弗洛克里克斯 ~ 燃燒
 
-tagCavePrawnHeroH01=泰若克裡克斯
-tagCavePrawnHeroH02=基裡克裡克斯 ~ 冰凍
-tagCavePrawnHeroH03=布魯克裡克斯 ~ 防禦
+tagCavePrawnHeroH01=泰若克里克斯
+tagCavePrawnHeroH02=基裡克里克斯 ~ 冰凍
+tagCavePrawnHeroH03=布魯克里克斯 ~ 防禦
 
-tagCavePrawnBoss01=伊克裡克斯, 捕食者
+tagCavePrawnBoss01=伊克里克斯, 捕食者
 
 #CreatureRaptor 猛禽
 
