@@ -1939,6 +1939,7 @@ DefenseAetherModifier={%.0f0}% {^E}提高现有虚化抗性
 DefenseStunModifier={%.0f0}% {^E}提高现有眩晕抗性
 DefenseBlockModifier={%.0f0}% {^E}提高盾牌格挡几率
 DefenseBlockAmountModifier={%+.0f0}% {^E}盾牌伤害格挡
+DefenseReflectModifier={%+.0f0}% {^E}伤害反弹
 DefenseLifeLeachModifier={%.0f0}% {^E}提高现有生命吸取抗性
 DefenseManaLeachModifier={%.0f0}% {^E}提高现有能量吸取抗性
 DefensePercentLifeModifier={%.0f0}% {^E}提高生命值百分比减少抗性

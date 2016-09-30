@@ -171,6 +171,7 @@ tagWeaponAxeB003=^l競技場主斧
 tagWeaponAxeB004=切骨斧
 tagWeaponAxeB005=^l骨鐮
 tagWeaponAxeB006=^l奧爾曼斧
+tagWeaponAxeB007=虛化扭曲利斧
 
 tagWeaponAxeC001=殘忍雙刃斧
 tagWeaponAxeC002=收割者的鋤頭
@@ -508,6 +509,7 @@ tagWeaponCaster1hC019=風暴羅網權杖
 tagWeaponCaster1hC020=地獄紋章切刀
 tagWeaponCaster1hC021=寒冰降生刃
 tagWeaponCaster1hC022=聖約之不潔血刃
+tagWeaponCaster1hC023=奧爾德里奇的權杖
 
 tagWeaponCaster1hD001=純淨之觸
 tagWeaponCaster1hD001Desc="古老的傳說中有一個披著斗篷的人形生物，他周遊世界並淨化疾病以及治癒傷痛，從不要求回報和任何形式的感謝。"
@@ -532,6 +534,8 @@ tagWeaponCaster1hD015=千里眼法杖
 tagWeaponCaster1hD016=德理格符文毒刃
 tagWeaponCaster1hD017=特洛讚的星辰守護
 tagWeaponCaster1hD018=黑焰之刃
+tagWeaponCaster1hD019=奧爾德里奇的判令
+tagWeaponCaster1hD019Desc="隨著他的判令，凡·奧爾德里奇註定了整個城市的恐怖黎明。"
 
 tagWeaponCaster1hF001=軍團的喚火短劍
 tagWeaponCaster1hF002=軍團的虛化短劍
@@ -1293,6 +1297,9 @@ tagWaistB003=^l征戰者腰帶
 tagWaistB004=^l火焰腰索
 tagWaistB005=^l寒霜衛士束腰
 tagWaistB006=^l靈骨護腰
+tagWaistB007=亞格拉德腰鏈
+tagWaistB008=奧爾達斯腰鏈
+tagWaistB009=布蘭迪斯腰鏈
 
 tagWaistC001=奧德納的平衡
 tagWaistC002=弗萊茲克的實用腰包
@@ -4251,3 +4258,9 @@ tagSlotWaist= (腰部)
 tagSlotRelic= (遺物)
 tagSlotMedal= (勳章)
 tagSlotUnknown= (未裝備)
+
+tagEnchantA01=增幅物模板
+tagEnchantA01Desc="不能為任何物品增幅。"
+
+tagWeaponSwordD006Desc="註解暫缺。"
+tagWeaponAxeD000=原文本缺失此物品標籤！

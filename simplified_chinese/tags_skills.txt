@@ -459,7 +459,7 @@ tagClass04SkillName13D=无情终章^z 「夜刃」^-
 tagClass04SkillDescription13D=有时，高效地使用毒药和抗凝血剂会是一种终极武器。
 
 tagClass04SkillName14A=阿玛拉斯塔的刃爆^z 「夜刃」^-
-tagClass04SkillDescription14A=刺客大师阿玛拉斯塔，传说之中的夜刃，她研究出一种技术，通过它释放出致命的幻想刀阵从进攻点分散开来刺穿所有相邻的敌人。{^N}^o需要装备近战武器或双手远程武器。
+tagClass04SkillDescription14A=刺客大师阿玛拉斯塔，传说之中的夜刃，她研究出一种技术，通过它释放出致命的幻想刀阵从进攻点分散开来刺穿所有相邻的敌人。
 tagClass04SkillName14B=致命攻击^z 「夜刃」^-
 tagClass04SkillDescription14B=作为攻击技能，阿玛拉斯塔将继续她下一个无情攻击的刀阵，迅速而果断干掉任何生存的对手并充满武器。{^N}^o致命攻击激活时会影响所有的攻击。
 
